@@ -10,33 +10,32 @@
     <header class="header">
         <nav class="nav">
             <ul>
-                <li><a href="#home" class="nav-link active">HOME</a></li>
-                <li><a href="#feed" class="nav-link">MY FEED</a></li>
-                <li><a href="settings.html" class="nav-link">PREFERENCES</a></li>
+                <li><a href="index.html" class="nav-link active">HOME</a></li>
+                <li><a href="settings.html" class="nav-link">AI TRAINING</a></li>
             </ul>
         </nav>
     </header>
 
     <main class="main">
-        <section id="home" class="section hero">
+        <section class="section hero">
             <div class="hero-content">
                 <h1 class="hero-title">Ryan's News Feed</h1>
-                <p style="color: #666;">Sorted by Interests | Cleaned of Noise</p>
+                <div id="stats-bar" style="font-size: 0.8rem; color: #888; margin-top: 10px;">
+                    Personalizing your feed...
+                </div>
                 <div class="hero-line"></div>
             </div>
         </section>
 
-        <section id="feed" class="section">
+        <section class="section">
             <div class="challenges-grid" id="news-container">
-                <p style="text-align: center; grid-column: 1/-1; padding: 2rem;">
-                    Syncing latest news...
-                </p>
+                <p style="text-align: center; grid-column: 1/-1;">Syncing latest news...</p>
             </div>
         </section>
     </main>
 
     <footer class="footer">
-        <p>&copy; 2025 Ryan's News Aggregator. Powered by GitHub Actions & NewsAPI.</p>
+        <p>&copy; 2025 Ryan's News Aggregator. Device-Specific Training Active.</p>
     </footer>
 
     <script src="app.js"></script>
