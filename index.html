@@ -11,40 +11,34 @@
         <nav class="nav">
             <ul>
                 <li><a href="#home" class="nav-link active">HOME</a></li>
-                <li><a href="#challenges" class="nav-link">CHALLENGES</a></li>
-                <li><a href="#links" class="nav-link">LINKS</a></li>
+                <li><a href="#feed" class="nav-link">MY FEED</a></li>
                 <li><a href="#about" class="nav-link">ABOUT</a></li>
-                <li><a href="#contact" class="nav-link">CONTACT</a></li>
             </ul>
         </nav>
     </header>
 
     <main class="main">
-        <section id="challenges" class="section hero">
+        <section id="home" class="section hero">
             <div class="hero-content">
-                <h1 class="hero-title">Challenges we're facing</h1>
+                <h1 class="hero-title">Ryan's News Feed</h1>
+                <p style="color: #666;">Sorted by Interests | Cleaned of Noise</p>
                 <div class="hero-line"></div>
             </div>
         </section>
 
-        <section class="section challenges-grid">
-            <div class="challenge-card">
-                <img src="https://i.ibb.co/PTRZSPC/2jun.png" alt="Qijun" class="img-xs img-rounded">
-                <h3>PLACEHOLDER</h3>
-                <p>PLACEHOLDER QI JUN.</p>
-            </div>
-
-            <div class="challenge-card">
-                <img src="https://i.ibb.co/PTRZSPC/2jun.png" alt="Qijun" class="img-xs img-rounded">
-                <h3>PLACEHOLDER</h3>
-                <p>PLACEHOLDER QI JUN.</p>
+        <section id="feed" class="section">
+            <div class="challenges-grid" id="news-container">
+                <p style="text-align: center; grid-column: 1/-1; padding: 2rem;">
+                    Syncing latest news...
+                </p>
             </div>
         </section>
     </main>
-<script src="app.js"></script>
+
     <footer class="footer">
-        <p>&copy; Hello this is Ryan's news aggregator</p>
+        <p>&copy; 2025 Ryan's News Aggregator. Powered by GitHub Actions & NewsAPI.</p>
     </footer>
-    
+
+    <script src="app.js"></script>
 </body>
 </html>
