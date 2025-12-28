@@ -10,20 +10,18 @@ def get_ai_tags(title, description):
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     
-    # This prompt tells Gemini to understand the context (e.g., Trump = Republican)
+    # POWER PROMPT: This forces Gemini to identify affiliations
     prompt = (
         f"Analyze this news. Title: {title}. Description: {description}. "
-        "Return a comma-separated list of 5 categories/entities related to this. "
-        "Include political parties, industries, and key people mentioned. "
+        "Return a comma-separated list of 5 categories/entities. "
+        "CRITICAL: If a person is mentioned, you MUST include their political party or affiliation "
+        "(e.g., if Trump is mentioned, include 'Republican'; if Biden is mentioned, include 'Democrat'). "
         "Example: Politics, Republican, Trump, Election, US News."
     )
 
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}]
-    }
+    payload = {"contents": [{"parts": [{"text": prompt}]}]}
 
     try:
-        # We use a timeout to ensure the Action doesn't hang
         response = requests.post(url, json=payload, timeout=10)
         result = response.json()
         return result['candidates'][0]['content']['parts'][0]['text']
@@ -32,30 +30,25 @@ def get_ai_tags(title, description):
         return "General"
 
 def main():
+    # We read from the raw fetch and save to the enriched file
     if not os.path.exists('raw_news.json'):
-        print("No raw news found.")
+        print("Raw news file not found.")
         return
 
     with open('raw_news.json', 'r') as f:
         data = json.load(f)
 
     articles = data.get('articles', [])
-    print(f"Processing {len(articles)} articles with Gemini...")
+    print(f"AI Tagging {len(articles)} articles...")
 
     for i, article in enumerate(articles):
-        # We add the AI tags to the article object
         article['ai_tags'] = get_ai_tags(article.get('title', ''), article.get('description', ''))
-        
-        # Optional: Print progress in GitHub logs
-        if (i + 1) % 10 == 0:
-            print(f"Processed {i + 1} articles...")
-        
-        # Free tier rate limiting: wait a tiny bit between calls
+        # Respect free-tier rate limits
         time.sleep(1) 
 
     with open('news.json', 'w') as f:
         json.dump(data, f, indent=4)
-    print("AI tagging complete. news.json saved.")
+    print("Done! news.json is now AI-enriched.")
 
 if __name__ == "__main__":
     main()
