@@ -31,7 +31,7 @@ async function init() {
         });
 
         const top50 = filtered.slice(0, 50);
-        status.innerText = isSyncing ? `Found ${top50.length} matching live stories.` : `Curated Top 50.`;
+        status.innerText = isSyncing ? `Found ${top50.length} matching live stories.` : `carefully curated`;
 
         container.innerHTML = '';
         top50.forEach(article => {
