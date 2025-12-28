@@ -11,7 +11,7 @@ async function init() {
     try {
         let articles = [];
         if (isSyncing && USER_INTERESTS.length > 0) {
-            status.innerText = "🚀 Scanning live news...";
+            status.innerText = "Loading...";
             const query = USER_INTERESTS.map(w => w.includes(' ') ? `"${w}"` : w).join(' OR ');
             const liveUrl = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=relevancy&language=en&pageSize=100&apiKey=${NEWS_API_KEY}`;
             const response = await fetch(liveUrl);
@@ -34,7 +34,7 @@ async function init() {
         top50.forEach(article => {
             const card = document.createElement('div');
             card.className = 'challenge-card';
-            const scoreLabel = article.ai_score !== undefined ? `AI RELEVANCY: ${article.ai_score}/10` : `LIVE SYNC`;
+            const scoreLabel = article.ai_score !== undefined ? `RELEVANCY: ${article.ai_score}/10` : `LIVE SYNC`;
             card.innerHTML = `<img src="${article.urlToImage || ''}" class="img-card"><div style="padding:1.5rem;"><div class="ai-score-badge">${scoreLabel}</div><h3>${article.title}</h3><p>${article.description || ''}</p><a href="${article.url}" target="_blank">READ MORE</a></div>`;
             container.appendChild(card);
         });
