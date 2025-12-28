@@ -1,0 +1,46 @@
+<main class="main">
+    <section class="section">
+        <h2>AI Training Center</h2>
+        
+        <div class="challenge-card" style="padding: 2rem; margin-bottom: 2rem;">
+            <h3>Keywords to Ignore</h3>
+            <p>Example: Trump, ABC News, Football</p>
+            <input type="text" id="ignore-input" placeholder="Type and press Add..." style="padding: 10px; width: 80%;">
+            <button onclick="addKeyword('ignore')" class="nav-link" style="border:none; cursor:pointer;">Add</button>
+            <ul id="ignore-list" style="margin-top: 1rem;"></ul>
+        </div>
+        
+        <a href="index.html" class="nav-link">← Back to News</a>
+    </section>
+</main>
+
+<script>
+    function addKeyword(type) {
+        const input = document.getElementById(`${type}-input`);
+        const value = input.value.trim().toLowerCase();
+        if (!value) return;
+
+        let list = JSON.parse(localStorage.getItem(`ryan_${type}_list`)) || [];
+        if (!list.includes(value)) {
+            list.push(value);
+            localStorage.setItem(`ryan_${type}_list`, JSON.stringify(list));
+        }
+        input.value = '';
+        displayLists();
+    }
+
+    function displayLists() {
+        const list = JSON.parse(localStorage.getItem('ryan_ignore_list')) || [];
+        document.getElementById('ignore-list').innerHTML = list.map(word => 
+            `<li>${word} <button onclick="removeWord('${word}')">x</button></li>`).join('');
+    }
+
+    function removeWord(word) {
+        let list = JSON.parse(localStorage.getItem('ryan_ignore_list')) || [];
+        list = list.filter(w => w !== word);
+        localStorage.setItem('ryan_ignore_list', JSON.stringify(list));
+        displayLists();
+    }
+
+    window.onload = displayLists;
+</script>
