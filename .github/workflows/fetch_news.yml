@@ -1,18 +1,23 @@
 name: Update News
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 * * * *' # Updates every hour
   workflow_dispatch:     # Allows you to click "Run workflow" manually
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write    # THIS FIXES EXIT CODE 128 (Permission Error)
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v3
+
       - name: Fetch News from NewsAPI
         run: |
-          # We fetch tech news and save it to news.json
+          # Replace 'technology' with your main interest if desired
           curl "https://newsapi.org/v2/everything?q=technology&language=en&pageSize=50&apiKey=${{ secrets.NEWS_API_KEY }}" > news.json
+
       - name: Commit and Push
         run: |
           git config --global user.name "Ryan-Bot"
