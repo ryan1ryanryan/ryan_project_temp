@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 37708,
+    "totalResults": 37028,
     "articles": [
         {
             "source": {
@@ -448,20 +448,6 @@
             "urlToImage": "https://i.insider.com/6932074771107c9f34576189?width=1200&format=jpeg",
             "publishedAt": "2025-12-07T10:55:04Z",
             "content": "Fired IRS worker Brittany Glenn, right, talks to recruiter Lena Lager during a jobs fair for laid-off federal workers Saturday, March 15, 2025, in Kansas City, Mo.Charlie Riedel/Associated Press\r\n<ul\u2026 [+5162 chars]",
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Partner Content With Eureka",
-            "title": "Clean Up on the Black Friday Deals at Eureka and Save Big On These Five Powerhouse Vacuums",
-            "description": "Robotic vacuum and mop combos, powerful floor vacuums, and ultra-versatile stick vacuums are up to 33% off now through Dec 1.",
-            "url": "https://gizmodo.com/clean-up-on-the-black-friday-deals-at-eureka-and-save-big-on-these-five-powerhouse-vacuums-2000684873",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Eureka-J15-Ultra-1200x675.jpg",
-            "publishedAt": "2025-11-27T12:00:38Z",
-            "content": "If buying from a trusted brand name is at the top of your shopping process, you\u2019ve just found your source for the best Black Friday deals on vacuum cleaners and home cleaning robots. Eureka has been \u2026 [+9742 chars]",
             "ai_tags": "General"
         },
         {
@@ -1211,20 +1197,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "A humanoid robot-shaped bubble is forming, China warns",
-            "description": "A humanoid robot bubble could be brewing, warned China\u2019s leading economic planning agency on Thursday. The alert comes amid growing fears that a bubble in a related industry \u2014 AI \u2014 is about to burst.\u00a0 Speaking at a press briefing, National Development and Ref\u2026",
-            "url": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2247204481.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2025-11-27T15:57:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are few proven uses for humanoid robots, but that hasnt stopped investment pouring in. \r\nThere are few proven uses for humanoid robots, but that hasnt stop\u2026 [+2069 chars]",
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew J. Hawkins",
             "title": "Mercedes-Benz discontinues feature that syncs music to driving",
             "description": "Mercedes-Benz sent out a notice to customers recently announcing its plans to discontinue MBUX Sound Drive, an interactive audio feature that syncs music to the car's actions. The feature was first announced less than a year ago at CES in partnership with Bla\u2026",
@@ -1232,6 +1204,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25206115/24C0019_003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-17T17:04:14Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother Will.i.am affiliated tech product to end up in the waste bin.\r\nAnother Will.i.am affiliated tech product to end up in the waste bin.\r\nby\r\nAndrew J. Hawki\u2026 [+3841 chars]",
+            "ai_tags": "General"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Al Williams",
+            "title": "The Miracle of Color TV",
+            "description": "We\u2019ve often said that some technological advancements seemed like alien technology for their time. Sometimes we look back and think something would be easy until we realize they didn\u2019t have \u2026read more",
+            "url": "https://hackaday.com/2025/12/18/the-miracle-of-color-tv/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/12/tv.png",
+            "publishedAt": "2025-12-19T06:00:15Z",
+            "content": "We\u2019ve often said that some technological advancements seemed like alien technology for their time. Sometimes we look back and think something would be easy until we realize they didn\u2019t have the tools\u2026 [+2022 chars]",
+            "ai_tags": "General"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Jenny List",
+            "title": "Has Steampunk Delivered the Hoverboard?",
+            "description": "The hoverboard, one of the teen crazes of the last decade, is both a marvel of technology and a source of hacker parts that have appeared in so many projects on these pages. It contains an accelero\u2026",
+            "url": "https://hackaday.com/2025/11/29/has-steampunk-delivered-the-hoverboard/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/hoverboard-featured.jpg",
+            "publishedAt": "2025-11-30T06:00:18Z",
+            "content": "The hoverboard, one of the teen crazes of the last decade, is both a marvel of technology and a source of hacker parts that have appeared in so many projects on these pages. It contains an accelerome\u2026 [+1503 chars]",
             "ai_tags": "General"
         }
     ]
