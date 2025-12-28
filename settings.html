@@ -1,104 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Training - Settings</title>
+    <meta charset="UTF-8"><title>AI Training</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        .setting-card { background: white; padding: 2rem; border-radius: 15px; margin-bottom: 2rem; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
-        .input-row { display: flex; gap: 10px; margin-bottom: 1.5rem; }
-        input { flex: 1; padding: 12px; border: 1px solid #ddd; border-radius: 8px; font-family: inherit; }
-        .tag-list { display: flex; flex-wrap: wrap; gap: 10px; }
-        .tag { background: #f3f4f6; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; display: flex; align-items: center; gap: 8px; color: #374151; border: 1px solid #e5e7eb; }
-        .tag button { background: none; border: none; color: #ef4444; cursor: pointer; font-weight: bold; font-size: 1.1rem; }
-        .btn-primary { background: #000; color: #fff; border: none; padding: 12px 24px; border-radius: 8px; cursor: pointer; font-weight: 600; }
-        .btn-sync { background: #4f46e5; width: 100%; padding: 18px; border-radius: 12px; margin-top: 1rem; font-size: 1rem; }
-    </style>
 </head>
 <body>
-    <header class="header">
-        <nav class="nav">
-            <ul>
-                <li><a href="index.html" class="nav-link">HOME</a></li>
-                <li><a href="settings.html" class="nav-link active">AI TRAINING</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <main class="main" style="max-width: 600px; margin: 0 auto; padding: 2rem;">
-        <h1 style="margin-bottom: 0.5rem;">AI Training Center</h1>
-        <p style="color: #666; margin-bottom: 2rem;">Define what the AI should prioritize (Gaming) and what it should bury (Politics).</p>
-
+    <header class="header"><nav class="nav"><ul>
+        <li><a href="index.html" class="nav-link">HOME</a></li>
+        <li><a href="settings.html" class="nav-link active">AI TRAINING</a></li>
+    </ul></nav></header>
+    <main class="main" style="max-width:600px; margin:auto; padding:2rem;">
+        <h1>Training Center</h1>
         <div class="setting-card">
-            <h3 style="margin-bottom: 1rem;">👍 Things You Like</h3>
-            <div class="input-row">
-                <input type="text" id="like-input" placeholder="e.g. Gaming, PC Parts, Space">
-                <button class="btn-primary" onclick="addWord('interest')">Add</button>
-            </div>
-            <div id="interest-tags" class="tag-list"></div>
+            <h3>👍 Likes</h3>
+            <input type="text" id="like-input"><button onclick="addWord('interest')">Add</button>
+            <div id="interest-tags"></div>
         </div>
-
         <div class="setting-card">
-            <h3 style="margin-bottom: 1rem;">🚫 Things to Ignore</h3>
-            <div class="input-row">
-                <input type="text" id="ignore-input" placeholder="e.g. Trump, Politics, Gossip">
-                <button class="btn-primary" onclick="addWord('ignore')">Add</button>
-            </div>
-            <div id="ignore-tags" class="tag-list"></div>
+            <h3>🚫 Ignores</h3>
+            <input type="text" id="ignore-input"><button onclick="addWord('ignore')">Add</button>
+            <div id="ignore-tags"></div>
         </div>
-
-        <button class="btn-primary btn-sync" onclick="triggerUpdate()">🚀 SYNC AI WITH NEW PREFERENCES</button>
-        
-        <p style="text-align: center; margin-top: 2rem; font-size: 0.8rem; color: #999;">
-            Note: "Sync" will fetch live news immediately. The 100-article backlog updates every hour automatically via GitHub Actions.
-        </p>
+        <button class="btn-sync" onclick="window.location.href='index.html?sync=true'">🚀 SYNC NOW</button>
     </main>
-
     <script>
-        function addWord(type) {
-            const input = document.getElementById(`${type === 'interest' ? 'like' : 'ignore'}-input`);
-            const val = input.value.trim().toLowerCase();
-            if (!val) return;
-
-            const storageKey = `ryan_${type}`;
-            const list = JSON.parse(localStorage.getItem(storageKey)) || [];
-            
-            if (!list.includes(val)) {
-                list.push(val);
-                localStorage.setItem(storageKey, JSON.stringify(list));
-            }
-            input.value = '';
-            renderTags();
+        function addWord(t){
+            const i=document.getElementById(`${t==='interest'?'like':'ignore'}-input`);
+            const v=i.value.trim().toLowerCase(); if(!v)return;
+            const l=JSON.parse(localStorage.getItem(`ryan_${t}`))||[];
+            if(!l.includes(v)){l.push(v); localStorage.setItem(`ryan_${t}`, JSON.stringify(l));}
+            i.value=''; render();
         }
-
-        function removeWord(type, val) {
-            const storageKey = `ryan_${type}`;
-            let list = JSON.parse(localStorage.getItem(storageKey)) || [];
-            list = list.filter(item => item !== val);
-            localStorage.setItem(storageKey, JSON.stringify(list));
-            renderTags();
-        }
-
-        function renderTags() {
-            ['interest', 'ignore'].forEach(type => {
-                const list = JSON.parse(localStorage.getItem(`ryan_${type}`)) || [];
-                const container = document.getElementById(`${type === 'interest' ? 'interest' : 'ignore'}-tags`);
-                container.innerHTML = list.map(word => `
-                    <div class="tag">
-                        ${word}
-                        <button onclick="removeWord('${type}', '${word}')">×</button>
-                    </div>
-                `).join('');
+        function render(){
+            ['interest','ignore'].forEach(t=>{
+                const l=JSON.parse(localStorage.getItem(`ryan_${t}`))||[];
+                document.getElementById(`${t==='interest'?'interest':'ignore'}-tags`).innerHTML = l.map(w=>`<span>${w}</span>`).join('');
             });
         }
-
-        function triggerUpdate() {
-            // This parameter is caught by your app.js init() function to trigger live fetch
-            window.location.href = "index.html?sync=true";
-        }
-
-        window.onload = renderTags;
+        window.onload=render;
     </script>
 </body>
 </html>
