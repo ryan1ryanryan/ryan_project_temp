@@ -11,7 +11,7 @@ async function init() {
     try {
         let articles = [];
         if (isSyncing && USER_INTERESTS.length > 0) {
-            status.innerText = "Syncing with Gemini 2.5...";
+            status.innerText = "Syncing...";
             const query = USER_INTERESTS.join(' OR ');
             const liveUrl = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&language=en&pageSize=100&apiKey=${NEWS_API_KEY}`;
             const response = await fetch(liveUrl);
@@ -39,7 +39,7 @@ async function init() {
                 <img src="${article.urlToImage || 'https://via.placeholder.com/400x220'}" class="img-card">
                 <div style="padding:1.5rem;">
                     <div class="ai-score-badge" style="background:#f5f3ff; color:#7c3aed; padding:4px 12px; border-radius:20px; font-size:0.7rem; font-weight:800; display:inline-block; margin-bottom:10px; border: 1px solid #ddd6fe;">
-                        GEMINI 2.5 RELEVANCY: ${score}/10
+                        RELEVANCY: ${score}/10
                     </div>
                     <h3 style="font-size:1.15rem; margin-bottom:10px; line-height:1.3;">${article.title}</h3>
                     <p style="font-size:0.9rem; color:#4b5563; line-height:1.5;">${article.description || ''}</p>
