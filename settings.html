@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Training - Settings</title>
+    <title>NEWS PREFERENCES</title>
     <link rel="stylesheet" href="style.css">
     <style>
         body { background-color: #f8fafc; font-family: 'Inter', sans-serif; }
@@ -78,19 +78,19 @@
         <nav class="nav">
             <ul>
                 <li><a href="index.html" class="nav-link">HOME</a></li>
-                <li><a href="settings.html" class="nav-link active">AI TRAINING</a></li>
+                <li><a href="settings.html" class="nav-link active">PREFERENCES</a></li>
             </ul>
         </nav>
     </header>
 
     <main class="main" style="max-width: 650px; margin: 0 auto; padding: 3rem 1rem;">
-        <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem; text-align: center;">Training Center</h1>
-        <p style="text-align: center; color: #64748b; margin-bottom: 3rem;">Fine-tune your AI's relevancy and filtering logic.</p>
+        <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem; text-align: center;">PREFERENCE LOG</h1>
+        <p style="text-align: center; color: #64748b; margin-bottom: 3rem;">Fine-tune your news feed.</p>
 
         <div class="setting-card">
             <h3 style="margin-bottom: 1.5rem;">👍 Keywords You Love</h3>
             <div class="input-row">
-                <input type="text" id="like-input" placeholder="e.g. Gaming, Samsung, Space">
+                <input type="text" id="like-input" placeholder="Enter Keyword">
                 <button class="btn-add" onclick="addWord('interest')">Add</button>
             </div>
             <div id="interest-tags" class="tag-list"></div>
@@ -99,7 +99,7 @@
         <div class="setting-card">
             <h3 style="margin-bottom: 1.5rem;">🚫 Keywords to Block</h3>
             <div class="input-row">
-                <input type="text" id="ignore-input" placeholder="e.g. Trump, Politics, Gossip">
+                <input type="text" id="ignore-input" placeholder="Enter Keyword">
                 <button class="btn-add" onclick="addWord('ignore')">Add</button>
             </div>
             <div id="ignore-tags" class="tag-list"></div>
