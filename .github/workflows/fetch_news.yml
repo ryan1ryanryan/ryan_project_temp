@@ -2,7 +2,7 @@ name: AI News Update
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch: # Allows manual run
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,8 +16,9 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install Dependencies
-        run: pip install requests
+      - name: Install dependencies
+        run: |
+          pip install requests google-genai
 
       - name: Fetch Raw News
         run: |
@@ -26,8 +27,8 @@ jobs:
       - name: Run AI Processor
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          USER_LIKES: "gaming, pc parts, tech"
-          USER_IGNORED: "trump, republican, fox news"
+          USER_LIKES: "gaming, pc hardware, tech"
+          USER_IGNORED: "politics, news"
         run: python process_news.py
 
       - name: Commit and Push
@@ -35,6 +36,5 @@ jobs:
           git config --global user.name "Ryan-AI-Bot"
           git config --global user.email "bot@github.com"
           git add news.json
-          git commit -m "Automated AI-Categorized News Update" || echo "No changes"
-          git pull --rebase origin main
+          git commit -m "Automated Semantic Rank Update" || echo "No changes"
           git push origin main
