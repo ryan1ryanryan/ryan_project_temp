@@ -3,8 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ryan's Reactive Feed</title>
+    <title>AI News - Top 50</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        /* Visual indicator for the AI score */
+        .ai-score-badge {
+            background: #eef2ff;
+            color: #4f46e5;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.7rem;
+            font-weight: bold;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        .hero-status { font-size: 0.9rem; color: #888; margin-top: 10px; }
+    </style>
 </head>
 <body>
     <header class="header">
@@ -17,15 +31,14 @@
     </header>
 
     <main class="main">
-        <section class="section hero">
-            <h1 class="hero-title">Your Personalized Feed</h1>
-            <div id="loading-status" style="font-size: 0.8rem; color: #888;">Checking for updates...</div>
+        <section class="section hero" style="text-align: center;">
+            <h1 class="hero-title">Your Top 50</h1>
+            <p class="hero-status" id="loading-status">AI is analyzing your backlog...</p>
             <div class="hero-line"></div>
         </section>
 
         <section class="section">
-            <div class="challenges-grid" id="news-container">
-                </div>
+            <div class="challenges-grid" id="news-container"></div>
         </section>
     </main>
 
