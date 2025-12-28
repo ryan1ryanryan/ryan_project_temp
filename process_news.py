@@ -10,7 +10,6 @@ def get_ai_tags(title, description):
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     
-    # POWER PROMPT: This forces Gemini to identify affiliations
     prompt = (
         f"Analyze this news. Title: {title}. Description: {description}. "
         "Return a comma-separated list of 5 categories/entities. "
@@ -24,13 +23,15 @@ def get_ai_tags(title, description):
     try:
         response = requests.post(url, json=payload, timeout=10)
         result = response.json()
-        return result['candidates'][0]['content']['parts'][0]['text']
+        # Navigate the Gemini JSON response safely
+        if 'candidates' in result:
+            return result['candidates'][0]['content']['parts'][0]['text']
+        return "General"
     except Exception as e:
         print(f"AI Error: {e}")
         return "General"
 
 def main():
-    # We read from the raw fetch and save to the enriched file
     if not os.path.exists('raw_news.json'):
         print("Raw news file not found.")
         return
@@ -43,8 +44,8 @@ def main():
 
     for i, article in enumerate(articles):
         article['ai_tags'] = get_ai_tags(article.get('title', ''), article.get('description', ''))
-        # Respect free-tier rate limits
-        time.sleep(1) 
+        # Respect Gemini free-tier rate limits (15 RPM)
+        time.sleep(4) 
 
     with open('news.json', 'w') as f:
         json.dump(data, f, indent=4)
