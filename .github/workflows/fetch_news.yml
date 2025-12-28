@@ -44,13 +44,11 @@ jobs:
 
       - name: Commit and Push Enriched News
         run: |
-          git config --global user.name "Ryan-AI-Bot"
-          git config --global user.email "bot@github.com"
-          
-          # Add the generated news.json
-          git add news.json
-          
-          # Only commit if there are changes to avoid workflow errors
-          git commit -m "Automated AI-Categorized News Update" || exit 0
-          
-          git push
+            git config --global user.name "Ryan-AI-Bot"
+            git config --global user.email "bot@github.com"
+            git add news.json
+            # This line prevents errors if there are no news changes to commit
+            git commit -m "Automated AI-Categorized News Update" || echo "No changes to commit"
+            # Pull first to avoid "non-fast-forward" errors
+            git pull --rebase origin main
+            git push origin main
