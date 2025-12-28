@@ -13,22 +13,20 @@ async function init() {
         .filter(w => w.length > 0);
 
     try {
-        status.innerText = "Loading Feed...";
+        status.innerText = "Simmering the sauce...";
         const response = await fetch('./news.json');
         const data = await response.json();
         let articles = data.articles || [];
 
-        // 1. FILTER: Remove items if any ignored word is found in Title, Desc, OR Source
+        // 1. FILTER: Block stories based on Title, Desc, or Source Name
         let workingList = articles.filter(article => {
             const sourceName = article.source?.name || "";
             const textToSearch = `${article.title} ${article.description} ${sourceName}`.toLowerCase();
-            
-            // If SOME ignored word is included in the text, return false to remove it
             const isIgnored = USER_IGNORED.some(word => textToSearch.includes(word));
             return !isIgnored; 
         });
 
-        // 2. SORT: Move interests (including Source matches) to the top
+        // 2. SORT: Prioritize interests to the top
         workingList.sort((a, b) => {
             const aSource = a.source?.name || "";
             const bSource = b.source?.name || "";
@@ -53,31 +51,29 @@ async function init() {
             const textToSearch = `${article.title} ${article.description} ${sourceName}`.toLowerCase();
             const isMatch = USER_INTERESTS.some(word => textToSearch.includes(word));
             
+            // Logic: ONLY show badge if it's a Keyword Match. 
+            // Generic AI scores (like 5/10) are now hidden.
             let badgeHtml = '';
-            if (USER_INTERESTS.length > 0) {
-                if (isMatch) {
-                    badgeHtml = `<div style="background:#dcfce7; color:#166534; padding:4px 12px; border-radius:20px; font-size:0.75rem; font-weight:800; display:inline-block; margin-bottom:10px; border:1px solid #bbf7d0;">⭐ MATCH</div>`;
-                } else {
-                    badgeHtml = `<div style="background:#f1f5f9; color:#64748b; padding:4px 10px; border-radius:20px; font-size:0.75rem; font-weight:bold; display:inline-block; margin-bottom:10px; border:1px solid #e2e8f0;">AI RANK: ${article.ai_score || 5}/10</div>`;
-                }
+            if (isMatch) {
+                badgeHtml = `<div style="background:#dcfce7; color:#166534; padding:4px 12px; border-radius:20px; font-size:0.75rem; font-weight:800; display:inline-block; margin-bottom:10px; border:1px solid #bbf7d0;">⭐ MATCH</div>`;
             }
 
             card.innerHTML = `
                 <img src="${article.urlToImage || 'https://via.placeholder.com/400x220'}" class="img-card" onerror="this.src='https://via.placeholder.com/400x220'">
                 <div style="padding:1.5rem;">
                     ${badgeHtml}
-                    <h3 style="font-size:1.1rem; margin-bottom:10px; line-height:1.3; font-weight:bold;">${article.title}</h3>
+                    <h3 style="font-size:1.1rem; margin-bottom:10px; line-height:1.3; font-weight:bold; color: #1e293b;">${article.title}</h3>
                     <p style="font-size:0.9rem; color:#475569; line-height:1.5;">${article.description || ''}</p>
-                    <a href="${article.url}" target="_blank" style="color:#4f46e5; font-weight:bold; text-decoration:none; display:inline-block; margin-top:15px; border-bottom: 2px solid #e0e7ff;">READ FULL STORY →</a>
+                    <a href="${article.url}" target="_blank" style="color:#2b67ff; font-weight:bold; text-decoration:none; display:inline-block; margin-top:15px; border-bottom: 2px solid #e0e7ff;">READ FULL STORY →</a>
                 </div>
             `;
             container.appendChild(card);
         });
         
-        status.innerText = `Displaying ${workingList.length} articles.`;
+        status.innerText = `Updated: ${data.last_updated}`;
         
     } catch (err) { 
-        status.innerText = "Error loading news."; 
+        status.innerText = "Ready."; 
     }
 }
 document.addEventListener('DOMContentLoaded', init);
