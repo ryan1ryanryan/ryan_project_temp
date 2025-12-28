@@ -1,96 +1,104 @@
 {
     "status": "ok",
-    "totalResults": 37039,
+    "totalResults": 47791,
     "articles": [
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Jay Peters",
+            "title": "Comcast cable boxes are getting Amazon Luna cloud gaming",
+            "description": "Amazon's Luna cloud gaming service is coming to cable boxes from Comcast and Rogers. The Luna app is already available via web browsers, Fire TV devices, Fire tablets, and many smart TVs from Samsung and LG, and this new expansion will bring the service to \"m\u2026",
+            "url": "https://www.theverge.com/news/842201/amazon-luna-comcast-xfinity-rogers-cable-boxes",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/image.jpeg?quality=90&strip=all&crop=0%2C3.432408702156%2C100%2C93.135182595688&w=1200",
+            "publishedAt": "2025-12-11T17:44:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLuna relaunched earlier this year, and now, it will be available on more devices.\r\nLuna relaunched earlier this year, and now, it will be available on more devic\u2026 [+2198 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Razer resurrects the first ever gaming mouse as a limited edition",
+            "description": "Razer is returning to its roots and relaunching the world's first gaming mouse that debuted over 25 years ago before there was even a gaming peripheral industry. The original K\u00e4rna Razer Boomslang was best known for its encoding wheel that could more accurate\u2026",
+            "url": "https://www.theverge.com/news/841494/razer-boomslang-20th-anniversary-edition-gaming-mouse-rechargeable-optical",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/razer_boomslang1.jpg?quality=90&strip=all&crop=0%2C10.707469663105%2C100%2C78.58506067379&w=1200",
+            "publishedAt": "2025-12-10T14:16:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Boomslang is back after launching over 25 years ago.\r\nThe Boomslang is back after launching over 25 years ago.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Liszewski\r\n\u2026 [+2778 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "This Alienware Laptop Is the Best Gaming Laptop Deal Going Right Now",
+            "description": "Finding a cheap gaming laptop that doesn't suck ain't easy. But I found it.",
+            "url": "https://www.wired.com/story/best-black-friday-gaming-laptop-deal/",
+            "urlToImage": "https://media.wired.com/photos/68ffd7d5b70632df744b2fd8/191:100/w_1280,c_limit/Review-%20Alienware%2016X%20Aurora.png",
+            "publishedAt": "2025-11-30T15:02:19Z",
+            "content": "I've been sorting through Black Friday laptop deals all week, including discounts on gaming laptops. There are a lot of decent options out there, but when it comes to the best bang-for-your-buck valu\u2026 [+3394 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Vote for the Best Tech of 2025 in Gizmodo\u2019s Readers\u2019 Choice Awards",
+            "description": "Vote now in the Gizmodo Best Tech of 2025 Readers\u2019 Choice Awards and help decide which gadgets and devices Best of 2025!",
+            "url": "https://gizmodo.com/gizmodo-best-tech-of-2025-readers-choice-awards-2000694054",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Gizmodo-Readers-Choice-Awards-Featured-Image-1200x675.jpg",
+            "publishedAt": "2025-12-02T12:00:26Z",
+            "content": "We\u2019ve already shared our winners of Gizmodo\u2019s Best Tech of 2025 Awards and now it\u2019s\u00a0your turn. Whether you\u2019ve read our reviews and agreed or disagreed, here\u2019s your chance to help decide what was the \u2026 [+1196 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Wooting\u2019s 60HE v2 is a solid upgrade to the best gaming keyboard",
+            "description": "Over the past couple of years, I've tried to switch to many different gaming keyboards and always ended up back with a Wooting 60HE. Wooting changed PC gaming with the 60HE, popularizing the use of Hall effect switches and a Rapid Trigger system that speeds u\u2026",
+            "url": "https://www.theverge.com/tech/836168/wooting-60he-v2-keyboard-gaming-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/twarren_wooting_60he_v2_01.jpg?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+            "publishedAt": "2025-12-02T14:45:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWooting has done a great job improving the sound and feel of its popular keyboard.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this author will be added to your\u2026 [+6192 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "The LCD Steam Deck is done",
+            "description": "The most affordable Steam Deck, the $399 LCD model, is not available in the US. And, according to the Steam Deck site, it won't be coming back. Underneath the listings for the various models is a note that says: We are no longer producing the Steam Deck LCD 2\u2026",
+            "url": "https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23276765/DSC00707_Edit_2.jpg?quality=90&strip=all&crop=0%2C2.9411764705882%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-20T16:09:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe entry-level model is out of stock on the US store and is no longer being produced.\r\nThe entry-level model is out of stock on the US store and is no longer be\u2026 [+2275 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Emma Roth",
-            "title": "Trump is recruiting Big Tech workers for the government",
-            "description": "President Donald Trump will recruit workers from Amazon, Apple, Google, Meta, Microsoft, and other tech giants to form the US Tech Force, a new program that aims to \"modernize the federal government,\" according to an announcement on Monday. Under the new prog\u2026",
-            "url": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-15T19:18:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMonths after the administration gutted tech talent, the US Tech Force will hire around 1,000 specialists, including some from Silicon Valley behemoths.\r\nMonths a\u2026 [+3405 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "John.Higgins",
-            "title": "LG enters the RGB LED fray in 2026 with the Micro RGB evo TV",
-            "description": "In what is sure to be the beginning of a slew of announcements, LG has confirmed it is releasing its first flagship RGB TV in 2026. It wasn't a huge secret, considering \"a premium LCD TV with Micro RGB technology\" won a CES 2026 Innovation Award in November. \u2026",
-            "url": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/LG-Micro-RGB-evo.jpg?quality=90&strip=all&crop=0%2C7.037692781137%2C100%2C85.924614437726&w=1200",
-            "publishedAt": "2025-12-15T23:36:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis LG announcement could be the signal that 2026 will be the year of mini and micro RGB LED TVs.\r\nThis LG announcement could be the signal that 2026 will be th\u2026 [+3787 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Victoria Song",
-            "title": "In 2025, wearables made a hard pivot to AI",
-            "description": "Years from now, I'll look back at 2025 as the year when a fundamental shift happened in wearable technology. Over the last decade, the category has been synonymous with health and fitness. In many ways, that association is still the primary one. But this year\u2026",
-            "url": "https://www.theverge.com/gadgets/838876/2025-ai-wearables-smart-glasses-pendants-fitness",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_WEARABLES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-16T16:16:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI glasses, AI fitness coaches, and AI pendants Its AI all the way down.\r\nAI glasses, AI fitness coaches, and AI pendants Its AI all the way down.\r\nby\r\nVictoria \u2026 [+5214 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Justine Calma",
-            "title": "Next-generation nuclear reactors could get a boost from the National Defense Authorization Act",
-            "description": "President Trump signed the National Defense Authorization Act (NDAA) for Fiscal Year 2026 Thursday with measures that further the bipartisan push for next-generation nuclear power plants. The Trump administration has embraced the technology as a new energy so\u2026",
-            "url": "https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-19T22:04:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nCongress passed energy provisions in the annual defense bill that could help spur the development of advanced nuclear reactors.\r\nCongress passed energy provision\u2026 [+2957 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Elissa Welle",
-            "title": "Kia and Hyundai will spend millions fixing old cars to stop \u2018Kia Boyz\u2019 thefts",
-            "description": "Kia and Hyundai will offer free repairs for millions of cars that lack anti-theft technology as part of a settlement with dozens of US states. The automakers agreed to outfit the roughly 9 million eligible cars sold between 2011 and 2022 with a zinc sleeve in\u2026",
-            "url": "https://www.theverge.com/news/847454/kia-boyz-settlement-kia-hyundai-fix-ignition-cylinder",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2238403307.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-18T16:44:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe settlement with 35 states includes free installation of a metal sleeve around the ignition cylinder to prevent theft.\r\nThe settlement with 35 states includes\u2026 [+2839 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "John.Higgins",
-            "title": "Samsung\u2019s 2026 Micro RGB LED TVs can actually fit in your living room",
-            "description": "Following the release of the 115-inch Micro RGB TV back in August, Samsung has revealed today that its Micro RGB technology will extend into smaller sizes ranging from that 115-inch behemoth all the way down to 55 inches. While we all enjoy dreaming big, it's\u2026",
-            "url": "https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/R95H_PERS.jpg?quality=90&strip=all&crop=0%2C8.248787127266%2C100%2C83.502425745468&w=1200",
-            "publishedAt": "2025-12-16T22:58:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Micro RGB TVs range in size from 100 inches down to 55 inches and join the 115-inch MR95F released in the fall.\r\nThe new Micro RGB TVs range in size from\u2026 [+2894 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "title": "Crucial is shutting down \u2014 because Micron wants to sell its RAM and SSDs to AI companies instead",
+            "description": "Micron is retiring the Crucial brand, marking the end of its line of budget-friendly solid-state drives (SSDs) and RAM kits, as reported earlier by VideoCardz. In an announcement on Wednesday, Micron says winding down its consumer-focused business will \u201cimpro\u2026",
+            "url": "https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/micron-crucial-image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-03T19:04:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe longstanding provider of consumer memory is winding down as prices spike, and Micron shifts its focus to AI.\r\nThe longstanding provider of consumer memory is\u2026 [+2258 chars]",
+            "ai_score": 5
         },
         {
             "source": {
@@ -98,104 +106,97 @@
                 "name": "The Verge"
             },
             "author": "Dominic Preston",
-            "title": "Trump Media is merging with a nuclear fusion company",
-            "description": "Trump Media, the company that runs social network Truth Social, is pivoting to nuclear fusion. It has announced a merger with California-based fusion power company TAE Technologies, and plans to start construction on a fusion power plant in 2026. Trump Media \u2026",
-            "url": "https://www.theverge.com/news/847159/trump-media-tae-technologies-merger-nuclear-fusion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-18T13:06:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTrumps Truth Social company will fuse with TAE Technologies.\r\nTrumps Truth Social company will fuse with TAE Technologies.\r\nby\r\nDominic PrestonClose\r\nDominic Pre\u2026 [+3549 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hackaday"
-            },
-            "author": "Lewin Day",
-            "title": "Tackling Tremors With DIY Technology",
-            "description": "[It\u2019s Triggy!] had a problem to solve. His grandma was having issues with hand tremors, which made the basic tasks of daily life difficult to perform. He decided to explore whether a high-tec\u2026",
-            "url": "https://hackaday.com/2025/12/23/tackling-tremors-with-diy-technology/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/12/Doctors-had-no-answer-for-my-Grandma-so-I-built-one.-2-49-screenshot-1.png",
-            "publishedAt": "2025-12-23T19:30:36Z",
-            "content": "[It\u2019s Triggy!] had a problem to solve. His grandma was having issues with hand tremors, which made the basic tasks of daily life difficult to perform. He decided to explore whether a high-tech soluti\u2026 [+1521 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Apple Releases Safari Technology Preview 233 With Bug Fixes and Performance Improvements",
-            "description": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed \u200cSafari Technology Preview\u200c to allow users to test features that are planned for future release versions of the S\u2026",
-            "url": "https://www.macrumors.com/2025/12/08/apple-releases-safari-technology-preview-233/",
-            "urlToImage": "https://images.macrumors.com/t/gSfA9gdPJTtAYv_7hjK9YByevcM=/2500x/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
-            "publishedAt": "2025-12-08T23:47:27Z",
-            "content": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed \u200cSafari Technology Preview\u200c to allow users to test fe\u2026 [+948 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nandika.iyerravi@futurenet.com (Nandika Ravi) , Nandika Ravi",
-            "title": "It's Official: Samsung's Galaxy Z TriFold arrives with a massive 10 inch screen",
-            "description": "Samsung's unveils the Galaxy Z TriFold, the device combines cutting-edge technology with a sleek design.",
-            "url": "https://www.androidcentral.com/phones/samsung-galaxy/its-official-samsungs-galaxy-z-trifold-launch",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/oJ9KbyNPX4yYyftLXhSvF8-1920-80.jpg",
-            "publishedAt": "2025-12-02T01:00:00Z",
-            "content": "<ul><li>Samsung unveils Galaxy Z TriFold, three-panel foldable device with a stunning 10-inch display, measuring 3.9mm at its thinnest point.</li><li>Features include a powerful Snapdragon 8 Elite pr\u2026 [+3572 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "title": "Ayaneo\u2019s first Android phone looks like a return of the Xperia Play",
+            "description": "Retro gaming handheld manufacturer Ayaneo has finally revealed the design of its first Android phone, which has been teased since August. Fittingly, it too is a throwback - to 2011's Sony Ericcson Xperia Play. The Pocket Play has a screen that slides up to re\u2026",
+            "url": "https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ayaneo-pocket-play-open-silver.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-11T09:16:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBut were still waiting to find out the Pocket Plays specs.\r\nBut were still waiting to find out the Pocket Plays specs.\r\nby\r\nDominic PrestonClose\r\nDominic Preston\u2026 [+2315 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "Europol imagines robot crime waves in 2035",
-            "description": "Rapid advances in AI and robotics are set to become both powerful tools for police and potent weapons for criminals, a 48-page report from pan-European police agency Europol argues. Earlier this month, Europol's Innovation Lab published \"The Unmanned Future(s\u2026",
-            "url": "https://www.theverge.com/report/847956/robot-crime-wave-europe-police-prediction",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258222__robot_crime_waves_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-19T15:16:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe police agency prepares to deal with kid-grooming care robots, terrorist drone attacks, and bot-bashing rioters.\r\nThe police agency prepares to deal with kid-\u2026 [+7820 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Antonio G. Di Benedetto",
+            "title": "I\u2019m a laptop reviewer, and these are the Black Friday deals I\u2019d shop\u2014many are over $400 off",
+            "description": "Aside from TVs, Black Friday is the best opportunity to save on one of the biggest tech purchases we\u2019re all likely to make: a new laptop. A new generation of laptops is always around the corner at CES in January, but they\u2019re still months away from release. In\u2026",
+            "url": "https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258013_Apple_M5_MacBook_Pro_14_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-11-28T16:48:18Z",
+            "content": "You can save hundreds on all kinds of laptops, even the new M5 MacBook Pro.\r\n\n\nAside from TVs, Black Friday is the best opportunity to save on one of the biggest tech purchases we\u2019re all likely to ma\u2026 [+15118 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "This iPhone case with a second screen lets you snap selfies with its rear cameras",
+            "description": "Smartphones with secondary screens on the back aren't a new idea. Most recently the Xiaomi 17 series launched in September with a smaller rear display and while the company suggests using it for widgets or gaming, the most practical use is as a way to frame s\u2026",
+            "url": "https://www.theverge.com/news/846408/dockcase-selfix-selfie-smartphone-iphone-17-pro-case-kickstarter",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/selfix_case1.jpg?quality=90&strip=all&crop=0%2C10.763073960402%2C100%2C78.473852079196&w=1200",
+            "publishedAt": "2025-12-17T17:00:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Selfix case has a 1.6-inch screen on the back and a microSD card slot to expand your phones storage.\r\nThe Selfix case has a 1.6-inch screen on the back and a\u2026 [+3305 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": null,
-                "name": "Seths.blog"
+                "name": "Gizmodo.com"
             },
-            "author": "Seth Godin",
-            "title": "The shard moment of transition",
-            "description": "When a new technology arrives, it appears unpolished, ill-formed and a bit wonky. As it gains traction, existing industries and processes begin to be threatened, often before their replacements in the new technology are fully ready. This is how Napster showed\u2026",
-            "url": "https://seths.blog/2025/11/the-pointy-part/",
-            "urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_1806138-1.jpg",
-            "publishedAt": "2025-11-30T10:03:00Z",
-            "content": "When a new technology arrives, it appears unpolished, ill-formed and a bit wonky.\r\nAs it gains traction, existing industries and processes begin to be threatened, often before their replacements in t\u2026 [+1010 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Raymond Wong",
+            "title": "Samsung Refuses to Give Up on Glasses-Free 3D Gaming Monitors",
+            "description": "Samsung's got a whole family of new Odyssey gaming monitors, including a 32-inch 6K Odyssey 3D.",
+            "url": "https://gizmodo.com/samsung-refuses-to-give-up-on-glasses-free-3d-gaming-monitors-2000703471",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/samsung6k3d-1200x675.jpg",
+            "publishedAt": "2025-12-26T17:15:53Z",
+            "content": "You know CES is right around the corner when tech companies announce a whole bunch of new TVs and monitors. Ahead of CES 2026, Samsung has dropped details on five new Odyssey gaming monitors, each wo\u2026 [+2115 chars]",
+            "ai_score": 5
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "abarr@businessinsider.com (Alistair Barr)",
-            "title": "How much would you pay for a single AI killer app?",
-            "description": "Sometimes a new technology just needs a single game-changing tool for users to pay up.",
-            "url": "https://www.businessinsider.com/how-much-would-you-pay-for-single-ai-killer-app-2025-12",
-            "urlToImage": "https://i.insider.com/69332f3071107c9f345771fd?width=1200&format=jpeg",
-            "publishedAt": "2025-12-05T19:39:00Z",
-            "content": "How much would you pay for a single AI killer app? \r\nHedge fund honcho Sam Leffell has views. I got to know Sam while researching ChatGPT's predictive abilities. He uses that leading AI tool constant\u2026 [+1102 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Emma Roth",
+            "title": "Micron says memory shortage will \u2018persist\u2019 beyond 2026",
+            "description": "Micron, one of the three biggest memory suppliers in the world, forecasts rough months ahead for the global RAM supply. As part of its earnings report released on Wednesday, Micron CEO Sanjay Mehrotra said \"tight industry conditions\" across DRAM and NAND flas\u2026",
+            "url": "https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-18T15:14:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSupply will remain substantially short of the demand for the foreseeable future.\r\nSupply will remain substantially short of the demand for the foreseeable future\u2026 [+3048 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u2019s ugly sweaters return with Clippy, Xbox, and Zune brown options",
+            "description": "Microsoft is bringing back its ugly sweaters for the holiday season. After taking a break for 2024, the company has an \u201cArtifact\u201d holiday sweater with lots of retro iconography, as well as an even uglier Zune brown option and even a green Xbox version. Clippy\u2026",
+            "url": "https://www.theverge.com/news/835130/microsoft-ugly-sweater-clippy-zune-brown-xbox",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/uglysweaters.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-01T19:03:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAll three holiday sweaters can be purchased at Microsofts company store.\r\nAll three holiday sweaters can be purchased at Microsofts company store.\r\nby\r\nTom Warre\u2026 [+2335 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "The Best Gadgets of November 2025",
+            "description": "Might as well rename November to Game-vember since there was so much great gaming hardware announced.",
+            "url": "https://gizmodo.com/best-gadgets-november-2025-2000690903",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Best-Gadgets-Nov-2025-from-Adriano-1200x675.jpg",
+            "publishedAt": "2025-11-30T12:00:24Z",
+            "content": "This is it, folks: the home stretch of 2025. We\u2019ve got one more month left to go in our rotation around the sun before a new year dawns, and CES 2026 hits us with a wave of new gadgets.\r\nBut before t\u2026 [+8373 chars]",
+            "ai_score": 5
         },
         {
             "source": {
@@ -209,353 +210,49 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25589670/STK280_INDIEGOGO_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-02T22:24:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIndiegogos move to new infrastructure is preventing Ayaneo from shipping a new retro gaming handheld when it expected to.\r\nIndiegogos move to new infrastructure \u2026 [+2686 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Trump signs order to block states from enforcing own AI rules",
-            "description": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.",
-            "url": "https://www.bbc.com/news/articles/crmddnge9yro",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24b2/live/fefcbac0-d6f6-11f0-9262-017105b354e8.jpg",
-            "publishedAt": "2025-12-12T03:01:07Z",
-            "content": "US President Donald Trump has signed an executive order aimed at blocking states from enforcing their own artificial intelligence (AI) regulations.\r\n\"We want to have one central source of approval,\" \u2026 [+1886 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Stephen Nellis",
-            "title": "Nvidia to license Groq technology, hire executives",
-            "description": "Nvidia has agreed to license chip technology from startup Groq and hire away its CEO, a veteran of Alphabet's Google, Groq said \u200bin a blog post on Wednesday....",
-            "url": "https://finance.yahoo.com/news/nvidia-buy-ai-chip-startup-210634730.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/e34ebd2cbb21c98efcb8fc9ae621b2b8",
-            "publishedAt": "2025-12-24T21:06:34Z",
-            "content": "By Stephen Nellis\r\nDec 24 (Reuters) - Nvidia has agreed to license chip technology from startup Groq and hire away its CEO, a veteran of Alphabet's Google, Groq said in a blog post on Wednesday.\r\nGro\u2026 [+2140 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
-            "title": "Gemini can now build you custom mini apps with this experimental Gem",
-            "description": "Google is letting users build mini apps within Gemini as part of an experimental Gem, bringing the technology from Opal to more users.",
-            "url": "https://www.androidcentral.com/apps-software/ai/gemini-can-now-build-you-custom-mini-apps-with-this-experimental-gem",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/kgefQLupjtvnJsmTP5yL7d-2560-80.jpg",
-            "publishedAt": "2025-12-17T14:33:00Z",
-            "content": "<ul><li>Gemini will now let you create custom AI mini apps as reusable Gems on the web.</li><li>The feature is powered by Google Opal, the brand's no-code app builder available as a Google Labs exper\u2026 [+2858 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "Nicholas Sutrich",
-            "title": "Feel your games and the savings with my favorite haptic vest, now $100 off ahead of Cyber Monday!",
-            "description": "The Woojer Haptic Vest 4 is the latest in audio haptic technology, and it can be yours for way less this weekend.",
-            "url": "https://www.androidcentral.com/gaming/virtual-reality/feel-your-games-and-the-savings-with-my-favorite-haptic-vest-now-usd100-off-ahead-of-cyber-monday",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4eYskZBoWbi6Y52DaMP8W5-2048-80.jpg",
-            "publishedAt": "2025-11-30T15:16:05Z",
-            "content": "Does anyone remember when the N64 rumble pack was new? That technology is advanced so much now that it can work on anything that produces sound thanks to Woojer's impressive technology, and now the l\u2026 [+3841 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Alistair Barr",
-            "title": "Using AI to avoid getting your car towed",
-            "description": "Tesla's FSD Summon feature, AI technology, and computer vision helped an owner avoid towing and save $400.",
-            "url": "https://www.businessinsider.com/tesla-fsd-using-ai-avoid-getting-your-car-towed-2025-12",
-            "urlToImage": "https://i.insider.com/694475bc64858d02d2171a76?width=1200&format=jpeg",
-            "publishedAt": "2025-12-25T15:00:02Z",
-            "content": "Parking enforcement in actionIMAGO/Joa Souza via Reuters Connect\r\n<ul><li>A version of this story originally appeared in the BI Tech Memo newsletter.</li><li>Sign up for the weekly BI Tech Memo newsl\u2026 [+1069 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "David Lumb",
-            "title": "Ace Combat 8 Will Incorporate Dogfighting Tips From Real Jet Pilots",
-            "description": "Ace Combat 8: Wings of Theve's top developers chat about cloud technology, drones and all the world-building players don't see.",
-            "url": "https://www.cnet.com/tech/gaming/ace-combat-8-will-incorporate-dogfighting-tips-from-real-jet-pilots/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/e909eb6565db3a949d68a4a6e483b06565df4cc1/hub/2025/12/19/8fb810c3-f12b-4dba-b35d-5461026b2bf4/p102-1.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-12-21T13:00:37Z",
-            "content": "Next year, I'll be sitting on my couch with a controller in hand, but on my TV, I'll be up in the sky, chasing enemy planes through the clouds at 10,000 feet. In 2026, Bandai Namco will launch Ace Co\u2026 [+7803 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "insider@insider.com (Olivia Rose Rushing)",
-            "title": "The new Spanx jeans have completely changed my mind about pull-on stretch denim \u2014 here's how they look and feel in real life",
-            "description": "The new Spanx jeans feature cleverly hidden modern sculpting technology. The denim feels luxe, while the compressive panels reshape my hips and waist.",
-            "url": "https://www.businessinsider.com/guides/style/spanx-jeans-review",
-            "urlToImage": "https://i.insider.com/6942ced304eda4732f2dadeb?width=1200&format=jpeg",
-            "publishedAt": "2025-12-17T15:43:12Z",
-            "content": "In comparison to the Authentic 360 jeans, the EveryWear fabric feels a lot smoother, a bit thinner (yet still feels well-made and like real denim), and much, much stretchier. These are made for casua\u2026 [+1376 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "ai_score": 5
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jennifer Pattison Tuohy",
-            "title": "How AI broke the smart home in 2025",
-            "description": "This morning, I asked my Alexa-enabled Bosch coffee machine to make me a coffee. Instead of running my routine, it told me it couldn't do that. Ever since I upgraded to Alexa Plus, Amazon's generative-AI-powered voice assistant, it has failed to reliably run \u2026",
-            "url": "https://www.theverge.com/tech/845958/ai-smart-home-broken",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_SMART_HOME.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-23T13:12:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe arrival of generative AI assistants in our smart homes held such promise; instead, they struggle to turn on the lights.\r\nIf you buy something from a Verge li\u2026 [+13580 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Andrew Webster",
+            "title": "A love letter to glory days of iPhone gaming",
+            "description": "It may be hard to believe now, but the App Store was once a thriving place for inventive indie games. The ubiquity of the iPhone coupled with the relative ease of development for the platform meant that smaller studios were able to get their games in front of\u2026",
+            "url": "https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/SLC_03_4K.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-05T21:35:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nby\r\nAndre\u2026 [+4196 chars]",
+            "ai_score": 5
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "HANNA ARHIROVA",
-            "title": "Ukrainian women embrace combat roles as technology reshapes the battlefield",
-            "description": "When Russia\u2019s full-scale invasion began nearly four years ago, a 26-year-old soldier known as Monka didn\u2019t see a combat role she could do.  Last year, she...",
-            "url": "https://www.yahoo.com/news/articles/ukrainian-women-embrace-combat-roles-050418723.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gJM.vG_NoYs2wWI0QEGTUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/eef75ec55c0fc0e9063960f3e1b4faa1",
-            "publishedAt": "2025-12-06T05:04:18Z",
-            "content": "KHARKIV, Ukraine (AP) When Russias full-scale invasion began nearly four years ago, a 26-year-old soldier known as Monka didnt see a combat role she could do. But that changed as technology reshaped \u2026 [+6116 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Brad Bourque",
+            "title": "Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld",
+            "description": "This premium gaming handheld loads up with features, but Windows still holds it back from being the easy option.",
+            "url": "https://www.wired.com/review/lenovo-legion-go-gen-2/",
+            "urlToImage": "https://media.wired.com/photos/69334ab57375f733c4c9a823/191:100/w_1280,c_limit/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg",
+            "publishedAt": "2025-12-06T13:00:00Z",
+            "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol\u2026 [+2357 chars]",
+            "ai_score": 5
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": null,
-            "title": "US suspends technology deal with Britain, FT reports",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_05f0925d-ee5c-459e-824c-1adeb44e76db",
-            "urlToImage": null,
-            "publishedAt": "2025-12-16T00:59:27Z",
-            "content": "If you click 'Accept all', we and our partners, including 242 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Pranav Dixit",
-            "title": "Meta hires longtime Apple design leader Alan Dye to run a new Reality Labs creative studio",
-            "description": "Meta hires Apple design leader Alan Dye to head Reality Labs creative studio, focusing on design, AI, smart glasses, and next-gen technology.",
-            "url": "https://www.businessinsider.com/meta-hires-apple-design-leader-alan-dye-reality-labs-studio-2025-12",
-            "urlToImage": "https://i.insider.com/6930c1e07ecd1d1da662e335?width=1200&format=jpeg",
-            "publishedAt": "2025-12-03T23:19:13Z",
-            "content": "Meta hired Alan Dye, vice president of human interface design at Apple.Stefanie Keenan/Getty Images for GQ\r\n<ul><li>Meta hired longtime Apple design leader Alan Dye to run a new Reality Labs creative\u2026 [+3018 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Sarah E. Needleman,Tim Paradis",
-            "title": "AI is letting some workers quietly slack off \u2014 until their bosses catch on",
-            "description": "Some employees are keeping mum about how the technology is helping them get their jobs done in a fraction of the time it used to take.",
-            "url": "https://www.businessinsider.com/ai-is-letting-employees-slack-off-by-cutting-workloads-2025-12",
-            "urlToImage": "https://i.insider.com/692717cee1a9cbb014df07ee?width=1200&format=jpeg",
-            "publishedAt": "2025-12-01T10:14:08Z",
-            "content": "Software engineer Noah Olsen says he used AI to complete half of his workload -- without telling his boss.Noah Olsen\r\n<ul><li>Some workers are letting AI tools do their jobs for them \u2014 and they're ke\u2026 [+4541 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Lucia Moses",
-            "title": "Disney CEO Bob Iger explains why he just did a blockbuster OpenAI deal",
-            "description": "Disney CEO Bob Iger said the company's licensing deal with OpenAI will let it capitalize on a fast-growing technology and engage younger audiences.",
-            "url": "https://www.businessinsider.com/disney-bob-iger-explains-billion-deal-with-open-ai-2025-12",
-            "urlToImage": "https://i.insider.com/693af46064858d02d216a359?width=1200&format=jpeg",
-            "publishedAt": "2025-12-11T17:19:14Z",
-            "content": "Disney's CEO Bob Iger discussed the company's deal with Open AI.UNIQUE NICOLE/AFP via Getty Images\r\n<ul><li>Bob Iger said Disney's new deal with OpenAI will let the company harness AI tech to engage \u2026 [+3608 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Perri Ormont Blumberg",
-            "title": "I built a recruiting platform for AI jobs. Here's the challenging reality of the AI talent wars.",
-            "description": "Alfredo Mercedes left a defense technology company in December and started building an AI-enabled modular recruiting platform inside a global VC firm.",
-            "url": "https://www.businessinsider.com/ai-hiring-challenges-see-founder-ai-recruiting-platform-2025-12",
-            "urlToImage": "https://i.insider.com/6931cb7504d0f0a114f16bb8?width=751&format=jpeg",
-            "publishedAt": "2025-12-05T10:05:06Z",
-            "content": "Alfredo Mercedes.VU Talent Partners\r\n<ul><li>Alfredo Mercedes built an AI-enabled modular recruiting platform after starting his career in defense tech.</li><li>He runs his platform, which lives insi\u2026 [+4557 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Katherine Li",
-            "title": "Meet Jay Graber, the CEO of Bluesky, who is building a 'billionaire-proof' and decentralized social media platform",
-            "description": "Graber spent her early years studying how technology interacts with society, and now leads Bluesky that is looking to be \"billionaire-proof.\"",
-            "url": "https://www.businessinsider.com/meet-jay-graber-ceo-bluesky-who-wants-change-social-media",
-            "urlToImage": "https://i.insider.com/68f19a0d1c1f80efbec5c236?width=1200&format=jpeg",
-            "publishedAt": "2025-11-30T12:51:02Z",
-            "content": "Jay Graber is the CEO of Bluesky, a decentralized social media platform with over 40 million registered users.Samantha Burkardt/SXSW Conference & Festivals via Getty Images\r\n<ul><li>Jay Graber studie\u2026 [+10460 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Ana Altchek",
-            "title": "Blackstone's CTO explains how he uses his 35-minute subway ride to stay sharp and upskill",
-            "description": "John Stecher reads about technology in another industry on his daily subway ride to work and spends his weekends being hands-on with tools.",
-            "url": "https://www.businessinsider.com/blackstone-cto-explains-daily-weekly-upskilling-routine-2025-12",
-            "urlToImage": "https://i.insider.com/69499dc4832e0ef1ead6aefd?width=1200&format=jpeg",
-            "publishedAt": "2025-12-24T10:35:01Z",
-            "content": "Blackstone CTO John Stecher said he reads up on technology during his 35-minute subway ride to and from work.Blackstone\r\n<ul><li>Blackstone CTO John Stecher prioritizes ongoing upskilling to keep pac\u2026 [+3526 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Lauren Edmonds",
-            "title": "Anduril's Palmer Luckey makes an ethical case for using AI in war: 'There is no moral high ground in using inferior technology'",
-            "description": "For \"life and death decision-making,\" Anduril cofounder Palmer Luckey says it's \"too critical\" to not use the most advanced technology.",
-            "url": "https://www.businessinsider.com/anduril-palmer-luckey-ai-war-conflict-defense-tech-startups-military-2025-12",
-            "urlToImage": "https://i.insider.com/6935b66204d0f0a114f18f0c?width=1200&format=jpeg",
-            "publishedAt": "2025-12-07T20:46:37Z",
-            "content": "Palmer Luckey cofounded the defense tech startup Anduril in 2017.PATRICK T. FALLON/AFP via Getty Images\r\n<ul><li>Anduril cofounder Palmer Luckey defended the use of AI on the battlefield on \"Fox News\u2026 [+3469 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Tim Paradis",
-            "title": "AI isn't likely throwing out your r\u00e9sum\u00e9. A human is.",
-            "description": "Technology is playing a bigger role in the hiring process, but often it's people, not bots, who are rejecting your application.",
-            "url": "https://www.businessinsider.com/ai-rejecting-job-applications-tracking-hiring-2025-12",
-            "urlToImage": "https://i.insider.com/6932074771107c9f34576189?width=1200&format=jpeg",
-            "publishedAt": "2025-12-07T10:55:04Z",
-            "content": "Fired IRS worker Brittany Glenn, right, talks to recruiter Lena Lager during a jobs fair for laid-off federal workers Saturday, March 15, 2025, in Kansas City, Mo.Charlie Riedel/Associated Press\r\n<ul\u2026 [+5162 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Palantir CEO Says Making War Crimes Constitutional Would Be Good for Business",
-            "description": "Alex Karp vows to use his \"whole influence\" on immigration and defense policy.",
-            "url": "https://gizmodo.com/palantir-ceo-says-making-war-crimes-constitutional-would-be-good-for-business-2000695162",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/alex_karp_dealbook-1200x675.jpg",
-            "publishedAt": "2025-12-03T22:55:34Z",
-            "content": "Palantir CEO and Trump ally Alex Karp is no stranger to controversial (troll-ish even) comments. His latest one just dropped: Karp believes that the U.S. boat strikes in the Caribbean (which many exp\u2026 [+3474 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Is Building a \u2018U.S. Tech Force\u2019 of 1,000+ Early Career Workers",
-            "description": "The program will also hire experienced technologists directly from the private sector",
-            "url": "https://gizmodo.com/trump-is-building-a-u-s-tech-force-of-1000-early-career-workers-2000699779",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/shutterstock_2589320083-1200x675.jpg",
-            "publishedAt": "2025-12-15T23:00:16Z",
-            "content": "The Trump administration is launching an American \u201cTech Force,\u201d a cross-government early career program mean to \u201crecruit top technologists to modernize the federal government,\u201d according to a press r\u2026 [+3607 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "BeauHD",
-            "title": "Qualcomm Acquires RISC-V Chip Designer Ventana Micro Systems",
-            "description": "Qualcomm has acquired RISC-V startup Ventana to strengthen its CPU ambitions beyond mobile, \"reinforcing its commitment and leadership in the development of the RISC-V standard and ecosystem,\" the company said in a press release. CRN Magazine reports: The San\u2026",
-            "url": "https://hardware.slashdot.org/story/25/12/10/2135233/qualcomm-acquires-risc-v-chip-designer-ventana-micro-systems",
-            "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
-            "publishedAt": "2025-12-10T22:50:00Z",
-            "content": "The San Diego-based company said Ventana's expertise in RISC-V, a free and open alternative to the Arm and x86 instruction set architectures, will enhance its CPU engineering capabilities and complem\u2026 [+372 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Makezine.com"
-            },
-            "author": "Sam Freeman",
-            "title": "Maker Spotlight: Retro Roadshow",
-            "description": "What do you do with a collection that keeps on growing? Turn it into a traveling retro technology roadshow, of course!\nThe post Maker Spotlight: Retro Roadshow appeared first on Make: DIY Projects and Ideas for Makers.",
-            "url": "https://makezine.com/article/maker-news/maker-spotlight-retro-roadshow/",
-            "urlToImage": "https://i0.wp.com/makezine.com/wp-content/uploads/2025/12/Retro-Roadshow-2.jpg?fit=1920%2C1280&ssl=1",
-            "publishedAt": "2025-12-18T17:00:00Z",
-            "content": "Retro Roadshow has delighted crowds at Maker Faire Bay Area since 2023 with their carefully curated collection of vintage computers and consoles. They consistently center their exhibit around a solid\u2026 [+1956 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "Proposed Space Station Could Be Deployed in a Single Launch",
-            "description": "A prototype of Max Space's Thunderbird could launch as early as 2027.",
-            "url": "https://gizmodo.com/proposed-space-station-could-be-deployed-in-a-single-launch-2000701443",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Thunderbird-Station-1-1200x675.jpg",
-            "publishedAt": "2025-12-21T11:05:03Z",
-            "content": "Florida startup Max Space announced its plans to launch a prototype of its commercial space station by 2027, testing its expandable habitat technology that aims to reduce the number of trips needed t\u2026 [+2537 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Antonio G. Di Benedetto",
+            "title": "We handpicked 12 great gaming laptops that are hundreds off for Black Friday",
+            "description": "Black Friday and Cyber Monday are the absolute best moments of the year to buy a laptop. While several thin, lightweight productivity machines have dropped to their lowest prices, so have a batch of exciting, powerful gaming laptops. We handpicked several gam\u2026",
+            "url": "https://www.theverge.com/gadgets/833307/best-gaming-laptop-nvidia-rtx-black-friday-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-11-29T17:54:46Z",
+            "content": "The Razer Blade 16 is discounted in various configurations, now as low as $1,600.\r\n\n\nBlack Friday and Cyber Monday are the absolute best moments of the year to buy a laptop. While several thin, light\u2026 [+4027 chars]",
+            "ai_score": 5
         },
         {
             "source": {
@@ -569,173 +266,273 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
             "publishedAt": "2025-12-10T17:50:53Z",
             "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Louryn Strampe",
-            "title": "The Best Bluetooth Speaker Is $50 off Right in Time for Christmas",
-            "description": "The JBL Flip 7 is our top tried-and-tested Bluetooth speaker, and we haven't seen it sell for less than it is right now.",
-            "url": "https://www.wired.com/story/jbl-flip-7-deal-december-2025/",
-            "urlToImage": "https://media.wired.com/photos/6945849bed16db374076daad/191:100/w_1280,c_limit/Deal%20JBL%20Flip%207%20Bluetooth%20Speaker%20top%20art%20122025%20SOURCE%20Amazon.jpg",
-            "publishedAt": "2025-12-19T17:18:22Z",
-            "content": "The audio-visual experts on the WIRED Reviews team have tested hundreds of Bluetooth speakers, going all the way back to 2017. There are plenty of Bluetooth speakers worth recommending, but the JBL F\u2026 [+1573 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Geri Mileva",
-            "title": "'Magic balls' installed by drones could conquer US market thanks to game-changing performance: 'It's never been like this'",
-            "description": "Technology like this could offer a low-cost, high-impact solution.",
-            "url": "https://tech.yahoo.com/home/articles/magic-balls-installed-drones-could-003000034.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5obKe.VvILmOpksCXVJCRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODQ-/https://media.zenfs.com/en/the_cool_down_737/0385b16f5a227611245754694787608a",
-            "publishedAt": "2025-12-18T00:30:00Z",
-            "content": "Norwegian energy startup Heimdall Power aims to transform power grids with its latest innovation. A report by Data Center Dynamics breaks down how the company has created tiny magic balls that make e\u2026 [+3206 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Popular Science"
-            },
-            "author": "Andrew Paul",
-            "title": "James Webb and Hubble Space Telescopes snap images of same nebula, 10 years apart",
-            "description": "The two images of Westerlund 2 show just how far the technology has come.",
-            "url": "https://www.popsci.com/science/hubble-jwst-same-nebula-image/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/M9B1fAlYeATbFK1buSns7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_science_109/f6c30457b56a141475bb2f6ce3aff442",
-            "publishedAt": "2025-12-22T17:01:00Z",
-            "content": "In 2015, NASA celebrated the Hubble Space Telescopes 25th year in orbit by releasing one of its most stunning images to datea colorful star cluster in the constellation Carina known as Westerlund 2. \u2026 [+1886 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "ai_score": 5
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Justine Calma",
-            "title": "Don\u2019t expect Trump Media\u2019s nuclear fusion power plant to generate electricity soon",
-            "description": "Trump Media - yup, the parent company of Truth Social - is the latest entrant in the near century-long race to develop a nuclear fusion power plant. It announced a merger agreement with fusion company TAE Technologies on Thursday, and a bold plan to break gro\u2026",
-            "url": "https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DPK-TAE-Technologies-NormEmployees-1.jpg?quality=90&strip=all&crop=0%2C15.105108885745%2C100%2C69.789782228511&w=1200",
-            "publishedAt": "2025-12-19T18:05:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDont expect Trump Medias nuclear fusion power plant to generate electricity soon\r\nThe energy demands of AI are driving investment in futuristic fusion reactors f\u2026 [+11481 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Barbara Krasnoff",
+            "title": "The Verge\u2019s 2025 in review",
+            "description": "The year 2025 has been, to put it mildly, eventful. If you\u2019re like me, you\u2019ve felt as if it\u2019s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enraging. But that\u2019s not the case for everything \u2014 and so, as w\u2026",
+            "url": "https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-16T15:25:28Z",
+            "content": "The year 2025 has been, to put it mildly, eventful. If you\u2019re like me, you\u2019ve felt as if it\u2019s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enr\u2026 [+903 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Steam Machine today, Steam Phones tomorrow",
+            "description": "It's a big deal that Valve is making a game console. But I'm beginning to think the Steam Machine may end up a footnote in gaming history. What if Valve could bring PC games not just to its own living room consoles, but also to the Arm chips that billions of \u2026",
+            "url": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0008.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+            "publishedAt": "2025-12-02T19:42:08Z",
+            "content": "<ul><li></li><li></li></ul>\r\nIn an exclusive interview, Valve reveals its the architect behind a push to bring Windows games to Arm.\r\nIn an exclusive interview, Valve reveals its the architect behind\u2026 [+15973 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Remember Google Stadia? Steam finally made its gamepad worth rescuing",
+            "description": "December 31st, 2025 is the deadline to save the Google Stadia controller. That's less than three weeks from today - but there's never been a better time. Last month, I discovered the controller is finally a first-class citizen in Steam and SteamOS. The Stadia\u2026",
+            "url": "https://www.theverge.com/games/829631/save-google-stadia-gamepad-steam-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/akrales_191113_3779_0163.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-11T19:29:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSave it from the Google Graveyard!\r\nSave it from the Google Graveyard!\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to your dai\u2026 [+4446 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "The RAM shortage is here to stay, raising prices on PCs and phones",
+            "description": "Your next smartphone or PC might cost more amid a global memory shortage that the International Data Corporation expects to \"persist well into 2027.\" A new report from the research firm lays out the potential impact of the RAM crunch, saying it \"signals the e\u2026",
+            "url": "https://www.theverge.com/news/848199/ram-shortage-pc-phone-price-increases",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-19T17:06:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBudget-friendly smartphones and memory-hungry AI PCs might have higher price tags next year.\r\nBudget-friendly smartphones and memory-hungry AI PCs might have hig\u2026 [+4163 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": null,
-                "name": "TheStreet"
+                "name": "Gizmodo.com"
             },
-            "author": "Annie O'Sullivan",
-            "title": "Amazon has a great Cyber Monday deal on a $100 smart tablet for only $55",
-            "description": "Shoppers say it's the perfect piece of portable technology that gives you access to everything at your fingertips.",
-            "url": "https://www.thestreet.com/deals/amazon-fire-hd-8-tablet-amazon-sale-cyber-monday-2025",
-            "urlToImage": "https://media.zenfs.com/en/thestreet_ecomm_249/4b25e31d10072edf42fd653e087a7a00",
-            "publishedAt": "2025-11-29T17:15:00Z",
-            "content": "TheStreet aims to feature only the best products and services. If you buy something via one of our links, we may earn a commission.\r\nWhy we love this deal\r\nAlthough touchscreen technology isn't exact\u2026 [+3349 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Kyle Barr",
+            "title": "The Best Gaming CPU May Get Even Better",
+            "description": "Really, we need a new affordable option for gaming processors.",
+            "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
+            "publishedAt": "2025-12-01T20:32:41Z",
+            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "I\u2019m finally beginning to trust Microsoft\u2019s handheld Xbox",
+            "description": "I still wouldn't buy an Xbox Ally, and I still don't think the tweaked version of Windows that shipped with it is ready for primetime. The Xbox Full Screen Experience (FSE) needs work. But two months after I panned the cheaper $600 white Xbox Ally and wasn't \u2026",
+            "url": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0145.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-13T00:32:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author wil\u2026 [+6774 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Analogue is restocking its 4K N64 and making it more colorful",
+            "description": "As if the Analogue 3D wasn't nostalgic enough, the 4K N64 emulator will soon be available in a handful of transparent \"Funtastic\" limited editions going on sale on December 10th at 8AM Pacific/11AM Eastern. The vibrant transparent models will be available \"in\u2026",
+            "url": "https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/analogue-3d-funtastic-announcement.png?quality=90&strip=all&crop=0%2C3.3533912961076%2C100%2C93.293217407785&w=1200",
+            "publishedAt": "2025-12-08T17:18:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe transparent limited edition is launching alongside color-matched 8BitDo controllers and a restock of the original model.\r\nThe transparent limited edition is \u2026 [+2807 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Sony\u2019s new PS5 DualSense controller might have way more battery life",
+            "description": "It might not look much different on the outside, but the newest version of the PS5\u2019s DualSense controller could feature a major improvement in battery life. Polish modder Modyfikator89 shared in a post on X that the new DualSense V2 variant, model number CFI-\u2026",
+            "url": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sony-Astro-Bot-Joyful-DualSense-controller-for-PS5.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2025-12-05T15:21:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Polish console modder tested the DualSense shipping with new consoles, and said it could last for up to 15 hours\r\nA Polish console modder tested the DualSense \u2026 [+2818 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Sony\u2019s legal battle against Tencent\u2019s Horizon \u2018clone\u2019 is already over",
+            "description": "In July, Sony sued Tencent to prevent the release of Light of Motiram, a game Sony alleged was a \"slavish clone\" of its popular Horizon series. But the legal battle is already over; the two companies have reached a \"confidential settlement\" and the case has b\u2026",
+            "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_853b741d2ebd0e13f1a735c8c934064532978e1c.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-18T04:05:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSony and Tencent have reached a confidential settlement, and Light of Motiram is no longer listed on Steam or the Epic Games Store.\r\nSony and Tencent have reache\u2026 [+3246 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "In 2025, AI became a lightning rod for gamers and developers",
+            "description": "2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game studios claim it's being implemented everywhere in the industr\u2026",
+            "url": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_AI_GAMING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-22T21:30:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nby\r\nAsh P\u2026 [+7949 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Meta might charge for a future AI model",
+            "description": "Meta's next AI model could mark a change in its \"open source\" AI strategy that Mark Zuckerberg had called \"the path forward.\" Currently, the company is working on a new AI model, code-named Avocado, that it might charge for access to, Bloomberg reports. Last \u2026",
+            "url": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-10T18:46:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMeta and CEO Mark Zuckerberg might change course on open source. \r\nMeta and CEO Mark Zuckerberg might change course on open source. \r\nby\r\nJay PetersClose\r\nJay Pe\u2026 [+2467 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": null,
-                "name": "San Antonio Express-News"
+                "name": "Gizmodo.com"
             },
-            "author": "Lily O'Neill",
-            "title": "Microsoft is building another data center in the San Antonio area. Here's where.",
-            "description": "The technology giant is amassing a hub of data centers on the nearly 1,500 acres it owns in Medina County.",
-            "url": "https://www.expressnews.com/business/article/san-antonio-castroville-microsoft-data-centers-21261199.php",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/B7iEE1oxBGrCf45XFlcReA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00NjY-/https://media.zenfs.com/en/san_antonio_express_news_hearst_574/195d7df0648c7d736b8e4c4d9b296b4b",
-            "publishedAt": "2025-12-25T13:00:00Z",
-            "content": "Microsoft Corp.'s Texas Research Park data center in San Antonio is seen in this file 2020 photo. (San Antonio Express-News file photo)\r\nMicrosoft\u00a0Corp. is building another data center in Medina Coun\u2026 [+2135 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Kyle Barr",
+            "title": "The Next Gaming Trend Is\u2026 Uh, Controllers for Your Feet?",
+            "description": "So-called 'Foot keyboards' are cursed in more than one way.",
+            "url": "https://gizmodo.com/the-next-gaming-trend-is-uh-controllers-for-your-feet-2000695081",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Varmillo-Foot-Keyboard-1200x675.jpg",
+            "publishedAt": "2025-12-03T15:21:15Z",
+            "content": "There are only so many points of fine articulation the body is capable of for the sake of maximizing gaming. Were limited to a measly 10 digits when modern games may demand many more controls than th\u2026 [+3489 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Trump is recruiting Big Tech workers for the government",
+            "description": "President Donald Trump will recruit workers from Amazon, Apple, Google, Meta, Microsoft, and other tech giants to form the US Tech Force, a new program that aims to \"modernize the federal government,\" according to an announcement on Monday. Under the new prog\u2026",
+            "url": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-15T19:18:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMonths after the administration gutted tech talent, the US Tech Force will hire around 1,000 specialists, including some from Silicon Valley behemoths.\r\nMonths a\u2026 [+3405 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Gizmodo.com"
             },
-            "author": "KMBC - Kansas City Videos",
-            "title": "New technology and \u2018old-fashioned\u2019 detective work lead to arrest of hit-and-run suspect",
-            "description": "An affidavit released Wednesday in the hit-and-run death of a University of Kansas student details how detectives used license plate readers, traffic cameras...",
-            "url": "https://www.yahoo.com/news/videos/technology-old-fashioned-detective-lead-223609456.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tXDh.Zg.ysgHWFdana86Wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/video.kmbc.hearstnews.com/8b1ccbebeb47f1c653060b9204f7029f",
-            "publishedAt": "2025-12-11T22:36:09Z",
-            "content": "An affidavit released Wednesday in the hit-and-run death of a University of Kansas student details how detectives used license plate readers, traffic cameras, and physical evidence to find the suspec\u2026 [+248 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "James Whitbrook",
+            "title": "\u2018Fallout\u2019 Season 2 Is a Slower, Smarter Follow-Up",
+            "description": "The sophomore season of Prime Video's smash-hit gaming adaptation doesn't fix what isn't broken, for better and occasionally worse.",
+            "url": "https://gizmodo.com/fallout-season-2-review-amazon-prime-video-2000699991",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/fallout-season-2-review-lucy-ella-purnell-1200x675.jpg",
+            "publishedAt": "2025-12-16T14:00:21Z",
+            "content": "When\u00a0Fallouthit Prime Video last spring, not even Amazon itself might have expected the rip-roaring response to the show\u2019s spin on the beloved video game RPG series (although the signs were there tha\u2026 [+7816 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
+            "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
+            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
+            "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
+            "publishedAt": "2025-12-23T11:30:00Z",
+            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boutayna Chokrane",
+            "title": "The Best Red Light Therapy Mask You Can Buy Is Currently on Sale",
+            "description": "Shopping for CurrentBody's Black Friday deals? We've found the best bundle deals on its beauty tech gear. Grab before it's gone.",
+            "url": "https://www.wired.com/story/best-current-body-black-friday-deals-2025-1/",
+            "urlToImage": "https://media.wired.com/photos/6923ca90bd0b86227d1dc1ec/191:100/w_1280,c_limit/The%20Best%20Red%20Light%20Therapy%20Mask%20You%20Can%20Buy%20Is%20Currently%20on%20Sale%20-%202.png",
+            "publishedAt": "2025-11-28T10:30:48Z",
+            "content": "CurrentBody kicked off its Black Friday sale early on November 1 and runs until December 24. Most products remain at retail, but the discounted bundles are worth a look. While we haven't tested Curre\u2026 [+1195 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brandon Russell",
+            "title": "The PS5, PlayStation Portal, and Sony\u2019s DualSense are still on sale for a limited time",
+            "description": "Sony\u2019s annual PlayStation sale has been going on for nearly a month now, offering discounts on everything from the PlayStation 5 Digital Edition and PlayStation Portal to Sony\u2019s standard DualSense controller. However, the end of the sale is quickly approachin\u2026",
+            "url": "https://www.theverge.com/gadgets/844698/sony-ps5-playstation-portal-dualsense-controller-deal-sale-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072866/110923_new_Playstation_5_Slim_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-15T19:51:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can still pick up a last-minute deal on a PS5, a PS Portal, or a DualSense controller in the run-up to Christmas.\r\nYou can still pick up a last-minute deal o\u2026 [+5817 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "ModRetro recreated the N64 controller for its M64 console",
+            "description": "Following the launch of the Chromatic Game Boy last December, ModRetro revealed its next console will be an upgraded remake of the Nintendo 64. Like the recently released Analogue 3D, it will play N64 games in 4K through the use of an FPGA. ModRetro \u2014 the com\u2026",
+            "url": "https://www.theverge.com/news/831498/modretro-m64-console-4k-fpga-nintendo-64-clone",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/modretro_m64_1.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+            "publishedAt": "2025-11-28T14:55:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company revealed the design of its upcoming Nintendo 64 clone, but its features and performance are still unknown.\r\nThe company revealed the design of its up\u2026 [+3227 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Android Central"
             },
-            "author": null,
-            "title": "Credo Technology Stock Is Soaring. Is This a Top AI Play for 2026?",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_518c0a7a-6464-4683-88bb-08dbae4d5f4f",
-            "urlToImage": null,
-            "publishedAt": "2025-12-07T12:05:00Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "JACK DURA",
-            "title": "Hyundai and Kia will repair millions of vehicles under a deal to fix anti-theft technology",
-            "description": "Automakers Hyundai and Kia must offer free repairs to millions of models under a settlement announced Tuesday by Minnesota's attorney general, who led an...",
-            "url": "https://www.yahoo.com/news/articles/hyundai-kia-repair-millions-vehicles-184922154.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wA_jLm7PRYjnpiFwE4I9sg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/299cbfdd6e411f73992d57608da0fa0c",
-            "publishedAt": "2025-12-16T18:49:22Z",
-            "content": "Automakers Hyundai and Kia must offer free repairs to millions of models under a settlement announced Tuesday by Minnesota's attorney general, who led an effort by dozens of states that argued the ve\u2026 [+2631 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "DAVID KLEPPER and DIDI TANG",
-            "title": "China exploits US-funded research on nuclear technology, a congressional report says",
-            "description": "China is exploiting partnerships with U.S. researchers funded by the Department of Energy to provide the Chinese military with access to sensitive nuclear...",
-            "url": "https://www.yahoo.com/news/articles/china-exploits-us-funded-research-111944181.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5LDN4XQo8mQpIwyEZ2y1bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/485e2455631be66b5321fa326f8abfb8",
-            "publishedAt": "2025-12-17T11:19:44Z",
-            "content": "WASHINGTON (AP) China is exploiting partnerships with U.S. researchers funded by the Department of Energy to provide the Chinese military with access to sensitive nuclear technology and other innovat\u2026 [+5372 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Zacks Equity Research",
-            "title": "The Zacks Analyst Blog Highlights NVIDIA, Advanced Micro Devices, Intel, Micron Technology and BigBear.ai",
-            "description": "Zacks' Analyst Blog says investors may look past NVIDIA as Micron and BigBear.ai outperform in 2025 and offer more upside from AI demand.",
-            "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-144200337.html",
-            "urlToImage": "https://media.zenfs.com/en/zacks.com/fbf2b6303b3e14c818fc711f8e83ba7a",
-            "publishedAt": "2025-12-24T14:42:00Z",
-            "content": "Chicago, IL \u2013 December 24, 2025 \u2013 Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks\u2026 [+5740 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "nandika.iyerravi@futurenet.com (Nandika Ravi) , Nandika Ravi",
+            "title": "No cap! Sony's best budget ANC headphones just hit $88 \u2014 grab them before the FOMO hits hard",
+            "description": "The Sony WH-CH720N headphones, now just $88\u2014a remarkable drop from $179.99\u2014offering top-tier performance and seamless connectivity for tech enthusiasts.",
+            "url": "https://www.androidcentral.com/accessories/headphones/sonys-best-budget-anc-headphones-just-hit-usd88",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/fBuNr4Fqj5bboefYobopHi-2560-80.webp",
+            "publishedAt": "2025-11-29T19:02:00Z",
+            "content": "Sometimes the stars align, and the exact product you've been waiting for hits its lowest price just in time for Black Friday. That is exactly what happened to me this week. I was on the hunt for high\u2026 [+2811 chars]",
+            "ai_score": 5
         },
         {
             "source": {
@@ -743,149 +540,265 @@
                 "name": "Gizmodo.com"
             },
             "author": "Mike Pearl",
-            "title": "Waymo Has to Pay People $22 to Close Stuck Robotaxi Doors",
-            "description": "It turns out human drivers are good for more than just driving.",
-            "url": "https://gizmodo.com/waymo-has-to-pay-people-22-to-close-stuck-robotaxi-doors-2000703307",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/waymo-2-1200x675.jpg",
-            "publishedAt": "2025-12-25T17:01:49Z",
-            "content": "In the 2016 press release that announced Waymo as Googles self-driving car project, CEO John Krafcik wrote that self-driving technology could be useful in ways the world has yet to imagine, creating \u2026 [+1206 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "title": "Blackout in San Francisco Litters Streets with Traffic-Blocking, Deactivated Waymos",
+            "description": "Robot chaos in the tech capital of the U.S.",
+            "url": "https://gizmodo.com/blackout-in-san-francisco-litters-streets-with-traffic-blocking-deactivated-waymos-2000702290",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/waymo-intersection-1-1200x675.jpg",
+            "publishedAt": "2025-12-21T15:31:38Z",
+            "content": "There was a power outage in San Francisco on Saturday, initially leaving 124,000 of 414,000 customersabout 30%in the dark. It also caused a widespread Waymo meltdown, with apparently all active Waymo\u2026 [+2498 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "PlayStation is making an MLB The Show mobile game",
+            "description": "MLB The Show is coming to iOS and Android. Sony has revealed MLB The Show Mobile, which it says is \u201ca new standalone experience built from the ground up to deliver realistic baseball gameplay on mobile devices.\u201d\u00a0 The game is live now only in the Philippines (\u2026",
+            "url": "https://www.theverge.com/news/837614/sony-playstation-mlb-the-show-mobile-game",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/mlb-the-show-25-Yordan-Alvarez-Hitting-screenshot-02-en-28jan25.webp?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2025-12-03T19:19:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSony is soft-launching a new MLB The Show title for iOS and Android in the Philippines.\r\nSony is soft-launching a new MLB The Show title for iOS and Android in t\u2026 [+2406 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": null,
-                "name": "Hackaday"
+                "name": "BBC News"
             },
-            "author": "Lewin Day",
-            "title": "Build A Pocket-Sized Wi-Fi Analyzer",
-            "description": "Wi-Fi! It\u2019s everywhere, and yet you can\u2019t really see it, by virtue of the technology relying on the transmission of electromagnetic waves outside the visual spectrum. Never mind, though, because \u2026read more",
-            "url": "https://hackaday.com/2025/12/04/build-a-pocket-sized-wi-fi-analyzer/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/F70TMJ7MI4XVI4S_de4a72-e1764569143194.jpg",
-            "publishedAt": "2025-12-04T21:00:31Z",
-            "content": "Wi-Fi! It\u2019s everywhere, and yet you can\u2019t really see it, by virtue of the technology relying on the transmission of electromagnetic waves outside the visual spectrum. Never mind, though, because you \u2026 [+918 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "BBC Sport",
+            "title": "Sutton's predictions v England Gaming star Daniel 'Stingray' Ray",
+            "description": "BBC Sport football expert Chris Sutton takes on England Gaming star Daniel 'Stingray' Ray - and AI - with his predictions for this weekend's Premier League fixtures.",
+            "url": "https://www.bbc.com/sport/football/articles/ce8q055q17ro",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8ef4/live/cb18b2b0-d695-11f0-8c06-f5d460985095.jpg",
+            "publishedAt": "2025-12-11T17:23:24Z",
+            "content": "<ul><li>Gtech Community Stadium, 16:30\r\n</li></ul>\r\nThis is another big game at the bottom of the table.\r\nI am so pleased for Leeds boss Daniel Farke because I was fed up with the rubbish being talke\u2026 [+1359 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Marah Eakin",
-            "title": "Jon M. Chu Says AI Couldn\u2019t Have Made One of Wicked\u2019s Best Moments",
-            "description": "The Wicked: For Good director says being able to improvise on set allows for the kind of moments that are hard for machines to make.",
-            "url": "https://www.wired.com/story/big-interview-event-jon-chu-wicked/",
-            "urlToImage": "https://media.wired.com/photos/6931df95b65440373b95fd64/191:100/w_1280,c_limit/Jon-Chu-Big-Interview-2025-4.jpg",
-            "publishedAt": "2025-12-04T20:18:26Z",
-            "content": "If theres anyone who understands the importance of viral marketing, its Wicked: For Good director Jon M. Chu.\r\nAt WIREDs Big Interview event in San Francisco, the onetime YouTuber and Crazy Rich Asia\u2026 [+2455 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Boone Ashworth",
+            "title": "The Gloves Are Off in the Fight for Your Right to Repair",
+            "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
+            "url": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
+            "urlToImage": "https://media.wired.com/photos/6938e2a0f93af60a9d87ce36/191:100/w_1280,c_limit/WTE-right-to-repair-2x1.jpg",
+            "publishedAt": "2025-12-25T11:00:00Z",
+            "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere\u2026 [+2998 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Will Knight",
-            "title": "Amazon Has New Frontier AI Models\u2014and a Way for Customers to Build Their Own",
-            "description": "Nova Forge lets Amazon\u2019s customers train frontier models for different tasks\u2014a potential breakthrough in making AI actually useful for businesses.",
-            "url": "https://www.wired.com/story/amazon-nova-forge-ai-models/",
-            "urlToImage": "https://media.wired.com/photos/692e13f07e056dae9d7474c9/191:100/w_1280,c_limit/Amazon-Releases-New-Versions-of-Nova-Business-1244448114.jpg",
-            "publishedAt": "2025-12-02T16:00:00Z",
-            "content": "Amazon has announced a new family of frontier artificial intelligence modelsand a new way for customers to build frontier models of their own.\r\nThe ecommerce giant announced the second generation of \u2026 [+2271 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Jeremy White",
+            "title": "BMW iX3 2026 Review: Price, Specs, Availability",
+            "description": "BMW's first car on its new EV platform has finally arrived. But will a big range, thumping charging tech, and a new driving brain that aims to deliver the ultimate ride be enough to beat China?",
+            "url": "https://www.wired.com/review/bmw-ix3-2026/",
+            "urlToImage": "https://media.wired.com/photos/692f33fade1067318a26059a/191:100/w_1280,c_limit/P90615619_highRes_the-new-bmw-ix3-50-x.jpg",
+            "publishedAt": "2025-12-03T23:00:00Z",
+            "content": "The less said about the woeful Alexa assistant, the better, which pipes up when it's not supposed to and often ignores you when you want it. It falls over at anything beyond the simplest requests. I \u2026 [+2287 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "The Game Awards 2025: all the news and announcements",
+            "description": "The Game Awards are back once again to showcase a metric ton of commercials, provide the gaming public with their monthly dose of Muppets, and validate gamers\u2019 opinions on which title should be named the Game of the Year. I don\u2019t wanna say it\u2019s a foregone con\u2026",
+            "url": "https://www.theverge.com/games/841973/the-game-awards-2025-annoucements-news-trailers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-12T00:18:50Z",
+            "content": "LIVEUpdated Today, Dec 12, 2025, 12:30 AM UTC\r\nThe Game Awards are back once again to showcase a metric ton of commercials, provide the gaming public with their monthly dose of Muppets, and validate \u2026 [+2583 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brandt Ranj",
+            "title": "We found 40 surprisingly good Black Friday deals you can still grab for $30 or less",
+            "description": "One of the pitfalls of Black Friday is getting overwhelmed by deep discounts on premium gadgets. After all, who wouldn\u2019t want to save hundreds, if not thousands, of dollars on a high-end gaming laptop or a spiffy OLED TV? But these luxury items, while great, \u2026",
+            "url": "https://www.theverge.com/gadgets/827295/black-friday-best-cheap-tech-deals-under-30-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24691059/236685_Amazon_Echo_Pop_JTuohy_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-11-29T00:22:22Z",
+            "content": "Amazon\u2019s Echo Pop is on sale for a measly $22 for Black Friday.\r\n\n\nOne of the pitfalls of Black Friday is getting overwhelmed by deep discounts on premium gadgets. After all, who wouldn\u2019t want to sav\u2026 [+13240 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand) , Jerry Hildenbrand",
+            "title": "Check out the groovy tech gear we bought for Black Friday and Cyber Monday",
+            "description": "We're tech writers and tech lovers. We jumped on these great Black Friday/Cyber Monday deals.",
+            "url": "https://www.androidcentral.com/accessories/everything-we-bought-for-black-friday-and-cyber-monday-2025",
+            "urlToImage": "https://dev.mos.cms.futurecdn.net/LRKhSMgYJPPAkXH2Rhkyd9-680-80.jpg",
+            "publishedAt": "2025-11-30T23:48:49Z",
+            "content": "This is the time of year all of us here at AC are on the lookout for the perfect Black Friday and Cyber Monday deals. While the perfect deal probably doesn't exist, plenty come close. We tell you abo\u2026 [+5273 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The MSI Raider 18 HX Distills the Best and Worst of Gaming Laptops",
+            "description": "You can't have everything, even for $4,000, but the MSI Raider 18 HX offers enough performance for 4K.",
+            "url": "https://gizmodo.com/msi-raider-18-hx-review-distills-the-best-and-worst-of-gaming-laptops-2000700902",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/MSI-Raider-18HX-10-1200x675.jpg",
+            "publishedAt": "2025-12-19T12:30:16Z",
+            "content": "Im curious about the folk with deep-pockets who dare hope to remain budget conscious, even while theyre considering a $4,000 laptop like the MSI Raider 18 HX. Will those same consumers balk at spendi\u2026 [+11547 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "The 10 Biggest Gaming Disappointments Of 2025",
+            "description": "AI slop infected more games, cool stuff was canned, people lost their jobs, and other horrible video game news from 2025\nThe post The 10 Biggest Gaming Disappointments Of 2025 appeared first on Kotaku.",
+            "url": "https://kotaku.com/the-10-biggest-gaming-disappointments-worst-news-game-key-cards-gta-6-delay-2000655356",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/12/homersad2025.jpg",
+            "publishedAt": "2025-12-24T13:00:20Z",
+            "content": "I\u2019d hoped 2025 would be a better year than 2024. And in some personal ways, it was. But it was also yet another year filled with layoffs, AI slop, greedy execs, price increases, and more signs that t\u2026 [+12684 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Microsoft\u2019s free update brings better Bluetooth to your Xbox Wireless Headset",
+            "description": "My favorite kind of update is the one that gives my gadgets entirely new features and specs for free - and Microsoft is unleashing one of those today by bringing Bluetooth Low Energy (LE) Audio to its 2024 Xbox Wireless Headset, which unlocks a lot of those n\u2026",
+            "url": "https://www.theverge.com/games/845491/microsoft-xbox-wireless-headset-bluetooth-le-free-update",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22363682/cfaulkner_210311_4469_0006.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
+            "publishedAt": "2025-12-16T17:43:57Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve got the 2024 version, anyhow.\r\nIf youve got the 2024 version, anyhow.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to \u2026 [+2532 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Cheryl Eddy",
+            "title": "Your Favorite Social Media Psycho Is Back in Killer Sequel \u2018Influencers\u2019",
+            "description": "Kurtis David Harder\u2019s follow-up to his 2022 horror hit stars Cassandra Naud as a shifty, seductive, tech-savvy villain.",
+            "url": "https://gizmodo.com/your-favorite-social-media-psycho-is-back-in-killer-sequel-influencers-2000690160",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/INFLUENCERS-topart-1200x675.jpg",
+            "publishedAt": "2025-12-10T00:00:52Z",
+            "content": "Influencer hit Shudder in 2023 after an acclaimed festival run, and its sequel arrives on the horror streamer this week. Influencers follows the continuing crimes of CWthe monstrous master of social \u2026 [+5643 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brandon Russell",
+            "title": "Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday \u2014 up to 58% off",
+            "description": "You can find deals on many of our favorite tech devices and gadgets year-round. But Black Friday is typically when we see the biggest discounts on OLED TVs, great productivity laptops, and robovacs that can help you clean up for the holidays \u2014 and this year i\u2026",
+            "url": "https://www.theverge.com/gadgets/832710/black-friday-all-time-low-prices-headphones-gaming-tv-deal-sale-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0231.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-11-29T01:36:46Z",
+            "content": "If you\u2019ve been eyeing Sony\u2019s most advanced noise-canceling headphones, you can already save $61.\r\n\n\nYou can find deals on many of our favorite tech devices and gadgets year-round. But Black Friday is\u2026 [+17878 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Helldivers 2\u2019s new \u2018slim\u2019 version saves 131GB of space on your drive",
+            "description": "If you\u2019ve been short on storage on your PC, the latest Helldivers 2 beta update might help. The developers said Tuesday they\u2019ve managed to cut down the PC file size for Helldivers 2 by about 85 percent, freeing up enough space for at least one or two more lar\u2026",
+            "url": "https://www.theverge.com/news/836948/helldivers-2-file-size-decrease",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/helldivers2.jpg?quality=90&strip=all&crop=19.8%2C22.95171611402%2C73.4%2C68.318789994183&w=1200",
+            "publishedAt": "2025-12-02T20:32:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe file size reduction is available now as a technical public beta update on Steam.\r\nThe file size reduction is available now as a technical public beta update \u2026 [+2683 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Oh, the Irony: Microsoft\u2019s Push for Copilot+ PCs Could Stall Laptop Sales",
+            "description": "Windows users can't go back to 8GB of RAM, but laptop makers may not have a choice.",
+            "url": "https://gizmodo.com/microsofts-push-for-copilot-plus-pcs-could-stall-laptop-sales-2000701505",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Asus-Zenbook-2025-1-1200x675.jpg",
+            "publishedAt": "2025-12-18T22:18:19Z",
+            "content": "If we turn the clocks back a year and a half, Microsofts leadership stood on stage and pronounced a new era of computing was upon us. They were right, though it\u2019s not in a way anybody but AI evangeli\u2026 [+7035 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "Lenovo Gaming Laptop With a Rollable Screen Could Arrive in 2026",
+            "description": "The company could introduce a new Legion laptop with a screen that rolls out horizontally in a few weeks at CES 2026 in Las Vegas.",
+            "url": "https://www.cnet.com/tech/computing/lenovo-gaming-laptop-with-a-rollable-screen-could-arrive-in-2026/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/7ed7bd83b16c84b961a03b62c8351edd8714f0d2/hub/2025/10/29/f2c739de-0bc2-45aa-aef9-575a1569a07a/lenovo-loq-15-overview.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-12-09T16:49:28Z",
+            "content": "A purported leak containing marketing materials for a new gaming laptop from Lenovo suggests the company may debut a Windows 11 PC with a horizontal rollable display that expands out to an ultrawide \u2026 [+1028 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Partner Content With Dreame",
+            "title": "Cyber Monday Just Turned Dreame\u2019s Top Vacuums Into Must-Grab Steals, the Perfect Time to Upgrade Your Floor Cleaning",
+            "description": "Miss out on Black Friday? Dreame's industry-leading high-tech robotic vacuum-mop combos are still on sale for up to $800 off.",
+            "url": "https://gizmodo.com/cyber-monday-just-turned-dreames-top-vacuums-into-must-grab-steals-the-perfect-time-to-upgrade-your-floor-cleaning-2000687844",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Aqua-10-lifestyle-1200x675.jpg",
+            "publishedAt": "2025-11-28T12:15:17Z",
+            "content": "The \u201cCyber\u201d in Cyber Monday means it\u2019s\u00a0the day for tech deals, and that includes smart devices for your home. If you\u2019re one of the millions of people who have spent months casting envious looks at so\u2026 [+7961 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'Architects of AI' named Time Magazine's Person of the Year",
+            "description": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.",
+            "url": "https://www.bbc.com/news/articles/cly01mdm577o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1aa8/live/6f7fda50-d690-11f0-9184-a796dfacc4c9.jpg",
+            "publishedAt": "2025-12-11T13:34:03Z",
+            "content": "Liv McMahon,Technology reporters\r\nNvidia boss Jensen Huang is among the tech bosses the magazine has put on its biggest cover of the year\r\nTime Magazine's Person of the Year for 2025 is not a single \u2026 [+4335 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Maxwell Zeff",
-            "title": "OpenAI Launches GPT-5.2 as It Navigates \u2018Code Red\u2019",
-            "description": "The ChatGPT-maker is releasing its \u201cbest model yet\u201d as it faces new pressures from Google and other AI competitors.",
-            "url": "https://www.wired.com/story/openai-gpt-launch-gemini-code-red/",
-            "urlToImage": "https://media.wired.com/photos/6939fd17eaa4088bd3b69c9f/191:100/w_1280,c_limit/GettyImages-2249343616.jpg",
-            "publishedAt": "2025-12-11T18:00:00Z",
-            "content": "OpenAI has introduced GPT-5.2, its smartest artificial intelligence model yet, with performance gains across writing, coding, and reasoning benchmarks. The launch comes just days after CEO Sam Altman\u2026 [+2477 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Emily Mullin",
-            "title": "Former Neuralink Exec Launches Organ Preservation Effort",
-            "description": "Science Corporation, founded by Neuralink\u2019s first president, Max Hodak, has unveiled a prototype machine to extend the life of organs for longer periods.",
-            "url": "https://www.wired.com/story/a-brain-computer-interface-company-is-getting-into-organ-preservation/",
-            "urlToImage": "https://media.wired.com/photos/694180f0eeab4b8c7b3a6dbb/191:100/w_1280,c_limit/Vessel3.jpeg",
-            "publishedAt": "2025-12-17T11:15:00Z",
-            "content": "Science Corporation, the brain-computer interface startup founded in 2021 by former Neuralink president Max Hodak, is launching a new division of the company with the goal of extending the life of hu\u2026 [+2552 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Andy Greenberg",
-            "title": "2 Men Linked to China\u2019s Salt Typhoon Hacker Group Likely Trained in a Cisco \u2018Academy\u2019",
-            "description": "The names of two partial owners of firms linked to the Salt Typhoon hacker group also appeared in records for a Cisco training program\u2014years before the group targeted Cisco\u2019s devices in a spy campaign.",
-            "url": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
-            "urlToImage": "https://media.wired.com/photos/69337def6a7147754f546d77/191:100/w_1280,c_limit/security_chinese_hackers_cisco.jpg",
-            "publishedAt": "2025-12-10T17:00:00Z",
-            "content": "To try to determine the probability of those name repetitions being a coincidence, Cary checked two databases of Chinese names and consulted with Yi Fuxian, a professor of Chinese demography at the U\u2026 [+2245 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "AWS CEO Matt Garman Wants to Reassert Amazon\u2019s Cloud Dominance in the AI Era",
-            "description": "As Google and Microsoft continue to surge, the AWS chief lays out his pitch: cheaper, reliable AI delivered at hyperscale.",
-            "url": "https://www.wired.com/story/amazon-aws-ceo-matt-garman-ai-agents/",
-            "urlToImage": "https://media.wired.com/photos/69262e0a63eaab204bc381ad/191:100/w_1280,c_limit/Model-Behavior-Interview-with-AWS-CEO-Matt-Garman-Business-2243442799.jpg",
-            "publishedAt": "2025-12-02T16:00:00Z",
-            "content": "You might think Amazons biggest swing in the AI race was its $8 billion investment in Anthropic. But AWS has also been building in-house foundation models, new chips, massive data centers, and agents\u2026 [+2279 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "An AI Dark Horse Is Rewriting the Rules of Game Design",
-            "description": "The Chinese video game giant Tencent is now building some of the world\u2019s best 3D AI models. This could have implications far outside game design.",
-            "url": "https://www.wired.com/story/tecent-3d-models-video-game-design-artificial-intelligence/",
-            "urlToImage": "https://media.wired.com/photos/692f7438359d941921890935/191:100/w_1280,c_limit/AI-Lab-Tencents-Hunyuan-Models-Business.jpg",
-            "publishedAt": "2025-12-03T19:00:00Z",
-            "content": "The video gameValorant, a fast-paced team-based shooter, has recently become a testing ground for a promising new direction in artificial intelligence research. The games developers at Riot Games (a \u2026 [+2444 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dell Cameron",
-            "title": "Border Patrol Bets on Small Drones to Expand US Surveillance Reach",
-            "description": "Federal records show CBP is moving from testing small drones to making them standard surveillance tools, expanding a network that can follow activity in real time and extend well beyond the border.",
-            "url": "https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/",
-            "urlToImage": "https://media.wired.com/photos/6941ad41cb4966424bfc534f/191:100/w_1280,c_limit/CBP-Doubling-Down-on-Immigrant-Hunting-Drone-Program-Security-2251568064.jpg",
-            "publishedAt": "2025-12-17T18:12:24Z",
-            "content": "US Customs and Border Protection is quietly doubling down on a surveillance strategy built around human-portable drones, according to federal contracting records reviewed by WIRED. The shift is pushi\u2026 [+2590 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Zo\u00eb Schiffer, Brian Barrett",
+            "title": "WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025",
+            "description": "In today\u2019s episode of \u201cUncanny Valley,\u201d we dive into five stories\u2014from AI to DOGE\u2014that encapsulate the year and give us clues as to what might unfold in 2026.",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/",
+            "urlToImage": "https://media.wired.com/photos/6944495422fe5efb9b63c9bd/191:100/w_1280,c_limit/Uncanny-Valley-2025-Trend-Roundup-Business-2195986713.jpg",
+            "publishedAt": "2025-12-19T22:58:41Z",
+            "content": "Brian Barrett: I just this week was looking back at some of our earliest DOGE reporting and reminded of what a crazy couple of months that was. So just as a reminder for folks who were slumbering thr\u2026 [+1551 chars]",
+            "ai_score": 5
         },
         {
             "source": {
@@ -899,428 +812,427 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9a60/live/f5aae580-d69e-11f0-8356-c71b2eb54d34.jpg",
             "publishedAt": "2025-12-12T00:34:11Z",
             "content": "Google has announced plans to team up with the UK to invite researchers to come up with uses for the tech giant's state-of-the-art quantum chip Willow.\r\nIt is one of several firms competing to develo\u2026 [+2585 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "Horses deserves to be played, even if it\u2019s not very good",
+            "description": "Horses has become the current face of the fight against video game censorship and what gets to be art. After getting banned from Steam and the Epic Game Store, the narrative horror game has become a bestseller on GOG.com, and has brought gamers of all stripes\u2026",
+            "url": "https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/HORSES_Screenshot_3.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-05T22:18:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nI say thee neigh.\r\nby\r\nAsh ParrishClose\r\nAsh Parrish\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee \u2026 [+6849 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+            "title": "Nothing's Phone 3a Community Edition is a retro throwback in the digital age",
+            "description": "Nothing revealed its Phone 3a Community Edition phone, which blends a retro design with the company's unique tech.",
+            "url": "https://www.androidcentral.com/phones/nothing-phones/nothings-phone-3a-community-edition-is-a-retro-throwback-in-the-digital-age",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dsKGTyopo5Xv4JdR2nbeXQ-1920-80.jpg",
+            "publishedAt": "2025-12-09T20:19:00Z",
+            "content": "What you need to know\r\n<ul><li>Nothing revealed its Phone 3a Community Edition phone, showcasing its retro, throwback design that its winners have created together.</li><li>The device features a \"Mad\u2026 [+3227 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Kayla Kuefler",
+            "title": "These are the absolute best extended Boxing Day tech deals on Amazon Canada in 2025",
+            "description": "45 best extended Boxing Day tech deals on noise-cancelling headphones, TVs, smartwatches and more.",
+            "url": "https://ca.style.yahoo.com/these-are-the-absolute-best-extended-boxing-day-tech-deals-on-amazon-canada-in-2025-154802501.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AeWbHJ.jYRE.BEaeC3FXvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3c9e2c60-e33b-11f0-b8dd-b0865185c74c",
+            "publishedAt": "2025-12-27T15:48:02Z",
+            "content": "Boxing Day 2025 has come to an end, but savvy shoppers know you can still score dozens of extended Boxing Day deals you just need to know where to look. Whether you have your sights set on a new smar\u2026 [+1540 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The Super Mario Galaxy bundle for the Switch is 20 percent off today only",
+            "description": "Nintendo launched its $69.99 Super Mario Galaxy double pack for the Switch (complete with a free Switch 2 update) in October, but you can get the cartridge containing both games for $55.20 \u2014 the lowest price yet \u2014 at Woot through Black Friday. The only caveat\u2026",
+            "url": "https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Switch2_SuperMarioGalaxy_scrn_06.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-11-29T01:01:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThese Wii-era classics have never looked better, and you can get the twin-pack for $55.20 through Woot.\r\nThese Wii-era classics have never looked better, and you\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brandon Russell",
+            "title": "The Switch 2 is still on sale at Walmart if you missed out during Cyber Monday",
+            "description": "One of the biggest surprises of Cyber Monday was the excellent discount we saw on the Nintendo Switch 2 + Mario Kart World bundle, which dropped the price of Nintendo\u2019s latest console by $50. We expected the price to return to normal once the shopping holiday\u2026",
+            "url": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-02T16:37:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe deal has already kicked elsewhere, but Walmart is offering another chance to save before the holidays.\r\nThe deal has already kicked elsewhere, but Walmart is\u2026 [+2784 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zainab Falak",
+            "title": "ASUS Goes on Clearance With Its ROG Strix G16 Gaming Laptop (RTX 5060, 32GB RAM, 1TB SSD) for the Holidays",
+            "description": "It packs a powerful processor, and delivers impressive graphics for an immersive gaming experience.\nThe post ASUS Goes on Clearance With Its ROG Strix G16 Gaming Laptop (RTX 5060, 32GB RAM, 1TB SSD) for the Holidays appeared first on Kotaku.",
+            "url": "https://kotaku.com/asus-goes-on-clearance-with-its-rog-strix-g16-gaming-laptop-rtx-5060-32gb-ram-1tb-ssd-for-the-holidays-2000653340",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/12/asus-laptop.jpg",
+            "publishedAt": "2025-12-15T14:05:54Z",
+            "content": "Gaming laptops, especially the muscular options from high-end brands, dont come in cheap. Most models with solid graphics, a powerful processor, and massive memory sit well over $2,000, but thats not\u2026 [+3069 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "VW Closes German Plant for First Time Ever. Plant Will Pivot to AI Research",
-            "description": "The auto industry continues its push into an AI-driven future",
-            "url": "https://gizmodo.com/vw-closes-german-plant-for-first-time-ever-plant-will-pivot-to-ai-research-2000700232",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/shutterstock_1506710609-1200x675.jpg",
-            "publishedAt": "2025-12-16T18:30:12Z",
-            "content": "Tuesday was a historic day for German automaker Volkswagen. The company officially closed a plant in its home country for the first time in its 88-year history.\r\nThe plant in Dresden, Germany had bee\u2026 [+3301 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "South China Morning Post",
-            "title": "Moore Threads unveils new AI chips to challenge Nvidia",
-            "description": "Chinese chip designer Moore Threads Technology has unveiled a suite of new products, including its next generation of chip architecture and artificial...",
-            "url": "https://finance.yahoo.com/news/moore-threads-unveils-ai-chips-093000651.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MvCO99SyCjMyNaXi5O_y3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/4e5e464096562250c3e2e6816d64d63f",
-            "publishedAt": "2025-12-21T09:30:00Z",
-            "content": "Chinese chip designer Moore Threads Technology has unveiled a suite of new products, including its next generation of chip architecture and artificial intelligence chips as it looks to challenge US c\u2026 [+3568 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Thomas Urbain with Luna Lin in Beijing",
-            "title": "As US battles China on AI, some companies choose Chinese",
-            "description": "Even as the United States is embarked on a bitter rivalry with China over the deployment of artificial intelligence, Chinese technology is quietly making...",
-            "url": "https://finance.yahoo.com/news/us-battles-china-ai-companies-012305478.html",
-            "urlToImage": "https://media.zenfs.com/en/afp.com/f33adca71cca90fc0bf0a5e61171b06c",
-            "publishedAt": "2025-12-22T01:23:05Z",
-            "content": "The January launch of Chinese company DeepSeek's high-performance, low-cost and open source 'R1' large language model (LLM) defied the perception that the best AI tech had to be from US juggernauts l\u2026 [+4589 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Associated Press",
-            "title": "What to know about MIT professor Nuno Loureiro, who was shot at home near Boston",
-            "description": "Authorities are searching for a suspect in the killing of Nuno F.G. Loureiro, a prominent physics professor at the Massachusetts Institute of Technology, who...",
-            "url": "https://www.yahoo.com/news/articles/know-mit-professor-nuno-loureiro-172814727.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0V3EyspA.vKHW34MJggXAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/aeb0e1b7e3b5b7e59e1451304a89bcc4",
-            "publishedAt": "2025-12-17T17:28:14Z",
-            "content": "Authorities are searching for a suspect in the killing of Nuno F.G. Loureiro, a prominent physics professor at the Massachusetts Institute of Technology, who was shot at his home near Boston. The 47-\u2026 [+3218 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Bloomberg",
-            "title": "The 25-Year Shift That Made China a Global Superpower",
-            "description": "China's entry into the WTO in 2001 accelerated its rise as a global manufacturing and technology powerhouse, fueled export growth, and helped stabilize...",
-            "url": "https://finance.yahoo.com/video/25-shift-made-china-global-150807356.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Pj3c0kbwJBKto1Yn0pYdSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_markets_video_2/4551011d7a152f43988122bcc6cd4d77",
-            "publishedAt": "2025-12-20T15:08:07Z",
-            "content": "China's entry into the WTO in 2001 accelerated its rise as a global manufacturing and technology powerhouse, fueled export growth, and helped stabilize global demand during the financial crisis. As C\u2026 [+339 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Womansworld.com"
-            },
-            "author": "Carissa Mosness",
-            "title": "Big Medicare Changes Coming in 2026\u2014Here's What to Expect",
-            "description": "Next year will bring big changes for people on Medicare, from increased premium prices to new technology and some price-saving drug deals. And while some of ...",
-            "url": "https://www.womansworld.com/healthcare/changes-to-medicare-2026",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IcmA4Sf2a_Uzd5RluGTPIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/woman_s_world_418/89604cc5ff79afbf3139314e410c1844",
-            "publishedAt": "2025-12-26T18:00:57Z",
-            "content": "Next year will bring big changes for people on Medicare, from increased premium prices to new technology and some price-saving drug deals. And while some of these changes will help people actually sa\u2026 [+9102 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "South China Morning Post",
-            "title": "Tensions flare as Wingtech slams chipmaker Nexperia's head office over deception",
-            "description": "A fierce war of words has erupted between Dutch chipmaker Nexperia and its Chinese owner, Wingtech Technology, after China and the European Union signalled...",
-            "url": "https://finance.yahoo.com/news/tensions-flare-wingtech-slams-chipmaker-093000330.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eX8hg3WDDPbBrmy9dNJqAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI-/https://media.zenfs.com/en/south_china_morning_post_us_228/f7e06253a54de67910b433514f01d730",
-            "publishedAt": "2025-11-28T09:30:00Z",
-            "content": "A fierce war of words has erupted between Dutch chipmaker Nexperia and its Chinese owner, Wingtech Technology, after China and the European Union signalled that their dispute should be resolved at th\u2026 [+4240 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Reuters",
-            "title": "Micron to invest $9.6 billion in Japan to build AI memory chip plant, Nikkei reports",
-            "description": "Micron Technology will invest 1.5 trillion yen (\u200b$9.6 billion) to build a new \u200cplant in Hiroshima in western Japan to produce advanced high-bandwidth memory \u200c(...",
-            "url": "https://finance.yahoo.com/news/micron-invest-9-6-billion-075214757.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/9910c64bc309a649538b38fcd7c9ef47",
-            "publishedAt": "2025-11-29T07:52:14Z",
-            "content": "Nov 29 (Reuters) - Micron Technology will invest 1.5 trillion yen ($9.6 billion) to build a new plant in Hiroshima in western Japan to produce advanced high-bandwidth memory (HBM) chips, the Nikkei r\u2026 [+1060 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "South China Morning Post",
-            "title": "Beijing approves first 2 L3 autonomous cars in leap towards 'hands-off' driving",
-            "description": "Beijing has approved China's first two cars with level 3 (L3) autonomous driving capability, taking a leap towards widely deploying self-driving technology...",
-            "url": "https://tech.yahoo.com/transportation/articles/beijing-approves-first-two-l3-093000022.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5C4Xsrw4EdJkEbXryeKOjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzQ-/https://media.zenfs.com/en/south_china_morning_post_us_228/05de77412cd40bd0a709f19eb2c60faf",
-            "publishedAt": "2025-12-16T09:30:00Z",
-            "content": "Beijing has approved China's first two cars with level 3 (L3) autonomous driving capability, taking a leap towards widely deploying self-driving technology in the world's largest automotive market.\r\n\u2026 [+4464 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "KIMBERLEE KRUESI and HEATHER HOLLINGSWORTH",
-            "title": "Suspect in Brown University shooting and MIT professor\u2019s killing was once a physics student",
-            "description": "The man suspected in a mass shooting at Brown University and the killing of a Massachusetts Institute of Technology professor was in the same academic...",
-            "url": "https://www.yahoo.com/news/articles/suspect-brown-university-shooting-mit-182619091.html",
-            "urlToImage": "https://media.zenfs.com/en/ap.org/01c9951eed88ad85f1766c76e54491b8",
-            "publishedAt": "2025-12-19T18:26:19Z",
-            "content": "PROVIDENCE, R.I. (AP) The man suspected in a mass shooting at Brown University and the killing of a Massachusetts Institute of Technology professor was in the same academic program as the professor i\u2026 [+4813 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "MICHAEL CASEY",
-            "title": "Shooting of MIT professor Nuno Loureiro has police searching for a suspect",
-            "description": "Police intensified their search Wednesday for a suspect in the killing of professor Nuno F.G. Loureiro at the Massachusetts Institute of Technology, two days...",
-            "url": "https://www.yahoo.com/news/articles/search-goes-suspect-fatal-shooting-145649581.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VIKNS1Zr2mW1CtWYoGVJSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/4a79c8ad1e36f475bd92ff1f575a06cf",
-            "publishedAt": "2025-12-17T14:56:49Z",
-            "content": "BROOKLINE, Mass. (AP) Police intensified their search Wednesday for a suspect in the killing of professor Nuno F.G. Loureiro at the Massachusetts Institute of Technology, two days after he was shot t\u2026 [+3193 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "By AJ Vicens",
-            "title": "Russian defense firms targeted by hackers using AI, other tactics",
-            "description": "Dec 19 (Reuters) - Russian technology companies working on air defense, sensitive electronics and other defense applications were targeted in recent weeks by...",
-            "url": "https://www.yahoo.com/news/articles/russian-defense-firms-targeted-hackers-110543326.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters.com/b8acb86127ebba5617fe16fa8ce2f930",
-            "publishedAt": "2025-12-19T11:05:43Z",
-            "content": "By AJ Vicens\r\nDec 19 (Reuters) - Russian technology companies working on air defense, sensitive electronics and other defense applications were targeted in recent weeks by a cyber espionage group usi\u2026 [+3702 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SlashGear"
-            },
-            "author": "Rahul Srinivas",
-            "title": "Gen 1 Starlink Routers Will Soon Be 'Obsolete' \u2013 But You Can Upgrade For Free",
-            "description": "Users of early generation Starlink routers are facing the reality of aging technology, as their routers are declared obsolete. Here's what you need to do.",
-            "url": "https://www.slashgear.com/2058642/gen-1-starlink-router-free-upgrade/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FdhuuBRbS6XpR0YSEowtSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/slash_gear_112/a791fd2a9442e28e7acfbbe5e9f5932c",
-            "publishedAt": "2025-12-27T12:45:00Z",
-            "content": "In November 2025, Starlink announced that it would phase out its first-generation (Gen 1) Wi-Fi routers that came bundled with initial Starlink internet connections. Subscribers still using the Gen 1\u2026 [+3560 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "The Associated Press",
-            "title": "IBM buys data streaming platform Confluent in $11 billion deal",
-            "description": "IBM said Monday it's buying data streaming platform Confluent in a deal worth $11 billion that will help bolster the technology company's artificial...",
-            "url": "https://finance.yahoo.com/news/ibm-buys-data-streaming-platform-140732163.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.flulUVXcs3dlFtEa3t3xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/379ef9f5e715d85bbb646bd067081c37",
-            "publishedAt": "2025-12-08T14:07:32Z",
-            "content": "IBM said Monday it's buying data streaming platform Confluent in a deal worth $11 billion that will help bolster the technology company's artificial intelligence strategy.\r\nThe two companies said the\u2026 [+1108 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dpa-international.com"
-            },
-            "author": "DPA",
-            "title": "Poland to transfer remaining MiG-29 fighter jets to Ukraine",
-            "description": "Poland will hand over its remaining MiG-29 combat jets to Ukraine in exchange for new missile and drone technology, according to the Polish general staff...",
-            "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:251210-99-885072/",
-            "urlToImage": "https://media.zenfs.com/en/dpa_international_526/c7a9ec94272e82b59f5f48b5f2fe8513",
-            "publishedAt": "2025-12-10T13:10:33Z",
-            "content": "Poland will hand over its remaining MiG-29 combat jets to Ukraine in exchange for new missile and drone technology, according to the Polish general staff, which described the move as a \"donation.\"\r\nT\u2026 [+776 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Bloomberg",
-            "title": "Paramount's Ellison Gets Middle East Backing for WBD Bid",
-            "description": "Paramount Skydance's bid for Warner Bros. Discovery gets backing from three Middle East sovereign wealth funds. Rich Greenfield, media and technology analyst...",
-            "url": "https://finance.yahoo.com/video/paramounts-ellison-gets-middle-east-211222434.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/LBELYrQ4g5s3hCqJtPh1Hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_markets_video_2/6e009b1c34bda225c510bf8587b295ff",
-            "publishedAt": "2025-12-08T21:12:22Z",
-            "content": "Paramount Skydance's bid for Warner Bros. Discovery gets backing from three Middle East sovereign wealth funds. Rich Greenfield, media and technology analyst at LightShed Partners, discusses the comp\u2026 [+109 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Twz.com"
-            },
-            "author": "Thomas Newdick",
-            "title": "Poland\u2019s Last MiG-29 Fulcrums Being Lined Up For Transfer To Ukraine",
-            "description": "Poland plans to hand over its final MiG-29s to Ukraine, with drone and missile technology heading in the other direction.",
-            "url": "https://www.twz.com/air/polands-last-mig-29-fulcrums-being-lined-up-for-transfer-to-ukraine",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ISfMMuQMK7IHxhmTOlVcmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_warzone_735/8b969b9c86405bbc41062ffbedae8581",
-            "publishedAt": "2025-12-10T17:35:40Z",
-            "content": "Additional much-needed MiG-29 Fulcrum fighters are likely headed to Ukraine, with Poland in talks to provide the country with its last remaining examples. Poland already donated 14 of its MiG-29s to \u2026 [+9543 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "COREY WILLIAMS",
-            "title": "Ford turns to stepped-up tech and cooperation with police to thwart F-150 pickup thieves",
-            "description": "Ford Motor Co. has stepped up technology in its popular F-150 pickup to combat the ever-evolving techniques car thieves have at their disposal.  It is the...",
-            "url": "https://autos.yahoo.com/safety-and-recalls/articles/ford-turns-stepped-tech-cooperation-110356991.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W3lgs8akNhp0wjSf7MfMhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/ap.org/5c8e53074beb2d30331681eae22361ab",
-            "publishedAt": "2025-12-12T11:03:56Z",
-            "content": "DETROIT (AP) Ford Motor Co. has stepped up technology in its popular F-150 pickup to combat the ever-evolving techniques car thieves have at their disposal.\r\nIt is the latest cat-and-mouse move that \u2026 [+4054 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Adam Hejl",
-            "title": "Why Are Enova (ENVA) Shares Soaring Today",
-            "description": "Shares of financial technology company Enova International (NYSE:ENVA) jumped 13.1% in the afternoon session after the company announced it agreed to acquire...",
-            "url": "https://finance.yahoo.com/news/why-enova-enva-shares-soaring-191616473.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.ULIl92CMFBSPKTy..M6lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/2f21a9f3db2e77dc4ca0768d51085809",
-            "publishedAt": "2025-12-11T19:16:16Z",
-            "content": "Shares of financial technology company Enova International (NYSE:ENVA) jumped 13.1% in the afternoon session after the company announced it agreed to acquire Grasshopper Bancorp, a digital bank, in a\u2026 [+2450 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "South China Morning Post",
-            "title": "China narrows AI gap with US 3 years after initial ChatGPT shock",
-            "description": "US start-up OpenAI's launch of ChatGPT on November 30 three years ago sent China's technology industry scrambling to get up to speed on the latest artificial...",
-            "url": "https://finance.yahoo.com/news/china-narrows-ai-gap-us-093000477.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U739PTmpw_M.DoSD1JjFrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/51dad2a90b0f9eced4f05238d2c5c2b6",
-            "publishedAt": "2025-12-13T09:30:00Z",
-            "content": "US start-up OpenAI's launch of ChatGPT on November 30 three years ago sent China's technology industry scrambling to get up to speed on the latest artificial intelligence developments.\r\nChinese gover\u2026 [+11701 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Reuters",
-            "title": "Nvidia buys AI software provider SchedMD to expand open-source AI push",
-            "description": "Nvidia said on Monday it acquired AI software firm SchedMD, as the chip designer doubles down on open-source technology \u200band steps up investments in the...",
-            "url": "https://finance.yahoo.com/news/nvidia-buys-ai-software-provider-163639653.html",
-            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/e10e269d0453fd59c99995d002214bdf",
-            "publishedAt": "2025-12-15T16:36:39Z",
-            "content": "Dec 15 (Reuters) - Nvidia said on Monday it acquired AI software firm SchedMD, as the chip designer doubles down on open-source technology and steps up investments in the artificial intelligence ecos\u2026 [+1840 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "cleveland.com"
-            },
-            "author": "Chris Pugh",
-            "title": "Costco begins rolling out a big change. Here\u2019s what to expect",
-            "description": "Costco has quietly improved and expanded its self\u2011checkout process by rolling out upgraded technology known as \u201cScan & Pay,\u201d allowing members to scan and pay...",
-            "url": "https://www.cleveland.com/news/2025/12/costco-begins-rolling-out-a-big-change-heres-what-to-expect.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xoDJAV_8xJ32fj4.Iip.Ow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTQ7Y2Y9d2VicA--/https://media.zenfs.com/en/cleveland_com_articles_529/25b14765cb4c25663f8e5a0b67e3b3e8",
-            "publishedAt": "2025-12-18T17:37:05Z",
-            "content": "SEATTLE Costco has been quietly improving selfcheckout stations and expanding them across the country to help members check out faster. The company has been testing new technology to speed up the pro\u2026 [+1077 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "South China Morning Post",
-            "title": "AMD chief Lisa Su commits to 'deeper' China investments in meeting with industry minister",
-            "description": "Lisa Su, chair and chief executive of Advanced Micro Devices (AMD), on Wednesday met the Chinese minister of industry and information technology (MIIT...",
-            "url": "https://finance.yahoo.com/news/amd-chief-lisa-su-commits-093000368.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lBwOakfF.LcTw3vJyvVFmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/cebd02e18aaabf0c34fa8d614a88d8f9",
-            "publishedAt": "2025-12-17T09:30:00Z",
-            "content": "Lisa Su, chair and chief executive of Advanced Micro Devices (AMD), on Wednesday met the Chinese minister of industry and information technology (MIIT), where she affirmed the US chipmaker's \"commitm\u2026 [+2614 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Chowhound"
-            },
-            "author": "Leslie Nipkow",
-            "title": "6 Big Changes Coming To Walmart In 2026",
-            "description": "Retail giant Walmart is embracing technology to improve the customer experience, increase efficiencies, and save money. See what this means for you.",
-            "url": "https://www.chowhound.com/2052204/walmart-changes-twenty-twenty-six/",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nzpn4GSFLp8JIQBDDJcWmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/chowhound_739/b76805c96f4408f72929e82f4314c586",
-            "publishedAt": "2025-12-17T11:15:00Z",
-            "content": "The end of a blue cart in the center of an aisle at Walmart - JRomero04/Shutterstock\r\nWe may receive a commission on purchases made from links.\r\nAs 2026 barrels toward us, we're making resolutions to\u2026 [+10795 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Mike Pearl",
+            "title": "California Might Tax Billionaires. Cue the Inevitable Tech Billionaire Tantrum",
+            "description": "They say they're going to do something that rhymes with \"grieve.\"",
+            "url": "https://gizmodo.com/california-might-tax-billionaires-cue-the-inevitable-tech-billionaire-tantrum-2000703411",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/peter-thiel-1200x675.jpg",
+            "publishedAt": "2025-12-27T16:52:07Z",
+            "content": "Taking money away from billionaires is funny, and threatening to do it can be a nice political sugar rush for anyone with even a tiny amount of class consciousness (even though it would not get close\u2026 [+3411 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew J. Hawkins",
-            "title": "Tesla would have to rein in FSD under new Democratic bill",
-            "description": "Tesla and other automakers working on Level 2 and higher driving systems would be required to restrict their vehicles to specific road types or clearly defined operational domains under a new bill introduced today by Massachusetts Senator Ed Markey (D). Opera\u2026",
-            "url": "https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2201582645.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-17T16:47:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAutomakers would be required to restrict their Level 2 driving system to safe road environments. That could seriously hamper Teslas Full Self-Driving rollout.\r\nA\u2026 [+4241 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Andrew Liszewski",
+            "title": "This Tetris-playing watch struggles with the one thing it should be great at",
+            "description": "The Tetris: My Play Watch may look like an Apple Watch, but it eschews most of the functionality you'll typically find on a smartwatch to focus on two things: playing Tetris and celebrating the game through a UI that's thoroughly Tetris-themed. It's very good\u2026",
+            "url": "https://www.theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/tetris_myplaywatch_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+            "publishedAt": "2025-12-12T13:41:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFinicky touchscreen controls make this watchs best feature its most disappointing.\r\nFinicky touchscreen controls make this watchs best feature its most disappoin\u2026 [+6556 chars]",
+            "ai_score": 5
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew J. Hawkins",
-            "title": "Mercedes-Benz discontinues feature that syncs music to driving",
-            "description": "Mercedes-Benz sent out a notice to customers recently announcing its plans to discontinue MBUX Sound Drive, an interactive audio feature that syncs music to the car's actions. The feature was first announced less than a year ago at CES in partnership with Bla\u2026",
-            "url": "https://www.theverge.com/news/846367/mercedes-benz-discontinues-feature-that-syncs-music-to-driving",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25206115/24C0019_003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-17T17:04:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother Will.i.am affiliated tech product to end up in the waste bin.\r\nAnother Will.i.am affiliated tech product to end up in the waste bin.\r\nby\r\nAndrew J. Hawki\u2026 [+3841 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Tom Warren",
+            "title": "Microsoft is quietly walking back its diversity efforts",
+            "description": "Microsoft has been publishing data about the gender, race, and ethnic breakdown of its employees for more than a decade. Since 2019 it's been publishing a full diversity and inclusion report annually, and at the same time made reporting on diversity a require\u2026",
+            "url": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-04T18:54:03Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is toeing the line in Trumps America.\r\nMicrosoft is toeing the line in Trumps America.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this author will be\u2026 [+13276 chars]",
+            "ai_score": 5
         },
         {
             "source": {
-                "id": null,
-                "name": "Hackaday"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Al Williams",
-            "title": "The Miracle of Color TV",
-            "description": "We\u2019ve often said that some technological advancements seemed like alien technology for their time. Sometimes we look back and think something would be easy until we realize they didn\u2019t have \u2026read more",
-            "url": "https://hackaday.com/2025/12/18/the-miracle-of-color-tv/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/12/tv.png",
-            "publishedAt": "2025-12-19T06:00:15Z",
-            "content": "We\u2019ve often said that some technological advancements seemed like alien technology for their time. Sometimes we look back and think something would be easy until we realize they didn\u2019t have the tools\u2026 [+2022 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "Andrew Liszewski",
+            "title": "You can now text photos directly to Aura\u2019s digital picture frames",
+            "description": "It's now easier for friends and family who aren't tech savvy or are struggling with app fatigue to share images via your Aura digital photo frame. As the name of the new \"text to frame\" feature implies, photos can now be shared to an Aura frame through a text\u2026",
+            "url": "https://www.theverge.com/news/840142/aura-text-to-frame-digital-picture-frame-share-photos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/aura_texttoframe_1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2025-12-08T19:07:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFriends and family can share pictures to your photo frame without having to download Auras app.\r\nFriends and family can share pictures to your photo frame withou\u2026 [+2635 chars]",
+            "ai_score": 5
         },
         {
             "source": {
-                "id": null,
-                "name": "Hackaday"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Bryan Cockfield",
-            "title": "Ride On with FOSS and GoldenCheetah",
-            "description": "If you exclude certain companies like Peloton, the world of cycling technology is surprisingly open. It\u2019s not perfect by any means, but there are enough open or open-ish standards for \u2026read more",
-            "url": "https://hackaday.com/2025/12/03/ride-on-with-foss-and-goldencheetah/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2025/11/goldencheetah-main.png",
-            "publishedAt": "2025-12-04T00:00:53Z",
-            "content": "If you exclude certain companies like Peloton, the world of cycling technology is surprisingly open. It\u2019s not perfect by any means, but there are enough open or open-ish standards for many different \u2026 [+1606 chars]",
-            "ai_score": 5,
-            "ai_tags": "General"
+            "author": "David Pierce",
+            "title": "The Vergecast 2025 year in review",
+            "description": "When we look back on 2025, at least in tech, we'll remember it mostly as a year about AI. We had a race between OpenAI, Google, Anthropic, and others to build the best model for the most things. Nvidia became the most valuable company in the world, data cente\u2026",
+            "url": "https://www.theverge.com/podcast/840661/tech-stories-2025-ai-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/VRG_VST_1209_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-09T14:45:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the best, worst, biggest, and weirdest of everything that happened in a wild year in tech.\r\nOn The Vergecast: the best, worst, biggest, and wei\u2026 [+2899 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "In 2025, wearables made a hard pivot to AI",
+            "description": "Years from now, I'll look back at 2025 as the year when a fundamental shift happened in wearable technology. Over the last decade, the category has been synonymous with health and fitness. In many ways, that association is still the primary one. But this year\u2026",
+            "url": "https://www.theverge.com/gadgets/838876/2025-ai-wearables-smart-glasses-pendants-fitness",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_WEARABLES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-16T16:16:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI glasses, AI fitness coaches, and AI pendants Its AI all the way down.\r\nAI glasses, AI fitness coaches, and AI pendants Its AI all the way down.\r\nby\r\nVictoria \u2026 [+5214 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Humanoid robots are coming. Eventually?",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on robotics and AI, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. We're taking a winter b\u2026",
+            "url": "https://www.theverge.com/column/843418/humanoid-robot-hype",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-21T13:07:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHumanoid robots are coming. Eventually?\r\nChina sees humanoids as an economic engine and Musk wants a robot army. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from \u2026 [+12524 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alex Heath",
+            "title": "Amazon\u2019s bet that AI benchmarks don\u2019t matter",
+            "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Amazon's AI chief has a message for the model benchmark obsessives: Stop looking at the leaderboards. \"I want real\u2026",
+            "url": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1244423126.jpg?quality=90&strip=all&crop=0%2C9.8885323425097%2C100%2C80.222935314981&w=1200",
+            "publishedAt": "2025-12-02T20:41:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhile OpenAI, Anthropic, and Google trade blows at the top of the charts, Amazon is asking everyone to look somewhere else.\r\nWhile OpenAI, Anthropic, and Google \u2026 [+5837 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Thomas Ricker",
+            "title": "Starlink made \u2018work from home\u2019 possible from anywhere \u2014 now, I\u2019m ready for a change",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started I\u2026",
+            "url": "https://www.theverge.com/column/837202/starlink-work-from-home",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258152_Starlink_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-04T21:59:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCompetition is coming, but it might never catch up.\r\nby\r\nThomas RickerClose\r\nThomas Ricker\r\nPosts from this author will be added to your daily email digest and y\u2026 [+11554 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Barbara Krasnoff",
+            "title": "Black Friday deals that are most popular with Verge readers",
+            "description": "It may not surprise anyone who is tech-aware that publications such as\u00a0The Verge\u00a0track the affiliate links that their readers click \u2014 in fact, every article that links to a vendor has this statement on top: \u201cIf you buy something from a Verge link, Vox Media m\u2026",
+            "url": "https://www.theverge.com/gadgets/830017/black-friday-ipod-favorite-deals-sales",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/chomchom.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2025-11-28T22:14:15Z",
+            "content": "It may not surprise anyone who is tech-aware that publications such as\u00a0The Verge\u00a0track the affiliate links that their readers click \u2014 in fact, every article that links to a vendor has this statement \u2026 [+5635 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "The scramble to launch data centers into space is heating up",
+            "description": "A startup developing technologies to harness solar power in space is throwing its hat in with big tech companies attempting to build out data centers that orbit Earth. The US-based company, Aetherflux, announced on Tuesday that it plans to launch its first da\u2026",
+            "url": "https://www.theverge.com/news/841887/data-center-space-solar-power-aetherflux-lunch",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1027918170.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2025-12-10T20:13:03Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA solar-powered Galactic Brain is supposed to side-step energy constraints new data centers face on Earth. \r\nA solar-powered Galactic Brain is supposed to side-s\u2026 [+4668 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Facebook and Instagram will let European users see fewer personal ads",
+            "description": "Meta will soon give Instagram and Facebook users in the European Union the option to limit personalised ads, in an effort to comply with the bloc's tech rules. The European Commission announced that the new advertising options will be rolled out in January 20\u2026",
+            "url": "https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_7_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-08T16:12:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe upcoming changes follow Meta being fined $266 million in April over its consent or pay ad model.\r\nThe upcoming changes follow Meta being fined $266 million i\u2026 [+2741 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Elissa Welle",
+            "title": "Billionaires want data centers everywhere, including space",
+            "description": "Tech billionaires have been obsessed with space for a long time. Now, as the largest AI companies race to build more data centers in a frenzied pursuit of profitability, space is looking less like a pet project and more like a commercial opportunity. In 2025 \u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Vrg_illo_Kristen_Radtke_data_centers_in_space.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-17T17:48:34Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBillionaires want data centers everywhere, including space\r\nAstronomers and environmental scientists are skeptical.\r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts f\u2026 [+11186 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Parker Hall",
+            "title": "20 Best Cyber Monday TV Deals (2025)",
+            "description": "Here are the best deals on screens from Hisense, TCL, Samsung, Sony, and more this shopping holiday.",
+            "url": "https://www.wired.com/story/cyber-monday-tv-deals-2025/",
+            "urlToImage": "https://media.wired.com/photos/6923e421c68e1875e6bc3d18/191:100/w_1280,c_limit/Best%20Black%20Friday%20TV%20Deals.png",
+            "publishedAt": "2025-12-01T08:30:00Z",
+            "content": "Looking for a new screen this holiday season? Every TV has been released for the year, which makes now a good time to upgrade yours to whatever has been tickling your fancy (now that you've read our \u2026 [+7231 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Parker Hall",
+            "title": "20 Best Black Friday TV Deals (2025)",
+            "description": "Here are the best deals on screens from Hisense, TCL, Samsung, Sony, and more this shopping holiday.",
+            "url": "https://www.wired.com/story/black-friday-tv-deals-2025-2/",
+            "urlToImage": "https://media.wired.com/photos/6923e421c68e1875e6bc3d18/191:100/w_1280,c_limit/Best%20Black%20Friday%20TV%20Deals.png",
+            "publishedAt": "2025-11-30T15:52:22Z",
+            "content": "Looking for a new screen this holiday season? Every TV has been released for the year, which makes now a good time to upgrade yours to whatever has been tickling your fancy (now that you've read our \u2026 [+7211 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "We found 25 great laptop deals you can still grab for Cyber Monday",
+            "description": "We\u2019re well into Cyber Monday, and many of the same laptop deals that impressed us during Black Friday and the following weekend are still here. In fact, not only can you still save hundreds on great notebooks from Microsoft, Apple, Razer, HP, and more, but we\u2026",
+            "url": "https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-01T22:56:00Z",
+            "content": "There are deals on gaming laptops and MacBooks, as well as gaming laptops that want to be MacBooks.\r\n\n\nWe\u2019re well into Cyber Monday, and many of the same laptop deals that impressed us during Black F\u2026 [+19616 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Bungie\u2019s delayed shooter Marathon launches in March",
+            "description": "Bungie's Marathon, its upcoming extraction shooter that it delayed from a planned September release, will now launch in March 2026. The studio is \"targeting\" a price of $39.99, and \"purchasing Marathon will give you full access to the game, including a roadma\u2026",
+            "url": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2025_DEC_Marathon_Press_Kit_Compressed_003.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-15T18:42:03Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter poor alpha test feedback, the game is now set to come out early next year.\r\nAfter poor alpha test feedback, the game is now set to come out early next year\u2026 [+1943 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Call of Duty, Titanfall developer Vince Zampella has died at age 55",
+            "description": "Vince Zampella, who had a major hand in developing franchises like Medal of Honor, Call of Duty, and Battlefield, died in a car crash on Sunday, NBC Los Angeles reports. He was 55. NBC Los Angeles and CBS Los Angeles report California Highway Patrol responded\u2026",
+            "url": "https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1137086888.jpg?quality=90&strip=all&crop=0%2C11.34049086531%2C100%2C77.319018269379&w=1200",
+            "publishedAt": "2025-12-22T20:57:37Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nZampella co-founded Respawn Entertainment and the original Call of Duty studio, Infinity Ward.\r\nZampella co-founded Respawn Entertainment and the original Call o\u2026 [+2444 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "007 First Light\u2019s release date gets shaken up",
+            "description": "IO Interactive has delayed the release of 007 First Light, its upcoming James Bond origin story game, by two months. 007 First Light will now be released on May 27th, 2026. According to an announcement about the delay: 007 First Light is our most ambitious pr\u2026",
+            "url": "https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_a840c903dd0431a24509454787dcb0a565b56d31.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-23T18:39:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new James Bond game is getting a two-month delay.\r\nThe new James Bond game is getting a two-month delay.\r\nby\r\nJay PetersClose\r\nJay Peters\r\nPosts from this au\u2026 [+2215 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "The best games to play on Xbox Game Pass in 2025",
+            "description": "From pervasive layoffs to continued price hikes, things didn't go so well for Xbox in 2025. But even though Game Pass, the Xbox subscription service, isn't quite the deal it once was, there are still a lot of excellent titles to check out. This was an especia\u2026",
+            "url": "https://www.theverge.com/games/845376/xbox-games-pass-best-games-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_XBOX_GAME_PASS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-17T14:00:34Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt was a rough year for Microsofts gaming division, but there are still some great games to check out.\r\nIt was a rough year for Microsofts gaming division, but t\u2026 [+4876 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "We played Metroid Prime 4, ask us anything",
+            "description": "Metroid Prime 4: Beyond is one of those games that been a long time coming. Fans have been waiting almost a decade for the next entry in Samus' first-person adventures. Early previews painted an alarming picture of overly chatty sidekicks ruining what's tradi\u2026",
+            "url": "https://www.theverge.com/games/836580/metroid-prime-4-ask-me-anything",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Switch_MetroidPrime4Beyond-scrn-16.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-02T18:59:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nShare all your burning questions about Samus latest adventure.\r\nShare all your burning questions about Samus latest adventure.\r\nby\r\nAsh ParrishClose\r\nAsh Parrish\u2026 [+2087 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "The next Star Wars game is the spiritual successor to Knights of the Old Republic",
+            "description": "The next Star Wars game is coming from the director of Mass Effect and Knights of the Old Republic. Star Wars: Fate of the Old Republic was revealed during The Game Awards with a brief trailer that got Geoff Keighley so excited his voice started cracking. Lik\u2026",
+            "url": "https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-11-at-8.18.40%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C2.6447617888017%2C100%2C94.710476422397&w=1200",
+            "publishedAt": "2025-12-12T01:48:01Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCasey Hudson has been tapped to lead development on the game.\r\nCasey Hudson has been tapped to lead development on the game.\r\nby\r\nAsh ParrishClose\r\nAsh Parrish\r\n\u2026 [+1991 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Ghost of Y\u014dtei studio Sucker Punch is getting new leadership",
+            "description": "Sucker Punch Productions, the PlayStation studio behind games like Ghost of Y\u014dtei and the Infamous and Sly Cooper series, will be headed up by Jason Connell and Adrian Bentley starting January 1st, Sony announced on Tuesday. Studio co-founder Brian Fleming is\u2026",
+            "url": "https://www.theverge.com/news/845573/sony-playstation-sucker-punch-leadership",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-16-at-9.52.48%E2%80%AFAM.png?quality=90&strip=all&crop=9.3709311127933%2C0%2C81.258137774413%2C100&w=1200",
+            "publishedAt": "2025-12-16T17:54:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCo-founder Brian Fleming is stepping down, with longtime Sucker Punch staffers Jason Connell and Adrian Bentley taking over as studio heads.\r\nCo-founder Brian Fl\u2026 [+2373 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "This $5 Kindle page-turning remote is all I\u2019m buying for Cyber Monday",
+            "description": "I\u2019ve been looking for any huge Cyber Monday deals that I might have missed. Then I saw it \u2014 what may very well be the perfect stocking stuffer in 2025: a remote-controlled Kindle screen-tapping gadget for $4.75 (before tax) at Amazon with the code EJXVDK26 (v\u2026",
+            "url": "https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/pageflipper.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2025-12-01T19:18:35Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIn case youre looking for stuff that wont gut your savings, may I present this very affordable (and helpful) gizmo?\r\nIn case youre looking for stuff that wont gu\u2026 [+2790 chars]",
+            "ai_score": 5
         }
     ]
 }
