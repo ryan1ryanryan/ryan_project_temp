@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 47791,
+    "totalResults": 47812,
     "articles": [
         {
             "source": {
@@ -9,12 +9,13 @@
             },
             "author": "Jay Peters",
             "title": "Comcast cable boxes are getting Amazon Luna cloud gaming",
-            "description": "Amazon's Luna cloud gaming service is coming to cable boxes from Comcast and Rogers. The Luna app is already available via web browsers, Fire TV devices, Fire tablets, and many smart TVs from Samsung and LG, and this new expansion will bring the service to \"m\u2026",
+            "description": "Amazon's Luna cloud gaming service is coming to cable boxes from Comcast and Rogers. The Luna app is already available via web browsers, Fire TV devices, Fire tablets, and many smart TVs from Samsung and LG, and this new expansion will bring the service to \"m…",
             "url": "https://www.theverge.com/news/842201/amazon-luna-comcast-xfinity-rogers-cable-boxes",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/image.jpeg?quality=90&strip=all&crop=0%2C3.432408702156%2C100%2C93.135182595688&w=1200",
             "publishedAt": "2025-12-11T17:44:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLuna relaunched earlier this year, and now, it will be available on more devices.\r\nLuna relaunched earlier this year, and now, it will be available on more devic\u2026 [+2198 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLuna relaunched earlier this year, and now, it will be available on more devices.\r\nLuna relaunched earlier this year, and now, it will be available on more devic… [+2198 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -23,12 +24,13 @@
             },
             "author": "Andrew Liszewski",
             "title": "Razer resurrects the first ever gaming mouse as a limited edition",
-            "description": "Razer is returning to its roots and relaunching the world's first gaming mouse that debuted over 25 years ago before there was even a gaming peripheral industry. The original K\u00e4rna Razer Boomslang was best known for its encoding wheel that could more accurate\u2026",
+            "description": "Razer is returning to its roots and relaunching the world's first gaming mouse that debuted over 25 years ago before there was even a gaming peripheral industry. The original Kärna Razer Boomslang was best known for its encoding wheel that could more accurate…",
             "url": "https://www.theverge.com/news/841494/razer-boomslang-20th-anniversary-edition-gaming-mouse-rechargeable-optical",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/razer_boomslang1.jpg?quality=90&strip=all&crop=0%2C10.707469663105%2C100%2C78.58506067379&w=1200",
             "publishedAt": "2025-12-10T14:16:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Boomslang is back after launching over 25 years ago.\r\nThe Boomslang is back after launching over 25 years ago.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Liszewski\r\n\u2026 [+2778 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Boomslang is back after launching over 25 years ago.\r\nThe Boomslang is back after launching over 25 years ago.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Liszewski\r\n… [+2778 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -41,8 +43,9 @@
             "url": "https://www.wired.com/story/best-black-friday-gaming-laptop-deal/",
             "urlToImage": "https://media.wired.com/photos/68ffd7d5b70632df744b2fd8/191:100/w_1280,c_limit/Review-%20Alienware%2016X%20Aurora.png",
             "publishedAt": "2025-11-30T15:02:19Z",
-            "content": "I've been sorting through Black Friday laptop deals all week, including discounts on gaming laptops. There are a lot of decent options out there, but when it comes to the best bang-for-your-buck valu\u2026 [+3394 chars]",
-            "ai_score": 5
+            "content": "I've been sorting through Black Friday laptop deals all week, including discounts on gaming laptops. There are a lot of decent options out there, but when it comes to the best bang-for-your-buck valu… [+3394 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -50,13 +53,14 @@
                 "name": "Gizmodo.com"
             },
             "author": "Raymond Wong",
-            "title": "Vote for the Best Tech of 2025 in Gizmodo\u2019s Readers\u2019 Choice Awards",
-            "description": "Vote now in the Gizmodo Best Tech of 2025 Readers\u2019 Choice Awards and help decide which gadgets and devices Best of 2025!",
+            "title": "Vote for the Best Tech of 2025 in Gizmodo’s Readers’ Choice Awards",
+            "description": "Vote now in the Gizmodo Best Tech of 2025 Readers’ Choice Awards and help decide which gadgets and devices Best of 2025!",
             "url": "https://gizmodo.com/gizmodo-best-tech-of-2025-readers-choice-awards-2000694054",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Gizmodo-Readers-Choice-Awards-Featured-Image-1200x675.jpg",
             "publishedAt": "2025-12-02T12:00:26Z",
-            "content": "We\u2019ve already shared our winners of Gizmodo\u2019s Best Tech of 2025 Awards and now it\u2019s\u00a0your turn. Whether you\u2019ve read our reviews and agreed or disagreed, here\u2019s your chance to help decide what was the \u2026 [+1196 chars]",
-            "ai_score": 5
+            "content": "We’ve already shared our winners of Gizmodo’s Best Tech of 2025 Awards and now it’s your turn. Whether you’ve read our reviews and agreed or disagreed, here’s your chance to help decide what was the … [+1196 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -64,27 +68,29 @@
                 "name": "The Verge"
             },
             "author": "Tom Warren",
-            "title": "Wooting\u2019s 60HE v2 is a solid upgrade to the best gaming keyboard",
-            "description": "Over the past couple of years, I've tried to switch to many different gaming keyboards and always ended up back with a Wooting 60HE. Wooting changed PC gaming with the 60HE, popularizing the use of Hall effect switches and a Rapid Trigger system that speeds u\u2026",
+            "title": "Wooting’s 60HE v2 is a solid upgrade to the best gaming keyboard",
+            "description": "Over the past couple of years, I've tried to switch to many different gaming keyboards and always ended up back with a Wooting 60HE. Wooting changed PC gaming with the 60HE, popularizing the use of Hall effect switches and a Rapid Trigger system that speeds u…",
             "url": "https://www.theverge.com/tech/836168/wooting-60he-v2-keyboard-gaming-hands-on",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/twarren_wooting_60he_v2_01.jpg?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
             "publishedAt": "2025-12-02T14:45:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWooting has done a great job improving the sound and feel of its popular keyboard.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this author will be added to your\u2026 [+6192 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWooting has done a great job improving the sound and feel of its popular keyboard.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this author will be added to your… [+6192 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Terrence O\u2019Brien",
+            "author": "Terrence O’Brien",
             "title": "The LCD Steam Deck is done",
-            "description": "The most affordable Steam Deck, the $399 LCD model, is not available in the US. And, according to the Steam Deck site, it won't be coming back. Underneath the listings for the various models is a note that says: We are no longer producing the Steam Deck LCD 2\u2026",
+            "description": "The most affordable Steam Deck, the $399 LCD model, is not available in the US. And, according to the Steam Deck site, it won't be coming back. Underneath the listings for the various models is a note that says: We are no longer producing the Steam Deck LCD 2…",
             "url": "https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23276765/DSC00707_Edit_2.jpg?quality=90&strip=all&crop=0%2C2.9411764705882%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-20T16:09:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe entry-level model is out of stock on the US store and is no longer being produced.\r\nThe entry-level model is out of stock on the US store and is no longer be\u2026 [+2275 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe entry-level model is out of stock on the US store and is no longer being produced.\r\nThe entry-level model is out of stock on the US store and is no longer be… [+2275 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -92,13 +98,14 @@
                 "name": "The Verge"
             },
             "author": "Emma Roth",
-            "title": "Crucial is shutting down \u2014 because Micron wants to sell its RAM and SSDs to AI companies instead",
-            "description": "Micron is retiring the Crucial brand, marking the end of its line of budget-friendly solid-state drives (SSDs) and RAM kits, as reported earlier by VideoCardz. In an announcement on Wednesday, Micron says winding down its consumer-focused business will \u201cimpro\u2026",
+            "title": "Crucial is shutting down — because Micron wants to sell its RAM and SSDs to AI companies instead",
+            "description": "Micron is retiring the Crucial brand, marking the end of its line of budget-friendly solid-state drives (SSDs) and RAM kits, as reported earlier by VideoCardz. In an announcement on Wednesday, Micron says winding down its consumer-focused business will “impro…",
             "url": "https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/micron-crucial-image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-03T19:04:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe longstanding provider of consumer memory is winding down as prices spike, and Micron shifts its focus to AI.\r\nThe longstanding provider of consumer memory is\u2026 [+2258 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe longstanding provider of consumer memory is winding down as prices spike, and Micron shifts its focus to AI.\r\nThe longstanding provider of consumer memory is… [+2258 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -106,13 +113,14 @@
                 "name": "The Verge"
             },
             "author": "Dominic Preston",
-            "title": "Ayaneo\u2019s first Android phone looks like a return of the Xperia Play",
-            "description": "Retro gaming handheld manufacturer Ayaneo has finally revealed the design of its first Android phone, which has been teased since August. Fittingly, it too is a throwback - to 2011's Sony Ericcson Xperia Play. The Pocket Play has a screen that slides up to re\u2026",
+            "title": "Ayaneo’s first Android phone looks like a return of the Xperia Play",
+            "description": "Retro gaming handheld manufacturer Ayaneo has finally revealed the design of its first Android phone, which has been teased since August. Fittingly, it too is a throwback - to 2011's Sony Ericcson Xperia Play. The Pocket Play has a screen that slides up to re…",
             "url": "https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ayaneo-pocket-play-open-silver.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-11T09:16:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBut were still waiting to find out the Pocket Plays specs.\r\nBut were still waiting to find out the Pocket Plays specs.\r\nby\r\nDominic PrestonClose\r\nDominic Preston\u2026 [+2315 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBut were still waiting to find out the Pocket Plays specs.\r\nBut were still waiting to find out the Pocket Plays specs.\r\nby\r\nDominic PrestonClose\r\nDominic Preston… [+2315 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -120,13 +128,14 @@
                 "name": "The Verge"
             },
             "author": "Antonio G. Di Benedetto",
-            "title": "I\u2019m a laptop reviewer, and these are the Black Friday deals I\u2019d shop\u2014many are over $400 off",
-            "description": "Aside from TVs, Black Friday is the best opportunity to save on one of the biggest tech purchases we\u2019re all likely to make: a new laptop. A new generation of laptops is always around the corner at CES in January, but they\u2019re still months away from release. In\u2026",
+            "title": "I’m a laptop reviewer, and these are the Black Friday deals I’d shop—many are over $400 off",
+            "description": "Aside from TVs, Black Friday is the best opportunity to save on one of the biggest tech purchases we’re all likely to make: a new laptop. A new generation of laptops is always around the corner at CES in January, but they’re still months away from release. In…",
             "url": "https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258013_Apple_M5_MacBook_Pro_14_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-11-28T16:48:18Z",
-            "content": "You can save hundreds on all kinds of laptops, even the new M5 MacBook Pro.\r\n\n\nAside from TVs, Black Friday is the best opportunity to save on one of the biggest tech purchases we\u2019re all likely to ma\u2026 [+15118 chars]",
-            "ai_score": 5
+            "content": "You can save hundreds on all kinds of laptops, even the new M5 MacBook Pro.\r\n\n\nAside from TVs, Black Friday is the best opportunity to save on one of the biggest tech purchases we’re all likely to ma… [+15118 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -135,12 +144,13 @@
             },
             "author": "Andrew Liszewski",
             "title": "This iPhone case with a second screen lets you snap selfies with its rear cameras",
-            "description": "Smartphones with secondary screens on the back aren't a new idea. Most recently the Xiaomi 17 series launched in September with a smaller rear display and while the company suggests using it for widgets or gaming, the most practical use is as a way to frame s\u2026",
+            "description": "Smartphones with secondary screens on the back aren't a new idea. Most recently the Xiaomi 17 series launched in September with a smaller rear display and while the company suggests using it for widgets or gaming, the most practical use is as a way to frame s…",
             "url": "https://www.theverge.com/news/846408/dockcase-selfix-selfie-smartphone-iphone-17-pro-case-kickstarter",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/selfix_case1.jpg?quality=90&strip=all&crop=0%2C10.763073960402%2C100%2C78.473852079196&w=1200",
             "publishedAt": "2025-12-17T17:00:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Selfix case has a 1.6-inch screen on the back and a microSD card slot to expand your phones storage.\r\nThe Selfix case has a 1.6-inch screen on the back and a\u2026 [+3305 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Selfix case has a 1.6-inch screen on the back and a microSD card slot to expand your phones storage.\r\nThe Selfix case has a 1.6-inch screen on the back and a… [+3305 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -153,8 +163,9 @@
             "url": "https://gizmodo.com/samsung-refuses-to-give-up-on-glasses-free-3d-gaming-monitors-2000703471",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/samsung6k3d-1200x675.jpg",
             "publishedAt": "2025-12-26T17:15:53Z",
-            "content": "You know CES is right around the corner when tech companies announce a whole bunch of new TVs and monitors. Ahead of CES 2026, Samsung has dropped details on five new Odyssey gaming monitors, each wo\u2026 [+2115 chars]",
-            "ai_score": 5
+            "content": "You know CES is right around the corner when tech companies announce a whole bunch of new TVs and monitors. Ahead of CES 2026, Samsung has dropped details on five new Odyssey gaming monitors, each wo… [+2115 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -162,13 +173,14 @@
                 "name": "The Verge"
             },
             "author": "Emma Roth",
-            "title": "Micron says memory shortage will \u2018persist\u2019 beyond 2026",
-            "description": "Micron, one of the three biggest memory suppliers in the world, forecasts rough months ahead for the global RAM supply. As part of its earnings report released on Wednesday, Micron CEO Sanjay Mehrotra said \"tight industry conditions\" across DRAM and NAND flas\u2026",
+            "title": "Micron says memory shortage will ‘persist’ beyond 2026",
+            "description": "Micron, one of the three biggest memory suppliers in the world, forecasts rough months ahead for the global RAM supply. As part of its earnings report released on Wednesday, Micron CEO Sanjay Mehrotra said \"tight industry conditions\" across DRAM and NAND flas…",
             "url": "https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-18T15:14:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSupply will remain substantially short of the demand for the foreseeable future.\r\nSupply will remain substantially short of the demand for the foreseeable future\u2026 [+3048 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSupply will remain substantially short of the demand for the foreseeable future.\r\nSupply will remain substantially short of the demand for the foreseeable future… [+3048 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -176,13 +188,14 @@
                 "name": "The Verge"
             },
             "author": "Tom Warren",
-            "title": "Microsoft\u2019s ugly sweaters return with Clippy, Xbox, and Zune brown options",
-            "description": "Microsoft is bringing back its ugly sweaters for the holiday season. After taking a break for 2024, the company has an \u201cArtifact\u201d holiday sweater with lots of retro iconography, as well as an even uglier Zune brown option and even a green Xbox version. Clippy\u2026",
+            "title": "Microsoft’s ugly sweaters return with Clippy, Xbox, and Zune brown options",
+            "description": "Microsoft is bringing back its ugly sweaters for the holiday season. After taking a break for 2024, the company has an “Artifact” holiday sweater with lots of retro iconography, as well as an even uglier Zune brown option and even a green Xbox version. Clippy…",
             "url": "https://www.theverge.com/news/835130/microsoft-ugly-sweater-clippy-zune-brown-xbox",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/uglysweaters.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-01T19:03:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAll three holiday sweaters can be purchased at Microsofts company store.\r\nAll three holiday sweaters can be purchased at Microsofts company store.\r\nby\r\nTom Warre\u2026 [+2335 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAll three holiday sweaters can be purchased at Microsofts company store.\r\nAll three holiday sweaters can be purchased at Microsofts company store.\r\nby\r\nTom Warre… [+2335 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -195,8 +208,9 @@
             "url": "https://gizmodo.com/best-gadgets-november-2025-2000690903",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Best-Gadgets-Nov-2025-from-Adriano-1200x675.jpg",
             "publishedAt": "2025-11-30T12:00:24Z",
-            "content": "This is it, folks: the home stretch of 2025. We\u2019ve got one more month left to go in our rotation around the sun before a new year dawns, and CES 2026 hits us with a wave of new gadgets.\r\nBut before t\u2026 [+8373 chars]",
-            "ai_score": 5
+            "content": "This is it, folks: the home stretch of 2025. We’ve got one more month left to go in our rotation around the sun before a new year dawns, and CES 2026 hits us with a wave of new gadgets.\r\nBut before t… [+8373 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -204,13 +218,14 @@
                 "name": "The Verge"
             },
             "author": "Jay Peters",
-            "title": "Indiegogo is launching \u2018Express Crowdfunding\u2019 so creators can ship things sooner",
-            "description": "Indiegogo is planning to launch a new \u201cExpress Crowdfunding\u201d campaign format that lets creators ship things while the campaign is on-going instead of forcing creators to wait until the campaign is over. Indiegogo spokesperson Maciej Kuc tells The Verge that t\u2026",
+            "title": "Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner",
+            "description": "Indiegogo is planning to launch a new “Express Crowdfunding” campaign format that lets creators ship things while the campaign is on-going instead of forcing creators to wait until the campaign is over. Indiegogo spokesperson Maciej Kuc tells The Verge that t…",
             "url": "https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25589670/STK280_INDIEGOGO_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-02T22:24:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIndiegogos move to new infrastructure is preventing Ayaneo from shipping a new retro gaming handheld when it expected to.\r\nIndiegogos move to new infrastructure \u2026 [+2686 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIndiegogos move to new infrastructure is preventing Ayaneo from shipping a new retro gaming handheld when it expected to.\r\nIndiegogos move to new infrastructure … [+2686 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -219,12 +234,13 @@
             },
             "author": "Andrew Webster",
             "title": "A love letter to glory days of iPhone gaming",
-            "description": "It may be hard to believe now, but the App Store was once a thriving place for inventive indie games. The ubiquity of the iPhone coupled with the relative ease of development for the platform meant that smaller studios were able to get their games in front of\u2026",
+            "description": "It may be hard to believe now, but the App Store was once a thriving place for inventive indie games. The ubiquity of the iPhone coupled with the relative ease of development for the platform meant that smaller studios were able to get their games in front of…",
             "url": "https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/SLC_03_4K.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-05T21:35:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nby\r\nAndre\u2026 [+4196 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nby\r\nAndre… [+4196 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -237,8 +253,9 @@
             "url": "https://www.wired.com/review/lenovo-legion-go-gen-2/",
             "urlToImage": "https://media.wired.com/photos/69334ab57375f733c4c9a823/191:100/w_1280,c_limit/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg",
             "publishedAt": "2025-12-06T13:00:00Z",
-            "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol\u2026 [+2357 chars]",
-            "ai_score": 5
+            "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol… [+2357 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -247,12 +264,13 @@
             },
             "author": "Antonio G. Di Benedetto",
             "title": "We handpicked 12 great gaming laptops that are hundreds off for Black Friday",
-            "description": "Black Friday and Cyber Monday are the absolute best moments of the year to buy a laptop. While several thin, lightweight productivity machines have dropped to their lowest prices, so have a batch of exciting, powerful gaming laptops. We handpicked several gam\u2026",
+            "description": "Black Friday and Cyber Monday are the absolute best moments of the year to buy a laptop. While several thin, lightweight productivity machines have dropped to their lowest prices, so have a batch of exciting, powerful gaming laptops. We handpicked several gam…",
             "url": "https://www.theverge.com/gadgets/833307/best-gaming-laptop-nvidia-rtx-black-friday-deal-sale",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-11-29T17:54:46Z",
-            "content": "The Razer Blade 16 is discounted in various configurations, now as low as $1,600.\r\n\n\nBlack Friday and Cyber Monday are the absolute best moments of the year to buy a laptop. While several thin, light\u2026 [+4027 chars]",
-            "ai_score": 5
+            "content": "The Razer Blade 16 is discounted in various configurations, now as low as $1,600.\r\n\n\nBlack Friday and Cyber Monday are the absolute best moments of the year to buy a laptop. While several thin, light… [+4027 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -260,13 +278,14 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "AMD\u2019s New Gaming Upscaler Is Here to Knock Nvidia Off Its Throne",
+            "title": "AMD’s New Gaming Upscaler Is Here to Knock Nvidia Off Its Throne",
             "description": "The new 'Redstone\" AI upscaler makes PC games look better, but it would be truly spectacular on consoles or handhelds.",
             "url": "https://gizmodo.com/amd-redstone-fsr-4-upscaling-update-gaming-2000697829",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
             "publishedAt": "2025-12-10T17:50:53Z",
-            "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
-            "ai_score": 5
+            "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)… [+5331 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -274,13 +293,14 @@
                 "name": "The Verge"
             },
             "author": "Barbara Krasnoff",
-            "title": "The Verge\u2019s 2025 in review",
-            "description": "The year 2025 has been, to put it mildly, eventful. If you\u2019re like me, you\u2019ve felt as if it\u2019s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enraging. But that\u2019s not the case for everything \u2014 and so, as w\u2026",
+            "title": "The Verge’s 2025 in review",
+            "description": "The year 2025 has been, to put it mildly, eventful. If you’re like me, you’ve felt as if it’s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enraging. But that’s not the case for everything — and so, as w…",
             "url": "https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-16T15:25:28Z",
-            "content": "The year 2025 has been, to put it mildly, eventful. If you\u2019re like me, you\u2019ve felt as if it\u2019s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enr\u2026 [+903 chars]",
-            "ai_score": 5
+            "content": "The year 2025 has been, to put it mildly, eventful. If you’re like me, you’ve felt as if it’s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enr… [+903 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -289,12 +309,13 @@
             },
             "author": "Sean Hollister",
             "title": "Steam Machine today, Steam Phones tomorrow",
-            "description": "It's a big deal that Valve is making a game console. But I'm beginning to think the Steam Machine may end up a footnote in gaming history. What if Valve could bring PC games not just to its own living room consoles, but also to the Arm chips that billions of \u2026",
+            "description": "It's a big deal that Valve is making a game console. But I'm beginning to think the Steam Machine may end up a footnote in gaming history. What if Valve could bring PC games not just to its own living room consoles, but also to the Arm chips that billions of …",
             "url": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0008.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
             "publishedAt": "2025-12-02T19:42:08Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIn an exclusive interview, Valve reveals its the architect behind a push to bring Windows games to Arm.\r\nIn an exclusive interview, Valve reveals its the architect behind\u2026 [+15973 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li></ul>\r\nIn an exclusive interview, Valve reveals its the architect behind a push to bring Windows games to Arm.\r\nIn an exclusive interview, Valve reveals its the architect behind… [+15973 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -303,12 +324,13 @@
             },
             "author": "Sean Hollister",
             "title": "Remember Google Stadia? Steam finally made its gamepad worth rescuing",
-            "description": "December 31st, 2025 is the deadline to save the Google Stadia controller. That's less than three weeks from today - but there's never been a better time. Last month, I discovered the controller is finally a first-class citizen in Steam and SteamOS. The Stadia\u2026",
+            "description": "December 31st, 2025 is the deadline to save the Google Stadia controller. That's less than three weeks from today - but there's never been a better time. Last month, I discovered the controller is finally a first-class citizen in Steam and SteamOS. The Stadia…",
             "url": "https://www.theverge.com/games/829631/save-google-stadia-gamepad-steam-deadline",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/akrales_191113_3779_0163.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-11T19:29:32Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSave it from the Google Graveyard!\r\nSave it from the Google Graveyard!\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to your dai\u2026 [+4446 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSave it from the Google Graveyard!\r\nSave it from the Google Graveyard!\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to your dai… [+4446 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -317,12 +339,13 @@
             },
             "author": "Emma Roth",
             "title": "The RAM shortage is here to stay, raising prices on PCs and phones",
-            "description": "Your next smartphone or PC might cost more amid a global memory shortage that the International Data Corporation expects to \"persist well into 2027.\" A new report from the research firm lays out the potential impact of the RAM crunch, saying it \"signals the e\u2026",
+            "description": "Your next smartphone or PC might cost more amid a global memory shortage that the International Data Corporation expects to \"persist well into 2027.\" A new report from the research firm lays out the potential impact of the RAM crunch, saying it \"signals the e…",
             "url": "https://www.theverge.com/news/848199/ram-shortage-pc-phone-price-increases",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-19T17:06:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBudget-friendly smartphones and memory-hungry AI PCs might have higher price tags next year.\r\nBudget-friendly smartphones and memory-hungry AI PCs might have hig\u2026 [+4163 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBudget-friendly smartphones and memory-hungry AI PCs might have higher price tags next year.\r\nBudget-friendly smartphones and memory-hungry AI PCs might have hig… [+4163 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -335,8 +358,9 @@
             "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
             "publishedAt": "2025-12-01T20:32:41Z",
-            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
-            "ai_score": 5
+            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien… [+2825 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -344,13 +368,14 @@
                 "name": "The Verge"
             },
             "author": "Sean Hollister",
-            "title": "I\u2019m finally beginning to trust Microsoft\u2019s handheld Xbox",
-            "description": "I still wouldn't buy an Xbox Ally, and I still don't think the tweaked version of Windows that shipped with it is ready for primetime. The Xbox Full Screen Experience (FSE) needs work. But two months after I panned the cheaper $600 white Xbox Ally and wasn't \u2026",
+            "title": "I’m finally beginning to trust Microsoft’s handheld Xbox",
+            "description": "I still wouldn't buy an Xbox Ally, and I still don't think the tweaked version of Windows that shipped with it is ready for primetime. The Xbox Full Screen Experience (FSE) needs work. But two months after I panned the cheaper $600 white Xbox Ally and wasn't …",
             "url": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0145.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-13T00:32:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author wil\u2026 [+6774 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author wil… [+6774 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -359,12 +384,13 @@
             },
             "author": "Stevie Bonifield",
             "title": "Analogue is restocking its 4K N64 and making it more colorful",
-            "description": "As if the Analogue 3D wasn't nostalgic enough, the 4K N64 emulator will soon be available in a handful of transparent \"Funtastic\" limited editions going on sale on December 10th at 8AM Pacific/11AM Eastern. The vibrant transparent models will be available \"in\u2026",
+            "description": "As if the Analogue 3D wasn't nostalgic enough, the 4K N64 emulator will soon be available in a handful of transparent \"Funtastic\" limited editions going on sale on December 10th at 8AM Pacific/11AM Eastern. The vibrant transparent models will be available \"in…",
             "url": "https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/analogue-3d-funtastic-announcement.png?quality=90&strip=all&crop=0%2C3.3533912961076%2C100%2C93.293217407785&w=1200",
             "publishedAt": "2025-12-08T17:18:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe transparent limited edition is launching alongside color-matched 8BitDo controllers and a restock of the original model.\r\nThe transparent limited edition is \u2026 [+2807 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe transparent limited edition is launching alongside color-matched 8BitDo controllers and a restock of the original model.\r\nThe transparent limited edition is … [+2807 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -372,13 +398,14 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "Sony\u2019s new PS5 DualSense controller might have way more battery life",
-            "description": "It might not look much different on the outside, but the newest version of the PS5\u2019s DualSense controller could feature a major improvement in battery life. Polish modder Modyfikator89 shared in a post on X that the new DualSense V2 variant, model number CFI-\u2026",
+            "title": "Sony’s new PS5 DualSense controller might have way more battery life",
+            "description": "It might not look much different on the outside, but the newest version of the PS5’s DualSense controller could feature a major improvement in battery life. Polish modder Modyfikator89 shared in a post on X that the new DualSense V2 variant, model number CFI-…",
             "url": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sony-Astro-Bot-Joyful-DualSense-controller-for-PS5.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2025-12-05T15:21:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Polish console modder tested the DualSense shipping with new consoles, and said it could last for up to 15 hours\r\nA Polish console modder tested the DualSense \u2026 [+2818 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Polish console modder tested the DualSense shipping with new consoles, and said it could last for up to 15 hours\r\nA Polish console modder tested the DualSense … [+2818 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -386,13 +413,14 @@
                 "name": "The Verge"
             },
             "author": "Jay Peters",
-            "title": "Sony\u2019s legal battle against Tencent\u2019s Horizon \u2018clone\u2019 is already over",
-            "description": "In July, Sony sued Tencent to prevent the release of Light of Motiram, a game Sony alleged was a \"slavish clone\" of its popular Horizon series. But the legal battle is already over; the two companies have reached a \"confidential settlement\" and the case has b\u2026",
+            "title": "Sony’s legal battle against Tencent’s Horizon ‘clone’ is already over",
+            "description": "In July, Sony sued Tencent to prevent the release of Light of Motiram, a game Sony alleged was a \"slavish clone\" of its popular Horizon series. But the legal battle is already over; the two companies have reached a \"confidential settlement\" and the case has b…",
             "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_853b741d2ebd0e13f1a735c8c934064532978e1c.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-18T04:05:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSony and Tencent have reached a confidential settlement, and Light of Motiram is no longer listed on Steam or the Epic Games Store.\r\nSony and Tencent have reache\u2026 [+3246 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSony and Tencent have reached a confidential settlement, and Light of Motiram is no longer listed on Steam or the Epic Games Store.\r\nSony and Tencent have reache… [+3246 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -401,12 +429,13 @@
             },
             "author": "Ash Parrish",
             "title": "In 2025, AI became a lightning rod for gamers and developers",
-            "description": "2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game studios claim it's being implemented everywhere in the industr\u2026",
+            "description": "2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game studios claim it's being implemented everywhere in the industr…",
             "url": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_AI_GAMING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-22T21:30:32Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nby\r\nAsh P\u2026 [+7949 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nby\r\nAsh P… [+7949 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -415,12 +444,13 @@
             },
             "author": "Jay Peters",
             "title": "Meta might charge for a future AI model",
-            "description": "Meta's next AI model could mark a change in its \"open source\" AI strategy that Mark Zuckerberg had called \"the path forward.\" Currently, the company is working on a new AI model, code-named Avocado, that it might charge for access to, Bloomberg reports. Last \u2026",
+            "description": "Meta's next AI model could mark a change in its \"open source\" AI strategy that Mark Zuckerberg had called \"the path forward.\" Currently, the company is working on a new AI model, code-named Avocado, that it might charge for access to, Bloomberg reports. Last …",
             "url": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-10T18:46:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMeta and CEO Mark Zuckerberg might change course on open source. \r\nMeta and CEO Mark Zuckerberg might change course on open source. \r\nby\r\nJay PetersClose\r\nJay Pe\u2026 [+2467 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMeta and CEO Mark Zuckerberg might change course on open source. \r\nMeta and CEO Mark Zuckerberg might change course on open source. \r\nby\r\nJay PetersClose\r\nJay Pe… [+2467 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -428,13 +458,14 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "The Next Gaming Trend Is\u2026 Uh, Controllers for Your Feet?",
+            "title": "The Next Gaming Trend Is… Uh, Controllers for Your Feet?",
             "description": "So-called 'Foot keyboards' are cursed in more than one way.",
             "url": "https://gizmodo.com/the-next-gaming-trend-is-uh-controllers-for-your-feet-2000695081",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Varmillo-Foot-Keyboard-1200x675.jpg",
             "publishedAt": "2025-12-03T15:21:15Z",
-            "content": "There are only so many points of fine articulation the body is capable of for the sake of maximizing gaming. Were limited to a measly 10 digits when modern games may demand many more controls than th\u2026 [+3489 chars]",
-            "ai_score": 5
+            "content": "There are only so many points of fine articulation the body is capable of for the sake of maximizing gaming. Were limited to a measly 10 digits when modern games may demand many more controls than th… [+3489 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -443,12 +474,13 @@
             },
             "author": "Emma Roth",
             "title": "Trump is recruiting Big Tech workers for the government",
-            "description": "President Donald Trump will recruit workers from Amazon, Apple, Google, Meta, Microsoft, and other tech giants to form the US Tech Force, a new program that aims to \"modernize the federal government,\" according to an announcement on Monday. Under the new prog\u2026",
+            "description": "President Donald Trump will recruit workers from Amazon, Apple, Google, Meta, Microsoft, and other tech giants to form the US Tech Force, a new program that aims to \"modernize the federal government,\" according to an announcement on Monday. Under the new prog…",
             "url": "https://www.theverge.com/news/844804/trump-tech-force-usds-apple-google-microsoft",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-15T19:18:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMonths after the administration gutted tech talent, the US Tech Force will hire around 1,000 specialists, including some from Silicon Valley behemoths.\r\nMonths a\u2026 [+3405 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMonths after the administration gutted tech talent, the US Tech Force will hire around 1,000 specialists, including some from Silicon Valley behemoths.\r\nMonths a… [+3405 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -456,13 +488,14 @@
                 "name": "Gizmodo.com"
             },
             "author": "James Whitbrook",
-            "title": "\u2018Fallout\u2019 Season 2 Is a Slower, Smarter Follow-Up",
+            "title": "‘Fallout’ Season 2 Is a Slower, Smarter Follow-Up",
             "description": "The sophomore season of Prime Video's smash-hit gaming adaptation doesn't fix what isn't broken, for better and occasionally worse.",
             "url": "https://gizmodo.com/fallout-season-2-review-amazon-prime-video-2000699991",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/fallout-season-2-review-lucy-ella-purnell-1200x675.jpg",
             "publishedAt": "2025-12-16T14:00:21Z",
-            "content": "When\u00a0Fallouthit Prime Video last spring, not even Amazon itself might have expected the rip-roaring response to the show\u2019s spin on the beloved video game RPG series (although the signs were there tha\u2026 [+7816 chars]",
-            "ai_score": 5
+            "content": "When Fallouthit Prime Video last spring, not even Amazon itself might have expected the rip-roaring response to the show’s spin on the beloved video game RPG series (although the signs were there tha… [+7816 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -470,13 +503,14 @@
                 "name": "Wired"
             },
             "author": "Reece Rogers",
-            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
+            "title": "Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis",
             "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
             "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
             "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
             "publishedAt": "2025-12-23T11:30:00Z",
-            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
-            "ai_score": 5
+            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th… [+2457 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -489,8 +523,9 @@
             "url": "https://www.wired.com/story/best-current-body-black-friday-deals-2025-1/",
             "urlToImage": "https://media.wired.com/photos/6923ca90bd0b86227d1dc1ec/191:100/w_1280,c_limit/The%20Best%20Red%20Light%20Therapy%20Mask%20You%20Can%20Buy%20Is%20Currently%20on%20Sale%20-%202.png",
             "publishedAt": "2025-11-28T10:30:48Z",
-            "content": "CurrentBody kicked off its Black Friday sale early on November 1 and runs until December 24. Most products remain at retail, but the discounted bundles are worth a look. While we haven't tested Curre\u2026 [+1195 chars]",
-            "ai_score": 5
+            "content": "CurrentBody kicked off its Black Friday sale early on November 1 and runs until December 24. Most products remain at retail, but the discounted bundles are worth a look. While we haven't tested Curre… [+1195 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -498,13 +533,14 @@
                 "name": "The Verge"
             },
             "author": "Brandon Russell",
-            "title": "The PS5, PlayStation Portal, and Sony\u2019s DualSense are still on sale for a limited time",
-            "description": "Sony\u2019s annual PlayStation sale has been going on for nearly a month now, offering discounts on everything from the PlayStation 5 Digital Edition and PlayStation Portal to Sony\u2019s standard DualSense controller. However, the end of the sale is quickly approachin\u2026",
+            "title": "The PS5, PlayStation Portal, and Sony’s DualSense are still on sale for a limited time",
+            "description": "Sony’s annual PlayStation sale has been going on for nearly a month now, offering discounts on everything from the PlayStation 5 Digital Edition and PlayStation Portal to Sony’s standard DualSense controller. However, the end of the sale is quickly approachin…",
             "url": "https://www.theverge.com/gadgets/844698/sony-ps5-playstation-portal-dualsense-controller-deal-sale-2025",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072866/110923_new_Playstation_5_Slim_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-15T19:51:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can still pick up a last-minute deal on a PS5, a PS Portal, or a DualSense controller in the run-up to Christmas.\r\nYou can still pick up a last-minute deal o\u2026 [+5817 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can still pick up a last-minute deal on a PS5, a PS Portal, or a DualSense controller in the run-up to Christmas.\r\nYou can still pick up a last-minute deal o… [+5817 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -513,12 +549,13 @@
             },
             "author": "Andrew Liszewski",
             "title": "ModRetro recreated the N64 controller for its M64 console",
-            "description": "Following the launch of the Chromatic Game Boy last December, ModRetro revealed its next console will be an upgraded remake of the Nintendo 64. Like the recently released Analogue 3D, it will play N64 games in 4K through the use of an FPGA. ModRetro \u2014 the com\u2026",
+            "description": "Following the launch of the Chromatic Game Boy last December, ModRetro revealed its next console will be an upgraded remake of the Nintendo 64. Like the recently released Analogue 3D, it will play N64 games in 4K through the use of an FPGA. ModRetro — the com…",
             "url": "https://www.theverge.com/news/831498/modretro-m64-console-4k-fpga-nintendo-64-clone",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/modretro_m64_1.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
             "publishedAt": "2025-11-28T14:55:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company revealed the design of its upcoming Nintendo 64 clone, but its features and performance are still unknown.\r\nThe company revealed the design of its up\u2026 [+3227 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company revealed the design of its upcoming Nintendo 64 clone, but its features and performance are still unknown.\r\nThe company revealed the design of its up… [+3227 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -526,13 +563,14 @@
                 "name": "Android Central"
             },
             "author": "nandika.iyerravi@futurenet.com (Nandika Ravi) , Nandika Ravi",
-            "title": "No cap! Sony's best budget ANC headphones just hit $88 \u2014 grab them before the FOMO hits hard",
-            "description": "The Sony WH-CH720N headphones, now just $88\u2014a remarkable drop from $179.99\u2014offering top-tier performance and seamless connectivity for tech enthusiasts.",
+            "title": "No cap! Sony's best budget ANC headphones just hit $88 — grab them before the FOMO hits hard",
+            "description": "The Sony WH-CH720N headphones, now just $88—a remarkable drop from $179.99—offering top-tier performance and seamless connectivity for tech enthusiasts.",
             "url": "https://www.androidcentral.com/accessories/headphones/sonys-best-budget-anc-headphones-just-hit-usd88",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/fBuNr4Fqj5bboefYobopHi-2560-80.webp",
             "publishedAt": "2025-11-29T19:02:00Z",
-            "content": "Sometimes the stars align, and the exact product you've been waiting for hits its lowest price just in time for Black Friday. That is exactly what happened to me this week. I was on the hunt for high\u2026 [+2811 chars]",
-            "ai_score": 5
+            "content": "Sometimes the stars align, and the exact product you've been waiting for hits its lowest price just in time for Black Friday. That is exactly what happened to me this week. I was on the hunt for high… [+2811 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -545,8 +583,9 @@
             "url": "https://gizmodo.com/blackout-in-san-francisco-litters-streets-with-traffic-blocking-deactivated-waymos-2000702290",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/waymo-intersection-1-1200x675.jpg",
             "publishedAt": "2025-12-21T15:31:38Z",
-            "content": "There was a power outage in San Francisco on Saturday, initially leaving 124,000 of 414,000 customersabout 30%in the dark. It also caused a widespread Waymo meltdown, with apparently all active Waymo\u2026 [+2498 chars]",
-            "ai_score": 5
+            "content": "There was a power outage in San Francisco on Saturday, initially leaving 124,000 of 414,000 customersabout 30%in the dark. It also caused a widespread Waymo meltdown, with apparently all active Waymo… [+2498 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -555,12 +594,13 @@
             },
             "author": "Jay Peters",
             "title": "PlayStation is making an MLB The Show mobile game",
-            "description": "MLB The Show is coming to iOS and Android. Sony has revealed MLB The Show Mobile, which it says is \u201ca new standalone experience built from the ground up to deliver realistic baseball gameplay on mobile devices.\u201d\u00a0 The game is live now only in the Philippines (\u2026",
+            "description": "MLB The Show is coming to iOS and Android. Sony has revealed MLB The Show Mobile, which it says is “a new standalone experience built from the ground up to deliver realistic baseball gameplay on mobile devices.”  The game is live now only in the Philippines (…",
             "url": "https://www.theverge.com/news/837614/sony-playstation-mlb-the-show-mobile-game",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/mlb-the-show-25-Yordan-Alvarez-Hitting-screenshot-02-en-28jan25.webp?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2025-12-03T19:19:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSony is soft-launching a new MLB The Show title for iOS and Android in the Philippines.\r\nSony is soft-launching a new MLB The Show title for iOS and Android in t\u2026 [+2406 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSony is soft-launching a new MLB The Show title for iOS and Android in the Philippines.\r\nSony is soft-launching a new MLB The Show title for iOS and Android in t… [+2406 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -573,8 +613,9 @@
             "url": "https://www.bbc.com/sport/football/articles/ce8q055q17ro",
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8ef4/live/cb18b2b0-d695-11f0-8c06-f5d460985095.jpg",
             "publishedAt": "2025-12-11T17:23:24Z",
-            "content": "<ul><li>Gtech Community Stadium, 16:30\r\n</li></ul>\r\nThis is another big game at the bottom of the table.\r\nI am so pleased for Leeds boss Daniel Farke because I was fed up with the rubbish being talke\u2026 [+1359 chars]",
-            "ai_score": 5
+            "content": "<ul><li>Gtech Community Stadium, 16:30\r\n</li></ul>\r\nThis is another big game at the bottom of the table.\r\nI am so pleased for Leeds boss Daniel Farke because I was fed up with the rubbish being talke… [+1359 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -583,12 +624,13 @@
             },
             "author": "Boone Ashworth",
             "title": "The Gloves Are Off in the Fight for Your Right to Repair",
-            "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
+            "description": "This year, the right-to-repair movement got a boost from—surprisingly—big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren’t giving up that power willingly.",
             "url": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
             "urlToImage": "https://media.wired.com/photos/6938e2a0f93af60a9d87ce36/191:100/w_1280,c_limit/WTE-right-to-repair-2x1.jpg",
             "publishedAt": "2025-12-25T11:00:00Z",
-            "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere\u2026 [+2998 chars]",
-            "ai_score": 5
+            "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere… [+2998 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -601,8 +643,9 @@
             "url": "https://www.wired.com/review/bmw-ix3-2026/",
             "urlToImage": "https://media.wired.com/photos/692f33fade1067318a26059a/191:100/w_1280,c_limit/P90615619_highRes_the-new-bmw-ix3-50-x.jpg",
             "publishedAt": "2025-12-03T23:00:00Z",
-            "content": "The less said about the woeful Alexa assistant, the better, which pipes up when it's not supposed to and often ignores you when you want it. It falls over at anything beyond the simplest requests. I \u2026 [+2287 chars]",
-            "ai_score": 5
+            "content": "The less said about the woeful Alexa assistant, the better, which pipes up when it's not supposed to and often ignores you when you want it. It falls over at anything beyond the simplest requests. I … [+2287 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -611,12 +654,13 @@
             },
             "author": "Ash Parrish",
             "title": "The Game Awards 2025: all the news and announcements",
-            "description": "The Game Awards are back once again to showcase a metric ton of commercials, provide the gaming public with their monthly dose of Muppets, and validate gamers\u2019 opinions on which title should be named the Game of the Year. I don\u2019t wanna say it\u2019s a foregone con\u2026",
+            "description": "The Game Awards are back once again to showcase a metric ton of commercials, provide the gaming public with their monthly dose of Muppets, and validate gamers’ opinions on which title should be named the Game of the Year. I don’t wanna say it’s a foregone con…",
             "url": "https://www.theverge.com/games/841973/the-game-awards-2025-annoucements-news-trailers",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-12T00:18:50Z",
-            "content": "LIVEUpdated Today, Dec 12, 2025, 12:30 AM UTC\r\nThe Game Awards are back once again to showcase a metric ton of commercials, provide the gaming public with their monthly dose of Muppets, and validate \u2026 [+2583 chars]",
-            "ai_score": 5
+            "content": "LIVEUpdated Today, Dec 12, 2025, 12:30 AM UTC\r\nThe Game Awards are back once again to showcase a metric ton of commercials, provide the gaming public with their monthly dose of Muppets, and validate … [+2583 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -625,12 +669,13 @@
             },
             "author": "Brandt Ranj",
             "title": "We found 40 surprisingly good Black Friday deals you can still grab for $30 or less",
-            "description": "One of the pitfalls of Black Friday is getting overwhelmed by deep discounts on premium gadgets. After all, who wouldn\u2019t want to save hundreds, if not thousands, of dollars on a high-end gaming laptop or a spiffy OLED TV? But these luxury items, while great, \u2026",
+            "description": "One of the pitfalls of Black Friday is getting overwhelmed by deep discounts on premium gadgets. After all, who wouldn’t want to save hundreds, if not thousands, of dollars on a high-end gaming laptop or a spiffy OLED TV? But these luxury items, while great, …",
             "url": "https://www.theverge.com/gadgets/827295/black-friday-best-cheap-tech-deals-under-30-2025",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24691059/236685_Amazon_Echo_Pop_JTuohy_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-11-29T00:22:22Z",
-            "content": "Amazon\u2019s Echo Pop is on sale for a measly $22 for Black Friday.\r\n\n\nOne of the pitfalls of Black Friday is getting overwhelmed by deep discounts on premium gadgets. After all, who wouldn\u2019t want to sav\u2026 [+13240 chars]",
-            "ai_score": 5
+            "content": "Amazon’s Echo Pop is on sale for a measly $22 for Black Friday.\r\n\n\nOne of the pitfalls of Black Friday is getting overwhelmed by deep discounts on premium gadgets. After all, who wouldn’t want to sav… [+13240 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -643,8 +688,9 @@
             "url": "https://www.androidcentral.com/accessories/everything-we-bought-for-black-friday-and-cyber-monday-2025",
             "urlToImage": "https://dev.mos.cms.futurecdn.net/LRKhSMgYJPPAkXH2Rhkyd9-680-80.jpg",
             "publishedAt": "2025-11-30T23:48:49Z",
-            "content": "This is the time of year all of us here at AC are on the lookout for the perfect Black Friday and Cyber Monday deals. While the perfect deal probably doesn't exist, plenty come close. We tell you abo\u2026 [+5273 chars]",
-            "ai_score": 5
+            "content": "This is the time of year all of us here at AC are on the lookout for the perfect Black Friday and Cyber Monday deals. While the perfect deal probably doesn't exist, plenty come close. We tell you abo… [+5273 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -657,8 +703,9 @@
             "url": "https://gizmodo.com/msi-raider-18-hx-review-distills-the-best-and-worst-of-gaming-laptops-2000700902",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/MSI-Raider-18HX-10-1200x675.jpg",
             "publishedAt": "2025-12-19T12:30:16Z",
-            "content": "Im curious about the folk with deep-pockets who dare hope to remain budget conscious, even while theyre considering a $4,000 laptop like the MSI Raider 18 HX. Will those same consumers balk at spendi\u2026 [+11547 chars]",
-            "ai_score": 5
+            "content": "Im curious about the folk with deep-pockets who dare hope to remain budget conscious, even while theyre considering a $4,000 laptop like the MSI Raider 18 HX. Will those same consumers balk at spendi… [+11547 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -671,8 +718,9 @@
             "url": "https://kotaku.com/the-10-biggest-gaming-disappointments-worst-news-game-key-cards-gta-6-delay-2000655356",
             "urlToImage": "https://kotaku.com/app/uploads/2025/12/homersad2025.jpg",
             "publishedAt": "2025-12-24T13:00:20Z",
-            "content": "I\u2019d hoped 2025 would be a better year than 2024. And in some personal ways, it was. But it was also yet another year filled with layoffs, AI slop, greedy execs, price increases, and more signs that t\u2026 [+12684 chars]",
-            "ai_score": 5
+            "content": "I’d hoped 2025 would be a better year than 2024. And in some personal ways, it was. But it was also yet another year filled with layoffs, AI slop, greedy execs, price increases, and more signs that t… [+12684 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -680,13 +728,14 @@
                 "name": "The Verge"
             },
             "author": "Sean Hollister",
-            "title": "Microsoft\u2019s free update brings better Bluetooth to your Xbox Wireless Headset",
-            "description": "My favorite kind of update is the one that gives my gadgets entirely new features and specs for free - and Microsoft is unleashing one of those today by bringing Bluetooth Low Energy (LE) Audio to its 2024 Xbox Wireless Headset, which unlocks a lot of those n\u2026",
+            "title": "Microsoft’s free update brings better Bluetooth to your Xbox Wireless Headset",
+            "description": "My favorite kind of update is the one that gives my gadgets entirely new features and specs for free - and Microsoft is unleashing one of those today by bringing Bluetooth Low Energy (LE) Audio to its 2024 Xbox Wireless Headset, which unlocks a lot of those n…",
             "url": "https://www.theverge.com/games/845491/microsoft-xbox-wireless-headset-bluetooth-le-free-update",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22363682/cfaulkner_210311_4469_0006.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
             "publishedAt": "2025-12-16T17:43:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve got the 2024 version, anyhow.\r\nIf youve got the 2024 version, anyhow.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to \u2026 [+2532 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve got the 2024 version, anyhow.\r\nIf youve got the 2024 version, anyhow.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to … [+2532 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -694,13 +743,14 @@
                 "name": "Gizmodo.com"
             },
             "author": "Cheryl Eddy",
-            "title": "Your Favorite Social Media Psycho Is Back in Killer Sequel \u2018Influencers\u2019",
-            "description": "Kurtis David Harder\u2019s follow-up to his 2022 horror hit stars Cassandra Naud as a shifty, seductive, tech-savvy villain.",
+            "title": "Your Favorite Social Media Psycho Is Back in Killer Sequel ‘Influencers’",
+            "description": "Kurtis David Harder’s follow-up to his 2022 horror hit stars Cassandra Naud as a shifty, seductive, tech-savvy villain.",
             "url": "https://gizmodo.com/your-favorite-social-media-psycho-is-back-in-killer-sequel-influencers-2000690160",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/11/INFLUENCERS-topart-1200x675.jpg",
             "publishedAt": "2025-12-10T00:00:52Z",
-            "content": "Influencer hit Shudder in 2023 after an acclaimed festival run, and its sequel arrives on the horror streamer this week. Influencers follows the continuing crimes of CWthe monstrous master of social \u2026 [+5643 chars]",
-            "ai_score": 5
+            "content": "Influencer hit Shudder in 2023 after an acclaimed festival run, and its sequel arrives on the horror streamer this week. Influencers follows the continuing crimes of CWthe monstrous master of social … [+5643 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -708,13 +758,14 @@
                 "name": "The Verge"
             },
             "author": "Brandon Russell",
-            "title": "Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday \u2014 up to 58% off",
-            "description": "You can find deals on many of our favorite tech devices and gadgets year-round. But Black Friday is typically when we see the biggest discounts on OLED TVs, great productivity laptops, and robovacs that can help you clean up for the holidays \u2014 and this year i\u2026",
+            "title": "Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday — up to 58% off",
+            "description": "You can find deals on many of our favorite tech devices and gadgets year-round. But Black Friday is typically when we see the biggest discounts on OLED TVs, great productivity laptops, and robovacs that can help you clean up for the holidays — and this year i…",
             "url": "https://www.theverge.com/gadgets/832710/black-friday-all-time-low-prices-headphones-gaming-tv-deal-sale-2025",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0231.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-11-29T01:36:46Z",
-            "content": "If you\u2019ve been eyeing Sony\u2019s most advanced noise-canceling headphones, you can already save $61.\r\n\n\nYou can find deals on many of our favorite tech devices and gadgets year-round. But Black Friday is\u2026 [+17878 chars]",
-            "ai_score": 5
+            "content": "If you’ve been eyeing Sony’s most advanced noise-canceling headphones, you can already save $61.\r\n\n\nYou can find deals on many of our favorite tech devices and gadgets year-round. But Black Friday is… [+17878 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -722,13 +773,14 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "Helldivers 2\u2019s new \u2018slim\u2019 version saves 131GB of space on your drive",
-            "description": "If you\u2019ve been short on storage on your PC, the latest Helldivers 2 beta update might help. The developers said Tuesday they\u2019ve managed to cut down the PC file size for Helldivers 2 by about 85 percent, freeing up enough space for at least one or two more lar\u2026",
+            "title": "Helldivers 2’s new ‘slim’ version saves 131GB of space on your drive",
+            "description": "If you’ve been short on storage on your PC, the latest Helldivers 2 beta update might help. The developers said Tuesday they’ve managed to cut down the PC file size for Helldivers 2 by about 85 percent, freeing up enough space for at least one or two more lar…",
             "url": "https://www.theverge.com/news/836948/helldivers-2-file-size-decrease",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/helldivers2.jpg?quality=90&strip=all&crop=19.8%2C22.95171611402%2C73.4%2C68.318789994183&w=1200",
             "publishedAt": "2025-12-02T20:32:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe file size reduction is available now as a technical public beta update on Steam.\r\nThe file size reduction is available now as a technical public beta update \u2026 [+2683 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe file size reduction is available now as a technical public beta update on Steam.\r\nThe file size reduction is available now as a technical public beta update … [+2683 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -736,13 +788,14 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Oh, the Irony: Microsoft\u2019s Push for Copilot+ PCs Could Stall Laptop Sales",
+            "title": "Oh, the Irony: Microsoft’s Push for Copilot+ PCs Could Stall Laptop Sales",
             "description": "Windows users can't go back to 8GB of RAM, but laptop makers may not have a choice.",
             "url": "https://gizmodo.com/microsofts-push-for-copilot-plus-pcs-could-stall-laptop-sales-2000701505",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Asus-Zenbook-2025-1-1200x675.jpg",
             "publishedAt": "2025-12-18T22:18:19Z",
-            "content": "If we turn the clocks back a year and a half, Microsofts leadership stood on stage and pronounced a new era of computing was upon us. They were right, though it\u2019s not in a way anybody but AI evangeli\u2026 [+7035 chars]",
-            "ai_score": 5
+            "content": "If we turn the clocks back a year and a half, Microsofts leadership stood on stage and pronounced a new era of computing was upon us. They were right, though it’s not in a way anybody but AI evangeli… [+7035 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -755,8 +808,9 @@
             "url": "https://www.cnet.com/tech/computing/lenovo-gaming-laptop-with-a-rollable-screen-could-arrive-in-2026/",
             "urlToImage": "https://www.cnet.com/a/img/resize/7ed7bd83b16c84b961a03b62c8351edd8714f0d2/hub/2025/10/29/f2c739de-0bc2-45aa-aef9-575a1569a07a/lenovo-loq-15-overview.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-12-09T16:49:28Z",
-            "content": "A purported leak containing marketing materials for a new gaming laptop from Lenovo suggests the company may debut a Windows 11 PC with a horizontal rollable display that expands out to an ultrawide \u2026 [+1028 chars]",
-            "ai_score": 5
+            "content": "A purported leak containing marketing materials for a new gaming laptop from Lenovo suggests the company may debut a Windows 11 PC with a horizontal rollable display that expands out to an ultrawide … [+1028 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -764,13 +818,14 @@
                 "name": "Gizmodo.com"
             },
             "author": "Partner Content With Dreame",
-            "title": "Cyber Monday Just Turned Dreame\u2019s Top Vacuums Into Must-Grab Steals, the Perfect Time to Upgrade Your Floor Cleaning",
+            "title": "Cyber Monday Just Turned Dreame’s Top Vacuums Into Must-Grab Steals, the Perfect Time to Upgrade Your Floor Cleaning",
             "description": "Miss out on Black Friday? Dreame's industry-leading high-tech robotic vacuum-mop combos are still on sale for up to $800 off.",
             "url": "https://gizmodo.com/cyber-monday-just-turned-dreames-top-vacuums-into-must-grab-steals-the-perfect-time-to-upgrade-your-floor-cleaning-2000687844",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Aqua-10-lifestyle-1200x675.jpg",
             "publishedAt": "2025-11-28T12:15:17Z",
-            "content": "The \u201cCyber\u201d in Cyber Monday means it\u2019s\u00a0the day for tech deals, and that includes smart devices for your home. If you\u2019re one of the millions of people who have spent months casting envious looks at so\u2026 [+7961 chars]",
-            "ai_score": 5
+            "content": "The “Cyber” in Cyber Monday means it’s the day for tech deals, and that includes smart devices for your home. If you’re one of the millions of people who have spent months casting envious looks at so… [+7961 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -783,22 +838,24 @@
             "url": "https://www.bbc.com/news/articles/cly01mdm577o",
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1aa8/live/6f7fda50-d690-11f0-9184-a796dfacc4c9.jpg",
             "publishedAt": "2025-12-11T13:34:03Z",
-            "content": "Liv McMahon,Technology reporters\r\nNvidia boss Jensen Huang is among the tech bosses the magazine has put on its biggest cover of the year\r\nTime Magazine's Person of the Year for 2025 is not a single \u2026 [+4335 chars]",
-            "ai_score": 5
+            "content": "Liv McMahon,Technology reporters\r\nNvidia boss Jensen Huang is among the tech bosses the magazine has put on its biggest cover of the year\r\nTime Magazine's Person of the Year for 2025 is not a single … [+4335 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Zo\u00eb Schiffer, Brian Barrett",
+            "author": "Zoë Schiffer, Brian Barrett",
             "title": "WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025",
-            "description": "In today\u2019s episode of \u201cUncanny Valley,\u201d we dive into five stories\u2014from AI to DOGE\u2014that encapsulate the year and give us clues as to what might unfold in 2026.",
+            "description": "In today’s episode of “Uncanny Valley,” we dive into five stories—from AI to DOGE—that encapsulate the year and give us clues as to what might unfold in 2026.",
             "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/",
             "urlToImage": "https://media.wired.com/photos/6944495422fe5efb9b63c9bd/191:100/w_1280,c_limit/Uncanny-Valley-2025-Trend-Roundup-Business-2195986713.jpg",
             "publishedAt": "2025-12-19T22:58:41Z",
-            "content": "Brian Barrett: I just this week was looking back at some of our earliest DOGE reporting and reminded of what a crazy couple of months that was. So just as a reminder for folks who were slumbering thr\u2026 [+1551 chars]",
-            "ai_score": 5
+            "content": "Brian Barrett: I just this week was looking back at some of our earliest DOGE reporting and reminded of what a crazy couple of months that was. So just as a reminder for folks who were slumbering thr… [+1551 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -811,8 +868,9 @@
             "url": "https://www.bbc.com/news/articles/c2epm0w0zggo",
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9a60/live/f5aae580-d69e-11f0-8356-c71b2eb54d34.jpg",
             "publishedAt": "2025-12-12T00:34:11Z",
-            "content": "Google has announced plans to team up with the UK to invite researchers to come up with uses for the tech giant's state-of-the-art quantum chip Willow.\r\nIt is one of several firms competing to develo\u2026 [+2585 chars]",
-            "ai_score": 5
+            "content": "Google has announced plans to team up with the UK to invite researchers to come up with uses for the tech giant's state-of-the-art quantum chip Willow.\r\nIt is one of several firms competing to develo… [+2585 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -820,13 +878,14 @@
                 "name": "The Verge"
             },
             "author": "Ash Parrish",
-            "title": "Horses deserves to be played, even if it\u2019s not very good",
-            "description": "Horses has become the current face of the fight against video game censorship and what gets to be art. After getting banned from Steam and the Epic Game Store, the narrative horror game has become a bestseller on GOG.com, and has brought gamers of all stripes\u2026",
+            "title": "Horses deserves to be played, even if it’s not very good",
+            "description": "Horses has become the current face of the fight against video game censorship and what gets to be art. After getting banned from Steam and the Epic Game Store, the narrative horror game has become a bestseller on GOG.com, and has brought gamers of all stripes…",
             "url": "https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/HORSES_Screenshot_3.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-05T22:18:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nI say thee neigh.\r\nby\r\nAsh ParrishClose\r\nAsh Parrish\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee \u2026 [+6849 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nI say thee neigh.\r\nby\r\nAsh ParrishClose\r\nAsh Parrish\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee … [+6849 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -839,8 +898,9 @@
             "url": "https://www.androidcentral.com/phones/nothing-phones/nothings-phone-3a-community-edition-is-a-retro-throwback-in-the-digital-age",
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/dsKGTyopo5Xv4JdR2nbeXQ-1920-80.jpg",
             "publishedAt": "2025-12-09T20:19:00Z",
-            "content": "What you need to know\r\n<ul><li>Nothing revealed its Phone 3a Community Edition phone, showcasing its retro, throwback design that its winners have created together.</li><li>The device features a \"Mad\u2026 [+3227 chars]",
-            "ai_score": 5
+            "content": "What you need to know\r\n<ul><li>Nothing revealed its Phone 3a Community Edition phone, showcasing its retro, throwback design that its winners have created together.</li><li>The device features a \"Mad… [+3227 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -853,8 +913,9 @@
             "url": "https://ca.style.yahoo.com/these-are-the-absolute-best-extended-boxing-day-tech-deals-on-amazon-canada-in-2025-154802501.html",
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AeWbHJ.jYRE.BEaeC3FXvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3c9e2c60-e33b-11f0-b8dd-b0865185c74c",
             "publishedAt": "2025-12-27T15:48:02Z",
-            "content": "Boxing Day 2025 has come to an end, but savvy shoppers know you can still score dozens of extended Boxing Day deals you just need to know where to look. Whether you have your sights set on a new smar\u2026 [+1540 chars]",
-            "ai_score": 5
+            "content": "Boxing Day 2025 has come to an end, but savvy shoppers know you can still score dozens of extended Boxing Day deals you just need to know where to look. Whether you have your sights set on a new smar… [+1540 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -863,12 +924,13 @@
             },
             "author": "Cameron Faulkner",
             "title": "The Super Mario Galaxy bundle for the Switch is 20 percent off today only",
-            "description": "Nintendo launched its $69.99 Super Mario Galaxy double pack for the Switch (complete with a free Switch 2 update) in October, but you can get the cartridge containing both games for $55.20 \u2014 the lowest price yet \u2014 at Woot through Black Friday. The only caveat\u2026",
+            "description": "Nintendo launched its $69.99 Super Mario Galaxy double pack for the Switch (complete with a free Switch 2 update) in October, but you can get the cartridge containing both games for $55.20 — the lowest price yet — at Woot through Black Friday. The only caveat…",
             "url": "https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Switch2_SuperMarioGalaxy_scrn_06.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-11-29T01:01:43Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThese Wii-era classics have never looked better, and you can get the twin-pack for $55.20 through Woot.\r\nThese Wii-era classics have never looked better, and you\u2026 [+2690 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThese Wii-era classics have never looked better, and you can get the twin-pack for $55.20 through Woot.\r\nThese Wii-era classics have never looked better, and you… [+2690 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -877,12 +939,13 @@
             },
             "author": "Brandon Russell",
             "title": "The Switch 2 is still on sale at Walmart if you missed out during Cyber Monday",
-            "description": "One of the biggest surprises of Cyber Monday was the excellent discount we saw on the Nintendo Switch 2 + Mario Kart World bundle, which dropped the price of Nintendo\u2019s latest console by $50. We expected the price to return to normal once the shopping holiday\u2026",
+            "description": "One of the biggest surprises of Cyber Monday was the excellent discount we saw on the Nintendo Switch 2 + Mario Kart World bundle, which dropped the price of Nintendo’s latest console by $50. We expected the price to return to normal once the shopping holiday…",
             "url": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-02T16:37:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe deal has already kicked elsewhere, but Walmart is offering another chance to save before the holidays.\r\nThe deal has already kicked elsewhere, but Walmart is\u2026 [+2784 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe deal has already kicked elsewhere, but Walmart is offering another chance to save before the holidays.\r\nThe deal has already kicked elsewhere, but Walmart is… [+2784 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -895,8 +958,9 @@
             "url": "https://kotaku.com/asus-goes-on-clearance-with-its-rog-strix-g16-gaming-laptop-rtx-5060-32gb-ram-1tb-ssd-for-the-holidays-2000653340",
             "urlToImage": "https://kotaku.com/app/uploads/2025/12/asus-laptop.jpg",
             "publishedAt": "2025-12-15T14:05:54Z",
-            "content": "Gaming laptops, especially the muscular options from high-end brands, dont come in cheap. Most models with solid graphics, a powerful processor, and massive memory sit well over $2,000, but thats not\u2026 [+3069 chars]",
-            "ai_score": 5
+            "content": "Gaming laptops, especially the muscular options from high-end brands, dont come in cheap. Most models with solid graphics, a powerful processor, and massive memory sit well over $2,000, but thats not… [+3069 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -909,8 +973,9 @@
             "url": "https://gizmodo.com/california-might-tax-billionaires-cue-the-inevitable-tech-billionaire-tantrum-2000703411",
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/peter-thiel-1200x675.jpg",
             "publishedAt": "2025-12-27T16:52:07Z",
-            "content": "Taking money away from billionaires is funny, and threatening to do it can be a nice political sugar rush for anyone with even a tiny amount of class consciousness (even though it would not get close\u2026 [+3411 chars]",
-            "ai_score": 5
+            "content": "Taking money away from billionaires is funny, and threatening to do it can be a nice political sugar rush for anyone with even a tiny amount of class consciousness (even though it would not get close… [+3411 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -919,12 +984,13 @@
             },
             "author": "Andrew Liszewski",
             "title": "This Tetris-playing watch struggles with the one thing it should be great at",
-            "description": "The Tetris: My Play Watch may look like an Apple Watch, but it eschews most of the functionality you'll typically find on a smartwatch to focus on two things: playing Tetris and celebrating the game through a UI that's thoroughly Tetris-themed. It's very good\u2026",
+            "description": "The Tetris: My Play Watch may look like an Apple Watch, but it eschews most of the functionality you'll typically find on a smartwatch to focus on two things: playing Tetris and celebrating the game through a UI that's thoroughly Tetris-themed. It's very good…",
             "url": "https://www.theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/tetris_myplaywatch_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
             "publishedAt": "2025-12-12T13:41:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFinicky touchscreen controls make this watchs best feature its most disappointing.\r\nFinicky touchscreen controls make this watchs best feature its most disappoin\u2026 [+6556 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFinicky touchscreen controls make this watchs best feature its most disappointing.\r\nFinicky touchscreen controls make this watchs best feature its most disappoin… [+6556 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -933,12 +999,13 @@
             },
             "author": "Tom Warren",
             "title": "Microsoft is quietly walking back its diversity efforts",
-            "description": "Microsoft has been publishing data about the gender, race, and ethnic breakdown of its employees for more than a decade. Since 2019 it's been publishing a full diversity and inclusion report annually, and at the same time made reporting on diversity a require\u2026",
+            "description": "Microsoft has been publishing data about the gender, race, and ethnic breakdown of its employees for more than a decade. Since 2019 it's been publishing a full diversity and inclusion report annually, and at the same time made reporting on diversity a require…",
             "url": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-04T18:54:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is toeing the line in Trumps America.\r\nMicrosoft is toeing the line in Trumps America.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this author will be\u2026 [+13276 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is toeing the line in Trumps America.\r\nMicrosoft is toeing the line in Trumps America.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this author will be… [+13276 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -946,13 +1013,14 @@
                 "name": "The Verge"
             },
             "author": "Andrew Liszewski",
-            "title": "You can now text photos directly to Aura\u2019s digital picture frames",
-            "description": "It's now easier for friends and family who aren't tech savvy or are struggling with app fatigue to share images via your Aura digital photo frame. As the name of the new \"text to frame\" feature implies, photos can now be shared to an Aura frame through a text\u2026",
+            "title": "You can now text photos directly to Aura’s digital picture frames",
+            "description": "It's now easier for friends and family who aren't tech savvy or are struggling with app fatigue to share images via your Aura digital photo frame. As the name of the new \"text to frame\" feature implies, photos can now be shared to an Aura frame through a text…",
             "url": "https://www.theverge.com/news/840142/aura-text-to-frame-digital-picture-frame-share-photos",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/aura_texttoframe_1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2025-12-08T19:07:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFriends and family can share pictures to your photo frame without having to download Auras app.\r\nFriends and family can share pictures to your photo frame withou\u2026 [+2635 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFriends and family can share pictures to your photo frame without having to download Auras app.\r\nFriends and family can share pictures to your photo frame withou… [+2635 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -961,12 +1029,13 @@
             },
             "author": "David Pierce",
             "title": "The Vergecast 2025 year in review",
-            "description": "When we look back on 2025, at least in tech, we'll remember it mostly as a year about AI. We had a race between OpenAI, Google, Anthropic, and others to build the best model for the most things. Nvidia became the most valuable company in the world, data cente\u2026",
+            "description": "When we look back on 2025, at least in tech, we'll remember it mostly as a year about AI. We had a race between OpenAI, Google, Anthropic, and others to build the best model for the most things. Nvidia became the most valuable company in the world, data cente…",
             "url": "https://www.theverge.com/podcast/840661/tech-stories-2025-ai-vergecast",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/VRG_VST_1209_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-09T14:45:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the best, worst, biggest, and weirdest of everything that happened in a wild year in tech.\r\nOn The Vergecast: the best, worst, biggest, and wei\u2026 [+2899 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the best, worst, biggest, and weirdest of everything that happened in a wild year in tech.\r\nOn The Vergecast: the best, worst, biggest, and wei… [+2899 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -975,12 +1044,13 @@
             },
             "author": "Victoria Song",
             "title": "In 2025, wearables made a hard pivot to AI",
-            "description": "Years from now, I'll look back at 2025 as the year when a fundamental shift happened in wearable technology. Over the last decade, the category has been synonymous with health and fitness. In many ways, that association is still the primary one. But this year\u2026",
+            "description": "Years from now, I'll look back at 2025 as the year when a fundamental shift happened in wearable technology. Over the last decade, the category has been synonymous with health and fitness. In many ways, that association is still the primary one. But this year…",
             "url": "https://www.theverge.com/gadgets/838876/2025-ai-wearables-smart-glasses-pendants-fitness",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_WEARABLES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-16T16:16:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI glasses, AI fitness coaches, and AI pendants Its AI all the way down.\r\nAI glasses, AI fitness coaches, and AI pendants Its AI all the way down.\r\nby\r\nVictoria \u2026 [+5214 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI glasses, AI fitness coaches, and AI pendants Its AI all the way down.\r\nAI glasses, AI fitness coaches, and AI pendants Its AI all the way down.\r\nby\r\nVictoria … [+5214 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -989,12 +1059,13 @@
             },
             "author": "Robert Hart",
             "title": "Humanoid robots are coming. Eventually?",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on robotics and AI, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. We're taking a winter b\u2026",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on robotics and AI, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. We're taking a winter b…",
             "url": "https://www.theverge.com/column/843418/humanoid-robot-hype",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-21T13:07:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHumanoid robots are coming. Eventually?\r\nChina sees humanoids as an economic engine and Musk wants a robot army. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from \u2026 [+12524 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHumanoid robots are coming. Eventually?\r\nChina sees humanoids as an economic engine and Musk wants a robot army. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from … [+12524 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1002,13 +1073,14 @@
                 "name": "The Verge"
             },
             "author": "Alex Heath",
-            "title": "Amazon\u2019s bet that AI benchmarks don\u2019t matter",
-            "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Amazon's AI chief has a message for the model benchmark obsessives: Stop looking at the leaderboards. \"I want real\u2026",
+            "title": "Amazon’s bet that AI benchmarks don’t matter",
+            "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Amazon's AI chief has a message for the model benchmark obsessives: Stop looking at the leaderboards. \"I want real…",
             "url": "https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1244423126.jpg?quality=90&strip=all&crop=0%2C9.8885323425097%2C100%2C80.222935314981&w=1200",
             "publishedAt": "2025-12-02T20:41:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhile OpenAI, Anthropic, and Google trade blows at the top of the charts, Amazon is asking everyone to look somewhere else.\r\nWhile OpenAI, Anthropic, and Google \u2026 [+5837 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhile OpenAI, Anthropic, and Google trade blows at the top of the charts, Amazon is asking everyone to look somewhere else.\r\nWhile OpenAI, Anthropic, and Google … [+5837 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1016,13 +1088,14 @@
                 "name": "The Verge"
             },
             "author": "Thomas Ricker",
-            "title": "Starlink made \u2018work from home\u2019 possible from anywhere \u2014 now, I\u2019m ready for a change",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started I\u2026",
+            "title": "Starlink made ‘work from home’ possible from anywhere — now, I’m ready for a change",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started I…",
             "url": "https://www.theverge.com/column/837202/starlink-work-from-home",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258152_Starlink_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-04T21:59:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nCompetition is coming, but it might never catch up.\r\nby\r\nThomas RickerClose\r\nThomas Ricker\r\nPosts from this author will be added to your daily email digest and y\u2026 [+11554 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCompetition is coming, but it might never catch up.\r\nby\r\nThomas RickerClose\r\nThomas Ricker\r\nPosts from this author will be added to your daily email digest and y… [+11554 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1031,12 +1104,13 @@
             },
             "author": "Barbara Krasnoff",
             "title": "Black Friday deals that are most popular with Verge readers",
-            "description": "It may not surprise anyone who is tech-aware that publications such as\u00a0The Verge\u00a0track the affiliate links that their readers click \u2014 in fact, every article that links to a vendor has this statement on top: \u201cIf you buy something from a Verge link, Vox Media m\u2026",
+            "description": "It may not surprise anyone who is tech-aware that publications such as The Verge track the affiliate links that their readers click — in fact, every article that links to a vendor has this statement on top: “If you buy something from a Verge link, Vox Media m…",
             "url": "https://www.theverge.com/gadgets/830017/black-friday-ipod-favorite-deals-sales",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/chomchom.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2025-11-28T22:14:15Z",
-            "content": "It may not surprise anyone who is tech-aware that publications such as\u00a0The Verge\u00a0track the affiliate links that their readers click \u2014 in fact, every article that links to a vendor has this statement \u2026 [+5635 chars]",
-            "ai_score": 5
+            "content": "It may not surprise anyone who is tech-aware that publications such as The Verge track the affiliate links that their readers click — in fact, every article that links to a vendor has this statement … [+5635 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1045,12 +1119,13 @@
             },
             "author": "Justine Calma",
             "title": "The scramble to launch data centers into space is heating up",
-            "description": "A startup developing technologies to harness solar power in space is throwing its hat in with big tech companies attempting to build out data centers that orbit Earth. The US-based company, Aetherflux, announced on Tuesday that it plans to launch its first da\u2026",
+            "description": "A startup developing technologies to harness solar power in space is throwing its hat in with big tech companies attempting to build out data centers that orbit Earth. The US-based company, Aetherflux, announced on Tuesday that it plans to launch its first da…",
             "url": "https://www.theverge.com/news/841887/data-center-space-solar-power-aetherflux-lunch",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1027918170.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
             "publishedAt": "2025-12-10T20:13:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA solar-powered Galactic Brain is supposed to side-step energy constraints new data centers face on Earth. \r\nA solar-powered Galactic Brain is supposed to side-s\u2026 [+4668 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA solar-powered Galactic Brain is supposed to side-step energy constraints new data centers face on Earth. \r\nA solar-powered Galactic Brain is supposed to side-s… [+4668 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1059,12 +1134,13 @@
             },
             "author": "Jess Weatherbed",
             "title": "Facebook and Instagram will let European users see fewer personal ads",
-            "description": "Meta will soon give Instagram and Facebook users in the European Union the option to limit personalised ads, in an effort to comply with the bloc's tech rules. The European Commission announced that the new advertising options will be rolled out in January 20\u2026",
+            "description": "Meta will soon give Instagram and Facebook users in the European Union the option to limit personalised ads, in an effort to comply with the bloc's tech rules. The European Commission announced that the new advertising options will be rolled out in January 20…",
             "url": "https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_7_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-08T16:12:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe upcoming changes follow Meta being fined $266 million in April over its consent or pay ad model.\r\nThe upcoming changes follow Meta being fined $266 million i\u2026 [+2741 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe upcoming changes follow Meta being fined $266 million in April over its consent or pay ad model.\r\nThe upcoming changes follow Meta being fined $266 million i… [+2741 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1073,12 +1149,13 @@
             },
             "author": "Elissa Welle",
             "title": "Billionaires want data centers everywhere, including space",
-            "description": "Tech billionaires have been obsessed with space for a long time. Now, as the largest AI companies race to build more data centers in a frenzied pursuit of profitability, space is looking less like a pet project and more like a commercial opportunity. In 2025 \u2026",
+            "description": "Tech billionaires have been obsessed with space for a long time. Now, as the largest AI companies race to build more data centers in a frenzied pursuit of profitability, space is looking less like a pet project and more like a commercial opportunity. In 2025 …",
             "url": "https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Vrg_illo_Kristen_Radtke_data_centers_in_space.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-17T17:48:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBillionaires want data centers everywhere, including space\r\nAstronomers and environmental scientists are skeptical.\r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts f\u2026 [+11186 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBillionaires want data centers everywhere, including space\r\nAstronomers and environmental scientists are skeptical.\r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts f… [+11186 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1091,8 +1168,9 @@
             "url": "https://www.wired.com/story/cyber-monday-tv-deals-2025/",
             "urlToImage": "https://media.wired.com/photos/6923e421c68e1875e6bc3d18/191:100/w_1280,c_limit/Best%20Black%20Friday%20TV%20Deals.png",
             "publishedAt": "2025-12-01T08:30:00Z",
-            "content": "Looking for a new screen this holiday season? Every TV has been released for the year, which makes now a good time to upgrade yours to whatever has been tickling your fancy (now that you've read our \u2026 [+7231 chars]",
-            "ai_score": 5
+            "content": "Looking for a new screen this holiday season? Every TV has been released for the year, which makes now a good time to upgrade yours to whatever has been tickling your fancy (now that you've read our … [+7231 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1105,8 +1183,9 @@
             "url": "https://www.wired.com/story/black-friday-tv-deals-2025-2/",
             "urlToImage": "https://media.wired.com/photos/6923e421c68e1875e6bc3d18/191:100/w_1280,c_limit/Best%20Black%20Friday%20TV%20Deals.png",
             "publishedAt": "2025-11-30T15:52:22Z",
-            "content": "Looking for a new screen this holiday season? Every TV has been released for the year, which makes now a good time to upgrade yours to whatever has been tickling your fancy (now that you've read our \u2026 [+7211 chars]",
-            "ai_score": 5
+            "content": "Looking for a new screen this holiday season? Every TV has been released for the year, which makes now a good time to upgrade yours to whatever has been tickling your fancy (now that you've read our … [+7211 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1115,12 +1194,13 @@
             },
             "author": "Antonio G. Di Benedetto",
             "title": "We found 25 great laptop deals you can still grab for Cyber Monday",
-            "description": "We\u2019re well into Cyber Monday, and many of the same laptop deals that impressed us during Black Friday and the following weekend are still here. In fact, not only can you still save hundreds on great notebooks from Microsoft, Apple, Razer, HP, and more, but we\u2026",
+            "description": "We’re well into Cyber Monday, and many of the same laptop deals that impressed us during Black Friday and the following weekend are still here. In fact, not only can you still save hundreds on great notebooks from Microsoft, Apple, Razer, HP, and more, but we…",
             "url": "https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-01T22:56:00Z",
-            "content": "There are deals on gaming laptops and MacBooks, as well as gaming laptops that want to be MacBooks.\r\n\n\nWe\u2019re well into Cyber Monday, and many of the same laptop deals that impressed us during Black F\u2026 [+19616 chars]",
-            "ai_score": 5
+            "content": "There are deals on gaming laptops and MacBooks, as well as gaming laptops that want to be MacBooks.\r\n\n\nWe’re well into Cyber Monday, and many of the same laptop deals that impressed us during Black F… [+19616 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1128,13 +1208,14 @@
                 "name": "The Verge"
             },
             "author": "Jay Peters",
-            "title": "Bungie\u2019s delayed shooter Marathon launches in March",
-            "description": "Bungie's Marathon, its upcoming extraction shooter that it delayed from a planned September release, will now launch in March 2026. The studio is \"targeting\" a price of $39.99, and \"purchasing Marathon will give you full access to the game, including a roadma\u2026",
+            "title": "Bungie’s delayed shooter Marathon launches in March",
+            "description": "Bungie's Marathon, its upcoming extraction shooter that it delayed from a planned September release, will now launch in March 2026. The studio is \"targeting\" a price of $39.99, and \"purchasing Marathon will give you full access to the game, including a roadma…",
             "url": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2025_DEC_Marathon_Press_Kit_Compressed_003.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-15T18:42:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter poor alpha test feedback, the game is now set to come out early next year.\r\nAfter poor alpha test feedback, the game is now set to come out early next year\u2026 [+1943 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter poor alpha test feedback, the game is now set to come out early next year.\r\nAfter poor alpha test feedback, the game is now set to come out early next year… [+1943 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1143,12 +1224,13 @@
             },
             "author": "Jay Peters",
             "title": "Call of Duty, Titanfall developer Vince Zampella has died at age 55",
-            "description": "Vince Zampella, who had a major hand in developing franchises like Medal of Honor, Call of Duty, and Battlefield, died in a car crash on Sunday, NBC Los Angeles reports. He was 55. NBC Los Angeles and CBS Los Angeles report California Highway Patrol responded\u2026",
+            "description": "Vince Zampella, who had a major hand in developing franchises like Medal of Honor, Call of Duty, and Battlefield, died in a car crash on Sunday, NBC Los Angeles reports. He was 55. NBC Los Angeles and CBS Los Angeles report California Highway Patrol responded…",
             "url": "https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1137086888.jpg?quality=90&strip=all&crop=0%2C11.34049086531%2C100%2C77.319018269379&w=1200",
             "publishedAt": "2025-12-22T20:57:37Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nZampella co-founded Respawn Entertainment and the original Call of Duty studio, Infinity Ward.\r\nZampella co-founded Respawn Entertainment and the original Call o\u2026 [+2444 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nZampella co-founded Respawn Entertainment and the original Call of Duty studio, Infinity Ward.\r\nZampella co-founded Respawn Entertainment and the original Call o… [+2444 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1156,13 +1238,14 @@
                 "name": "The Verge"
             },
             "author": "Jay Peters",
-            "title": "007 First Light\u2019s release date gets shaken up",
-            "description": "IO Interactive has delayed the release of 007 First Light, its upcoming James Bond origin story game, by two months. 007 First Light will now be released on May 27th, 2026. According to an announcement about the delay: 007 First Light is our most ambitious pr\u2026",
+            "title": "007 First Light’s release date gets shaken up",
+            "description": "IO Interactive has delayed the release of 007 First Light, its upcoming James Bond origin story game, by two months. 007 First Light will now be released on May 27th, 2026. According to an announcement about the delay: 007 First Light is our most ambitious pr…",
             "url": "https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_a840c903dd0431a24509454787dcb0a565b56d31.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-23T18:39:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new James Bond game is getting a two-month delay.\r\nThe new James Bond game is getting a two-month delay.\r\nby\r\nJay PetersClose\r\nJay Peters\r\nPosts from this au\u2026 [+2215 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new James Bond game is getting a two-month delay.\r\nThe new James Bond game is getting a two-month delay.\r\nby\r\nJay PetersClose\r\nJay Peters\r\nPosts from this au… [+2215 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1171,12 +1254,13 @@
             },
             "author": "Andrew Webster",
             "title": "The best games to play on Xbox Game Pass in 2025",
-            "description": "From pervasive layoffs to continued price hikes, things didn't go so well for Xbox in 2025. But even though Game Pass, the Xbox subscription service, isn't quite the deal it once was, there are still a lot of excellent titles to check out. This was an especia\u2026",
+            "description": "From pervasive layoffs to continued price hikes, things didn't go so well for Xbox in 2025. But even though Game Pass, the Xbox subscription service, isn't quite the deal it once was, there are still a lot of excellent titles to check out. This was an especia…",
             "url": "https://www.theverge.com/games/845376/xbox-games-pass-best-games-2025",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_XBOX_GAME_PASS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-17T14:00:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt was a rough year for Microsofts gaming division, but there are still some great games to check out.\r\nIt was a rough year for Microsofts gaming division, but t\u2026 [+4876 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt was a rough year for Microsofts gaming division, but there are still some great games to check out.\r\nIt was a rough year for Microsofts gaming division, but t… [+4876 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1185,12 +1269,13 @@
             },
             "author": "Ash Parrish",
             "title": "We played Metroid Prime 4, ask us anything",
-            "description": "Metroid Prime 4: Beyond is one of those games that been a long time coming. Fans have been waiting almost a decade for the next entry in Samus' first-person adventures. Early previews painted an alarming picture of overly chatty sidekicks ruining what's tradi\u2026",
+            "description": "Metroid Prime 4: Beyond is one of those games that been a long time coming. Fans have been waiting almost a decade for the next entry in Samus' first-person adventures. Early previews painted an alarming picture of overly chatty sidekicks ruining what's tradi…",
             "url": "https://www.theverge.com/games/836580/metroid-prime-4-ask-me-anything",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Switch_MetroidPrime4Beyond-scrn-16.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-02T18:59:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nShare all your burning questions about Samus latest adventure.\r\nShare all your burning questions about Samus latest adventure.\r\nby\r\nAsh ParrishClose\r\nAsh Parrish\u2026 [+2087 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nShare all your burning questions about Samus latest adventure.\r\nShare all your burning questions about Samus latest adventure.\r\nby\r\nAsh ParrishClose\r\nAsh Parrish… [+2087 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1199,12 +1284,13 @@
             },
             "author": "Ash Parrish",
             "title": "The next Star Wars game is the spiritual successor to Knights of the Old Republic",
-            "description": "The next Star Wars game is coming from the director of Mass Effect and Knights of the Old Republic. Star Wars: Fate of the Old Republic was revealed during The Game Awards with a brief trailer that got Geoff Keighley so excited his voice started cracking. Lik\u2026",
+            "description": "The next Star Wars game is coming from the director of Mass Effect and Knights of the Old Republic. Star Wars: Fate of the Old Republic was revealed during The Game Awards with a brief trailer that got Geoff Keighley so excited his voice started cracking. Lik…",
             "url": "https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-11-at-8.18.40%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C2.6447617888017%2C100%2C94.710476422397&w=1200",
             "publishedAt": "2025-12-12T01:48:01Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nCasey Hudson has been tapped to lead development on the game.\r\nCasey Hudson has been tapped to lead development on the game.\r\nby\r\nAsh ParrishClose\r\nAsh Parrish\r\n\u2026 [+1991 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCasey Hudson has been tapped to lead development on the game.\r\nCasey Hudson has been tapped to lead development on the game.\r\nby\r\nAsh ParrishClose\r\nAsh Parrish\r\n… [+1991 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1212,13 +1298,14 @@
                 "name": "The Verge"
             },
             "author": "Jay Peters",
-            "title": "Ghost of Y\u014dtei studio Sucker Punch is getting new leadership",
-            "description": "Sucker Punch Productions, the PlayStation studio behind games like Ghost of Y\u014dtei and the Infamous and Sly Cooper series, will be headed up by Jason Connell and Adrian Bentley starting January 1st, Sony announced on Tuesday. Studio co-founder Brian Fleming is\u2026",
+            "title": "Ghost of Yōtei studio Sucker Punch is getting new leadership",
+            "description": "Sucker Punch Productions, the PlayStation studio behind games like Ghost of Yōtei and the Infamous and Sly Cooper series, will be headed up by Jason Connell and Adrian Bentley starting January 1st, Sony announced on Tuesday. Studio co-founder Brian Fleming is…",
             "url": "https://www.theverge.com/news/845573/sony-playstation-sucker-punch-leadership",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-16-at-9.52.48%E2%80%AFAM.png?quality=90&strip=all&crop=9.3709311127933%2C0%2C81.258137774413%2C100&w=1200",
             "publishedAt": "2025-12-16T17:54:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nCo-founder Brian Fleming is stepping down, with longtime Sucker Punch staffers Jason Connell and Adrian Bentley taking over as studio heads.\r\nCo-founder Brian Fl\u2026 [+2373 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCo-founder Brian Fleming is stepping down, with longtime Sucker Punch staffers Jason Connell and Adrian Bentley taking over as studio heads.\r\nCo-founder Brian Fl… [+2373 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         },
         {
             "source": {
@@ -1226,13 +1313,14 @@
                 "name": "The Verge"
             },
             "author": "Cameron Faulkner",
-            "title": "This $5 Kindle page-turning remote is all I\u2019m buying for Cyber Monday",
-            "description": "I\u2019ve been looking for any huge Cyber Monday deals that I might have missed. Then I saw it \u2014 what may very well be the perfect stocking stuffer in 2025: a remote-controlled Kindle screen-tapping gadget for $4.75 (before tax) at Amazon with the code EJXVDK26 (v\u2026",
+            "title": "This $5 Kindle page-turning remote is all I’m buying for Cyber Monday",
+            "description": "I’ve been looking for any huge Cyber Monday deals that I might have missed. Then I saw it — what may very well be the perfect stocking stuffer in 2025: a remote-controlled Kindle screen-tapping gadget for $4.75 (before tax) at Amazon with the code EJXVDK26 (v…",
             "url": "https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/pageflipper.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2025-12-01T19:18:35Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIn case youre looking for stuff that wont gut your savings, may I present this very affordable (and helpful) gizmo?\r\nIn case youre looking for stuff that wont gu\u2026 [+2790 chars]",
-            "ai_score": 5
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIn case youre looking for stuff that wont gut your savings, may I present this very affordable (and helpful) gizmo?\r\nIn case youre looking for stuff that wont gu… [+2790 chars]",
+            "ai_score": 0,
+            "ai_tags": "HTTP400"
         }
     ]
 }
