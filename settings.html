@@ -1,46 +1,86 @@
-<main class="main">
-    <section class="section">
-        <h2>AI Training Center</h2>
-        
-        <div class="challenge-card" style="padding: 2rem; margin-bottom: 2rem;">
-            <h3>Keywords to Ignore</h3>
-            <p>Example: Trump, ABC News, Football</p>
-            <input type="text" id="ignore-input" placeholder="Type and press Add..." style="padding: 10px; width: 80%;">
-            <button onclick="addKeyword('ignore')" class="nav-link" style="border:none; cursor:pointer;">Add</button>
-            <ul id="ignore-list" style="margin-top: 1rem;"></ul>
-        </div>
-        
-        <a href="index.html" class="nav-link">← Back to News</a>
-    </section>
-</main>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Training - Settings</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .input-group { display: flex; gap: 10px; margin-bottom: 20px; }
+        input { padding: 12px; border-radius: 8px; border: 1px solid #ddd; flex-grow: 1; font-family: inherit; }
+        .tag-container { display: flex; flex-wrap: wrap; gap: 8px; }
+        .tag { background: #f0f0f0; padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; display: flex; align-items: center; gap: 8px; border: 1px solid #eee; }
+        .tag button { background: none; border: none; color: #ff4d4d; cursor: pointer; font-weight: bold; font-size: 1rem; }
+        .section-title { margin-top: 2rem; border-bottom: 2px solid #eee; padding-bottom: 5px; margin-bottom: 1rem; }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <ul>
+                <li><a href="index.html" class="nav-link">HOME</a></li>
+                <li><a href="settings.html" class="nav-link active">AI TRAINING</a></li>
+            </ul>
+        </nav>
+    </header>
 
-<script>
-    function addKeyword(type) {
-        const input = document.getElementById(`${type}-input`);
-        const value = input.value.trim().toLowerCase();
-        if (!value) return;
+    <main class="main">
+        <section class="section">
+            <h1 class="hero-title" style="font-size: 2rem;">Training Center</h1>
+            <p style="color: #666; margin-bottom: 2rem;">Define what your AI should search for or ignore on this device.</p>
 
-        let list = JSON.parse(localStorage.getItem(`ryan_${type}_list`)) || [];
-        if (!list.includes(value)) {
-            list.push(value);
-            localStorage.setItem(`ryan_${type}_list`, JSON.stringify(list));
+            <div class="challenge-card" style="padding: 2rem; margin-bottom: 2rem; text-align: left;">
+                <h3 class="section-title">Keywords You Love</h3>
+                <div class="input-group">
+                    <input type="text" id="interest-input" placeholder="e.g. Space, Coding, AI...">
+                    <button onclick="savePref('interest')" class="nav-link" style="border:none; cursor:pointer; background:#f0f0f0; padding: 10px 20px; border-radius: 8px;">Add</button>
+                </div>
+                <div id="interest-tags" class="tag-container"></div>
+            </div>
+
+            <div class="challenge-card" style="padding: 2rem; text-align: left;">
+                <h3 class="section-title">Keywords or Sources to Block</h3>
+                <div class="input-group">
+                    <input type="text" id="ignore-input" placeholder="e.g. Trump, Football, ABC News...">
+                    <button onclick="savePref('ignore')" class="nav-link" style="border:none; cursor:pointer; background:#f0f0f0; padding: 10px 20px; border-radius: 8px;">Add</button>
+                </div>
+                <div id="ignore-tags" class="tag-container"></div>
+            </div>
+
+            <button onclick="localStorage.clear(); location.reload();" style="margin-top: 3rem; background: none; border: 1px solid #ddd; padding: 10px; border-radius: 5px; cursor: pointer; color: #999;">Reset All Training Data</button>
+        </section>
+    </main>
+
+    <script>
+        function savePref(type) {
+            const input = document.getElementById(`${type}-input`);
+            const val = input.value.trim().toLowerCase();
+            if (!val) return;
+            const list = JSON.parse(localStorage.getItem(`ryan_${type}`)) || [];
+            if (!list.includes(val)) {
+                list.push(val);
+                localStorage.setItem(`ryan_${type}`, JSON.stringify(list));
+            }
+            input.value = '';
+            renderTags();
         }
-        input.value = '';
-        displayLists();
-    }
 
-    function displayLists() {
-        const list = JSON.parse(localStorage.getItem('ryan_ignore_list')) || [];
-        document.getElementById('ignore-list').innerHTML = list.map(word => 
-            `<li>${word} <button onclick="removeWord('${word}')">x</button></li>`).join('');
-    }
+        function removePref(type, val) {
+            let list = JSON.parse(localStorage.getItem(`ryan_${type}`)) || [];
+            list = list.filter(item => item !== val);
+            localStorage.setItem(`ryan_${type}`, JSON.stringify(list));
+            renderTags();
+        }
 
-    function removeWord(word) {
-        let list = JSON.parse(localStorage.getItem('ryan_ignore_list')) || [];
-        list = list.filter(w => w !== word);
-        localStorage.setItem('ryan_ignore_list', JSON.stringify(list));
-        displayLists();
-    }
-
-    window.onload = displayLists;
-</script>
+        function renderTags() {
+            ['interest', 'ignore'].forEach(type => {
+                const list = JSON.parse(localStorage.getItem(`ryan_${type}`)) || [];
+                document.getElementById(`${type}-tags`).innerHTML = list.map(item => `
+                    <div class="tag">${item} <button onclick="removePref('${type}', '${item}')">×</button></div>
+                `).join('');
+            });
+        }
+        window.onload = renderTags;
+    </script>
+</body>
+</html>
