@@ -1,43 +1,149 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"><title>AI Training</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Training - Settings</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        body { background-color: #f8fafc; font-family: 'Inter', sans-serif; }
+        .setting-card { 
+            background: white; 
+            padding: 2.5rem; 
+            border-radius: 20px; 
+            margin-bottom: 2rem; 
+            box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+            border: 1px solid #e2e8f0;
+        }
+        .input-row { display: flex; gap: 12px; margin-bottom: 1.5rem; }
+        input { 
+            flex: 1; 
+            padding: 14px; 
+            border: 2px solid #e2e8f0; 
+            border-radius: 12px; 
+            font-size: 1rem;
+            transition: border-color 0.2s;
+        }
+        input:focus { border-color: #4f46e5; outline: none; }
+        .btn-add { 
+            background: #0f172a; 
+            color: white; 
+            border: none; 
+            padding: 0 24px; 
+            border-radius: 12px; 
+            font-weight: 600; 
+            cursor: pointer;
+        }
+        .tag-list { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
+        .tag { 
+            background: #f1f5f9; 
+            color: #475569; 
+            padding: 8px 16px; 
+            border-radius: 100px; 
+            font-size: 0.9rem; 
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            border: 1px solid #e2e8f0;
+        }
+        .tag button { 
+            background: none; 
+            border: none; 
+            color: #94a3b8; 
+            cursor: pointer; 
+            font-size: 1.2rem;
+            line-height: 1;
+            padding: 0;
+        }
+        .tag button:hover { color: #ef4444; }
+        .btn-sync { 
+            background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%); 
+            color: white; 
+            border: none; 
+            padding: 20px; 
+            border-radius: 16px; 
+            width: 100%; 
+            font-size: 1.1rem; 
+            font-weight: 700; 
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(79, 70, 229, 0.3);
+            transition: transform 0.2s;
+        }
+        .btn-sync:hover { transform: translateY(-2px); }
+    </style>
 </head>
 <body>
-    <header class="header"><nav class="nav"><ul>
-        <li><a href="index.html" class="nav-link">HOME</a></li>
-        <li><a href="settings.html" class="nav-link active">AI TRAINING</a></li>
-    </ul></nav></header>
-    <main class="main" style="max-width:600px; margin:auto; padding:2rem;">
-        <h1>Training Center</h1>
+    <header class="header">
+        <nav class="nav">
+            <ul>
+                <li><a href="index.html" class="nav-link">HOME</a></li>
+                <li><a href="settings.html" class="nav-link active">AI TRAINING</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main" style="max-width: 650px; margin: 0 auto; padding: 3rem 1rem;">
+        <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem; text-align: center;">Training Center</h1>
+        <p style="text-align: center; color: #64748b; margin-bottom: 3rem;">Fine-tune your AI's relevancy and filtering logic.</p>
+
         <div class="setting-card">
-            <h3>👍 Likes</h3>
-            <input type="text" id="like-input"><button onclick="addWord('interest')">Add</button>
-            <div id="interest-tags"></div>
+            <h3 style="margin-bottom: 1.5rem;">👍 Keywords You Love</h3>
+            <div class="input-row">
+                <input type="text" id="like-input" placeholder="e.g. Gaming, Samsung, Space">
+                <button class="btn-add" onclick="addWord('interest')">Add</button>
+            </div>
+            <div id="interest-tags" class="tag-list"></div>
         </div>
+
         <div class="setting-card">
-            <h3>🚫 Ignores</h3>
-            <input type="text" id="ignore-input"><button onclick="addWord('ignore')">Add</button>
-            <div id="ignore-tags"></div>
+            <h3 style="margin-bottom: 1.5rem;">🚫 Keywords to Block</h3>
+            <div class="input-row">
+                <input type="text" id="ignore-input" placeholder="e.g. Trump, Politics, Gossip">
+                <button class="btn-add" onclick="addWord('ignore')">Add</button>
+            </div>
+            <div id="ignore-tags" class="tag-list"></div>
         </div>
+
         <button class="btn-sync" onclick="window.location.href='index.html?sync=true'">🚀 SYNC NOW</button>
     </main>
+
     <script>
-        function addWord(t){
-            const i=document.getElementById(`${t==='interest'?'like':'ignore'}-input`);
-            const v=i.value.trim().toLowerCase(); if(!v)return;
-            const l=JSON.parse(localStorage.getItem(`ryan_${t}`))||[];
-            if(!l.includes(v)){l.push(v); localStorage.setItem(`ryan_${t}`, JSON.stringify(l));}
-            i.value=''; render();
+        function addWord(type) {
+            const input = document.getElementById(`${type === 'interest' ? 'like' : 'ignore'}-input`);
+            const val = input.value.trim().toLowerCase();
+            if (!val) return;
+            const storageKey = `ryan_${type}`;
+            const list = JSON.parse(localStorage.getItem(storageKey)) || [];
+            if (!list.includes(val)) {
+                list.push(val);
+                localStorage.setItem(storageKey, JSON.stringify(list));
+            }
+            input.value = '';
+            renderTags();
         }
-        function render(){
-            ['interest','ignore'].forEach(t=>{
-                const l=JSON.parse(localStorage.getItem(`ryan_${t}`))||[];
-                document.getElementById(`${t==='interest'?'interest':'ignore'}-tags`).innerHTML = l.map(w=>`<span>${w}</span>`).join('');
+
+        function removeWord(type, val) {
+            const storageKey = `ryan_${type}`;
+            let list = JSON.parse(localStorage.getItem(storageKey)) || [];
+            list = list.filter(item => item !== val);
+            localStorage.setItem(storageKey, JSON.stringify(list));
+            renderTags();
+        }
+
+        function renderTags() {
+            ['interest', 'ignore'].forEach(type => {
+                const list = JSON.parse(localStorage.getItem(`ryan_${type}`)) || [];
+                const container = document.getElementById(`${type === 'interest' ? 'interest' : 'ignore'}-tags`);
+                container.innerHTML = list.map(word => `
+                    <div class="tag">
+                        ${word}
+                        <button onclick="removeWord('${type}', '${word}')">&times;</button>
+                    </div>
+                `).join('');
             });
         }
-        window.onload=render;
+        window.onload = renderTags;
     </script>
 </body>
 </html>
