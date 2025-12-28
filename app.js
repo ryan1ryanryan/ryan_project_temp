@@ -70,7 +70,7 @@ async function init() {
             container.appendChild(card);
         });
         
-        status.innerText = `Updated: ${data.last_updated}`;
+        status.innerText = ``;
         
     } catch (err) { 
         status.innerText = "Ready."; 
