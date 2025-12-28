@@ -1,47 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI News - Top 50</title>
+    <meta charset="UTF-8"><title>News Sauce</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        /* Visual indicator for the AI score */
-        .ai-score-badge {
-            background: #eef2ff;
-            color: #4f46e5;
-            padding: 4px 10px;
-            border-radius: 12px;
-            font-size: 0.7rem;
-            font-weight: bold;
-            display: inline-block;
-            margin-bottom: 10px;
-        }
-        .hero-status { font-size: 0.9rem; color: #888; margin-top: 10px; }
-    </style>
 </head>
 <body>
-    <header class="header">
-        <nav class="nav">
-            <ul>
-                <li><a href="index.html" class="nav-link active">HOME</a></li>
-                <li><a href="settings.html" class="nav-link">AI TRAINING</a></li>
-            </ul>
-        </nav>
-    </header>
-
+    <header class="header"><nav class="nav"><ul>
+        <li><a href="index.html" class="nav-link active">HOME</a></li>
+        <li><a href="settings.html" class="nav-link">PREFERENCES</a></li>
+    </ul></nav></header>
     <main class="main">
-        <section class="section hero" style="text-align: center;">
-            <h1 class="hero-title">Your Top 50</h1>
-            <p class="hero-status" id="loading-status">AI is analyzing your backlog...</p>
-            <div class="hero-line"></div>
+        <section class="section" style="text-align:center;">
+            <h1>Your Top 50</h1>
+            <p id="loading-status">Analyzing backlog...</p>
         </section>
-
-        <section class="section">
-            <div class="challenges-grid" id="news-container"></div>
-        </section>
+        <div class="challenges-grid" id="news-container"></div>
     </main>
-
     <script src="app.js"></script>
 </body>
 </html>
