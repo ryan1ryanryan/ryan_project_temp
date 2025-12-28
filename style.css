@@ -62,6 +62,91 @@ body {
     margin-bottom: 4rem;
 }
 
+/* IMAGE SIZING SYSTEM - FROM TEXT SIZE TO FULL SCREEN */
+.img-xs { /* Text size - 16px */
+    width: 16px;
+    height: 16px;
+    object-fit: cover;
+}
+
+.img-sm { /* Icon size - 24px */
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+}
+
+.img-md { /* Thumbnail - 48px */
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.img-lg { /* Profile/small card - 80px */
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.img-xl { /* Card image - 200px */
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 16px;
+}
+
+.img-card { /* Challenge card - 250px height, responsive width */
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.img-wide { /* Wide card - 300px height */
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.img-hero-sm { /* Small hero - 400px height */
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.img-hero-md { /* Medium hero - 500px height */
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 24px;
+}
+
+.img-hero-lg { /* Large hero - 600px height */
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    border-radius: 28px;
+}
+
+.img-full { /* Full viewport height */
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: relative;
+}
+
+.img-fullscreen { /* Full screen with overlay */
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+
 .hero {
     text-align: center;
     padding: 6rem 2rem;
@@ -109,14 +194,7 @@ body {
     box-shadow: 0 20px 60px rgba(0,0,0,0.15);
 }
 
-.challenge-image {
-    width: 100%;
-    height: 250px;
-    object-fit: cover;
-    transition: transform 0.4s ease;
-}
-
-.challenge-card:hover .challenge-image {
+.challenge-card:hover .img-card {
     transform: scale(1.05);
 }
 
@@ -144,7 +222,22 @@ body {
     border-top: 1px solid rgba(0,0,0,0.1);
 }
 
-/* Responsive */
+/* Image hover effects */
+.img-hover-scale:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.img-hover-zoom:hover {
+    transform: scale(1.1);
+    transition: transform 0.4s ease;
+}
+
+.img-rounded { border-radius: 50%; }
+.img-square { border-radius: 8px; }
+.img-pill { border-radius: 50px; }
+
+/* Responsive image adjustments */
 @media (max-width: 768px) {
     .nav ul {
         gap: 1rem;
@@ -163,4 +256,18 @@ body {
     .main {
         padding: 1rem;
     }
+    
+    /* Scale down hero images on mobile */
+    .img-hero-lg { height: 400px; }
+    .img-hero-md { height: 350px; }
+    .img-hero-sm { height: 300px; }
+    
+    .img-card { height: 200px; }
+    .img-wide { height: 250px; }
+}
+
+@media (max-width: 480px) {
+    .img-hero-lg { height: 300px; }
+    .img-hero-md { height: 280px; }
+    .img-card { height: 180px; }
 }
