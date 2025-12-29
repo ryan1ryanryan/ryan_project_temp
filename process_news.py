@@ -6,7 +6,7 @@ from google import genai
 
 def get_ai_data(client, title, description):
     # Strictly using Gemini 2.5 Flash Native Audio Preview
-    model_id = "gemini-2.5-flash-native-audio-preview-12-2025"
+    model_id = "gemini-2.5-flash"
     prompt = f"Article: {title}. Desc: {description}. Task: Rate relevancy 1-10 for a tech enthusiast. Respond ONLY JSON: {{'score': 8}}"
     try:
         response = client.models.generate_content(model=model_id, contents=prompt)
