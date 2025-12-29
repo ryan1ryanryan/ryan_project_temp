@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-29 19:22",
+    "last_updated": "2025-12-29 20:30",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/image.jpeg?quality=90&strip=all&crop=0%2C3.432408702156%2C100%2C93.135182595688&w=1200",
             "publishedAt": "2025-12-11T17:44:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLuna relaunched earlier this year, and now, it will be available on more devices.\r\nLuna relaunched earlier this year, and now, it will be available on more devic\u2026 [+2198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -325,20 +325,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Best Gaming CPU May Get Even Better",
-            "description": "Really, we need a new affordable option for gaming processors.",
-            "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
-            "publishedAt": "2025-12-01T20:32:41Z",
-            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -377,6 +363,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_853b741d2ebd0e13f1a735c8c934064532978e1c.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-18T04:05:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSony and Tencent have reached a confidential settlement, and Light of Motiram is no longer listed on Steam or the Epic Games Store.\r\nSony and Tencent have reache\u2026 [+3246 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Best Gaming CPU May Get Even Better",
+            "description": "Really, we need a new affordable option for gaming processors.",
+            "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
+            "publishedAt": "2025-12-01T20:32:41Z",
+            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
             "ai_score": 5
         },
         {
