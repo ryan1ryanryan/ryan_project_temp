@@ -1,34 +1,6 @@
 {
-    "last_updated": "2025-12-30 15:28",
+    "last_updated": "2025-12-30 16:34",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "This Alienware Laptop Is the Best Gaming Laptop Deal Going Right Now",
-            "description": "Finding a cheap gaming laptop that doesn't suck ain't easy. But I found it.",
-            "url": "https://www.wired.com/story/best-black-friday-gaming-laptop-deal/",
-            "urlToImage": "https://media.wired.com/photos/68ffd7d5b70632df744b2fd8/191:100/w_1280,c_limit/Review-%20Alienware%2016X%20Aurora.png",
-            "publishedAt": "2025-11-30T15:02:19Z",
-            "content": "I've been sorting through Black Friday laptop deals all week, including discounts on gaming laptops. There are a lot of decent options out there, but when it comes to the best bang-for-your-buck valu\u2026 [+3394 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brad Bourque",
-            "title": "Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld",
-            "description": "This premium gaming handheld loads up with features, but Windows still holds it back from being the easy option.",
-            "url": "https://www.wired.com/review/lenovo-legion-go-gen-2/",
-            "urlToImage": "https://media.wired.com/photos/69334ab57375f733c4c9a823/191:100/w_1280,c_limit/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg",
-            "publishedAt": "2025-12-06T13:00:00Z",
-            "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol\u2026 [+2357 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -69,6 +41,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/razer_boomslang1.jpg?quality=90&strip=all&crop=0%2C10.707469663105%2C100%2C78.58506067379&w=1200",
             "publishedAt": "2025-12-10T14:16:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Boomslang is back after launching over 25 years ago.\r\nThe Boomslang is back after launching over 25 years ago.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Liszewski\r\n\u2026 [+2778 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "This Alienware Laptop Is the Best Gaming Laptop Deal Going Right Now",
+            "description": "Finding a cheap gaming laptop that doesn't suck ain't easy. But I found it.",
+            "url": "https://www.wired.com/story/best-black-friday-gaming-laptop-deal/",
+            "urlToImage": "https://media.wired.com/photos/68ffd7d5b70632df744b2fd8/191:100/w_1280,c_limit/Review-%20Alienware%2016X%20Aurora.png",
+            "publishedAt": "2025-11-30T15:02:19Z",
+            "content": "I've been sorting through Black Friday laptop deals all week, including discounts on gaming laptops. There are a lot of decent options out there, but when it comes to the best bang-for-your-buck valu\u2026 [+3394 chars]",
             "ai_score": 5
         },
         {
@@ -251,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/SLC_03_4K.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-05T21:35:42Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nby\r\nAndre\u2026 [+4196 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld",
+            "description": "This premium gaming handheld loads up with features, but Windows still holds it back from being the easy option.",
+            "url": "https://www.wired.com/review/lenovo-legion-go-gen-2/",
+            "urlToImage": "https://media.wired.com/photos/69334ab57375f733c4c9a823/191:100/w_1280,c_limit/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg",
+            "publishedAt": "2025-12-06T13:00:00Z",
+            "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol\u2026 [+2357 chars]",
             "ai_score": 5
         },
         {
@@ -1203,20 +1203,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/pageflipper.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2025-12-01T19:18:35Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIn case youre looking for stuff that wont gut your savings, may I present this very affordable (and helpful) gizmo?\r\nIn case youre looking for stuff that wont gu\u2026 [+2790 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Mike Fazioli",
-            "title": "Samsung Goes Into Clearance Mode on Its 57\u2033 Curved Gaming Monitor at a Record Low, Taking Hundreds Off the Odyssey Neo G9",
-            "description": "The massive, pro-level 59-inch 4K Odyssey Neo G9 curved gaming monitor is an incredible deal at 35% off.\nThe post Samsung Goes Into Clearance Mode on Its 57\u2033 Curved Gaming Monitor at a Record Low, Taking Hundreds Off the Odyssey Neo G9 appeared first on Kotak\u2026",
-            "url": "https://kotaku.com/samsung-goes-into-clearance-mode-on-its-57-curved-gaming-monitor-at-a-record-low-taking-hundreds-off-the-odyssey-neo-g9-2000651199",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/12/SAMSUNG-5722-Odyssey-Neo-G9-gaming-monitor.jpg",
-            "publishedAt": "2025-12-08T16:05:27Z",
-            "content": "A holiday splurge is a good thing. A holiday splurge also does not mean paying full price for a bit of indulgence. That\u2019s why we\u2019re giving a hearty thumbs up to this Amazon deal that cuts 35% off the\u2026 [+2707 chars]",
             "ai_score": 5
         }
     ]
