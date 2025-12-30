@@ -1,6 +1,34 @@
 {
-    "last_updated": "2025-12-30 14:27",
+    "last_updated": "2025-12-30 15:28",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "This Alienware Laptop Is the Best Gaming Laptop Deal Going Right Now",
+            "description": "Finding a cheap gaming laptop that doesn't suck ain't easy. But I found it.",
+            "url": "https://www.wired.com/story/best-black-friday-gaming-laptop-deal/",
+            "urlToImage": "https://media.wired.com/photos/68ffd7d5b70632df744b2fd8/191:100/w_1280,c_limit/Review-%20Alienware%2016X%20Aurora.png",
+            "publishedAt": "2025-11-30T15:02:19Z",
+            "content": "I've been sorting through Black Friday laptop deals all week, including discounts on gaming laptops. There are a lot of decent options out there, but when it comes to the best bang-for-your-buck valu\u2026 [+3394 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld",
+            "description": "This premium gaming handheld loads up with features, but Windows still holds it back from being the easy option.",
+            "url": "https://www.wired.com/review/lenovo-legion-go-gen-2/",
+            "urlToImage": "https://media.wired.com/photos/69334ab57375f733c4c9a823/191:100/w_1280,c_limit/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg",
+            "publishedAt": "2025-12-06T13:00:00Z",
+            "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol\u2026 [+2357 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,20 +69,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/razer_boomslang1.jpg?quality=90&strip=all&crop=0%2C10.707469663105%2C100%2C78.58506067379&w=1200",
             "publishedAt": "2025-12-10T14:16:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Boomslang is back after launching over 25 years ago.\r\nThe Boomslang is back after launching over 25 years ago.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Liszewski\r\n\u2026 [+2778 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "This Alienware Laptop Is the Best Gaming Laptop Deal Going Right Now",
-            "description": "Finding a cheap gaming laptop that doesn't suck ain't easy. But I found it.",
-            "url": "https://www.wired.com/story/best-black-friday-gaming-laptop-deal/",
-            "urlToImage": "https://media.wired.com/photos/68ffd7d5b70632df744b2fd8/191:100/w_1280,c_limit/Review-%20Alienware%2016X%20Aurora.png",
-            "publishedAt": "2025-11-30T15:02:19Z",
-            "content": "I've been sorting through Black Friday laptop deals all week, including discounts on gaming laptops. There are a lot of decent options out there, but when it comes to the best bang-for-your-buck valu\u2026 [+3394 chars]",
             "ai_score": 5
         },
         {
@@ -241,20 +255,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brad Bourque",
-            "title": "Lenovo Legion Go Gen 2 Review: A High-End Gaming Handheld",
-            "description": "This premium gaming handheld loads up with features, but Windows still holds it back from being the easy option.",
-            "url": "https://www.wired.com/review/lenovo-legion-go-gen-2/",
-            "urlToImage": "https://media.wired.com/photos/69334ab57375f733c4c9a823/191:100/w_1280,c_limit/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg",
-            "publishedAt": "2025-12-06T13:00:00Z",
-            "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol\u2026 [+2357 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -339,20 +339,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Best Gaming CPU May Get Even Better",
-            "description": "Really, we need a new affordable option for gaming processors.",
-            "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
-            "publishedAt": "2025-12-01T20:32:41Z",
-            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -405,6 +391,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0145.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-13T00:32:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author wil\u2026 [+6774 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Best Gaming CPU May Get Even Better",
+            "description": "Really, we need a new affordable option for gaming processors.",
+            "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
+            "publishedAt": "2025-12-01T20:32:41Z",
+            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
             "ai_score": 5
         },
         {
