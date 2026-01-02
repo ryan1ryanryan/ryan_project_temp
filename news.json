@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-01-02 14:26",
+    "last_updated": "2026-01-02 15:28",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Cheryl Eddy",
+            "title": "Your Favorite Social Media Psycho Is Back in Killer Sequel \u2018Influencers\u2019",
+            "description": "Kurtis David Harder\u2019s follow-up to his 2022 horror hit stars Cassandra Naud as a shifty, seductive, tech-savvy villain.",
+            "url": "https://gizmodo.com/your-favorite-social-media-psycho-is-back-in-killer-sequel-influencers-2000690160",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/INFLUENCERS-topart-1200x675.jpg",
+            "publishedAt": "2025-12-10T00:00:52Z",
+            "content": "Influencer hit Shudder in 2023 after an acclaimed festival run, and its sequel arrives on the horror streamer this week. Influencers follows the continuing crimes of CWthe monstrous master of social \u2026 [+5643 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -311,20 +325,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Best Gaming CPU May Get Even Better",
-            "description": "Really, we need a new affordable option for gaming processors.",
-            "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
-            "publishedAt": "2025-12-01T20:32:41Z",
-            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -377,6 +377,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0145.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-13T00:32:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author wil\u2026 [+6774 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Best Gaming CPU May Get Even Better",
+            "description": "Really, we need a new affordable option for gaming processors.",
+            "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
+            "publishedAt": "2025-12-01T20:32:41Z",
+            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
             "ai_score": 5
         },
         {
@@ -657,20 +671,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/helldivers2.jpg?quality=90&strip=all&crop=19.8%2C22.95171611402%2C73.4%2C68.318789994183&w=1200",
             "publishedAt": "2025-12-02T20:32:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe file size reduction is available now as a technical public beta update on Steam.\r\nThe file size reduction is available now as a technical public beta update \u2026 [+2683 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Cheryl Eddy",
-            "title": "Your Favorite Social Media Psycho Is Back in Killer Sequel \u2018Influencers\u2019",
-            "description": "Kurtis David Harder\u2019s follow-up to his 2022 horror hit stars Cassandra Naud as a shifty, seductive, tech-savvy villain.",
-            "url": "https://gizmodo.com/your-favorite-social-media-psycho-is-back-in-killer-sequel-influencers-2000690160",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/INFLUENCERS-topart-1200x675.jpg",
-            "publishedAt": "2025-12-10T00:00:52Z",
-            "content": "Influencer hit Shudder in 2023 after an acclaimed festival run, and its sequel arrives on the horror streamer this week. Influencers follows the continuing crimes of CWthe monstrous master of social \u2026 [+5643 chars]",
             "ai_score": 5
         },
         {
