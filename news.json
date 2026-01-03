@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-03 04:38",
+    "last_updated": "2026-01-03 05:28",
     "articles": [
         {
             "source": {
@@ -367,20 +367,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Best Gaming CPU May Get Even Better",
-            "description": "Really, we need a new affordable option for gaming processors.",
-            "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
-            "publishedAt": "2025-12-01T20:32:41Z",
-            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -391,6 +377,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_AI_GAMING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-22T21:30:32Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nby\r\nAsh P\u2026 [+7949 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Best Gaming CPU May Get Even Better",
+            "description": "Really, we need a new affordable option for gaming processors.",
+            "url": "https://gizmodo.com/amd-ryzen-7-9850x3d-cpu-leak-2000694113",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
+            "publishedAt": "2025-12-01T20:32:41Z",
+            "content": "When gamers are surfing around for lingering deals looking for the best CPU, theres simply no comparison. The AMD Ryzen 7 9800X3D still has its square butt on the throne of the fastest, most efficien\u2026 [+2825 chars]",
             "ai_score": 5
         },
         {
