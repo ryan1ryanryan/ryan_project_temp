@@ -1,118 +1,6 @@
 {
-    "last_updated": "2026-01-04 08:35",
+    "last_updated": "2026-01-04 09:26",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "AMD\u2019s New Gaming Upscaler Is Here to Knock Nvidia Off Its Throne",
-            "description": "The new 'Redstone\" AI upscaler makes PC games look better, but it would be truly spectacular on consoles or handhelds.",
-            "url": "https://gizmodo.com/amd-redstone-fsr-4-upscaling-update-gaming-2000697829",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
-            "publishedAt": "2025-12-10T17:50:53Z",
-            "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
-            "ai_score": 9
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Crucial is shutting down \u2014 because Micron wants to sell its RAM and SSDs to AI companies instead",
-            "description": "Micron is retiring the Crucial brand, marking the end of its line of budget-friendly solid-state drives (SSDs) and RAM kits, as reported earlier by VideoCardz. In an announcement on Wednesday, Micron says winding down its consumer-focused business will \u201cimpro\u2026",
-            "url": "https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/micron-crucial-image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-03T19:04:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe longstanding provider of consumer memory is winding down as prices spike, and Micron shifts its focus to AI.\r\nThe longstanding provider of consumer memory is\u2026 [+2258 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Raymond Wong, Kyle Barr, and James Pero",
-            "title": "Live Updates From CES 2026 in Las Vegas ",
-            "description": "Follow along with Gizmodo as we check out all the latest gadget announcements from the year's biggest, most-packed tech event, CES 2026.",
-            "url": "https://gizmodo.com/live-updates-from-ces-2026-in-las-vegas-2000697509",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/gizmodoCES2026liveblog-1200x675.jpg",
-            "publishedAt": "2026-01-02T16:30:01Z",
-            "content": "For more than 20 years, Gizmodo has headed to Las Vegas after ringing in the new year to cover the Consumer Electronics Showaka CESand 2026 is no different.\r\nThe consumer tech team will be on the gro\u2026 [+2921 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Indiegogo is launching \u2018Express Crowdfunding\u2019 so creators can ship things sooner",
-            "description": "Indiegogo is planning to launch a new \u201cExpress Crowdfunding\u201d campaign format that lets creators ship things while the campaign is on-going instead of forcing creators to wait until the campaign is over. Indiegogo spokesperson Maciej Kuc tells The Verge that t\u2026",
-            "url": "https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25589670/STK280_INDIEGOGO_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-02T22:24:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIndiegogos move to new infrastructure is preventing Ayaneo from shipping a new retro gaming handheld when it expected to.\r\nIndiegogos move to new infrastructure \u2026 [+2686 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "A love letter to glory days of iPhone gaming",
-            "description": "It may be hard to believe now, but the App Store was once a thriving place for inventive indie games. The ubiquity of the iPhone coupled with the relative ease of development for the platform meant that smaller studios were able to get their games in front of\u2026",
-            "url": "https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/SLC_03_4K.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2025-12-05T21:35:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nby\r\nAndre\u2026 [+4196 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "GOG\u2019s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
-            "description": "GOG is splitting from CD Projekt, the game company that launched the preservation-focused PC gaming marketplace in 2008. In an update on Monday, GOG announced that its co-founder, Micha\u0142 Kici\u0144ski, has acquired the digital storefront and its online gaming plat\u2026",
-            "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&strip=all&crop=0,10.945238432149,100,78.109523135701",
-            "publishedAt": "2025-12-29T18:34:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-focused game marketplace.\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-\u2026 [+2309 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Sony\u2019s new PS5 DualSense controller might have way more battery life",
-            "description": "It might not look much different on the outside, but the newest version of the PS5\u2019s DualSense controller could feature a major improvement in battery life. Polish modder Modyfikator89 shared in a post on X that the new DualSense V2 variant, model number CFI-\u2026",
-            "url": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sony-Astro-Bot-Joyful-DualSense-controller-for-PS5.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2025-12-05T15:21:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Polish console modder tested the DualSense shipping with new consoles, and said it could last for up to 15 hours\r\nA Polish console modder tested the DualSense \u2026 [+2818 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Adi Robertson",
-            "title": "Meet the new tech laws of 2026",
-            "description": "As usual, 2025 was a year of deep congressional dysfunction in the US. But state legislatures were passing laws that govern everything from AI to social media to the right to repair. Many of these laws, alongside rules passed in past years, take effect in 202\u2026",
-            "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-30T23:00:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMeet the new tech laws of 2026\r\nComing into force this year: AI regulations galore, a teen social media lockdown, and Taylor Swift laws.\r\nby\r\nAdi RobertsonClose\r\u2026 [+12657 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -167,6 +55,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23276765/DSC00707_Edit_2.jpg?quality=90&strip=all&crop=0%2C2.9411764705882%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-20T16:09:55Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe entry-level model is out of stock on the US store and is no longer being produced.\r\nThe entry-level model is out of stock on the US store and is no longer be\u2026 [+2275 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Crucial is shutting down \u2014 because Micron wants to sell its RAM and SSDs to AI companies instead",
+            "description": "Micron is retiring the Crucial brand, marking the end of its line of budget-friendly solid-state drives (SSDs) and RAM kits, as reported earlier by VideoCardz. In an announcement on Wednesday, Micron says winding down its consumer-focused business will \u201cimpro\u2026",
+            "url": "https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/micron-crucial-image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-03T19:04:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe longstanding provider of consumer memory is winding down as prices spike, and Micron shifts its focus to AI.\r\nThe longstanding provider of consumer memory is\u2026 [+2258 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong, Kyle Barr, and James Pero",
+            "title": "Live Updates From CES 2026 in Las Vegas ",
+            "description": "Follow along with Gizmodo as we check out all the latest gadget announcements from the year's biggest, most-packed tech event, CES 2026.",
+            "url": "https://gizmodo.com/live-updates-from-ces-2026-in-las-vegas-2000697509",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/gizmodoCES2026liveblog-1200x675.jpg",
+            "publishedAt": "2026-01-02T16:30:01Z",
+            "content": "For more than 20 years, Gizmodo has headed to Las Vegas after ringing in the new year to cover the Consumer Electronics Showaka CESand 2026 is no different.\r\nThe consumer tech team will be on the gro\u2026 [+2921 chars]",
             "ai_score": 5
         },
         {
@@ -241,6 +157,34 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Indiegogo is launching \u2018Express Crowdfunding\u2019 so creators can ship things sooner",
+            "description": "Indiegogo is planning to launch a new \u201cExpress Crowdfunding\u201d campaign format that lets creators ship things while the campaign is on-going instead of forcing creators to wait until the campaign is over. Indiegogo spokesperson Maciej Kuc tells The Verge that t\u2026",
+            "url": "https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25589670/STK280_INDIEGOGO_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-02T22:24:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIndiegogos move to new infrastructure is preventing Ayaneo from shipping a new retro gaming handheld when it expected to.\r\nIndiegogos move to new infrastructure \u2026 [+2686 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "A love letter to glory days of iPhone gaming",
+            "description": "It may be hard to believe now, but the App Store was once a thriving place for inventive indie games. The ubiquity of the iPhone coupled with the relative ease of development for the platform meant that smaller studios were able to get their games in front of\u2026",
+            "url": "https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/SLC_03_4K.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-05T21:35:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nby\r\nAndre\u2026 [+4196 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -251,6 +195,34 @@
             "urlToImage": "https://media.wired.com/photos/69334ab57375f733c4c9a823/191:100/w_1280,c_limit/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg",
             "publishedAt": "2025-12-06T13:00:00Z",
             "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol\u2026 [+2357 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "GOG\u2019s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
+            "description": "GOG is splitting from CD Projekt, the game company that launched the preservation-focused PC gaming marketplace in 2008. In an update on Monday, GOG announced that its co-founder, Micha\u0142 Kici\u0144ski, has acquired the digital storefront and its online gaming plat\u2026",
+            "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&strip=all&crop=0,10.945238432149,100,78.109523135701",
+            "publishedAt": "2025-12-29T18:34:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-focused game marketplace.\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-\u2026 [+2309 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "AMD\u2019s New Gaming Upscaler Is Here to Knock Nvidia Off Its Throne",
+            "description": "The new 'Redstone\" AI upscaler makes PC games look better, but it would be truly spectacular on consoles or handhelds.",
+            "url": "https://gizmodo.com/amd-redstone-fsr-4-upscaling-update-gaming-2000697829",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
+            "publishedAt": "2025-12-10T17:50:53Z",
+            "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
             "ai_score": 5
         },
         {
@@ -342,6 +314,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Stevie Bonifield",
+            "title": "Sony\u2019s new PS5 DualSense controller might have way more battery life",
+            "description": "It might not look much different on the outside, but the newest version of the PS5\u2019s DualSense controller could feature a major improvement in battery life. Polish modder Modyfikator89 shared in a post on X that the new DualSense V2 variant, model number CFI-\u2026",
+            "url": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sony-Astro-Bot-Joyful-DualSense-controller-for-PS5.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2025-12-05T15:21:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Polish console modder tested the DualSense shipping with new consoles, and said it could last for up to 15 hours\r\nA Polish console modder tested the DualSense \u2026 [+2818 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jay Peters",
             "title": "Sony\u2019s legal battle against Tencent\u2019s Horizon \u2018clone\u2019 is already over",
             "description": "In July, Sony sued Tencent to prevent the release of Light of Motiram, a game Sony alleged was a \"slavish clone\" of its popular Horizon series. But the legal battle is already over; the two companies have reached a \"confidential settlement\" and the case has b\u2026",
@@ -391,6 +377,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Varmillo-Foot-Keyboard-1200x675.jpg",
             "publishedAt": "2025-12-03T15:21:15Z",
             "content": "There are only so many points of fine articulation the body is capable of for the sake of maximizing gaming. Were limited to a measly 10 digits when modern games may demand many more controls than th\u2026 [+3489 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Adi Robertson",
+            "title": "Meet the new tech laws of 2026",
+            "description": "As usual, 2025 was a year of deep congressional dysfunction in the US. But state legislatures were passing laws that govern everything from AI to social media to the right to repair. Many of these laws, alongside rules passed in past years, take effect in 202\u2026",
+            "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-30T23:00:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMeet the new tech laws of 2026\r\nComing into force this year: AI regulations galore, a teen social media lockdown, and Taylor Swift laws.\r\nby\r\nAdi RobertsonClose\r\u2026 [+12657 chars]",
             "ai_score": 5
         },
         {
