@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-01-05 16:36",
+    "last_updated": "2026-01-05 17:28",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Audeze upgrades its Maxwell gaming headset with magnetic ear pads",
+            "description": "Audeze - the headphone-maker now owned by Sony - announced a refreshed version of its Maxwell gaming headset at CES on Monday, offering roomier ear pads that attach magnetically for easy replacement. The Maxwell 2 for PlayStation is available now for $329, wh\u2026",
+            "url": "https://www.theverge.com/news/851457/audeze-maxwell-2-gaming-headset-sony-ces-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
+            "publishedAt": "2026-01-02T13:28:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -1105,20 +1119,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-10T21:09:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe show is still huge, but with all the commercials and celebrities, game developers are getting left out.\r\nThe show is still huge, but with all the commercials\u2026 [+6870 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gizmodo Staff",
-            "title": "Readers\u2019 Choice Awards 2025: Your Favorite Phones, Laptops, Gaming Gear, and More",
-            "description": "You guys voted, and now we've got the winners for your favorite tech in 18 product categories.",
-            "url": "https://gizmodo.com/gizmodo-best-tech-of-2025-readers-choice-awards-winners-2000701264",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Gizmodo-Readers-Choice-Awards-Winners_New@2x@2x-1200x675.jpg",
-            "publishedAt": "2025-12-22T13:00:41Z",
-            "content": "The results for our first Readers\u2019 Choice Awards are in. We asked you guys to vote for your favorite tech, and you delivered. The winners are both surprising and not so surprising. Over 1,100 people \u2026 [+6277 chars]",
             "ai_score": 5
         }
     ]
