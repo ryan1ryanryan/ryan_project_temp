@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-05 10:31",
+    "last_updated": "2026-01-05 11:25",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
             "publishedAt": "2025-12-28T21:42:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'Brien\r\nPo\u2026 [+2245 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "A love letter to glory days of iPhone gaming",
-            "description": "It may be hard to believe now, but the App Store was once a thriving place for inventive indie games. The ubiquity of the iPhone coupled with the relative ease of development for the platform meant that smaller studios were able to get their games in front of\u2026",
-            "url": "https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/SLC_03_4K.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2025-12-05T21:35:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nby\r\nAndre\u2026 [+4196 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -153,6 +139,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24446370/rainbow_six_siege_logo_header._1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-28T16:42:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHackers handed out 2 billion in-game credits to every player and unlocked all in-game items.\r\nHackers handed out 2 billion in-game credits to every player and un\u2026 [+2058 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "A love letter to glory days of iPhone gaming",
+            "description": "It may be hard to believe now, but the App Store was once a thriving place for inventive indie games. The ubiquity of the iPhone coupled with the relative ease of development for the platform meant that smaller studios were able to get their games in front of\u2026",
+            "url": "https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/SLC_03_4K.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-05T21:35:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nSimogos new collection is a window into a long-gone time for mobile games.\r\nby\r\nAndre\u2026 [+4196 chars]",
             "ai_score": 5
         },
         {
@@ -997,6 +997,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Daniel Howley",
+            "title": "CES 2026: What to expect from the tech industry\u2019s biggest show of the year",
+            "description": "CES 2026 kicks off in Las Vegas on Jan. 6. Here's what to expect from the tech industry's biggest event.",
+            "url": "https://finance.yahoo.com/news/ces-2026-what-to-expect-from-the-tech-industrys-biggest-show-of-the-year-140552142.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FpOvxay47uhdm_jVg3WsLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2025-12/f8ba9f33-a632-409d-9ec0-5b0fe7960b58",
+            "publishedAt": "2026-01-02T14:05:52Z",
+            "content": "Welcome to 2026. Now rinse out that champagne glass and pop some Advil because the tech industrys biggest show of the year, CES, kicks off on Tuesday under the bright lights of Las Vegas.\r\nCompanies \u2026 [+5095 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1105,20 +1119,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/GSz5zvNQyZCDRyfnqk6FaB-1200-80.jpg",
             "publishedAt": "2025-12-16T14:41:02Z",
             "content": "What you need to know\r\n<ul><li>OnePlus is launching a new Turbo series to take on performance-focused rivals in the mid-range segment.</li><li>Performance and battery life are the core priorities, as\u2026 [+2443 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "Sharks, Snakes, and Ghosts: Space Force Unveils 7 Bizarre Themes to Name Its War Tech",
-            "description": "Guardians will use sharks, snakes, and mythological creatures to draw inspiration for satellites and orbital warfare.",
-            "url": "https://gizmodo.com/sharks-snakes-and-ghosts-space-force-unveils-7-bizarre-themes-to-name-its-war-tech-2000699061",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/space-force-naming-scheme-1200x675.jpg",
-            "publishedAt": "2025-12-12T16:25:34Z",
-            "content": "In an effort to reinforce its identity as the youngest military branch, the U.S. Space Force is adopting an official naming scheme for its mission areas, including drawing from the Norse pantheon for\u2026 [+2662 chars]",
             "ai_score": 5
         }
     ]
