@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-01-05 07:34",
+    "last_updated": "2026-01-05 08:41",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "AMD\u2019s New Gaming Upscaler Is Here to Knock Nvidia Off Its Throne",
+            "description": "The new 'Redstone\" AI upscaler makes PC games look better, but it would be truly spectacular on consoles or handhelds.",
+            "url": "https://gizmodo.com/amd-redstone-fsr-4-upscaling-update-gaming-2000697829",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
+            "publishedAt": "2025-12-10T17:50:53Z",
+            "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
+            "ai_score": 9
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +41,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/image.jpeg?quality=90&strip=all&crop=0%2C3.432408702156%2C100%2C93.135182595688&w=1200",
             "publishedAt": "2025-12-11T17:44:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLuna relaunched earlier this year, and now, it will be available on more devices.\r\nLuna relaunched earlier this year, and now, it will be available on more devic\u2026 [+2198 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,21 +55,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/razer_boomslang1.jpg?quality=90&strip=all&crop=0%2C10.707469663105%2C100%2C78.58506067379&w=1200",
             "publishedAt": "2025-12-10T14:16:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Boomslang is back after launching over 25 years ago.\r\nThe Boomslang is back after launching over 25 years ago.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Liszewski\r\n\u2026 [+2778 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "The LCD Steam Deck is done",
-            "description": "The most affordable Steam Deck, the $399 LCD model, is not available in the US. And, according to the Steam Deck site, it won't be coming back. Underneath the listings for the various models is a note that says: We are no longer producing the Steam Deck LCD 2\u2026",
-            "url": "https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23276765/DSC00707_Edit_2.jpg?quality=90&strip=all&crop=0%2C2.9411764705882%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-20T16:09:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe entry-level model is out of stock on the US store and is no longer being produced.\r\nThe entry-level model is out of stock on the US store and is no longer be\u2026 [+2275 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -69,6 +69,90 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/gizmodoCES2026liveblog-1200x675.jpg",
             "publishedAt": "2026-01-02T16:30:01Z",
             "content": "For more than 20 years, Gizmodo has headed to Las Vegas after ringing in the new year to cover the Consumer Electronics Showaka CESand 2026 is no different.\r\nThe consumer tech team will be on the gro\u2026 [+2921 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "GOG\u2019s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
+            "description": "GOG is splitting from CD Projekt, the game company that launched the preservation-focused PC gaming marketplace in 2008. In an update on Monday, GOG announced that its co-founder, Micha\u0142 Kici\u0144ski, has acquired the digital storefront and its online gaming plat\u2026",
+            "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&strip=all&crop=0,10.945238432149,100,78.109523135701",
+            "publishedAt": "2025-12-29T18:34:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-focused game marketplace.\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-\u2026 [+2309 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Barbara Krasnoff",
+            "title": "The Verge\u2019s 2025 in review",
+            "description": "The year 2025 has been, to put it mildly, eventful. If you\u2019re like me, you\u2019ve felt as if it\u2019s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enraging. But that\u2019s not the case for everything \u2014 and so, as w\u2026",
+            "url": "https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-16T15:25:28Z",
+            "content": "The year 2025 has been, to put it mildly, eventful. If you\u2019re like me, you\u2019ve felt as if it\u2019s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enr\u2026 [+903 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
+            "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
+            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
+            "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
+            "publishedAt": "2025-12-23T11:30:00Z",
+            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "Blackout in San Francisco Litters Streets with Traffic-Blocking, Deactivated Waymos",
+            "description": "Robot chaos in the tech capital of the U.S.",
+            "url": "https://gizmodo.com/blackout-in-san-francisco-litters-streets-with-traffic-blocking-deactivated-waymos-2000702290",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/waymo-intersection-1-1200x675.jpg",
+            "publishedAt": "2025-12-21T15:31:38Z",
+            "content": "There was a power outage in San Francisco on Saturday, initially leaving 124,000 of 414,000 customersabout 30%in the dark. It also caused a widespread Waymo meltdown, with apparently all active Waymo\u2026 [+2498 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'Architects of AI' named Time Magazine's Person of the Year",
+            "description": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.",
+            "url": "https://www.bbc.com/news/articles/cly01mdm577o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1aa8/live/6f7fda50-d690-11f0-9184-a796dfacc4c9.jpg",
+            "publishedAt": "2025-12-11T13:34:03Z",
+            "content": "Liv McMahon,Technology reporters\r\nNvidia boss Jensen Huang is among the tech bosses the magazine has put on its biggest cover of the year\r\nTime Magazine's Person of the Year for 2025 is not a single \u2026 [+4335 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "The LCD Steam Deck is done",
+            "description": "The most affordable Steam Deck, the $399 LCD model, is not available in the US. And, according to the Steam Deck site, it won't be coming back. Underneath the listings for the various models is a note that says: We are no longer producing the Steam Deck LCD 2\u2026",
+            "url": "https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23276765/DSC00707_Edit_2.jpg?quality=90&strip=all&crop=0%2C2.9411764705882%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-20T16:09:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe entry-level model is out of stock on the US store and is no longer being produced.\r\nThe entry-level model is out of stock on the US store and is no longer be\u2026 [+2275 chars]",
             "ai_score": 5
         },
         {
@@ -167,48 +251,6 @@
             "urlToImage": "https://media.wired.com/photos/69334ab57375f733c4c9a823/191:100/w_1280,c_limit/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg",
             "publishedAt": "2025-12-06T13:00:00Z",
             "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol\u2026 [+2357 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "GOG\u2019s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
-            "description": "GOG is splitting from CD Projekt, the game company that launched the preservation-focused PC gaming marketplace in 2008. In an update on Monday, GOG announced that its co-founder, Micha\u0142 Kici\u0144ski, has acquired the digital storefront and its online gaming plat\u2026",
-            "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&strip=all&crop=0,10.945238432149,100,78.109523135701",
-            "publishedAt": "2025-12-29T18:34:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-focused game marketplace.\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-\u2026 [+2309 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "AMD\u2019s New Gaming Upscaler Is Here to Knock Nvidia Off Its Throne",
-            "description": "The new 'Redstone\" AI upscaler makes PC games look better, but it would be truly spectacular on consoles or handhelds.",
-            "url": "https://gizmodo.com/amd-redstone-fsr-4-upscaling-update-gaming-2000697829",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
-            "publishedAt": "2025-12-10T17:50:53Z",
-            "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Barbara Krasnoff",
-            "title": "The Verge\u2019s 2025 in review",
-            "description": "The year 2025 has been, to put it mildly, eventful. If you\u2019re like me, you\u2019ve felt as if it\u2019s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enraging. But that\u2019s not the case for everything \u2014 and so, as w\u2026",
-            "url": "https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-16T15:25:28Z",
-            "content": "The year 2025 has been, to put it mildly, eventful. If you\u2019re like me, you\u2019ve felt as if it\u2019s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enr\u2026 [+903 chars]",
             "ai_score": 5
         },
         {
@@ -395,20 +437,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Reece Rogers",
-            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
-            "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
-            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
-            "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
-            "publishedAt": "2025-12-23T11:30:00Z",
-            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -419,20 +447,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072866/110923_new_Playstation_5_Slim_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-15T19:51:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can still pick up a last-minute deal on a PS5, a PS Portal, or a DualSense controller in the run-up to Christmas.\r\nYou can still pick up a last-minute deal o\u2026 [+5817 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "Blackout in San Francisco Litters Streets with Traffic-Blocking, Deactivated Waymos",
-            "description": "Robot chaos in the tech capital of the U.S.",
-            "url": "https://gizmodo.com/blackout-in-san-francisco-litters-streets-with-traffic-blocking-deactivated-waymos-2000702290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/waymo-intersection-1-1200x675.jpg",
-            "publishedAt": "2025-12-21T15:31:38Z",
-            "content": "There was a power outage in San Francisco on Saturday, initially leaving 124,000 of 414,000 customersabout 30%in the dark. It also caused a widespread Waymo meltdown, with apparently all active Waymo\u2026 [+2498 chars]",
             "ai_score": 5
         },
         {
@@ -601,20 +615,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/7ed7bd83b16c84b961a03b62c8351edd8714f0d2/hub/2025/10/29/f2c739de-0bc2-45aa-aef9-575a1569a07a/lenovo-loq-15-overview.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-12-09T16:49:28Z",
             "content": "A purported leak containing marketing materials for a new gaming laptop from Lenovo suggests the company may debut a Windows 11 PC with a horizontal rollable display that expands out to an ultrawide \u2026 [+1028 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "'Architects of AI' named Time Magazine's Person of the Year",
-            "description": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.",
-            "url": "https://www.bbc.com/news/articles/cly01mdm577o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1aa8/live/6f7fda50-d690-11f0-9184-a796dfacc4c9.jpg",
-            "publishedAt": "2025-12-11T13:34:03Z",
-            "content": "Liv McMahon,Technology reporters\r\nNvidia boss Jensen Huang is among the tech bosses the magazine has put on its biggest cover of the year\r\nTime Magazine's Person of the Year for 2025 is not a single \u2026 [+4335 chars]",
             "ai_score": 5
         },
         {
