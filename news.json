@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-06 03:44",
+    "last_updated": "2026-01-06 04:45",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -272,20 +272,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "I\u2019m finally beginning to trust Microsoft\u2019s handheld Xbox",
-            "description": "I still wouldn't buy an Xbox Ally, and I still don't think the tweaked version of Windows that shipped with it is ready for primetime. The Xbox Full Screen Experience (FSE) needs work. But two months after I panned the cheaper $600 white Xbox Ally and wasn't \u2026",
-            "url": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0145.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-13T00:32:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author wil\u2026 [+6774 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "Analogue is restocking its 4K N64 and making it more colorful",
             "description": "As if the Analogue 3D wasn't nostalgic enough, the 4K N64 emulator will soon be available in a handful of transparent \"Funtastic\" limited editions going on sale on December 10th at 8AM Pacific/11AM Eastern. The vibrant transparent models will be available \"in\u2026",
@@ -335,6 +321,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_switch2pro_case1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
             "publishedAt": "2026-01-02T21:17:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C port and status screen.\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C po\u2026 [+2711 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "I\u2019m finally beginning to trust Microsoft\u2019s handheld Xbox",
+            "description": "I still wouldn't buy an Xbox Ally, and I still don't think the tweaked version of Windows that shipped with it is ready for primetime. The Xbox Full Screen Experience (FSE) needs work. But two months after I panned the cheaper $600 white Xbox Ally and wasn't \u2026",
+            "url": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0145.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-13T00:32:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nSleep training the Xbox Ally and Xbox Ally X.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author wil\u2026 [+6774 chars]",
             "ai_score": 5
         },
         {
