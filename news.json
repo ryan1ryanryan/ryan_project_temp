@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-05 23:26",
+    "last_updated": "2026-01-06 01:52",
     "articles": [
         {
             "source": {
@@ -13,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Micron says memory shortage will \u2018persist\u2019 beyond 2026",
+            "description": "Micron, one of the three biggest memory suppliers in the world, forecasts rough months ahead for the global RAM supply. As part of its earnings report released on Wednesday, Micron CEO Sanjay Mehrotra said \"tight industry conditions\" across DRAM and NAND flas\u2026",
+            "url": "https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-18T15:14:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSupply will remain substantially short of the demand for the foreseeable future.\r\nSupply will remain substantially short of the demand for the foreseeable future\u2026 [+3048 chars]",
             "ai_score": 8
         },
         {
@@ -125,20 +139,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/samsung6k3d-1200x675.jpg",
             "publishedAt": "2025-12-26T17:15:53Z",
             "content": "You know CES is right around the corner when tech companies announce a whole bunch of new TVs and monitors. Ahead of CES 2026, Samsung has dropped details on five new Odyssey gaming monitors, each wo\u2026 [+2115 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Micron says memory shortage will \u2018persist\u2019 beyond 2026",
-            "description": "Micron, one of the three biggest memory suppliers in the world, forecasts rough months ahead for the global RAM supply. As part of its earnings report released on Wednesday, Micron CEO Sanjay Mehrotra said \"tight industry conditions\" across DRAM and NAND flas\u2026",
-            "url": "https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-18T15:14:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSupply will remain substantially short of the demand for the foreseeable future.\r\nSupply will remain substantially short of the demand for the foreseeable future\u2026 [+3048 chars]",
             "ai_score": 5
         },
         {
@@ -287,12 +287,12 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "Sony\u2019s new PS5 DualSense controller might have way more battery life",
-            "description": "It might not look much different on the outside, but the newest version of the PS5\u2019s DualSense controller could feature a major improvement in battery life. Polish modder Modyfikator89 shared in a post on X that the new DualSense V2 variant, model number CFI-\u2026",
-            "url": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sony-Astro-Bot-Joyful-DualSense-controller-for-PS5.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2025-12-05T15:21:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Polish console modder tested the DualSense shipping with new consoles, and said it could last for up to 15 hours\r\nA Polish console modder tested the DualSense \u2026 [+2818 chars]",
+            "title": "Analogue is restocking its 4K N64 and making it more colorful",
+            "description": "As if the Analogue 3D wasn't nostalgic enough, the 4K N64 emulator will soon be available in a handful of transparent \"Funtastic\" limited editions going on sale on December 10th at 8AM Pacific/11AM Eastern. The vibrant transparent models will be available \"in\u2026",
+            "url": "https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/analogue-3d-funtastic-announcement.png?quality=90&strip=all&crop=0%2C3.3533912961076%2C100%2C93.293217407785&w=1200",
+            "publishedAt": "2025-12-08T17:18:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe transparent limited edition is launching alongside color-matched 8BitDo controllers and a restock of the original model.\r\nThe transparent limited edition is \u2026 [+2807 chars]",
             "ai_score": 5
         },
         {
@@ -301,12 +301,12 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "Analogue is restocking its 4K N64 and making it more colorful",
-            "description": "As if the Analogue 3D wasn't nostalgic enough, the 4K N64 emulator will soon be available in a handful of transparent \"Funtastic\" limited editions going on sale on December 10th at 8AM Pacific/11AM Eastern. The vibrant transparent models will be available \"in\u2026",
-            "url": "https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/analogue-3d-funtastic-announcement.png?quality=90&strip=all&crop=0%2C3.3533912961076%2C100%2C93.293217407785&w=1200",
-            "publishedAt": "2025-12-08T17:18:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe transparent limited edition is launching alongside color-matched 8BitDo controllers and a restock of the original model.\r\nThe transparent limited edition is \u2026 [+2807 chars]",
+            "title": "Sony\u2019s new PS5 DualSense controller might have way more battery life",
+            "description": "It might not look much different on the outside, but the newest version of the PS5\u2019s DualSense controller could feature a major improvement in battery life. Polish modder Modyfikator89 shared in a post on X that the new DualSense V2 variant, model number CFI-\u2026",
+            "url": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sony-Astro-Bot-Joyful-DualSense-controller-for-PS5.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2025-12-05T15:21:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Polish console modder tested the DualSense shipping with new consoles, and said it could last for up to 15 hours\r\nA Polish console modder tested the DualSense \u2026 [+2818 chars]",
             "ai_score": 5
         },
         {
@@ -398,20 +398,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Justin Carter",
-            "title": "2025 Was the Year Ninja Games Made a Comeback",
-            "description": "With three 'Ninja Gaiden' games, 'Ghost of Yotei,' and 'Shinobi,' ninjas returned to the gaming forefront in a big way.",
-            "url": "https://gizmodo.com/2025-was-the-year-ninja-games-made-a-comeback-2000696867",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/yir-ninjas-1200x675.jpg",
-            "publishedAt": "2025-12-29T17:30:12Z",
-            "content": "We all think ninjas are pretty cool, right? Despite how popular they are in other mediums, it\u2019s felt like they\u2019ve gradually become less of a presence as video game protagonists in favor of soldiers, \u2026 [+4295 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "James Whitbrook",
             "title": "\u2018Fallout\u2019 Season 2 Is a Slower, Smarter Follow-Up",
             "description": "The sophomore season of Prime Video's smash-hit gaming adaptation doesn't fix what isn't broken, for better and occasionally worse.",
@@ -419,6 +405,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/fallout-season-2-review-lucy-ella-purnell-1200x675.jpg",
             "publishedAt": "2025-12-16T14:00:21Z",
             "content": "When\u00a0Fallouthit Prime Video last spring, not even Amazon itself might have expected the rip-roaring response to the show\u2019s spin on the beloved video game RPG series (although the signs were there tha\u2026 [+7816 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Justin Carter",
+            "title": "2025 Was the Year Ninja Games Made a Comeback",
+            "description": "With three 'Ninja Gaiden' games, 'Ghost of Yotei,' and 'Shinobi,' ninjas returned to the gaming forefront in a big way.",
+            "url": "https://gizmodo.com/2025-was-the-year-ninja-games-made-a-comeback-2000696867",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/yir-ninjas-1200x675.jpg",
+            "publishedAt": "2025-12-29T17:30:12Z",
+            "content": "We all think ninjas are pretty cool, right? Despite how popular they are in other mediums, it\u2019s felt like they\u2019ve gradually become less of a presence as video game protagonists in favor of soldiers, \u2026 [+4295 chars]",
             "ai_score": 5
         },
         {
@@ -832,20 +832,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "Humanoid robots are coming. Eventually?",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on robotics and AI, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. We're taking a winter b\u2026",
-            "url": "https://www.theverge.com/column/843418/humanoid-robot-hype",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-21T13:07:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHumanoid robots are coming. Eventually?\r\nChina sees humanoids as an economic engine and Musk wants a robot army. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from \u2026 [+12524 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Victoria Song",
             "title": "In 2025, wearables made a hard pivot to AI",
             "description": "Years from now, I'll look back at 2025 as the year when a fundamental shift happened in wearable technology. Over the last decade, the category has been synonymous with health and fitness. In many ways, that association is still the primary one. But this year\u2026",
@@ -860,13 +846,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Facebook and Instagram will let European users see fewer personal ads",
-            "description": "Meta will soon give Instagram and Facebook users in the European Union the option to limit personalised ads, in an effort to comply with the bloc's tech rules. The European Commission announced that the new advertising options will be rolled out in January 20\u2026",
-            "url": "https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_7_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-08T16:12:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe upcoming changes follow Meta being fined $266 million in April over its consent or pay ad model.\r\nThe upcoming changes follow Meta being fined $266 million i\u2026 [+2741 chars]",
+            "author": "Robert Hart",
+            "title": "Humanoid robots are coming. Eventually?",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on robotics and AI, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. We're taking a winter b\u2026",
+            "url": "https://www.theverge.com/column/843418/humanoid-robot-hype",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-21T13:07:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHumanoid robots are coming. Eventually?\r\nChina sees humanoids as an economic engine and Musk wants a robot army. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from \u2026 [+12524 chars]",
             "ai_score": 5
         },
         {
@@ -881,6 +867,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1027918170.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
             "publishedAt": "2025-12-10T20:13:03Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA solar-powered Galactic Brain is supposed to side-step energy constraints new data centers face on Earth. \r\nA solar-powered Galactic Brain is supposed to side-s\u2026 [+4668 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Facebook and Instagram will let European users see fewer personal ads",
+            "description": "Meta will soon give Instagram and Facebook users in the European Union the option to limit personalised ads, in an effort to comply with the bloc's tech rules. The European Commission announced that the new advertising options will be rolled out in January 20\u2026",
+            "url": "https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_7_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-08T16:12:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe upcoming changes follow Meta being fined $266 million in April over its consent or pay ad model.\r\nThe upcoming changes follow Meta being fined $266 million i\u2026 [+2741 chars]",
             "ai_score": 5
         },
         {
@@ -917,12 +917,12 @@
                 "name": "The Verge"
             },
             "author": "Jay Peters",
-            "title": "007 First Light\u2019s release date gets shaken up",
-            "description": "IO Interactive has delayed the release of 007 First Light, its upcoming James Bond origin story game, by two months. 007 First Light will now be released on May 27th, 2026. According to an announcement about the delay: 007 First Light is our most ambitious pr\u2026",
-            "url": "https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_a840c903dd0431a24509454787dcb0a565b56d31.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2025-12-23T18:39:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new James Bond game is getting a two-month delay.\r\nThe new James Bond game is getting a two-month delay.\r\nby\r\nJay PetersClose\r\nJay Peters\r\nPosts from this au\u2026 [+2215 chars]",
+            "title": "Call of Duty, Titanfall developer Vince Zampella has died at age 55",
+            "description": "Vince Zampella, who had a major hand in developing franchises like Medal of Honor, Call of Duty, and Battlefield, died in a car crash on Sunday, NBC Los Angeles reports. He was 55. NBC Los Angeles and CBS Los Angeles report California Highway Patrol responded\u2026",
+            "url": "https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1137086888.jpg?quality=90&strip=all&crop=0%2C11.34049086531%2C100%2C77.319018269379&w=1200",
+            "publishedAt": "2025-12-22T20:57:37Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nZampella co-founded Respawn Entertainment and the original Call of Duty studio, Infinity Ward.\r\nZampella co-founded Respawn Entertainment and the original Call o\u2026 [+2444 chars]",
             "ai_score": 5
         },
         {
@@ -931,12 +931,12 @@
                 "name": "The Verge"
             },
             "author": "Jay Peters",
-            "title": "Call of Duty, Titanfall developer Vince Zampella has died at age 55",
-            "description": "Vince Zampella, who had a major hand in developing franchises like Medal of Honor, Call of Duty, and Battlefield, died in a car crash on Sunday, NBC Los Angeles reports. He was 55. NBC Los Angeles and CBS Los Angeles report California Highway Patrol responded\u2026",
-            "url": "https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1137086888.jpg?quality=90&strip=all&crop=0%2C11.34049086531%2C100%2C77.319018269379&w=1200",
-            "publishedAt": "2025-12-22T20:57:37Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nZampella co-founded Respawn Entertainment and the original Call of Duty studio, Infinity Ward.\r\nZampella co-founded Respawn Entertainment and the original Call o\u2026 [+2444 chars]",
+            "title": "007 First Light\u2019s release date gets shaken up",
+            "description": "IO Interactive has delayed the release of 007 First Light, its upcoming James Bond origin story game, by two months. 007 First Light will now be released on May 27th, 2026. According to an announcement about the delay: 007 First Light is our most ambitious pr\u2026",
+            "url": "https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_a840c903dd0431a24509454787dcb0a565b56d31.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-23T18:39:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new James Bond game is getting a two-month delay.\r\nThe new James Bond game is getting a two-month delay.\r\nby\r\nJay PetersClose\r\nJay Peters\r\nPosts from this au\u2026 [+2215 chars]",
             "ai_score": 5
         },
         {
