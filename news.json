@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-06 22:27",
+    "last_updated": "2026-01-06 23:26",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -251,6 +251,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
             "publishedAt": "2025-12-10T17:50:53Z",
             "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "All of HP\u2019s Gaming Laptops Are Now Under the HyperX Umbrella",
+            "description": "We also got a first look at the improvements in the new HyperX Omen X 16.",
+            "url": "https://gizmodo.com/hp-maxes-out-its-max-gaming-laptop-now-with-more-hyperx-2000704515",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/HP-HyperX-16-Max-2-1200x675.jpg",
+            "publishedAt": "2026-01-05T23:00:18Z",
+            "content": "HP seemed to think there wasnt enough H and P in its gaming product lineup. Our old friends Hewlett and Packard are now combining their entire gaming lineupaccessories, peripherals, and PCsinto one. \u2026 [+2905 chars]",
             "ai_score": 5
         },
         {
@@ -704,6 +718,20 @@
         {
             "source": {
                 "id": null,
+                "name": "CNET"
+            },
+            "author": "Lori Grunin",
+            "title": "HP HyperX Omen Ups Its Game With a Cutting-Edge OLED, Leverless Controller and More",
+            "description": "There are several bright spots in HP's gaming announcements at CES 2026.",
+            "url": "https://www.cnet.com/tech/gaming/hp-hyperx-omen-ups-its-game-with-a-cutting-edge-oled-leverless-controller-and-more-ces-2026/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/bb961f11579585d39f33333e6a3c2ec296df70f7/hub/2026/01/04/3e1a449d-41b3-4597-ba0c-8d433197243b/hyperx-clutch-tachi.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-01-05T23:00:45Z",
+            "content": "HP's gaming gear for\u00a0CES 2026 doesn't bristle with jaw-dropping announcements, but there are a few that stand out, including a monitor incorporating a new Samsung V-Stripe OLED panel and a first-for-\u2026 [+2741 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Kotaku"
             },
             "author": "Ethan Gach",
@@ -1091,34 +1119,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-16-at-9.52.48%E2%80%AFAM.png?quality=90&strip=all&crop=9.3709311127933%2C0%2C81.258137774413%2C100&w=1200",
             "publishedAt": "2025-12-16T17:54:33Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nCo-founder Brian Fleming is stepping down, with longtime Sucker Punch staffers Jason Connell and Adrian Bentley taking over as studio heads.\r\nCo-founder Brian Fl\u2026 [+2373 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Mike Fazioli",
-            "title": "Samsung Goes Into Clearance Mode on Its 57\u2033 Curved Gaming Monitor at a Record Low, Taking Hundreds Off the Odyssey Neo G9",
-            "description": "The massive, pro-level 59-inch 4K Odyssey Neo G9 curved gaming monitor is an incredible deal at 35% off.\nThe post Samsung Goes Into Clearance Mode on Its 57\u2033 Curved Gaming Monitor at a Record Low, Taking Hundreds Off the Odyssey Neo G9 appeared first on Kotak\u2026",
-            "url": "https://kotaku.com/samsung-goes-into-clearance-mode-on-its-57-curved-gaming-monitor-at-a-record-low-taking-hundreds-off-the-odyssey-neo-g9-2000651199",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/12/SAMSUNG-5722-Odyssey-Neo-G9-gaming-monitor.jpg",
-            "publishedAt": "2025-12-08T16:05:27Z",
-            "content": "A holiday splurge is a good thing. A holiday splurge also does not mean paying full price for a bit of indulgence. That\u2019s why we\u2019re giving a hearty thumbs up to this Amazon deal that cuts 35% off the\u2026 [+2707 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Mike Fazioli",
-            "title": "Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32\u2033 Model Is Now Cheaper Than the 27\u2033",
-            "description": "Run to Amazon now to save $180 on Samsung's Odyssey G50D Series QHD monitor and give your gaming a serious upgrade.\nThe post Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32\u2033 Model Is Now Cheaper Than the 27\u2033 appeared first on Kotaku.",
-            "url": "https://kotaku.com/samsung-clears-out-g50d-odyssey-gaming-monitor-at-42-off-the-32\u2033-model-is-now-cheaper-than-the-27\u2033-2000653260",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/12/SAMSUNG-32-Inch-Odyssey-G50D-Series-QHD-Fast-IPS-G-Sync-Compatible-Gaming-Monitor.jpg",
-            "publishedAt": "2025-12-15T13:05:27Z",
-            "content": "Amazon is unloading its Samsung gaming monitors in a big way, with huge discounts for last-minute holiday shoppers. It\u2019s working, too supplies are dwindling so quickly that Amazon\u2019s placed its big re\u2026 [+2575 chars]",
             "ai_score": 5
         }
     ]
