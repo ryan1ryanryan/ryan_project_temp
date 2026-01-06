@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-06 14:28",
+    "last_updated": "2026-01-06 15:29",
     "articles": [
         {
             "source": {
@@ -97,6 +97,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ayaneo-pocket-play-open-silver.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-11T09:16:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBut were still waiting to find out the Pocket Plays specs.\r\nBut were still waiting to find out the Pocket Plays specs.\r\nby\r\nDominic PrestonClose\r\nDominic Preston\u2026 [+2315 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "The best tech announced at CES 2026 so far",
+            "description": "Ahead of the CES show floor officially opening on Tuesday, January 6th, many companies have already announced new tech, gadgets, concepts, and AI-powered upgrades that will be released over this year. Yesterday's CES Unveiled event delivered even more announc\u2026",
+            "url": "https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lg_wallpaper.jpg?quality=90&strip=all&crop=0,10.694934859369,100,78.610130281261",
+            "publishedAt": "2026-01-05T14:32:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA fridge that makes grocery shopping easier, a BlackBerry-style smartphone alternative, and ultra-thin wireless TVs.\r\nA fridge that makes grocery shopping easier\u2026 [+8513 chars]",
             "ai_score": 5
         },
         {
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
             "publishedAt": "2025-12-14T14:54:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn Version History: the phone that sparked a tech blog bonanza, a massive backlash, and the future of phones.\r\nOn Version History: the phone that sparked a tech \u2026 [+3031 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Mark Knapp",
-            "title": "InnoView PM408 Monitor Review: Fast and Sharp Gaming on the Go",
-            "description": "A colorful, sharp and fast monitor that's good for movies and games. But you may need extra power.",
-            "url": "https://www.cnet.com/tech/computing/innoview-pm408-monitor-review-fast-and-sharp-gaming-on-the-go/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/64ec92b7441511b2da426e8882977b43e5b5080b/hub/2025/11/20/7b896621-99d0-4082-b7d5-e4a5f5471caa/innoview-pm401-4-of-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-12-30T12:30:45Z",
-            "content": "The InnoView PM408 promises a clear and sharp picture for gaming, and it delivers. This portable monitor has a fast refresh rate, it's slim and lightweight, and it can run entirely off a single cable\u2026 [+4277 chars]",
             "ai_score": 5
         }
     ]
