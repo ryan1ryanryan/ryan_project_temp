@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-07 20:31",
+    "last_updated": "2026-01-07 21:25",
     "articles": [
         {
             "source": {
@@ -717,6 +717,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Parker Hall",
+            "title": "The Inevitable Rise of the Art TV",
+            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
+            "url": "https://www.wired.com/story/art-frame-tv-trends/",
+            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
+            "publishedAt": "2026-01-06T20:41:46Z",
+            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "MacRumors"
             },
@@ -1049,20 +1063,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-26T16:47:24Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\n2026 will bring new chips and further software improvements. But competition is heating up too.\r\n2026 will bring new chips and further software improvements. But\u2026 [+6092 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
-            "title": "Asus and Xreal are teaming up to make the best display glasses for gaming handhelds",
-            "description": "Asus and Xreal are making gaming-focused smart display glasses with a refresh rate up to 240Hz for low-latency handheld PC gaming and more.",
-            "url": "https://www.androidcentral.com/wearables/asus-and-xreal-are-teaming-up-to-make-the-best-display-glasses-for-gaming-handhelds",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XLxK42jxXWFdtwtunZGUEK-2560-80.jpg",
-            "publishedAt": "2026-01-06T00:01:52Z",
-            "content": "<ul><li>Asus and Xreal are showing off the ROG Xreal R1 AR gaming glasses, which are low-latency FHD display glasses purpose-built for gaming handhelds, PCs, and consoles.</li><li>The ROG Xreal R1 AR\u2026 [+2696 chars]",
             "ai_score": 5
         }
     ]
