@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-07 09:34",
+    "last_updated": "2026-01-07 10:31",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Alienware Upgrades Its Best Gaming Laptop So It Looks as Good as It Feels",
+            "description": "Also, for the first time in a long time, Alienware is finally making an 'ultra-slim' gaming laptop.",
+            "url": "https://gizmodo.com/alienware-upgrades-its-best-gaming-laptop-so-it-looks-as-good-as-it-feels-2000703974",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Alienware-Area-51-OLED-1-1200x675.jpg",
+            "publishedAt": "2026-01-06T03:30:34Z",
+            "content": "The Alienware Area-51 was the kind of laptop that gets you excited to game. It felt great on the fingertips thanks to its mechanical keyboard with Cherry Ultra switches. It looked the partlike it had\u2026 [+3702 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -237,20 +251,6 @@
             "urlToImage": "https://media.wired.com/photos/69334ab57375f733c4c9a823/191:100/w_1280,c_limit/Lenovo%20Legion%20Go%20Gen%202%20Top%20Art%20SOURCE%20Best%20Buy.jpg",
             "publishedAt": "2025-12-06T13:00:00Z",
             "content": "The detachable controllers go a long way towards making the device more portable and usable. The screen has a hefty flip-out kickstand on the back, so Ive found it more comfortable to park the consol\u2026 [+2357 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Alienware Upgrades Its Best Gaming Laptop So It Looks as Good as It Feels",
-            "description": "Also, for the first time in a long time, Alienware is finally making an 'ultra-slim' gaming laptop.",
-            "url": "https://gizmodo.com/alienware-upgrades-its-best-gaming-laptop-so-it-looks-as-good-as-it-feels-2000703974",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Alienware-Area-51-OLED-1-1200x675.jpg",
-            "publishedAt": "2026-01-06T03:30:34Z",
-            "content": "The Alienware Area-51 was the kind of laptop that gets you excited to game. It felt great on the fingertips thanks to its mechanical keyboard with Cherry Ultra switches. It looked the partlike it had\u2026 [+3702 chars]",
             "ai_score": 5
         },
         {
@@ -773,20 +773,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Microsoft\u2019s free update brings better Bluetooth to your Xbox Wireless Headset",
-            "description": "My favorite kind of update is the one that gives my gadgets entirely new features and specs for free - and Microsoft is unleashing one of those today by bringing Bluetooth Low Energy (LE) Audio to its 2024 Xbox Wireless Headset, which unlocks a lot of those n\u2026",
-            "url": "https://www.theverge.com/games/845491/microsoft-xbox-wireless-headset-bluetooth-le-free-update",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22363682/cfaulkner_210311_4469_0006.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
-            "publishedAt": "2025-12-16T17:43:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve got the 2024 version, anyhow.\r\nIf youve got the 2024 version, anyhow.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to \u2026 [+2532 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -797,6 +783,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/11/INFLUENCERS-topart-1200x675.jpg",
             "publishedAt": "2025-12-10T00:00:52Z",
             "content": "Influencer hit Shudder in 2023 after an acclaimed festival run, and its sequel arrives on the horror streamer this week. Influencers follows the continuing crimes of CWthe monstrous master of social \u2026 [+5643 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Microsoft\u2019s free update brings better Bluetooth to your Xbox Wireless Headset",
+            "description": "My favorite kind of update is the one that gives my gadgets entirely new features and specs for free - and Microsoft is unleashing one of those today by bringing Bluetooth Low Energy (LE) Audio to its 2024 Xbox Wireless Headset, which unlocks a lot of those n\u2026",
+            "url": "https://www.theverge.com/games/845491/microsoft-xbox-wireless-headset-bluetooth-le-free-update",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22363682/cfaulkner_210311_4469_0006.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
+            "publishedAt": "2025-12-16T17:43:57Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve got the 2024 version, anyhow.\r\nIf youve got the 2024 version, anyhow.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to \u2026 [+2532 chars]",
             "ai_score": 5
         },
         {
@@ -1056,20 +1056,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "Humanoid robots are coming. Eventually?",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on robotics and AI, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. We're taking a winter b\u2026",
-            "url": "https://www.theverge.com/column/843418/humanoid-robot-hype",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-21T13:07:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHumanoid robots are coming. Eventually?\r\nChina sees humanoids as an economic engine and Musk wants a robot army. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from \u2026 [+12524 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Victoria Song",
             "title": "In 2025, wearables made a hard pivot to AI",
             "description": "Years from now, I'll look back at 2025 as the year when a fundamental shift happened in wearable technology. Over the last decade, the category has been synonymous with health and fitness. In many ways, that association is still the primary one. But this year\u2026",
@@ -1084,13 +1070,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Facebook and Instagram will let European users see fewer personal ads",
-            "description": "Meta will soon give Instagram and Facebook users in the European Union the option to limit personalised ads, in an effort to comply with the bloc's tech rules. The European Commission announced that the new advertising options will be rolled out in January 20\u2026",
-            "url": "https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_7_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-08T16:12:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe upcoming changes follow Meta being fined $266 million in April over its consent or pay ad model.\r\nThe upcoming changes follow Meta being fined $266 million i\u2026 [+2741 chars]",
+            "author": "Robert Hart",
+            "title": "Humanoid robots are coming. Eventually?",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on robotics and AI, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. We're taking a winter b\u2026",
+            "url": "https://www.theverge.com/column/843418/humanoid-robot-hype",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-21T13:07:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHumanoid robots are coming. Eventually?\r\nChina sees humanoids as an economic engine and Musk wants a robot army. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from \u2026 [+12524 chars]",
             "ai_score": 5
         },
         {
@@ -1112,13 +1098,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Elissa Welle",
-            "title": "Billionaires want data centers everywhere, including space",
-            "description": "Tech billionaires have been obsessed with space for a long time. Now, as the largest AI companies race to build more data centers in a frenzied pursuit of profitability, space is looking less like a pet project and more like a commercial opportunity. In 2025 \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Vrg_illo_Kristen_Radtke_data_centers_in_space.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-17T17:48:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBillionaires want data centers everywhere, including space\r\nAstronomers and environmental scientists are skeptical.\r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts f\u2026 [+11186 chars]",
+            "author": "Jess Weatherbed",
+            "title": "Facebook and Instagram will let European users see fewer personal ads",
+            "description": "Meta will soon give Instagram and Facebook users in the European Union the option to limit personalised ads, in an effort to comply with the bloc's tech rules. The European Commission announced that the new advertising options will be rolled out in January 20\u2026",
+            "url": "https://www.theverge.com/news/839927/meta-facebook-instagram-eu-ad-model-choice",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_7_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-08T16:12:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe upcoming changes follow Meta being fined $266 million in April over its consent or pay ad model.\r\nThe upcoming changes follow Meta being fined $266 million i\u2026 [+2741 chars]",
             "ai_score": 5
         },
         {
@@ -1133,6 +1119,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/frontier-x-aura-vex-1.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
             "publishedAt": "2026-01-05T06:37:23Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Vex plays with your pet and films it too, even editing the video itself.\r\nThe Vex plays with your pet and films it too, even editing the video itself.\r\nby\r\nD\u2026 [+3019 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Elissa Welle",
+            "title": "Billionaires want data centers everywhere, including space",
+            "description": "Tech billionaires have been obsessed with space for a long time. Now, as the largest AI companies race to build more data centers in a frenzied pursuit of profitability, space is looking less like a pet project and more like a commercial opportunity. In 2025 \u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Vrg_illo_Kristen_Radtke_data_centers_in_space.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-17T17:48:34Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBillionaires want data centers everywhere, including space\r\nAstronomers and environmental scientists are skeptical.\r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts f\u2026 [+11186 chars]",
             "ai_score": 5
         }
     ]
