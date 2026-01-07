@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-07 04:46",
+    "last_updated": "2026-01-07 05:31",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/razer_boomslang1.jpg?quality=90&strip=all&crop=0%2C10.707469663105%2C100%2C78.58506067379&w=1200",
             "publishedAt": "2025-12-10T14:16:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Boomslang is back after launching over 25 years ago.\r\nThe Boomslang is back after launching over 25 years ago.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Liszewski\r\n\u2026 [+2778 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s GeForce Now is getting native Linux and Fire TV apps",
+            "description": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV d\u2026",
+            "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-06T05:22:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
             "ai_score": 5
         },
         {
@@ -174,6 +188,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s new G-Sync monitors automatically adjust brightness just like a laptop",
+            "description": "Nvidia is bringing a new set of G-Sync Pulsar monitors to the market this week that will automatically adjust brightness and color based on the ambient lighting in a room. Much like a modern laptop, these new monitors have a built-in light sensor that measure\u2026",
+            "url": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gsyncambient.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-06T05:12:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest G-Sync Pulsar monitors have a built-in light sensor so they can adjust brightness and color.\r\nThe latest G-Sync Pulsar monitors have a built-in light \u2026 [+2964 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Terrence O\u2019Brien",
             "title": "Ubisoft shuts down \u2018Rainbow Six Siege\u2019 servers following hack",
             "description": "Yesterday, Ubisoft confirmed that Rainbow Six Siege had been compromised and that it had shut down the game's servers and marketplace while it resolved the issue. The hackers managed to gain control over a significant chunk of the game's systems, including th\u2026",
@@ -251,6 +279,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
             "publishedAt": "2025-12-10T17:50:53Z",
             "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
+            "description": "Nvidia is announcing its next major update to its Deep Learning Super Sampling (DLSS) feature at CES today. DLSS 4.5 includes Nvidia's second-generation Super Resolution transformer model and a new 6x Multi Frame Generation mode for RTX 50-series GPUs that us\u2026",
+            "url": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nvidiadlss45.jpg?quality=90&strip=all&crop=0%2C2.1780789104472%2C100%2C95.643842179106&w=1200",
+            "publishedAt": "2026-01-06T05:05:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nby\r\nT\u2026 [+3858 chars]",
             "ai_score": 5
         },
         {
@@ -1091,48 +1133,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/frontier-x-aura-vex-1.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
             "publishedAt": "2026-01-05T06:37:23Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Vex plays with your pet and films it too, even editing the video itself.\r\nThe Vex plays with your pet and films it too, even editing the video itself.\r\nby\r\nD\u2026 [+3019 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Bungie\u2019s delayed shooter Marathon launches in March",
-            "description": "Bungie's Marathon, its upcoming extraction shooter that it delayed from a planned September release, will now launch in March 2026. The studio is \"targeting\" a price of $39.99, and \"purchasing Marathon will give you full access to the game, including a roadma\u2026",
-            "url": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2025_DEC_Marathon_Press_Kit_Compressed_003.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2025-12-15T18:42:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter poor alpha test feedback, the game is now set to come out early next year.\r\nAfter poor alpha test feedback, the game is now set to come out early next year\u2026 [+1943 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Call of Duty, Titanfall developer Vince Zampella has died at age 55",
-            "description": "Vince Zampella, who had a major hand in developing franchises like Medal of Honor, Call of Duty, and Battlefield, died in a car crash on Sunday, NBC Los Angeles reports. He was 55. NBC Los Angeles and CBS Los Angeles report California Highway Patrol responded\u2026",
-            "url": "https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-1137086888.jpg?quality=90&strip=all&crop=0%2C11.34049086531%2C100%2C77.319018269379&w=1200",
-            "publishedAt": "2025-12-22T20:57:37Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nZampella co-founded Respawn Entertainment and the original Call of Duty studio, Infinity Ward.\r\nZampella co-founded Respawn Entertainment and the original Call o\u2026 [+2444 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "007 First Light\u2019s release date gets shaken up",
-            "description": "IO Interactive has delayed the release of 007 First Light, its upcoming James Bond origin story game, by two months. 007 First Light will now be released on May 27th, 2026. According to an announcement about the delay: 007 First Light is our most ambitious pr\u2026",
-            "url": "https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_a840c903dd0431a24509454787dcb0a565b56d31.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2025-12-23T18:39:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new James Bond game is getting a two-month delay.\r\nThe new James Bond game is getting a two-month delay.\r\nby\r\nJay PetersClose\r\nJay Peters\r\nPosts from this au\u2026 [+2215 chars]",
             "ai_score": 5
         }
     ]
