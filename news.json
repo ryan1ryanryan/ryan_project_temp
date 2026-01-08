@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-01-08 07:30",
+    "last_updated": "2026-01-08 08:37",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "AMD\u2019s New Gaming Upscaler Is Here to Knock Nvidia Off Its Throne",
+            "description": "The new 'Redstone\" AI upscaler makes PC games look better, but it would be truly spectacular on consoles or handhelds.",
+            "url": "https://gizmodo.com/amd-redstone-fsr-4-upscaling-update-gaming-2000697829",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
+            "publishedAt": "2025-12-10T17:50:53Z",
+            "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
+            "ai_score": 9
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,77 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s GeForce Now is getting native Linux and Fire TV apps",
+            "description": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV d\u2026",
+            "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-06T05:22:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s new G-Sync monitors automatically adjust brightness just like a laptop",
+            "description": "Nvidia is bringing a new set of G-Sync Pulsar monitors to the market this week that will automatically adjust brightness and color based on the ambient lighting in a room. Much like a modern laptop, these new monitors have a built-in light sensor that measure\u2026",
+            "url": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gsyncambient.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-06T05:12:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest G-Sync Pulsar monitors have a built-in light sensor so they can adjust brightness and color.\r\nThe latest G-Sync Pulsar monitors have a built-in light \u2026 [+2964 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "GOG\u2019s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
+            "description": "GOG is splitting from CD Projekt, the game company that launched the preservation-focused PC gaming marketplace in 2008. In an update on Monday, GOG announced that its co-founder, Micha\u0142 Kici\u0144ski, has acquired the digital storefront and its online gaming plat\u2026",
+            "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&strip=all&crop=0,10.945238432149,100,78.109523135701",
+            "publishedAt": "2025-12-29T18:34:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-focused game marketplace.\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-\u2026 [+2309 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
+            "description": "Nvidia is announcing its next major update to its Deep Learning Super Sampling (DLSS) feature at CES today. DLSS 4.5 includes Nvidia's second-generation Super Resolution transformer model and a new 6x Multi Frame Generation mode for RTX 50-series GPUs that us\u2026",
+            "url": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nvidiadlss45.jpg?quality=90&strip=all&crop=0%2C2.1780789104472%2C100%2C95.643842179106&w=1200",
+            "publishedAt": "2026-01-06T05:05:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nby\r\nT\u2026 [+3858 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "In 2025, AI became a lightning rod for gamers and developers",
+            "description": "2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game studios claim it's being implemented everywhere in the industr\u2026",
+            "url": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_AI_GAMING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-22T21:30:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nby\r\nAsh P\u2026 [+7949 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,20 +139,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/razer_boomslang1.jpg?quality=90&strip=all&crop=0%2C10.707469663105%2C100%2C78.58506067379&w=1200",
             "publishedAt": "2025-12-10T14:16:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Boomslang is back after launching over 25 years ago.\r\nThe Boomslang is back after launching over 25 years ago.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Liszewski\r\n\u2026 [+2778 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s GeForce Now is getting native Linux and Fire TV apps",
-            "description": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV d\u2026",
-            "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-06T05:22:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
             "ai_score": 5
         },
         {
@@ -213,20 +283,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s new G-Sync monitors automatically adjust brightness just like a laptop",
-            "description": "Nvidia is bringing a new set of G-Sync Pulsar monitors to the market this week that will automatically adjust brightness and color based on the ambient lighting in a room. Much like a modern laptop, these new monitors have a built-in light sensor that measure\u2026",
-            "url": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gsyncambient.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-06T05:12:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest G-Sync Pulsar monitors have a built-in light sensor so they can adjust brightness and color.\r\nThe latest G-Sync Pulsar monitors have a built-in light \u2026 [+2964 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -307,48 +363,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Alienware-Area-51-OLED-1-1200x675.jpg",
             "publishedAt": "2026-01-06T03:30:34Z",
             "content": "The Alienware Area-51 was the kind of laptop that gets you excited to game. It felt great on the fingertips thanks to its mechanical keyboard with Cherry Ultra switches. It looked the partlike it had\u2026 [+3702 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "GOG\u2019s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
-            "description": "GOG is splitting from CD Projekt, the game company that launched the preservation-focused PC gaming marketplace in 2008. In an update on Monday, GOG announced that its co-founder, Micha\u0142 Kici\u0144ski, has acquired the digital storefront and its online gaming plat\u2026",
-            "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gog-logo.webp?quality=90&strip=all&crop=0,10.945238432149,100,78.109523135701",
-            "publishedAt": "2025-12-29T18:34:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-focused game marketplace.\r\nThe co-founder of GOG and CD Projekt has acquired the preservation-\u2026 [+2309 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "AMD\u2019s New Gaming Upscaler Is Here to Knock Nvidia Off Its Throne",
-            "description": "The new 'Redstone\" AI upscaler makes PC games look better, but it would be truly spectacular on consoles or handhelds.",
-            "url": "https://gizmodo.com/amd-redstone-fsr-4-upscaling-update-gaming-2000697829",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Aliwnare-QD-OLED-Monitor-Spiderman-Radeon-RX-1200x675.jpg",
-            "publishedAt": "2025-12-10T17:50:53Z",
-            "content": "AMD, eschewing a number in favor of an esoteric moniker, is now positioning the new version of its upscaling tech, dubbed Redstone, as a true competitor to Nvidias DLSS (deep learning super sampling)\u2026 [+5331 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
-            "description": "Nvidia is announcing its next major update to its Deep Learning Super Sampling (DLSS) feature at CES today. DLSS 4.5 includes Nvidia's second-generation Super Resolution transformer model and a new 6x Multi Frame Generation mode for RTX 50-series GPUs that us\u2026",
-            "url": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nvidiadlss45.jpg?quality=90&strip=all&crop=0%2C2.1780789104472%2C100%2C95.643842179106&w=1200",
-            "publishedAt": "2026-01-06T05:05:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nby\r\nT\u2026 [+3858 chars]",
             "ai_score": 5
         },
         {
@@ -461,20 +475,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_switch2pro_case1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
             "publishedAt": "2026-01-02T21:17:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C port and status screen.\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C po\u2026 [+2711 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Ash Parrish",
-            "title": "In 2025, AI became a lightning rod for gamers and developers",
-            "description": "2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game studios claim it's being implemented everywhere in the industr\u2026",
-            "url": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_AI_GAMING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-22T21:30:32Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nby\r\nAsh P\u2026 [+7949 chars]",
             "ai_score": 5
         },
         {
