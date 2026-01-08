@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-08 10:30",
+    "last_updated": "2026-01-08 11:26",
     "articles": [
         {
             "source": {
@@ -188,20 +188,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "Micron says memory shortage will \u2018persist\u2019 beyond 2026",
-            "description": "Micron, one of the three biggest memory suppliers in the world, forecasts rough months ahead for the global RAM supply. As part of its earnings report released on Wednesday, Micron CEO Sanjay Mehrotra said \"tight industry conditions\" across DRAM and NAND flas\u2026",
-            "url": "https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-18T15:14:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSupply will remain substantially short of the demand for the foreseeable future.\r\nSupply will remain substantially short of the demand for the foreseeable future\u2026 [+3048 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sean Hollister",
             "title": "Lenovo\u2019s second SteamOS handheld is the Legion Go 2",
             "description": "One year ago, Lenovo became the first company besides Valve to announce a handheld with SteamOS instead of Windows. The result was the Legion Go S with SteamOS; no Steam Deck killer due to price and battery life, but a big step forward in performance and pick\u2026",
@@ -209,6 +195,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/legion-go-2-steam-os-2.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-01-06T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts set to launch in June.\r\nIts set to launch in June.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to your daily email digest \u2026 [+3398 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Micron says memory shortage will \u2018persist\u2019 beyond 2026",
+            "description": "Micron, one of the three biggest memory suppliers in the world, forecasts rough months ahead for the global RAM supply. As part of its earnings report released on Wednesday, Micron CEO Sanjay Mehrotra said \"tight industry conditions\" across DRAM and NAND flas\u2026",
+            "url": "https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-18T15:14:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSupply will remain substantially short of the demand for the foreseeable future.\r\nSupply will remain substantially short of the demand for the foreseeable future\u2026 [+3048 chars]",
             "ai_score": 5
         },
         {
