@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-07 23:26",
+    "last_updated": "2026-01-08 01:52",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -69,6 +69,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-06T05:22:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Lenovo\u2019s new concept rollable could be the ideal gaming laptop",
+            "description": "Lenovo is at it again with wild laptop concepts for CES 2026, and the biggest one is the Legion Pro Rollable gaming laptop. It has a flexible OLED display that expands horizontally - as opposed to Lenovo's ThinkBook Plus Gen 6, which rolls up and down. The Le\u2026",
+            "url": "https://www.theverge.com/tech/852352/lenovo-legion-pro-rollable-gaming-laptop-concept-ces-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268236_Lenovo_Legion_Pro_Rollable_gaming_laptop_concept_CES2026_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-07T00:12:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLenovos new rollable laptop for gamers has an OLED screen that horizontally extends from a 16-inch to a 24-inch.\r\nLenovos new rollable laptop for gamers has an O\u2026 [+5240 chars]",
             "ai_score": 5
         },
         {
@@ -692,6 +706,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Parker Hall",
+            "title": "The Inevitable Rise of the Art TV",
+            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
+            "url": "https://www.wired.com/story/art-frame-tv-trends/",
+            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
+            "publishedAt": "2026-01-06T20:41:46Z",
+            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Boone Ashworth",
             "title": "The Gloves Are Off in the Fight for Your Right to Repair",
             "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
@@ -713,20 +741,6 @@
             "urlToImage": "https://media.wired.com/photos/69497eb75e339703ac57f6f2/191:100/w_1280,c_limit/gear-ces-walkup-2192299395.jpg",
             "publishedAt": "2026-01-05T11:00:00Z",
             "content": "The New Years Eve champagne isnt even warm yet, and CES week is already upon us.\r\nThe giant annual celebration of consumer tech kicks off the first full week of January as companies across the world \u2026 [+2023 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Parker Hall",
-            "title": "The Inevitable Rise of the Art TV",
-            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
-            "url": "https://www.wired.com/story/art-frame-tv-trends/",
-            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
-            "publishedAt": "2026-01-06T20:41:46Z",
-            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
             "ai_score": 5
         },
         {
@@ -914,6 +928,20 @@
         {
             "source": {
                 "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "California Could Get a 4-Year Ban on Toys With AI Chatbots",
+            "description": "\"Our children cannot be used as lab rats for Big Tech to experiment on,\" said the state senator who introduced new legislation around AI toys.",
+            "url": "https://gizmodo.com/california-could-get-a-4-year-ban-on-toys-with-ai-chatbots-2000706416",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/teddy_bear_AI-1200x675.jpg",
+            "publishedAt": "2026-01-07T00:13:12Z",
+            "content": "California state senator Steve Padilla, a Democrat from San Diego, introduced a bill in the California State Assembly on Monday that would place a 4-year moratorium on the sale of toys with artificia\u2026 [+3082 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -993,62 +1021,6 @@
             "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AeWbHJ.jYRE.BEaeC3FXvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3c9e2c60-e33b-11f0-b8dd-b0865185c74c",
             "publishedAt": "2025-12-27T15:48:02Z",
             "content": "Boxing Day 2025 has come to an end, but savvy shoppers know you can still score dozens of extended Boxing Day deals you just need to know where to look. Whether you have your sights set on a new smar\u2026 [+1540 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "Segway\u2019s new e-bikes are impressively high-tech and delightfully low-cost",
-            "description": "After causing a splash at last year's CES with a pair of high-tech, high-powered e-bikes, Segway returned to the show with a little something more for everyone. The Ninebot-owned brand announced two new e-bikes - the seemingly conventional-looking Myon, and t\u2026",
-            "url": "https://www.theverge.com/news/855025/segway-e-bikes-myon-muxi-xaber-300-ces-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Segway-CES-2026-KV.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-01-06T02:48:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe lineup is growing to include the Myon, Muxi, and Xaber 300 dirt bike.\r\nThe lineup is growing to include the Myon, Muxi, and Xaber 300 dirt bike.\r\nby\r\nAndrew \u2026 [+7302 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "California Might Tax Billionaires. Cue the Inevitable Tech Billionaire Tantrum",
-            "description": "They say they're going to do something that rhymes with \"grieve.\"",
-            "url": "https://gizmodo.com/california-might-tax-billionaires-cue-the-inevitable-tech-billionaire-tantrum-2000703411",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/peter-thiel-1200x675.jpg",
-            "publishedAt": "2025-12-27T16:52:07Z",
-            "content": "Taking money away from billionaires is funny, and threatening to do it can be a nice political sugar rush for anyone with even a tiny amount of class consciousness (even though it would not get close\u2026 [+3411 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zainab Falak",
-            "title": "ASUS Goes on Clearance With Its ROG Strix G16 Gaming Laptop (RTX 5060, 32GB RAM, 1TB SSD) for the Holidays",
-            "description": "It packs a powerful processor, and delivers impressive graphics for an immersive gaming experience.\nThe post ASUS Goes on Clearance With Its ROG Strix G16 Gaming Laptop (RTX 5060, 32GB RAM, 1TB SSD) for the Holidays appeared first on Kotaku.",
-            "url": "https://kotaku.com/asus-goes-on-clearance-with-its-rog-strix-g16-gaming-laptop-rtx-5060-32gb-ram-1tb-ssd-for-the-holidays-2000653340",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/12/asus-laptop.jpg",
-            "publishedAt": "2025-12-15T14:05:54Z",
-            "content": "Gaming laptops, especially the muscular options from high-end brands, dont come in cheap. Most models with solid graphics, a powerful processor, and massive memory sit well over $2,000, but thats not\u2026 [+3069 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "This Tetris-playing watch struggles with the one thing it should be great at",
-            "description": "The Tetris: My Play Watch may look like an Apple Watch, but it eschews most of the functionality you'll typically find on a smartwatch to focus on two things: playing Tetris and celebrating the game through a UI that's thoroughly Tetris-themed. It's very good\u2026",
-            "url": "https://www.theverge.com/gadgets/842702/tetris-my-play-watch-smartwatch-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/tetris_myplaywatch_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2025-12-12T13:41:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFinicky touchscreen controls make this watchs best feature its most disappointing.\r\nFinicky touchscreen controls make this watchs best feature its most disappoin\u2026 [+6556 chars]",
             "ai_score": 5
         }
     ]
