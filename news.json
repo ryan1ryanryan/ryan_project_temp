@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-09 19:25",
+    "last_updated": "2026-01-09 20:30",
     "articles": [
         {
             "source": {
@@ -510,6 +510,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Antonio G. Di Benedetto",
+            "title": "The coolest laptops we saw at CES 2026",
+            "description": "CES is always jam-packed with new laptop announcements, acting as a barometer for the year's upcoming releases. The proofs of concept at the show display what could potentially come further in the future. 2026 will soon bring us new chip options from Intel, A\u2026",
+            "url": "https://www.theverge.com/tech/858897/ces-2026-best-laptops-asus-dell-acer-msi-hp-lenovo-concepts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268236_Lenovo_Legion_Pro_Rollable_gaming_laptop_concept_CES2026_ADiBenedetto_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-08T20:20:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrom rollable concepts to sleek dual-screens.\r\nFrom rollable concepts to sleek dual-screens.\r\nby\r\nAntonio G. Di BenedettoClose\r\nAntonio G. Di Benedetto\r\nPosts fr\u2026 [+10615 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jay Peters",
             "title": "Meta might charge for a future AI model",
             "description": "Meta's next AI model could mark a change in its \"open source\" AI strategy that Mark Zuckerberg had called \"the path forward.\" Currently, the company is working on a new AI model, code-named Avocado, that it might charge for access to, Bloomberg reports. Last \u2026",
@@ -748,20 +762,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Parker Hall",
-            "title": "The Inevitable Rise of the Art TV",
-            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
-            "url": "https://www.wired.com/story/art-frame-tv-trends/",
-            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
-            "publishedAt": "2026-01-06T20:41:46Z",
-            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Boone Ashworth",
             "title": "The Gloves Are Off in the Fight for Your Right to Repair",
             "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
@@ -783,6 +783,20 @@
             "urlToImage": "https://media.wired.com/photos/69497eb75e339703ac57f6f2/191:100/w_1280,c_limit/gear-ces-walkup-2192299395.jpg",
             "publishedAt": "2026-01-05T11:00:00Z",
             "content": "The New Years Eve champagne isnt even warm yet, and CES week is already upon us.\r\nThe giant annual celebration of consumer tech kicks off the first full week of January as companies across the world \u2026 [+2023 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Parker Hall",
+            "title": "The Inevitable Rise of the Art TV",
+            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
+            "url": "https://www.wired.com/story/art-frame-tv-trends/",
+            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
+            "publishedAt": "2026-01-06T20:41:46Z",
+            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
             "ai_score": 5
         },
         {
@@ -951,34 +965,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/06/ccfabc089c1ea64775fc0fb7bb8d7dd0-1200x675.jpg",
             "publishedAt": "2026-01-02T17:25:18Z",
             "content": "Asus has cracked the seal on price hikes just ahead of CES 2026. The electronics maker, which is responsible for a range of PC gaming hardware including the already $1,000 ROG Xbox Ally X, warned par\u2026 [+2594 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Oh, the Irony: Microsoft\u2019s Push for Copilot+ PCs Could Stall Laptop Sales",
-            "description": "Windows users can't go back to 8GB of RAM, but laptop makers may not have a choice.",
-            "url": "https://gizmodo.com/microsofts-push-for-copilot-plus-pcs-could-stall-laptop-sales-2000701505",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Asus-Zenbook-2025-1-1200x675.jpg",
-            "publishedAt": "2025-12-18T22:18:19Z",
-            "content": "If we turn the clocks back a year and a half, Microsofts leadership stood on stage and pronounced a new era of computing was upon us. They were right, though it\u2019s not in a way anybody but AI evangeli\u2026 [+7035 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "Lenovo Gaming Laptop With a Rollable Screen Could Arrive in 2026",
-            "description": "The company could introduce a new Legion laptop with a screen that rolls out horizontally in a few weeks at CES 2026 in Las Vegas.",
-            "url": "https://www.cnet.com/tech/computing/lenovo-gaming-laptop-with-a-rollable-screen-could-arrive-in-2026/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/7ed7bd83b16c84b961a03b62c8351edd8714f0d2/hub/2025/10/29/f2c739de-0bc2-45aa-aef9-575a1569a07a/lenovo-loq-15-overview.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-12-09T16:49:28Z",
-            "content": "A purported leak containing marketing materials for a new gaming laptop from Lenovo suggests the company may debut a Windows 11 PC with a horizontal rollable display that expands out to an ultrawide \u2026 [+1028 chars]",
             "ai_score": 5
         }
     ]
