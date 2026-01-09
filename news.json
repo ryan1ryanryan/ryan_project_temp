@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-09 16:33",
+    "last_updated": "2026-01-09 17:28",
     "articles": [
         {
             "source": {
@@ -661,6 +661,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "TV makers are taking AI too far",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Every year, TV makers flock to CES in Las Vegas to show off bigger, brighter, and better-looki\u2026",
+            "url": "https://www.theverge.com/column/858463/tv-too-much-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Gemini-google-tv.png?quality=90&strip=all&crop=0%2C10.647713900779%2C100%2C78.704572198441&w=1200",
+            "publishedAt": "2026-01-08T16:35:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAt CES 2026, AI is taking over the TV. It can be pretty obtrusive.\r\nAt CES 2026, AI is taking over the TV. It can be pretty obtrusive.\r\nby\r\nJanko RoettgersClose\r\u2026 [+7713 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -965,20 +979,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/7ed7bd83b16c84b961a03b62c8351edd8714f0d2/hub/2025/10/29/f2c739de-0bc2-45aa-aef9-575a1569a07a/lenovo-loq-15-overview.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2025-12-09T16:49:28Z",
             "content": "A purported leak containing marketing materials for a new gaming laptop from Lenovo suggests the company may debut a Windows 11 PC with a horizontal rollable display that expands out to an ultrawide \u2026 [+1028 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "California Could Get a 4-Year Ban on Toys With AI Chatbots",
-            "description": "\"Our children cannot be used as lab rats for Big Tech to experiment on,\" said the state senator who introduced new legislation around AI toys.",
-            "url": "https://gizmodo.com/california-could-get-a-4-year-ban-on-toys-with-ai-chatbots-2000706416",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/teddy_bear_AI-1200x675.jpg",
-            "publishedAt": "2026-01-07T00:13:12Z",
-            "content": "California state senator Steve Padilla, a Democrat from San Diego, introduced a bill in the California State Assembly on Monday that would place a 4-year moratorium on the sale of toys with artificia\u2026 [+3082 chars]",
             "ai_score": 5
         }
     ]
