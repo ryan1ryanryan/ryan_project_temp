@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-09 14:30",
+    "last_updated": "2026-01-09 15:30",
     "articles": [
         {
             "source": {
@@ -983,16 +983,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": null,
-            "title": "'Architects of AI' named Time Magazine's Person of the Year",
-            "description": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.",
-            "url": "https://www.bbc.com/news/articles/cly01mdm577o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1aa8/live/6f7fda50-d690-11f0-9184-a796dfacc4c9.jpg",
-            "publishedAt": "2025-12-11T13:34:03Z",
-            "content": "Liv McMahon,Technology reporters\r\nNvidia boss Jensen Huang is among the tech bosses the magazine has put on its biggest cover of the year\r\nTime Magazine's Person of the Year for 2025 is not a single \u2026 [+4335 chars]",
+            "author": "Ash Parrish",
+            "title": "The most popular games are getting harder and harder to usurp",
+            "description": "It's harder than ever for a new video game to crack the top of the most-played list. According to the Circana Player Engagement Tracker and video game market analyst Mat Piscatella, in 2025, the top five most-played games on PS5 and Xbox\u2026 were the same in 202\u2026",
+            "url": "https://www.theverge.com/games/858127/top-five-most-played-games-xbox-ps5-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/fortnite-sidekicks.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-01-08T15:23:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe top-played games on Xbox and PS5 were the same in 2024 and 2025 and likely wont change much in the near future.\r\nThe top-played games on Xbox and PS5 were th\u2026 [+5291 chars]",
             "ai_score": 5
         }
     ]
