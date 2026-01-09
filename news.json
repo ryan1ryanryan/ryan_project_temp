@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-09 10:29",
+    "last_updated": "2026-01-09 11:24",
     "articles": [
         {
             "source": {
@@ -13,20 +13,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Microsoft\u2019s free update brings better Bluetooth to your Xbox Wireless Headset",
-            "description": "My favorite kind of update is the one that gives my gadgets entirely new features and specs for free - and Microsoft is unleashing one of those today by bringing Bluetooth Low Energy (LE) Audio to its 2024 Xbox Wireless Headset, which unlocks a lot of those n\u2026",
-            "url": "https://www.theverge.com/games/845491/microsoft-xbox-wireless-headset-bluetooth-le-free-update",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22363682/cfaulkner_210311_4469_0006.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
-            "publishedAt": "2025-12-16T17:43:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve got the 2024 version, anyhow.\r\nIf youve got the 2024 version, anyhow.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to \u2026 [+2532 chars]",
             "ai_score": 8
         },
         {
@@ -899,6 +885,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Microsoft\u2019s free update brings better Bluetooth to your Xbox Wireless Headset",
+            "description": "My favorite kind of update is the one that gives my gadgets entirely new features and specs for free - and Microsoft is unleashing one of those today by bringing Bluetooth Low Energy (LE) Audio to its 2024 Xbox Wireless Headset, which unlocks a lot of those n\u2026",
+            "url": "https://www.theverge.com/games/845491/microsoft-xbox-wireless-headset-bluetooth-le-free-update",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22363682/cfaulkner_210311_4469_0006.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
+            "publishedAt": "2025-12-16T17:43:57Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve got the 2024 version, anyhow.\r\nIf youve got the 2024 version, anyhow.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to \u2026 [+2532 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -986,20 +986,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "James Pero",
-            "title": "CES 2026 Really Wants You to Own a Holographic Anime Girlfriend",
-            "description": "Mark this convention down as the Year of the Waifu.",
-            "url": "https://gizmodo.com/ces-2026-really-wants-you-to-own-a-holographic-anime-girlfriend-2000707138",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/AI-girfriend-1200x675.jpg",
-            "publishedAt": "2026-01-08T01:10:58Z",
-            "content": "If you had \u201cholographic anime girlfriends\u201d on your CES 2026 bingo card, congratulations; you are both unhinged and\u00a0correct. I personally did not see this trend coming, but after walking the show floo\u2026 [+2559 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Sasha Lekach",
             "title": "Sony Honda Mobility Still Needs to Deliver Its Game-Filled Afeela 1 EV, but Here\u2019s a New Concept Car",
             "description": "Sony Honda Mobility introduced the Afeela Prototype 2026 at CES as a larger crossover EV.",
@@ -1007,6 +993,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Prototype-SHM-Official-1200x675.jpeg",
             "publishedAt": "2026-01-07T16:50:09Z",
             "content": "Sony Honda Mobility\u2019s first collab car, the Afeela 1, still hasn\u2019t hit the road yet, but the Japanese company is already moving on to its next electric vehicle.\r\nAt a CES event in Las Vegas this week\u2026 [+3485 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "CES 2026 Really Wants You to Own a Holographic Anime Girlfriend",
+            "description": "Mark this convention down as the Year of the Waifu.",
+            "url": "https://gizmodo.com/ces-2026-really-wants-you-to-own-a-holographic-anime-girlfriend-2000707138",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/AI-girfriend-1200x675.jpg",
+            "publishedAt": "2026-01-08T01:10:58Z",
+            "content": "If you had \u201cholographic anime girlfriends\u201d on your CES 2026 bingo card, congratulations; you are both unhinged and\u00a0correct. I personally did not see this trend coming, but after walking the show floo\u2026 [+2559 chars]",
             "ai_score": 5
         }
     ]
