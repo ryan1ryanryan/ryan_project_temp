@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-10 22:24",
+    "last_updated": "2026-01-10 23:24",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -384,6 +384,20 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
+            "author": "Sasha Lekach",
+            "title": "The Best Automotive Tech at CES 2026",
+            "description": "Robotaxis, concept cars, and a massive touchscreen were just some of the automotive highlights at CES 2026.",
+            "url": "https://gizmodo.com/best-automotive-tech-ces-2026-2000708326",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/best-auto-1200x675.jpg",
+            "publishedAt": "2026-01-09T23:00:51Z",
+            "content": "If you broke away from the noise about agentic AI in cars, EVs, eVTOLs, trucks, big rigs, fleets, robotaxis, and even boats bouncing around the halls of CES 2026, you could find some impressive autom\u2026 [+5682 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
             "author": "Kyle Barr",
             "title": "All of HP\u2019s Gaming Laptops Are Now Under the HyperX Umbrella",
             "description": "We also got a first look at the improvements in the new HyperX Omen X 16.",
@@ -545,6 +559,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/ces2026-laptop-display3-v2-1200x675.jpg",
             "publishedAt": "2026-01-06T00:30:35Z",
             "content": "You already know everything you need to about whats happening inside Intels latest laptop chips. Intel Core Ultra Series 3, aka Panther Lake, promises to offer strong performance plus a solid battery\u2026 [+2094 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nathan Edwards",
+            "title": "I replaced Windows with Linux and everything\u2019s going great",
+            "description": "Greetings from the year of Linux on my desktop. In November, I got fed up and said screw it, I'm installing Linux. Since that article was published, I have dealt with one minor catastrophe after another. None of that has anything to do with Linux, mind you. I\u2026",
+            "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LinuxDiaryBliss.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-01-09T22:55:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLinux diary, chapter one: winging it.\r\nLinux diary, chapter one: winging it.\r\nby\r\nNathan EdwardsClose\r\nNathan Edwards\r\nPosts from this author will be added to yo\u2026 [+10243 chars]",
             "ai_score": 5
         },
         {
@@ -937,20 +965,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22363682/cfaulkner_210311_4469_0006.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
             "publishedAt": "2025-12-16T17:43:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve got the 2024 version, anyhow.\r\nIf youve got the 2024 version, anyhow.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to \u2026 [+2532 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Lori Grunin",
-            "title": "HP HyperX Omen Ups Its Game With a Cutting-Edge OLED, Leverless Controller and More",
-            "description": "There are several bright spots in HP's gaming announcements at CES 2026.",
-            "url": "https://www.cnet.com/tech/gaming/hp-hyperx-omen-ups-its-game-with-a-cutting-edge-oled-leverless-controller-and-more-ces-2026/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/bb961f11579585d39f33333e6a3c2ec296df70f7/hub/2026/01/04/3e1a449d-41b3-4597-ba0c-8d433197243b/hyperx-clutch-tachi.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-01-05T23:00:45Z",
-            "content": "HP's gaming gear for\u00a0CES 2026 doesn't bristle with jaw-dropping announcements, but there are a few that stand out, including a monitor incorporating a new Samsung V-Stripe OLED panel and a first-for-\u2026 [+2741 chars]",
             "ai_score": 5
         }
     ]
