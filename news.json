@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-01-12 10:31",
+    "last_updated": "2026-01-12 11:25",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Raymond Wong",
-            "title": "Samsung Refuses to Give Up on Glasses-Free 3D Gaming Monitors",
-            "description": "Samsung's got a whole family of new Odyssey gaming monitors, including a 32-inch 6K Odyssey 3D.",
-            "url": "https://gizmodo.com/samsung-refuses-to-give-up-on-glasses-free-3d-gaming-monitors-2000703471",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/samsung6k3d-1200x675.jpg",
-            "publishedAt": "2025-12-26T17:15:53Z",
-            "content": "You know CES is right around the corner when tech companies announce a whole bunch of new TVs and monitors. Ahead of CES 2026, Samsung has dropped details on five new Odyssey gaming monitors, each wo\u2026 [+2115 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -160,20 +146,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Sony\u2019s new \u2018Hyperpop\u2019 PS5 covers are bursting with RGB color",
-            "description": "Sony's first PlayStation announcement of 2026 is all about color. The new Hyperpop Collection includes colorful neon console covers and controllers that really add a pop of color to a PS5. There are three colors available: techno red, remix green, and rhythm \u2026",
-            "url": "https://www.theverge.com/tech/857603/sony-ps5-covers-controller-hyperpop-color-accessories",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/sonyhyperpop2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-07T16:40:01Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can pick between red, green, and blue neon PS5 covers and controllers.\r\nYou can pick between red, green, and blue neon PS5 covers and controllers.\r\nby\r\nTom W\u2026 [+2221 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "The best tech announced at CES 2026 so far",
             "description": "Ahead of the CES show floor officially opening on Tuesday, January 6th, many companies have already announced new tech, gadgets, concepts, and AI-powered upgrades that will be released over this year. Yesterday's CES Unveiled event delivered even more announc\u2026",
@@ -181,6 +153,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lg_wallpaper.jpg?quality=90&strip=all&crop=0,10.694934859369,100,78.610130281261",
             "publishedAt": "2026-01-05T14:32:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA fridge that makes grocery shopping easier, a BlackBerry-style smartphone alternative, and ultra-thin wireless TVs.\r\nA fridge that makes grocery shopping easier\u2026 [+8513 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Sony\u2019s new \u2018Hyperpop\u2019 PS5 covers are bursting with RGB color",
+            "description": "Sony's first PlayStation announcement of 2026 is all about color. The new Hyperpop Collection includes colorful neon console covers and controllers that really add a pop of color to a PS5. There are three colors available: techno red, remix green, and rhythm \u2026",
+            "url": "https://www.theverge.com/tech/857603/sony-ps5-covers-controller-hyperpop-color-accessories",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/sonyhyperpop2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-07T16:40:01Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can pick between red, green, and blue neon PS5 covers and controllers.\r\nYou can pick between red, green, and blue neon PS5 covers and controllers.\r\nby\r\nTom W\u2026 [+2221 chars]",
             "ai_score": 5
         },
         {
@@ -209,6 +195,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/selfix_case1.jpg?quality=90&strip=all&crop=0%2C10.763073960402%2C100%2C78.473852079196&w=1200",
             "publishedAt": "2025-12-17T17:00:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Selfix case has a 1.6-inch screen on the back and a microSD card slot to expand your phones storage.\r\nThe Selfix case has a 1.6-inch screen on the back and a\u2026 [+3305 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Samsung Refuses to Give Up on Glasses-Free 3D Gaming Monitors",
+            "description": "Samsung's got a whole family of new Odyssey gaming monitors, including a 32-inch 6K Odyssey 3D.",
+            "url": "https://gizmodo.com/samsung-refuses-to-give-up-on-glasses-free-3d-gaming-monitors-2000703471",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/samsung6k3d-1200x675.jpg",
+            "publishedAt": "2025-12-26T17:15:53Z",
+            "content": "You know CES is right around the corner when tech companies announce a whole bunch of new TVs and monitors. Ahead of CES 2026, Samsung has dropped details on five new Odyssey gaming monitors, each wo\u2026 [+2115 chars]",
             "ai_score": 5
         },
         {
@@ -552,20 +552,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "Will you have to show your ID at the app store?",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the action (and inaction) of lawmakers seeking to rein in tech platforms, follow Lauren Feiner. The Stepback arrives in our subscribers' inboxes at 8A\u2026",
-            "url": "https://www.theverge.com/column/859351/age-verification-app-stores",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268237_The_Stepback-_How_app_stores_became_the_new_age_verification_battleground_CVirginia5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-09T17:05:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill you have to show your ID at the app store?\r\nApp stores are gateways. Lawmakers want them to have checkpoints.\r\nby\r\nLauren FeinerClose\r\nLauren Feiner\r\nPosts \u2026 [+9071 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "Trump is recruiting Big Tech workers for the government",
             "description": "President Donald Trump will recruit workers from Amazon, Apple, Google, Meta, Microsoft, and other tech giants to form the US Tech Force, a new program that aims to \"modernize the federal government,\" according to an announcement on Monday. Under the new prog\u2026",
@@ -573,6 +559,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2025-12-15T19:18:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMonths after the administration gutted tech talent, the US Tech Force will hire around 1,000 specialists, including some from Silicon Valley behemoths.\r\nMonths a\u2026 [+3405 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Will you have to show your ID at the app store?",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the action (and inaction) of lawmakers seeking to rein in tech platforms, follow Lauren Feiner. The Stepback arrives in our subscribers' inboxes at 8A\u2026",
+            "url": "https://www.theverge.com/column/859351/age-verification-app-stores",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268237_The_Stepback-_How_app_stores_became_the_new_age_verification_battleground_CVirginia5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-09T17:05:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill you have to show your ID at the app store?\r\nApp stores are gateways. Lawmakers want them to have checkpoints.\r\nby\r\nLauren FeinerClose\r\nLauren Feiner\r\nPosts \u2026 [+9071 chars]",
             "ai_score": 5
         },
         {
