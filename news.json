@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-01-13 16:37",
+    "last_updated": "2026-01-13 17:31",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s GeForce Now is getting native Linux and Fire TV apps",
+            "description": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV d\u2026",
+            "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-06T05:22:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer Shoves All Its Wackiest Immersion Products Into a Single Gaming Chair",
+            "description": "Razer's got your back if you want spine-tingling haptics and sound.",
+            "url": "https://gizmodo.com/razer-shoves-all-its-wackiest-immersion-products-into-a-single-gaming-chair-2000705332",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Razer-Project-Madison-Chair-1-1200x675.jpg",
+            "publishedAt": "2026-01-06T14:00:07Z",
+            "content": "I want to believe in chairs. Specifically, I imagine that the ergonomic desk seat can be more than a comfy cushion for your bedraggled bum. So does Razer, as evidenced by its lingering love for shovi\u2026 [+2388 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,20 +55,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
             "publishedAt": "2025-12-28T21:42:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'Brien\r\nPo\u2026 [+2245 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s GeForce Now is getting native Linux and Fire TV apps",
-            "description": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV d\u2026",
-            "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-06T05:22:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
             "ai_score": 5
         },
         {
@@ -251,20 +265,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24446370/rainbow_six_siege_logo_header._1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-28T16:42:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHackers handed out 2 billion in-game credits to every player and unlocked all in-game items.\r\nHackers handed out 2 billion in-game credits to every player and un\u2026 [+2058 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer Shoves All Its Wackiest Immersion Products Into a Single Gaming Chair",
-            "description": "Razer's got your back if you want spine-tingling haptics and sound.",
-            "url": "https://gizmodo.com/razer-shoves-all-its-wackiest-immersion-products-into-a-single-gaming-chair-2000705332",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Razer-Project-Madison-Chair-1-1200x675.jpg",
-            "publishedAt": "2026-01-06T14:00:07Z",
-            "content": "I want to believe in chairs. Specifically, I imagine that the ergonomic desk seat can be more than a comfy cushion for your bedraggled bum. So does Razer, as evidenced by its lingering love for shovi\u2026 [+2388 chars]",
             "ai_score": 5
         },
         {
