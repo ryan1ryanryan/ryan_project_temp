@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-12 23:22",
+    "last_updated": "2026-01-13 01:49",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -885,20 +885,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Katherine Li",
-            "title": "5 ground-breaking (and strange) products you could soon buy from the 2026 Consumer Electronics Show",
-            "description": "From a lollipop that lets you taste sound to a Tamagotchi style AI pet that physically grows, here are the coolest tech you could get your hands on.",
-            "url": "https://www.businessinsider.com/ground-breaking-and-quirky-products-from-the-2026-ces-2026-1",
-            "urlToImage": "https://i.insider.com/695ec58964858d02d217f172?width=1200&format=jpeg",
-            "publishedAt": "2026-01-10T11:06:01Z",
-            "content": "Cal Sport Media/Reuters\r\n<ul><li>CES 2026 in Las Vegas showcased over 4,000 exhibitors and innovative consumer tech.</li><li>Top consumer products include an AI pet, a stair-climbing robot vacuum, an\u2026 [+5524 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -909,6 +895,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/MSI-Raider-18HX-10-1200x675.jpg",
             "publishedAt": "2025-12-19T12:30:16Z",
             "content": "Im curious about the folk with deep-pockets who dare hope to remain budget conscious, even while theyre considering a $4,000 laptop like the MSI Raider 18 HX. Will those same consumers balk at spendi\u2026 [+11547 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Li",
+            "title": "5 ground-breaking (and strange) products you could soon buy from the 2026 Consumer Electronics Show",
+            "description": "From a lollipop that lets you taste sound to a Tamagotchi style AI pet that physically grows, here are the coolest tech you could get your hands on.",
+            "url": "https://www.businessinsider.com/ground-breaking-and-quirky-products-from-the-2026-ces-2026-1",
+            "urlToImage": "https://i.insider.com/695ec58964858d02d217f172?width=1200&format=jpeg",
+            "publishedAt": "2026-01-10T11:06:01Z",
+            "content": "Cal Sport Media/Reuters\r\n<ul><li>CES 2026 in Las Vegas showcased over 4,000 exhibitors and innovative consumer tech.</li><li>Top consumer products include an AI pet, a stair-climbing robot vacuum, an\u2026 [+5524 chars]",
             "ai_score": 5
         },
         {
