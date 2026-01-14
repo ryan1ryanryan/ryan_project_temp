@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-01-14 17:31",
+    "last_updated": "2026-01-14 18:39",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Asus\u2019 Zenbook Duo dual-screen laptop gets Intel\u2019s new chip and a more seamless hinge",
-            "description": "The Asus Zenbook Duo is getting a chip upgrade, an overhauled hinge design, and a big battery upgrade for CES 2026. The new dual-screen laptop will get Intel Panther Lake when it launches later in Q1 2026, though its pricing isn't finalized. But the most noti\u2026",
-            "url": "https://www.theverge.com/news/852067/asus-zenbook-duo-dual-screen-laptop-intel-new-chip",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258167_Asus_Zenbook_Duo_laptop_CES_2026_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-06T03:34:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe two displays get much closer now for a tidier setup. Plus, its got a big-ass battery.\r\nThe two displays get much closer now for a tidier setup. Plus, its got\u2026 [+2947 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -426,20 +412,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Sony\u2019s legal battle against Tencent\u2019s Horizon \u2018clone\u2019 is already over",
-            "description": "In July, Sony sued Tencent to prevent the release of Light of Motiram, a game Sony alleged was a \"slavish clone\" of its popular Horizon series. But the legal battle is already over; the two companies have reached a \"confidential settlement\" and the case has b\u2026",
-            "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_853b741d2ebd0e13f1a735c8c934064532978e1c.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2025-12-18T04:05:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSony and Tencent have reached a confidential settlement, and Light of Motiram is no longer listed on Steam or the Epic Games Store.\r\nSony and Tencent have reache\u2026 [+3246 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "You can charge the battery in Belkin\u2019s new Switch 2 power case without opening it",
             "description": "Belkin has announced a new version of one of its first accessories for the Switch 2 at CES 2026. The Charging Case Pro for Nintendo Switch 2 carries forward the same 10,000mAh internal battery as the original, but it's been redesigned so you don't need to rem\u2026",
@@ -447,6 +419,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_switch2pro_case1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
             "publishedAt": "2026-01-02T21:17:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C port and status screen.\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C po\u2026 [+2711 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Sony\u2019s legal battle against Tencent\u2019s Horizon \u2018clone\u2019 is already over",
+            "description": "In July, Sony sued Tencent to prevent the release of Light of Motiram, a game Sony alleged was a \"slavish clone\" of its popular Horizon series. But the legal battle is already over; the two companies have reached a \"confidential settlement\" and the case has b\u2026",
+            "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_853b741d2ebd0e13f1a735c8c934064532978e1c.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-18T04:05:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSony and Tencent have reached a confidential settlement, and Light of Motiram is no longer listed on Steam or the Epic Games Store.\r\nSony and Tencent have reache\u2026 [+3246 chars]",
             "ai_score": 5
         },
         {
@@ -749,12 +735,12 @@
                 "name": "Wired"
             },
             "author": "Boone Ashworth",
-            "title": "The Gloves Are Off in the Fight for Your Right to Repair",
-            "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
-            "url": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
-            "urlToImage": "https://media.wired.com/photos/6938e2a0f93af60a9d87ce36/191:100/w_1280,c_limit/WTE-right-to-repair-2x1.jpg",
-            "publishedAt": "2025-12-25T11:00:00Z",
-            "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere\u2026 [+2998 chars]",
+            "title": "At CES 2026, Everything Is AI. What Matters Is How You Use It",
+            "description": "Integrated chatbots and built-in machine intelligence are no longer standout features in consumer tech. If companies want to win in the AI era, they\u2019ve got to hone the user experience.",
+            "url": "https://www.wired.com/story/ces-2026-what-to-expect/",
+            "urlToImage": "https://media.wired.com/photos/69497eb75e339703ac57f6f2/191:100/w_1280,c_limit/gear-ces-walkup-2192299395.jpg",
+            "publishedAt": "2026-01-05T11:00:00Z",
+            "content": "The New Years Eve champagne isnt even warm yet, and CES week is already upon us.\r\nThe giant annual celebration of consumer tech kicks off the first full week of January as companies across the world \u2026 [+2023 chars]",
             "ai_score": 5
         },
         {
@@ -763,12 +749,12 @@
                 "name": "Wired"
             },
             "author": "Boone Ashworth",
-            "title": "At CES 2026, Everything Is AI. What Matters Is How You Use It",
-            "description": "Integrated chatbots and built-in machine intelligence are no longer standout features in consumer tech. If companies want to win in the AI era, they\u2019ve got to hone the user experience.",
-            "url": "https://www.wired.com/story/ces-2026-what-to-expect/",
-            "urlToImage": "https://media.wired.com/photos/69497eb75e339703ac57f6f2/191:100/w_1280,c_limit/gear-ces-walkup-2192299395.jpg",
-            "publishedAt": "2026-01-05T11:00:00Z",
-            "content": "The New Years Eve champagne isnt even warm yet, and CES week is already upon us.\r\nThe giant annual celebration of consumer tech kicks off the first full week of January as companies across the world \u2026 [+2023 chars]",
+            "title": "The Gloves Are Off in the Fight for Your Right to Repair",
+            "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
+            "url": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
+            "urlToImage": "https://media.wired.com/photos/6938e2a0f93af60a9d87ce36/191:100/w_1280,c_limit/WTE-right-to-repair-2x1.jpg",
+            "publishedAt": "2025-12-25T11:00:00Z",
+            "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere\u2026 [+2998 chars]",
             "ai_score": 5
         },
         {
@@ -825,6 +811,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
             "publishedAt": "2026-01-05T17:01:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSnapdragon X2 Plus joins Elite and Elite Extreme.\r\nSnapdragon X2 Plus joins Elite and Elite Extreme.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this au\u2026 [+5144 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Asus\u2019 Zenbook Duo dual-screen laptop gets Intel\u2019s new chip and a more seamless hinge",
+            "description": "The Asus Zenbook Duo is getting a chip upgrade, an overhauled hinge design, and a big battery upgrade for CES 2026. The new dual-screen laptop will get Intel Panther Lake when it launches later in Q1 2026, though its pricing isn't finalized. But the most noti\u2026",
+            "url": "https://www.theverge.com/news/852067/asus-zenbook-duo-dual-screen-laptop-intel-new-chip",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258167_Asus_Zenbook_Duo_laptop_CES_2026_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-06T03:34:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe two displays get much closer now for a tidier setup. Plus, its got a big-ass battery.\r\nThe two displays get much closer now for a tidier setup. Plus, its got\u2026 [+2947 chars]",
             "ai_score": 5
         },
         {
