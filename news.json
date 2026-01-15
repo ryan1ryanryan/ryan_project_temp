@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-15 22:27",
+    "last_updated": "2026-01-15 23:26",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -633,6 +633,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode",
+            "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
+            "description": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives.",
+            "url": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
+            "urlToImage": "https://media.wired.com/photos/6965992c482e29ae79e365d8/191:100/w_1280,c_limit/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg",
+            "publishedAt": "2026-01-14T22:48:32Z",
+            "content": "Since Donald Trump returned to the White House last January, the biggest names in tech have mostly fallen in line with the new regime, attending dinners with officials, heaping praise upon the admini\u2026 [+3882 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -923,20 +937,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22363682/cfaulkner_210311_4469_0006.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
             "publishedAt": "2025-12-16T17:43:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve got the 2024 version, anyhow.\r\nIf youve got the 2024 version, anyhow.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to \u2026 [+2532 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Lori Grunin",
-            "title": "HP HyperX Omen Ups Its Game With a Cutting-Edge OLED, Leverless Controller and More",
-            "description": "There are several bright spots in HP's gaming announcements at CES 2026.",
-            "url": "https://www.cnet.com/tech/gaming/hp-hyperx-omen-ups-its-game-with-a-cutting-edge-oled-leverless-controller-and-more-ces-2026/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/bb961f11579585d39f33333e6a3c2ec296df70f7/hub/2026/01/04/3e1a449d-41b3-4597-ba0c-8d433197243b/hyperx-clutch-tachi.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-01-05T23:00:45Z",
-            "content": "HP's gaming gear for\u00a0CES 2026 doesn't bristle with jaw-dropping announcements, but there are a few that stand out, including a monitor incorporating a new Samsung V-Stripe OLED panel and a first-for-\u2026 [+2741 chars]",
             "ai_score": 5
         }
     ]
