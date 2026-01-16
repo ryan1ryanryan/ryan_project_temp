@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-16 17:29",
+    "last_updated": "2026-01-16 18:38",
     "articles": [
         {
             "source": {
@@ -412,6 +412,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Ash Parrish",
+            "title": "In 2025, AI became a lightning rod for gamers and developers",
+            "description": "2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game studios claim it's being implemented everywhere in the industr\u2026",
+            "url": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_AI_GAMING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-12-22T21:30:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nby\r\nAsh P\u2026 [+7949 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Andrew Liszewski",
             "title": "You can charge the battery in Belkin\u2019s new Switch 2 power case without opening it",
             "description": "Belkin has announced a new version of one of its first accessories for the Switch 2 at CES 2026. The Charging Case Pro for Nintendo Switch 2 carries forward the same 10,000mAh internal battery as the original, but it's been redesigned so you don't need to rem\u2026",
@@ -447,20 +461,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego_pokemon_1.jpg?quality=90&strip=all&crop=0%2C10.724423792713%2C100%2C78.551152414575&w=1200",
             "publishedAt": "2026-01-12T15:58:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPikachu, Eevee, Charizard, Blastoise, and Venusaur are featured in the new sets that will be available on February 27th.\r\nPikachu, Eevee, Charizard, Blastoise, a\u2026 [+3597 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Ash Parrish",
-            "title": "In 2025, AI became a lightning rod for gamers and developers",
-            "description": "2025 was the year generative AI made its presence felt in the video game industry. Its use has been discovered in some of the most popular games of the year, and CEOs from some of the largest game studios claim it's being implemented everywhere in the industr\u2026",
-            "url": "https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_AI_GAMING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-22T21:30:32Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nGen-AI showed up in the years biggest releases including game of the year.\r\nby\r\nAsh P\u2026 [+7949 chars]",
             "ai_score": 5
         },
         {
@@ -622,20 +622,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Reece Rogers",
-            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
-            "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
-            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
-            "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
-            "publishedAt": "2025-12-23T11:30:00Z",
-            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Lily Hay Newman",
             "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
             "description": "The longtime cybersecurity professional says she\u2019s taking the helm of the legacy security organization at \u201can inflection point\u201d for tech and the world beyond.",
@@ -643,6 +629,20 @@
             "urlToImage": "https://media.wired.com/photos/6966cad4128328ffe04a0763/191:100/w_1280,c_limit/Former-CISA-Director-Will-Lead-RSA-Conference-Security-1975568782.jpg",
             "publishedAt": "2026-01-15T13:00:00Z",
             "content": "Jen Easterly, a longtime public- and private-sector cybersecurity practitioner who led the US Cybersecurity and Infrastructure Security Agency for more than three years, has been appointed CEO of RSA\u2026 [+3519 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
+            "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
+            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
+            "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
+            "publishedAt": "2025-12-23T11:30:00Z",
+            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
             "ai_score": 5
         },
         {
