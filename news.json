@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-16 21:26",
+    "last_updated": "2026-01-16 22:26",
     "articles": [
         {
             "source": {
@@ -661,6 +661,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Asus says it\u2019s dropping the RTX 5070 Ti as the memory shortage squeezes supply",
+            "description": "On Thursday, Hardware Unboxed reported that Asus is winding down production of its RTX 5070 Ti, saying, Asus \"explicitly told us this model is currently facing a supply shortage and, as such, they have placed the model into end-of-life status.\" They added tha\u2026",
+            "url": "https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257586_Nvidia_RTX_5070_TWarren_0006.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+            "publishedAt": "2026-01-15T22:06:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is hitting cheaper versions of 50-series GPUs, but Nvidia says it hasnt stopped making them.\r\nThe RAM shortage is hitting cheaper versions of 50\u2026 [+3442 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -913,6 +927,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Pebble\u2019s Plans for Circular Smartwatches Could Bring Me Back to Wearables",
+            "description": "The Pebble Round 2 and Index 01 are reminders of when tech didn't take itself 'too seriously.'",
+            "url": "https://gizmodo.com/pebbles-plans-for-circular-smartwatches-could-bring-me-back-to-wearables-2000710823",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Pebble-Round-2-3-1-1200x675.jpg",
+            "publishedAt": "2026-01-15T22:15:55Z",
+            "content": "If history is as cyclical as the Buddhists and Cynics would want us to believe, then the return of the Pebble smartwatch was inevitable. I\u2019ve largely eschewed any smartwatches in my daily life, mostl\u2026 [+5075 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -937,34 +965,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/bb961f11579585d39f33333e6a3c2ec296df70f7/hub/2026/01/04/3e1a449d-41b3-4597-ba0c-8d433197243b/hyperx-clutch-tachi.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-01-05T23:00:45Z",
             "content": "HP's gaming gear for\u00a0CES 2026 doesn't bristle with jaw-dropping announcements, but there are a few that stand out, including a monitor incorporating a new Samsung V-Stripe OLED panel and a first-for-\u2026 [+2741 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "We\u2019re Already Getting Our First Gaming Price Hike Of 2026",
-            "description": "Asus warned partners that devices like the Xbox Ally X could be getting more expensive\nThe post We\u2019re Already Getting Our First Gaming Price Hike Of 2026 appeared first on Kotaku.",
-            "url": "https://kotaku.com/asus-rog-ally-price-increase-nvidia-amd-ai-ps6-delay-2000656448",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/06/ccfabc089c1ea64775fc0fb7bb8d7dd0-1200x675.jpg",
-            "publishedAt": "2026-01-02T17:25:18Z",
-            "content": "Asus has cracked the seal on price hikes just ahead of CES 2026. The electronics maker, which is responsible for a range of PC gaming hardware including the already $1,000 ROG Xbox Ally X, warned par\u2026 [+2594 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Oh, the Irony: Microsoft\u2019s Push for Copilot+ PCs Could Stall Laptop Sales",
-            "description": "Windows users can't go back to 8GB of RAM, but laptop makers may not have a choice.",
-            "url": "https://gizmodo.com/microsofts-push-for-copilot-plus-pcs-could-stall-laptop-sales-2000701505",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Asus-Zenbook-2025-1-1200x675.jpg",
-            "publishedAt": "2025-12-18T22:18:19Z",
-            "content": "If we turn the clocks back a year and a half, Microsofts leadership stood on stage and pronounced a new era of computing was upon us. They were right, though it\u2019s not in a way anybody but AI evangeli\u2026 [+7035 chars]",
             "ai_score": 5
         }
     ]
