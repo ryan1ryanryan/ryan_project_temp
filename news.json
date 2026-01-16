@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-16 12:51",
+    "last_updated": "2026-01-16 13:42",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -615,6 +615,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/yir-ninjas-1200x675.jpg",
             "publishedAt": "2025-12-29T17:30:12Z",
             "content": "We all think ninjas are pretty cool, right? Despite how popular they are in other mediums, it\u2019s felt like they\u2019ve gradually become less of a presence as video game protagonists in favor of soldiers, \u2026 [+4295 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
+            "description": "The longtime cybersecurity professional says she\u2019s taking the helm of the legacy security organization at \u201can inflection point\u201d for tech and the world beyond.",
+            "url": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
+            "urlToImage": "https://media.wired.com/photos/6966cad4128328ffe04a0763/191:100/w_1280,c_limit/Former-CISA-Director-Will-Lead-RSA-Conference-Security-1975568782.jpg",
+            "publishedAt": "2026-01-15T13:00:00Z",
+            "content": "Jen Easterly, a longtime public- and private-sector cybersecurity practitioner who led the US Cybersecurity and Infrastructure Security Agency for more than three years, has been appointed CEO of RSA\u2026 [+3519 chars]",
             "ai_score": 5
         },
         {
