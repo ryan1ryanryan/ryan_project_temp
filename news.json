@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-16 23:25",
+    "last_updated": "2026-01-17 01:47",
     "articles": [
         {
             "source": {
@@ -13,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Ubisoft shuts down \u2018Rainbow Six Siege\u2019 servers following hack",
+            "description": "Yesterday, Ubisoft confirmed that Rainbow Six Siege had been compromised and that it had shut down the game's servers and marketplace while it resolved the issue. The hackers managed to gain control over a significant chunk of the game's systems, including th\u2026",
+            "url": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24446370/rainbow_six_siege_logo_header._1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-28T16:42:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHackers handed out 2 billion in-game credits to every player and unlocked all in-game items.\r\nHackers handed out 2 billion in-game credits to every player and un\u2026 [+2058 chars]",
             "ai_score": 8
         },
         {
@@ -251,20 +265,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/forzahorizon6.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-01-14T15:17:34Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA May 19th release date has appeared inside a Forza Horizon 5 notification.\r\nA May 19th release date has appeared inside a Forza Horizon 5 notification.\r\nby\r\nTom\u2026 [+2342 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Ubisoft shuts down \u2018Rainbow Six Siege\u2019 servers following hack",
-            "description": "Yesterday, Ubisoft confirmed that Rainbow Six Siege had been compromised and that it had shut down the game's servers and marketplace while it resolved the issue. The hackers managed to gain control over a significant chunk of the game's systems, including th\u2026",
-            "url": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24446370/rainbow_six_siege_logo_header._1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2025-12-28T16:42:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHackers handed out 2 billion in-game credits to every player and unlocked all in-game items.\r\nHackers handed out 2 billion in-game credits to every player and un\u2026 [+2058 chars]",
             "ai_score": 5
         },
         {
@@ -608,20 +608,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Reece Rogers",
-            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
-            "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
-            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
-            "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
-            "publishedAt": "2025-12-23T11:30:00Z",
-            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Lily Hay Newman",
             "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
             "description": "The longtime cybersecurity professional says she\u2019s taking the helm of the legacy security organization at \u201can inflection point\u201d for tech and the world beyond.",
@@ -629,6 +615,20 @@
             "urlToImage": "https://media.wired.com/photos/6966cad4128328ffe04a0763/191:100/w_1280,c_limit/Former-CISA-Director-Will-Lead-RSA-Conference-Security-1975568782.jpg",
             "publishedAt": "2026-01-15T13:00:00Z",
             "content": "Jen Easterly, a longtime public- and private-sector cybersecurity practitioner who led the US Cybersecurity and Infrastructure Security Agency for more than three years, has been appointed CEO of RSA\u2026 [+3519 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
+            "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
+            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
+            "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
+            "publishedAt": "2025-12-23T11:30:00Z",
+            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
             "ai_score": 5
         },
         {
