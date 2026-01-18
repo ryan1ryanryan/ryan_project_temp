@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-18 22:25",
+    "last_updated": "2026-01-18 23:24",
     "articles": [
         {
             "source": {
@@ -734,6 +734,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Parker Hall",
+            "title": "The Inevitable Rise of the Art TV",
+            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
+            "url": "https://www.wired.com/story/art-frame-tv-trends/",
+            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
+            "publishedAt": "2026-01-06T20:41:46Z",
+            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Boone Ashworth",
             "title": "At CES 2026, Everything Is AI. What Matters Is How You Use It",
             "description": "Integrated chatbots and built-in machine intelligence are no longer standout features in consumer tech. If companies want to win in the AI era, they\u2019ve got to hone the user experience.",
@@ -755,20 +769,6 @@
             "urlToImage": "https://media.wired.com/photos/6938e2a0f93af60a9d87ce36/191:100/w_1280,c_limit/WTE-right-to-repair-2x1.jpg",
             "publishedAt": "2025-12-25T11:00:00Z",
             "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere\u2026 [+2998 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Parker Hall",
-            "title": "The Inevitable Rise of the Art TV",
-            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
-            "url": "https://www.wired.com/story/art-frame-tv-trends/",
-            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
-            "publishedAt": "2026-01-06T20:41:46Z",
-            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
             "ai_score": 5
         },
         {
