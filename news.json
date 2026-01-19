@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-19 17:28",
+    "last_updated": "2026-01-19 18:38",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -941,20 +941,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "California Could Get a 4-Year Ban on Toys With AI Chatbots",
-            "description": "\"Our children cannot be used as lab rats for Big Tech to experiment on,\" said the state senator who introduced new legislation around AI toys.",
-            "url": "https://gizmodo.com/california-could-get-a-4-year-ban-on-toys-with-ai-chatbots-2000706416",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/teddy_bear_AI-1200x675.jpg",
-            "publishedAt": "2026-01-07T00:13:12Z",
-            "content": "California state senator Steve Padilla, a Democrat from San Diego, introduced a bill in the California State Assembly on Monday that would place a 4-year moratorium on the sale of toys with artificia\u2026 [+3082 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -965,6 +951,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/fortnite-sidekicks.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-01-08T15:23:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe top-played games on Xbox and PS5 were the same in 2024 and 2025 and likely wont change much in the near future.\r\nThe top-played games on Xbox and PS5 were th\u2026 [+5291 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "California Could Get a 4-Year Ban on Toys With AI Chatbots",
+            "description": "\"Our children cannot be used as lab rats for Big Tech to experiment on,\" said the state senator who introduced new legislation around AI toys.",
+            "url": "https://gizmodo.com/california-could-get-a-4-year-ban-on-toys-with-ai-chatbots-2000706416",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/teddy_bear_AI-1200x675.jpg",
+            "publishedAt": "2026-01-07T00:13:12Z",
+            "content": "California state senator Steve Padilla, a Democrat from San Diego, introduced a bill in the California State Assembly on Monday that would place a 4-year moratorium on the sale of toys with artificia\u2026 [+3082 chars]",
             "ai_score": 5
         }
     ]
