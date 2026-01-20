@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-01-20 10:33",
+    "last_updated": "2026-01-20 11:29",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Audeze upgrades its Maxwell gaming headset with magnetic ear pads",
-            "description": "Audeze - the headphone-maker now owned by Sony - announced a refreshed version of its Maxwell gaming headset at CES on Monday, offering roomier ear pads that attach magnetically for easy replacement. The Maxwell 2 for PlayStation is available now for $329, wh\u2026",
-            "url": "https://www.theverge.com/news/851457/audeze-maxwell-2-gaming-headset-sony-ces-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
-            "publishedAt": "2026-01-02T13:28:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
             "publishedAt": "2025-12-28T21:42:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'Brien\r\nPo\u2026 [+2245 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Audeze upgrades its Maxwell gaming headset with magnetic ear pads",
+            "description": "Audeze - the headphone-maker now owned by Sony - announced a refreshed version of its Maxwell gaming headset at CES on Monday, offering roomier ear pads that attach magnetically for easy replacement. The Maxwell 2 for PlayStation is available now for $329, wh\u2026",
+            "url": "https://www.theverge.com/news/851457/audeze-maxwell-2-gaming-headset-sony-ces-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
+            "publishedAt": "2026-01-02T13:28:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
             "ai_score": 5
         },
         {
@@ -181,20 +181,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/legion-go-2-steam-os-2.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-01-06T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts set to launch in June.\r\nIts set to launch in June.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to your daily email digest \u2026 [+3398 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Micron says memory shortage will \u2018persist\u2019 beyond 2026",
-            "description": "Micron, one of the three biggest memory suppliers in the world, forecasts rough months ahead for the global RAM supply. As part of its earnings report released on Wednesday, Micron CEO Sanjay Mehrotra said \"tight industry conditions\" across DRAM and NAND flas\u2026",
-            "url": "https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2025-12-18T15:14:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSupply will remain substantially short of the demand for the foreseeable future.\r\nSupply will remain substantially short of the demand for the foreseeable future\u2026 [+3048 chars]",
             "ai_score": 5
         },
         {
@@ -913,20 +899,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Oh, the Irony: Microsoft\u2019s Push for Copilot+ PCs Could Stall Laptop Sales",
-            "description": "Windows users can't go back to 8GB of RAM, but laptop makers may not have a choice.",
-            "url": "https://gizmodo.com/microsofts-push-for-copilot-plus-pcs-could-stall-laptop-sales-2000701505",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Asus-Zenbook-2025-1-1200x675.jpg",
-            "publishedAt": "2025-12-18T22:18:19Z",
-            "content": "If we turn the clocks back a year and a half, Microsofts leadership stood on stage and pronounced a new era of computing was upon us. They were right, though it\u2019s not in a way anybody but AI evangeli\u2026 [+7035 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -965,6 +937,34 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/11/teddy_bear_AI-1200x675.jpg",
             "publishedAt": "2026-01-07T00:13:12Z",
             "content": "California state senator Steve Padilla, a Democrat from San Diego, introduced a bill in the California State Assembly on Monday that would place a 4-year moratorium on the sale of toys with artificia\u2026 [+3082 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hilary Brueck",
+            "title": "Creatine, ADHD video games: The quest for a better brain is turning into a gold rush",
+            "description": "Americans love trying to upgrade their brains \u2014 one scoop, zap, or gaming session at a time",
+            "url": "https://www.businessinsider.com/americas-obsession-paying-to-get-smarter-brain-hacking-adhd-alzheimers-2026-1",
+            "urlToImage": "https://i.insider.com/696582fd04eda4732f2ef0f0?width=1200&format=jpeg",
+            "publishedAt": "2026-01-13T09:03:01Z",
+            "content": "At this point, you've probably at least thought about dropping a few scoops of creatine into your morning smoothie. An amino acid compound that promotes energy production in brain and muscle cells, i\u2026 [+7484 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "CES 2026 Really Wants You to Own a Holographic Anime Girlfriend",
+            "description": "Mark this convention down as the Year of the Waifu.",
+            "url": "https://gizmodo.com/ces-2026-really-wants-you-to-own-a-holographic-anime-girlfriend-2000707138",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/AI-girfriend-1200x675.jpg",
+            "publishedAt": "2026-01-08T01:10:58Z",
+            "content": "If you had \u201cholographic anime girlfriends\u201d on your CES 2026 bingo card, congratulations; you are both unhinged and\u00a0correct. I personally did not see this trend coming, but after walking the show floo\u2026 [+2559 chars]",
             "ai_score": 5
         }
     ]
