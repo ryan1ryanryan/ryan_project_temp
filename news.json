@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-21 01:56",
+    "last_updated": "2026-01-21 03:49",
     "articles": [
         {
             "source": {
@@ -20,20 +20,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s GeForce Now is getting native Linux and Fire TV apps",
-            "description": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV d\u2026",
-            "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-06T05:22:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "LG announces new UltraGear evo gaming monitors with AI upscaling",
             "description": "LG unveiled a whole new line of gaming monitors ahead of CES on Friday. The UltraGear evo line are all high-end monitors covering a range of technologies, but united by 5K resolution and AI upscaling. The three flagships under the new branding are the 39GX950\u2026",
@@ -41,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
             "publishedAt": "2025-12-28T21:42:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'Brien\r\nPo\u2026 [+2245 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s GeForce Now is getting native Linux and Fire TV apps",
+            "description": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV d\u2026",
+            "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-06T05:22:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
             "ai_score": 5
         },
         {
@@ -707,12 +707,12 @@
                 "name": "Wired"
             },
             "author": "Boone Ashworth",
-            "title": "The Gloves Are Off in the Fight for Your Right to Repair",
-            "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
-            "url": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
-            "urlToImage": "https://media.wired.com/photos/6938e2a0f93af60a9d87ce36/191:100/w_1280,c_limit/WTE-right-to-repair-2x1.jpg",
-            "publishedAt": "2025-12-25T11:00:00Z",
-            "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere\u2026 [+2998 chars]",
+            "title": "At CES 2026, Everything Is AI. What Matters Is How You Use It",
+            "description": "Integrated chatbots and built-in machine intelligence are no longer standout features in consumer tech. If companies want to win in the AI era, they\u2019ve got to hone the user experience.",
+            "url": "https://www.wired.com/story/ces-2026-what-to-expect/",
+            "urlToImage": "https://media.wired.com/photos/69497eb75e339703ac57f6f2/191:100/w_1280,c_limit/gear-ces-walkup-2192299395.jpg",
+            "publishedAt": "2026-01-05T11:00:00Z",
+            "content": "The New Years Eve champagne isnt even warm yet, and CES week is already upon us.\r\nThe giant annual celebration of consumer tech kicks off the first full week of January as companies across the world \u2026 [+2023 chars]",
             "ai_score": 5
         },
         {
@@ -721,12 +721,12 @@
                 "name": "Wired"
             },
             "author": "Boone Ashworth",
-            "title": "At CES 2026, Everything Is AI. What Matters Is How You Use It",
-            "description": "Integrated chatbots and built-in machine intelligence are no longer standout features in consumer tech. If companies want to win in the AI era, they\u2019ve got to hone the user experience.",
-            "url": "https://www.wired.com/story/ces-2026-what-to-expect/",
-            "urlToImage": "https://media.wired.com/photos/69497eb75e339703ac57f6f2/191:100/w_1280,c_limit/gear-ces-walkup-2192299395.jpg",
-            "publishedAt": "2026-01-05T11:00:00Z",
-            "content": "The New Years Eve champagne isnt even warm yet, and CES week is already upon us.\r\nThe giant annual celebration of consumer tech kicks off the first full week of January as companies across the world \u2026 [+2023 chars]",
+            "title": "The Gloves Are Off in the Fight for Your Right to Repair",
+            "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
+            "url": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
+            "urlToImage": "https://media.wired.com/photos/6938e2a0f93af60a9d87ce36/191:100/w_1280,c_limit/WTE-right-to-repair-2x1.jpg",
+            "publishedAt": "2025-12-25T11:00:00Z",
+            "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere\u2026 [+2998 chars]",
             "ai_score": 5
         },
         {
@@ -804,20 +804,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "Few pairs of budget earbuds deliver like Nothing\u2019s Ear (a), which are down to $59",
-            "description": "The new year has brought a wave of deals on wireless earbuds and headphones, from the fitness-focused Beats Powerbeats Fit to the open-ear Shokz OpenRun Pro. Now, Nothing has joined in with a sale of its own, offering the Nothing Headphone (1), CMF Headphone \u2026",
-            "url": "https://www.theverge.com/gadgets/858740/nothing-ear-a-wireless-earbuds-cmf-headphone-pro-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406202/DSCF6918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-08T19:05:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe stylish earbuds are packed with features, including active noise cancellation and multipoint Bluetooth support.\r\nThe stylish earbuds are packed with features\u2026 [+3178 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Antonio G. Di Benedetto",
             "title": "Asus\u2019 Zenbook Duo dual-screen laptop gets Intel\u2019s new chip and a more seamless hinge",
             "description": "The Asus Zenbook Duo is getting a chip upgrade, an overhauled hinge design, and a big battery upgrade for CES 2026. The new dual-screen laptop will get Intel Panther Lake when it launches later in Q1 2026, though its pricing isn't finalized. But the most noti\u2026",
@@ -825,6 +811,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258167_Asus_Zenbook_Duo_laptop_CES_2026_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-06T03:34:28Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe two displays get much closer now for a tidier setup. Plus, its got a big-ass battery.\r\nThe two displays get much closer now for a tidier setup. Plus, its got\u2026 [+2947 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Few pairs of budget earbuds deliver like Nothing\u2019s Ear (a), which are down to $59",
+            "description": "The new year has brought a wave of deals on wireless earbuds and headphones, from the fitness-focused Beats Powerbeats Fit to the open-ear Shokz OpenRun Pro. Now, Nothing has joined in with a sale of its own, offering the Nothing Headphone (1), CMF Headphone \u2026",
+            "url": "https://www.theverge.com/gadgets/858740/nothing-ear-a-wireless-earbuds-cmf-headphone-pro-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406202/DSCF6918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-08T19:05:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe stylish earbuds are packed with features, including active noise cancellation and multipoint Bluetooth support.\r\nThe stylish earbuds are packed with features\u2026 [+3178 chars]",
             "ai_score": 5
         },
         {
@@ -972,13 +972,13 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "James Pero",
-            "title": "CES 2026 Really Wants You to Own a Holographic Anime Girlfriend",
-            "description": "Mark this convention down as the Year of the Waifu.",
-            "url": "https://gizmodo.com/ces-2026-really-wants-you-to-own-a-holographic-anime-girlfriend-2000707138",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/AI-girfriend-1200x675.jpg",
-            "publishedAt": "2026-01-08T01:10:58Z",
-            "content": "If you had \u201cholographic anime girlfriends\u201d on your CES 2026 bingo card, congratulations; you are both unhinged and\u00a0correct. I personally did not see this trend coming, but after walking the show floo\u2026 [+2559 chars]",
+            "author": "Sasha Lekach",
+            "title": "Sony Honda Mobility Still Needs to Deliver Its Game-Filled Afeela 1 EV, but Here\u2019s a New Concept Car",
+            "description": "Sony Honda Mobility introduced the Afeela Prototype 2026 at CES as a larger crossover EV.",
+            "url": "https://gizmodo.com/sony-honda-mobility-still-needs-to-deliver-its-game-filled-afeela-1-ev-but-heres-a-new-concept-car-2000706776",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Prototype-SHM-Official-1200x675.jpeg",
+            "publishedAt": "2026-01-07T16:50:09Z",
+            "content": "Sony Honda Mobility\u2019s first collab car, the Afeela 1, still hasn\u2019t hit the road yet, but the Japanese company is already moving on to its next electric vehicle.\r\nAt a CES event in Las Vegas this week\u2026 [+3485 chars]",
             "ai_score": 5
         }
     ]
