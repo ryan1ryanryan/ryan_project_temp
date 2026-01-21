@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-20 23:28",
+    "last_updated": "2026-01-21 01:56",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "LG announces new UltraGear evo gaming monitors with AI upscaling",
-            "description": "LG unveiled a whole new line of gaming monitors ahead of CES on Friday. The UltraGear evo line are all high-end monitors covering a range of technologies, but united by 5K resolution and AI upscaling. The three flagships under the new branding are the 39GX950\u2026",
-            "url": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
-            "publishedAt": "2025-12-28T21:42:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'Brien\r\nPo\u2026 [+2245 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-06T05:22:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "LG announces new UltraGear evo gaming monitors with AI upscaling",
+            "description": "LG unveiled a whole new line of gaming monitors ahead of CES on Friday. The UltraGear evo line are all high-end monitors covering a range of technologies, but united by 5K resolution and AI upscaling. The three flagships under the new branding are the 39GX950\u2026",
+            "url": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
+            "publishedAt": "2025-12-28T21:42:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'Brien\r\nPo\u2026 [+2245 chars]",
             "ai_score": 5
         },
         {
@@ -552,20 +552,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Reece Rogers",
-            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
-            "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
-            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
-            "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
-            "publishedAt": "2025-12-23T11:30:00Z",
-            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Lily Hay Newman",
             "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
             "description": "The longtime cybersecurity professional says she\u2019s taking the helm of the legacy security organization at \u201can inflection point\u201d for tech and the world beyond.",
@@ -573,6 +559,20 @@
             "urlToImage": "https://media.wired.com/photos/6966cad4128328ffe04a0763/191:100/w_1280,c_limit/Former-CISA-Director-Will-Lead-RSA-Conference-Security-1975568782.jpg",
             "publishedAt": "2026-01-15T13:00:00Z",
             "content": "Jen Easterly, a longtime public- and private-sector cybersecurity practitioner who led the US Cybersecurity and Infrastructure Security Agency for more than three years, has been appointed CEO of RSA\u2026 [+3519 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
+            "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
+            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
+            "urlToImage": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
+            "publishedAt": "2025-12-23T11:30:00Z",
+            "content": "Some users of popular chatbots are generating bikini deepfakes using photos of fully clothed women as their source material. Most of these fake images appear to be generated without the consent of th\u2026 [+2457 chars]",
             "ai_score": 5
         },
         {
