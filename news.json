@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-21 20:36",
+    "last_updated": "2026-01-21 21:33",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -27,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
             "publishedAt": "2025-12-28T21:42:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'Brien\r\nPo\u2026 [+2245 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -993,6 +993,20 @@
             "urlToImage": "https://media.wired.com/photos/69690ee78f59220ea2e720b9/191:100/w_1280,c_limit/sci-openai-2220468498.jpg",
             "publishedAt": "2026-01-15T18:24:51Z",
             "content": "On Thursday, OpenAI announced its investment in neurotech startup Merge Labs, cofounded by its CEO, billionaire Sam Altman. OpenAI will collaborate with the new venture to develop technology to link \u2026 [+3426 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "WIRED",
+            "title": "CES Live Blog, Day 1: The Coolest Tech We\u2019ve Seen So Far",
+            "description": "Read our live updates from CES 2026 in Las Vegas to see the latest consumer gadgetry in all of its chatbot-enabled, sensor-packed, AI-infused glory.",
+            "url": "https://www.wired.com/live/ces-2026-live-blog/",
+            "urlToImage": "https://media.wired.com/photos/695815a2496107b97439da0f/191:100/w_1280,c_limit/CES-Live-Blog-Gear-2192471190.jpg",
+            "publishedAt": "2026-01-05T11:00:00Z",
+            "content": "Good morning and welcome to WIRED's CES 2026 live blog. We're here on the ground in Las Vegas, Nevada, to bring you all of the latest news, hands-on reports, photos, and videos from the biggest show \u2026 [+978 chars]",
             "ai_score": 5
         }
     ]
