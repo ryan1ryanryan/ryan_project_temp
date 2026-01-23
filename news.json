@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-01-23 04:48",
+    "last_updated": "2026-01-23 05:33",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer Shoves All Its Wackiest Immersion Products Into a Single Gaming Chair",
-            "description": "Razer's got your back if you want spine-tingling haptics and sound.",
-            "url": "https://gizmodo.com/razer-shoves-all-its-wackiest-immersion-products-into-a-single-gaming-chair-2000705332",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Razer-Project-Madison-Chair-1-1200x675.jpg",
-            "publishedAt": "2026-01-06T14:00:07Z",
-            "content": "I want to believe in chairs. Specifically, I imagine that the ergonomic desk seat can be more than a comfy cushion for your bedraggled bum. So does Razer, as evidenced by its lingering love for shovi\u2026 [+2388 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -237,6 +223,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24446370/rainbow_six_siege_logo_header._1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2025-12-28T16:42:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHackers handed out 2 billion in-game credits to every player and unlocked all in-game items.\r\nHackers handed out 2 billion in-game credits to every player and un\u2026 [+2058 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer Shoves All Its Wackiest Immersion Products Into a Single Gaming Chair",
+            "description": "Razer's got your back if you want spine-tingling haptics and sound.",
+            "url": "https://gizmodo.com/razer-shoves-all-its-wackiest-immersion-products-into-a-single-gaming-chair-2000705332",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Razer-Project-Madison-Chair-1-1200x675.jpg",
+            "publishedAt": "2026-01-06T14:00:07Z",
+            "content": "I want to believe in chairs. Specifically, I imagine that the ergonomic desk seat can be more than a comfy cushion for your bedraggled bum. So does Razer, as evidenced by its lingering love for shovi\u2026 [+2388 chars]",
             "ai_score": 5
         },
         {
