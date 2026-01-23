@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-01-23 19:29",
+    "last_updated": "2026-01-23 20:32",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Asus\u2019 Latest Gaming Laptop Is Twice the Machine With Twice the Screen",
-            "description": "The new ROG Zephyrus packs an incredible amount of screen for a 16-inch laptop.",
-            "url": "https://gizmodo.com/asus-latest-gaming-laptop-is-twice-the-machine-with-twice-the-screen-2000704080",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Asus-ROG-Zephyrus-Duo-1-1200x675.jpg",
-            "publishedAt": "2026-01-06T00:00:21Z",
-            "content": "Asus decided its not giving up on a mobile gaming machine with more than one screen. At CES 2026, the company announced a new version of the ROG Zephyrus Duo that doubles the amount of 16-inch screen\u2026 [+2871 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -335,6 +321,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/HP-HyperX-16-Max-2-1200x675.jpg",
             "publishedAt": "2026-01-05T23:00:18Z",
             "content": "HP seemed to think there wasnt enough H and P in its gaming product lineup. Our old friends Hewlett and Packard are now combining their entire gaming lineupaccessories, peripherals, and PCsinto one. \u2026 [+2905 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Asus\u2019 Latest Gaming Laptop Is Twice the Machine With Twice the Screen",
+            "description": "The new ROG Zephyrus packs an incredible amount of screen for a 16-inch laptop.",
+            "url": "https://gizmodo.com/asus-latest-gaming-laptop-is-twice-the-machine-with-twice-the-screen-2000704080",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Asus-ROG-Zephyrus-Duo-1-1200x675.jpg",
+            "publishedAt": "2026-01-06T00:00:21Z",
+            "content": "Asus decided its not giving up on a mobile gaming machine with more than one screen. At CES 2026, the company announced a new version of the ROG Zephyrus Duo that doubles the amount of 16-inch screen\u2026 [+2871 chars]",
             "ai_score": 5
         },
         {
