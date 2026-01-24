@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-24 07:25",
+    "last_updated": "2026-01-24 08:34",
     "articles": [
         {
             "source": {
@@ -27,7 +27,77 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
             "publishedAt": "2025-12-28T21:42:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nEven your gaming monitor isnt safe from the buzz of AI.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'Brien\r\nPo\u2026 [+2245 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Ubisoft shuts down \u2018Rainbow Six Siege\u2019 servers following hack",
+            "description": "Yesterday, Ubisoft confirmed that Rainbow Six Siege had been compromised and that it had shut down the game's servers and marketplace while it resolved the issue. The hackers managed to gain control over a significant chunk of the game's systems, including th\u2026",
+            "url": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24446370/rainbow_six_siege_logo_header._1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2025-12-28T16:42:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHackers handed out 2 billion in-game credits to every player and unlocked all in-game items.\r\nHackers handed out 2 billion in-game credits to every player and un\u2026 [+2058 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer Shoves All Its Wackiest Immersion Products Into a Single Gaming Chair",
+            "description": "Razer's got your back if you want spine-tingling haptics and sound.",
+            "url": "https://gizmodo.com/razer-shoves-all-its-wackiest-immersion-products-into-a-single-gaming-chair-2000705332",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Razer-Project-Madison-Chair-1-1200x675.jpg",
+            "publishedAt": "2026-01-06T14:00:07Z",
+            "content": "I want to believe in chairs. Specifically, I imagine that the ergonomic desk seat can be more than a comfy cushion for your bedraggled bum. So does Razer, as evidenced by its lingering love for shovi\u2026 [+2388 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "8BitDo\u2019s new wireless Xbox controller has swappable ABXY button switches",
+            "description": "8BitDo's second officially licensed wireless Xbox controller is also its most expensive gamepad to date. The 8BitDo Ultimate 3E Controller for Xbox follows last August's Ultimate 3-mode Controller for Xbox - Rare 40th Anniversary Edition with some excellent u\u2026",
+            "url": "https://www.theverge.com/tech/848331/8bitdo-ultimate-3e-controller-xbox-wireless-tmr-swappable-joysticks",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/8bitdo_xbox6.jpg?quality=90&strip=all&crop=0%2C10.750252110127%2C100%2C78.499495779746&w=1200",
+            "publishedAt": "2026-01-02T21:16:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can also change the joysticks and D-pad on this extremely customizable controller launching later this year.\r\nYou can also change the joysticks and D-pad on \u2026 [+3696 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Asus\u2019 Latest Gaming Laptop Is Twice the Machine With Twice the Screen",
+            "description": "The new ROG Zephyrus packs an incredible amount of screen for a 16-inch laptop.",
+            "url": "https://gizmodo.com/asus-latest-gaming-laptop-is-twice-the-machine-with-twice-the-screen-2000704080",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Asus-ROG-Zephyrus-Duo-1-1200x675.jpg",
+            "publishedAt": "2026-01-06T00:00:21Z",
+            "content": "Asus decided its not giving up on a mobile gaming machine with more than one screen. At CES 2026, the company announced a new version of the ROG Zephyrus Duo that doubles the amount of 16-inch screen\u2026 [+2871 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Intel\u2019s New Chips Promise Power and Battery Life in Equal Measure",
+            "description": "Here are all the details on the Intel Core Ultra Series 3 that you\u2019ll find in practically every laptop this year.",
+            "url": "https://gizmodo.com/intels-new-chips-promise-power-and-battery-life-in-equal-measure-2000705890",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/ces2026-laptop-display3-v2-1200x675.jpg",
+            "publishedAt": "2026-01-06T00:30:35Z",
+            "content": "You already know everything you need to about whats happening inside Intels latest laptop chips. Intel Core Ultra Series 3, aka Panther Lake, promises to offer strong performance plus a solid battery\u2026 [+2094 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -213,48 +283,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Ubisoft shuts down \u2018Rainbow Six Siege\u2019 servers following hack",
-            "description": "Yesterday, Ubisoft confirmed that Rainbow Six Siege had been compromised and that it had shut down the game's servers and marketplace while it resolved the issue. The hackers managed to gain control over a significant chunk of the game's systems, including th\u2026",
-            "url": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24446370/rainbow_six_siege_logo_header._1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2025-12-28T16:42:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHackers handed out 2 billion in-game credits to every player and unlocked all in-game items.\r\nHackers handed out 2 billion in-game credits to every player and un\u2026 [+2058 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer Shoves All Its Wackiest Immersion Products Into a Single Gaming Chair",
-            "description": "Razer's got your back if you want spine-tingling haptics and sound.",
-            "url": "https://gizmodo.com/razer-shoves-all-its-wackiest-immersion-products-into-a-single-gaming-chair-2000705332",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Razer-Project-Madison-Chair-1-1200x675.jpg",
-            "publishedAt": "2026-01-06T14:00:07Z",
-            "content": "I want to believe in chairs. Specifically, I imagine that the ergonomic desk seat can be more than a comfy cushion for your bedraggled bum. So does Razer, as evidenced by its lingering love for shovi\u2026 [+2388 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "8BitDo\u2019s new wireless Xbox controller has swappable ABXY button switches",
-            "description": "8BitDo's second officially licensed wireless Xbox controller is also its most expensive gamepad to date. The 8BitDo Ultimate 3E Controller for Xbox follows last August's Ultimate 3-mode Controller for Xbox - Rare 40th Anniversary Edition with some excellent u\u2026",
-            "url": "https://www.theverge.com/tech/848331/8bitdo-ultimate-3e-controller-xbox-wireless-tmr-swappable-joysticks",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/8bitdo_xbox6.jpg?quality=90&strip=all&crop=0%2C10.750252110127%2C100%2C78.499495779746&w=1200",
-            "publishedAt": "2026-01-02T21:16:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can also change the joysticks and D-pad on this extremely customizable controller launching later this year.\r\nYou can also change the joysticks and D-pad on \u2026 [+3696 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -325,20 +353,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Asus\u2019 Latest Gaming Laptop Is Twice the Machine With Twice the Screen",
-            "description": "The new ROG Zephyrus packs an incredible amount of screen for a 16-inch laptop.",
-            "url": "https://gizmodo.com/asus-latest-gaming-laptop-is-twice-the-machine-with-twice-the-screen-2000704080",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Asus-ROG-Zephyrus-Duo-1-1200x675.jpg",
-            "publishedAt": "2026-01-06T00:00:21Z",
-            "content": "Asus decided its not giving up on a mobile gaming machine with more than one screen. At CES 2026, the company announced a new version of the ROG Zephyrus Duo that doubles the amount of 16-inch screen\u2026 [+2871 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -391,20 +405,6 @@
             "urlToImage": "https://media.wired.com/photos/696543f222e4662283f971bd/191:100/w_1280,c_limit/WIRED's%20Guide%20to%20the%20Best%20Baby%20Gear.png",
             "publishedAt": "2026-01-13T10:23:00Z",
             "content": "When you become a parent, youre flung into a new universe of feeding schedules, lack of sleep, and a sudden need to find the best baby gear for a tiny person you havent met yet. If youre feeling over\u2026 [+16708 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Intel\u2019s New Chips Promise Power and Battery Life in Equal Measure",
-            "description": "Here are all the details on the Intel Core Ultra Series 3 that you\u2019ll find in practically every laptop this year.",
-            "url": "https://gizmodo.com/intels-new-chips-promise-power-and-battery-life-in-equal-measure-2000705890",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/ces2026-laptop-display3-v2-1200x675.jpg",
-            "publishedAt": "2026-01-06T00:30:35Z",
-            "content": "You already know everything you need to about whats happening inside Intels latest laptop chips. Intel Core Ultra Series 3, aka Panther Lake, promises to offer strong performance plus a solid battery\u2026 [+2094 chars]",
             "ai_score": 5
         },
         {
