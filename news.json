@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-24 15:25",
+    "last_updated": "2026-01-24 16:30",
     "articles": [
         {
             "source": {
@@ -703,20 +703,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Parker Hall",
-            "title": "The Inevitable Rise of the Art TV",
-            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
-            "url": "https://www.wired.com/story/art-frame-tv-trends/",
-            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
-            "publishedAt": "2026-01-06T20:41:46Z",
-            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "MacRumors"
             },
@@ -727,6 +713,20 @@
             "urlToImage": "https://images.macrumors.com/t/Vkm-jIZYjY881O5Z8R5B81HBnik=/1920x/article-new/2026/01/8bitdo-flip-controller-iphone.jpg",
             "publishedAt": "2026-01-05T10:26:03Z",
             "content": "In time for CES 2026, gaming company 8BitDo has teased a new controller designed for smartphone users who want to play games exclusively in portrait mode.\r\nThe FlipPad connects to iOS and Android dev\u2026 [+1004 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Parker Hall",
+            "title": "The Inevitable Rise of the Art TV",
+            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
+            "url": "https://www.wired.com/story/art-frame-tv-trends/",
+            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
+            "publishedAt": "2026-01-06T20:41:46Z",
+            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
             "ai_score": 5
         },
         {
