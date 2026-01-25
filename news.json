@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-01-25 07:26",
+    "last_updated": "2026-01-25 08:34",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong, Kyle Barr, and James Pero",
+            "title": "Live Updates From CES 2026 in Las Vegas ",
+            "description": "Follow along with Gizmodo as we check out all the latest gadget announcements from the year's biggest, most-packed tech event, CES 2026.",
+            "url": "https://gizmodo.com/live-updates-from-ces-2026-in-las-vegas-2000697509",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/gizmodoCES2026liveblog-1200x675.jpg",
+            "publishedAt": "2026-01-02T16:30:01Z",
+            "content": "For more than 20 years, Gizmodo has headed to Las Vegas after ringing in the new year to cover the Consumer Electronics Showaka CESand 2026 is no different.\r\nThe consumer tech team will be on the gro\u2026 [+2921 chars]",
+            "ai_score": 9
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,77 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s new G-Sync monitors automatically adjust brightness just like a laptop",
+            "description": "Nvidia is bringing a new set of G-Sync Pulsar monitors to the market this week that will automatically adjust brightness and color based on the ambient lighting in a room. Much like a modern laptop, these new monitors have a built-in light sensor that measure\u2026",
+            "url": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gsyncambient.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-06T05:12:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest G-Sync Pulsar monitors have a built-in light sensor so they can adjust brightness and color.\r\nThe latest G-Sync Pulsar monitors have a built-in light \u2026 [+2964 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Razer Made Its AI Gaming Assistant Into a Waifu Hologram",
+            "description": "Yes, you read that right.",
+            "url": "https://gizmodo.com/razer-made-its-ai-gaming-assistant-into-a-waifu-hologram-2000705679",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/project-ava-1200x675.jpg",
+            "publishedAt": "2026-01-06T14:00:33Z",
+            "content": "Razer is always good for a \u201cwait, what did I just see?\u201d moment at CES, and this year\u2019s convention is no different. At CES 2026, Razer showed off a desktop hologram meant to embody its gaming assistan\u2026 [+3024 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Asus\u2019 Latest Gaming Laptop Is Twice the Machine With Twice the Screen",
+            "description": "The new ROG Zephyrus packs an incredible amount of screen for a 16-inch laptop.",
+            "url": "https://gizmodo.com/asus-latest-gaming-laptop-is-twice-the-machine-with-twice-the-screen-2000704080",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Asus-ROG-Zephyrus-Duo-1-1200x675.jpg",
+            "publishedAt": "2026-01-06T00:00:21Z",
+            "content": "Asus decided its not giving up on a mobile gaming machine with more than one screen. At CES 2026, the company announced a new version of the ROG Zephyrus Duo that doubles the amount of 16-inch screen\u2026 [+2871 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Will you have to show your ID at the app store?",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the action (and inaction) of lawmakers seeking to rein in tech platforms, follow Lauren Feiner. The Stepback arrives in our subscribers' inboxes at 8A\u2026",
+            "url": "https://www.theverge.com/column/859351/age-verification-app-stores",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268237_The_Stepback-_How_app_stores_became_the_new_age_verification_battleground_CVirginia5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-09T17:05:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill you have to show your ID at the app store?\r\nApp stores are gateways. Lawmakers want them to have checkpoints.\r\nby\r\nLauren FeinerClose\r\nLauren Feiner\r\nPosts \u2026 [+9071 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "AMD\u2019s Latest Chips Are Betting Big on Gamers",
+            "description": "You\u2019re going to be far more interested in AMD\u2019s Ryzen Max than the Ryzen 400 series.",
+            "url": "https://gizmodo.com/amds-latest-chips-are-betting-big-on-gamers-2000705030",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Ryzen-AI-400-Series_01-1200x675.jpg",
+            "publishedAt": "2026-01-06T03:30:49Z",
+            "content": "Intel and Qualcomm are both coming to CES 2026, beating the drum hard for their next-gen lightweight laptop CPUs. Meanwhile, AMD is slipping into the party through the back door with its usual laid-b\u2026 [+3819 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -69,20 +153,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Best-of-CES-2026-Awards-Gizmodo-1200x675.jpeg",
             "publishedAt": "2026-01-08T12:00:28Z",
             "content": "If you were hoping to see a grand spectacle, we hate to tell you, but there weren\u2019t really any surprises at CES 2026. Pretty much everything that Gizmodo expected to seemainly AI shoved into every ga\u2026 [+12587 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Raymond Wong, Kyle Barr, and James Pero",
-            "title": "Live Updates From CES 2026 in Las Vegas ",
-            "description": "Follow along with Gizmodo as we check out all the latest gadget announcements from the year's biggest, most-packed tech event, CES 2026.",
-            "url": "https://gizmodo.com/live-updates-from-ces-2026-in-las-vegas-2000697509",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/gizmodoCES2026liveblog-1200x675.jpg",
-            "publishedAt": "2026-01-02T16:30:01Z",
-            "content": "For more than 20 years, Gizmodo has headed to Las Vegas after ringing in the new year to cover the Consumer Electronics Showaka CESand 2026 is no different.\r\nThe consumer tech team will be on the gro\u2026 [+2921 chars]",
             "ai_score": 5
         },
         {
@@ -167,34 +237,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/legion-go-2-steam-os-2.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-01-06T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts set to launch in June.\r\nIts set to launch in June.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this author will be added to your daily email digest \u2026 [+3398 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s new G-Sync monitors automatically adjust brightness just like a laptop",
-            "description": "Nvidia is bringing a new set of G-Sync Pulsar monitors to the market this week that will automatically adjust brightness and color based on the ambient lighting in a room. Much like a modern laptop, these new monitors have a built-in light sensor that measure\u2026",
-            "url": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gsyncambient.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-06T05:12:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest G-Sync Pulsar monitors have a built-in light sensor so they can adjust brightness and color.\r\nThe latest G-Sync Pulsar monitors have a built-in light \u2026 [+2964 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Razer Made Its AI Gaming Assistant Into a Waifu Hologram",
-            "description": "Yes, you read that right.",
-            "url": "https://gizmodo.com/razer-made-its-ai-gaming-assistant-into-a-waifu-hologram-2000705679",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/project-ava-1200x675.jpg",
-            "publishedAt": "2026-01-06T14:00:33Z",
-            "content": "Razer is always good for a \u201cwait, what did I just see?\u201d moment at CES, and this year\u2019s convention is no different. At CES 2026, Razer showed off a desktop hologram meant to embody its gaming assistan\u2026 [+3024 chars]",
             "ai_score": 5
         },
         {
@@ -325,20 +367,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Asus\u2019 Latest Gaming Laptop Is Twice the Machine With Twice the Screen",
-            "description": "The new ROG Zephyrus packs an incredible amount of screen for a 16-inch laptop.",
-            "url": "https://gizmodo.com/asus-latest-gaming-laptop-is-twice-the-machine-with-twice-the-screen-2000704080",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Asus-ROG-Zephyrus-Duo-1-1200x675.jpg",
-            "publishedAt": "2026-01-06T00:00:21Z",
-            "content": "Asus decided its not giving up on a mobile gaming machine with more than one screen. At CES 2026, the company announced a new version of the ROG Zephyrus Duo that doubles the amount of 16-inch screen\u2026 [+2871 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -465,20 +493,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "Will you have to show your ID at the app store?",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the action (and inaction) of lawmakers seeking to rein in tech platforms, follow Lauren Feiner. The Stepback arrives in our subscribers' inboxes at 8A\u2026",
-            "url": "https://www.theverge.com/column/859351/age-verification-app-stores",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268237_The_Stepback-_How_app_stores_became_the_new_age_verification_battleground_CVirginia5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-09T17:05:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill you have to show your ID at the app store?\r\nApp stores are gateways. Lawmakers want them to have checkpoints.\r\nby\r\nLauren FeinerClose\r\nLauren Feiner\r\nPosts \u2026 [+9071 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -489,20 +503,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/167b3269c979a795cc4112bb55fa994a2687a1bf/hub/2026/01/05/87f65284-5278-4c49-a92a-55d312108063/gettyimages-2215306761-nvidia-logo.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-01-05T19:08:00Z",
             "content": "Wondering what's next for Nvidia? CES 2026 is serving up the latest in artificial intelligence, tech gadgets and hardware. Still, one of the event's highlights this week is Nvidia CEO and co-founder \u2026 [+1609 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "AMD\u2019s Latest Chips Are Betting Big on Gamers",
-            "description": "You\u2019re going to be far more interested in AMD\u2019s Ryzen Max than the Ryzen 400 series.",
-            "url": "https://gizmodo.com/amds-latest-chips-are-betting-big-on-gamers-2000705030",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Ryzen-AI-400-Series_01-1200x675.jpg",
-            "publishedAt": "2026-01-06T03:30:49Z",
-            "content": "Intel and Qualcomm are both coming to CES 2026, beating the drum hard for their next-gen lightweight laptop CPUs. Meanwhile, AMD is slipping into the party through the back door with its usual laid-b\u2026 [+3819 chars]",
             "ai_score": 5
         },
         {
@@ -678,13 +678,13 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Boone Ashworth",
-            "title": "The Gloves Are Off in the Fight for Your Right to Repair",
-            "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
-            "url": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
-            "urlToImage": "https://media.wired.com/photos/6938e2a0f93af60a9d87ce36/191:100/w_1280,c_limit/WTE-right-to-repair-2x1.jpg",
-            "publishedAt": "2025-12-25T11:00:00Z",
-            "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere\u2026 [+2998 chars]",
+            "author": "Parker Hall",
+            "title": "The Inevitable Rise of the Art TV",
+            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
+            "url": "https://www.wired.com/story/art-frame-tv-trends/",
+            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
+            "publishedAt": "2026-01-06T20:41:46Z",
+            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
             "ai_score": 5
         },
         {
@@ -706,13 +706,13 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Parker Hall",
-            "title": "The Inevitable Rise of the Art TV",
-            "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they\u2019re switched off. It\u2019s all thanks to smaller living spaces and new screen tech.",
-            "url": "https://www.wired.com/story/art-frame-tv-trends/",
-            "urlToImage": "https://media.wired.com/photos/695d704de4ffc1f6ff02e667/191:100/w_1280,c_limit/image.png",
-            "publishedAt": "2026-01-06T20:41:46Z",
-            "content": "The Samsung Frame TV, first announced in 2017, doesnt look all that great as an actual television. But switch it off and it sure is prettycertainly much better to look at than an empty black void.\r\nT\u2026 [+2433 chars]",
+            "author": "Boone Ashworth",
+            "title": "The Gloves Are Off in the Fight for Your Right to Repair",
+            "description": "This year, the right-to-repair movement got a boost from\u2014surprisingly\u2014big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren\u2019t giving up that power willingly.",
+            "url": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
+            "urlToImage": "https://media.wired.com/photos/6938e2a0f93af60a9d87ce36/191:100/w_1280,c_limit/WTE-right-to-repair-2x1.jpg",
+            "publishedAt": "2025-12-25T11:00:00Z",
+            "content": "It has been a big year for the right to repair, the movement of advocates pushing for people to be able to fix their own electronics and equipment without manufacturer approval. The issue has gathere\u2026 [+2998 chars]",
             "ai_score": 5
         },
         {
@@ -762,20 +762,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "Few pairs of budget earbuds deliver like Nothing\u2019s Ear (a), which are down to $59",
-            "description": "The new year has brought a wave of deals on wireless earbuds and headphones, from the fitness-focused Beats Powerbeats Fit to the open-ear Shokz OpenRun Pro. Now, Nothing has joined in with a sale of its own, offering the Nothing Headphone (1), CMF Headphone \u2026",
-            "url": "https://www.theverge.com/gadgets/858740/nothing-ear-a-wireless-earbuds-cmf-headphone-pro-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406202/DSCF6918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-08T19:05:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe stylish earbuds are packed with features, including active noise cancellation and multipoint Bluetooth support.\r\nThe stylish earbuds are packed with features\u2026 [+3178 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Antonio G. Di Benedetto",
             "title": "Asus\u2019 Zenbook Duo dual-screen laptop gets Intel\u2019s new chip and a more seamless hinge",
             "description": "The Asus Zenbook Duo is getting a chip upgrade, an overhauled hinge design, and a big battery upgrade for CES 2026. The new dual-screen laptop will get Intel Panther Lake when it launches later in Q1 2026, though its pricing isn't finalized. But the most noti\u2026",
@@ -783,6 +769,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258167_Asus_Zenbook_Duo_laptop_CES_2026_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-06T03:34:28Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe two displays get much closer now for a tidier setup. Plus, its got a big-ass battery.\r\nThe two displays get much closer now for a tidier setup. Plus, its got\u2026 [+2947 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Few pairs of budget earbuds deliver like Nothing\u2019s Ear (a), which are down to $59",
+            "description": "The new year has brought a wave of deals on wireless earbuds and headphones, from the fitness-focused Beats Powerbeats Fit to the open-ear Shokz OpenRun Pro. Now, Nothing has joined in with a sale of its own, offering the Nothing Headphone (1), CMF Headphone \u2026",
+            "url": "https://www.theverge.com/gadgets/858740/nothing-ear-a-wireless-earbuds-cmf-headphone-pro-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406202/DSCF6918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-08T19:05:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe stylish earbuds are packed with features, including active noise cancellation and multipoint Bluetooth support.\r\nThe stylish earbuds are packed with features\u2026 [+3178 chars]",
             "ai_score": 5
         },
         {
@@ -930,20 +930,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "James Pero",
-            "title": "CES 2026 Really Wants You to Own a Holographic Anime Girlfriend",
-            "description": "Mark this convention down as the Year of the Waifu.",
-            "url": "https://gizmodo.com/ces-2026-really-wants-you-to-own-a-holographic-anime-girlfriend-2000707138",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/AI-girfriend-1200x675.jpg",
-            "publishedAt": "2026-01-08T01:10:58Z",
-            "content": "If you had \u201cholographic anime girlfriends\u201d on your CES 2026 bingo card, congratulations; you are both unhinged and\u00a0correct. I personally did not see this trend coming, but after walking the show floo\u2026 [+2559 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Sasha Lekach",
             "title": "Sony Honda Mobility Still Needs to Deliver Its Game-Filled Afeela 1 EV, but Here\u2019s a New Concept Car",
             "description": "Sony Honda Mobility introduced the Afeela Prototype 2026 at CES as a larger crossover EV.",
@@ -951,6 +937,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Prototype-SHM-Official-1200x675.jpeg",
             "publishedAt": "2026-01-07T16:50:09Z",
             "content": "Sony Honda Mobility\u2019s first collab car, the Afeela 1, still hasn\u2019t hit the road yet, but the Japanese company is already moving on to its next electric vehicle.\r\nAt a CES event in Las Vegas this week\u2026 [+3485 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "CES 2026 Really Wants You to Own a Holographic Anime Girlfriend",
+            "description": "Mark this convention down as the Year of the Waifu.",
+            "url": "https://gizmodo.com/ces-2026-really-wants-you-to-own-a-holographic-anime-girlfriend-2000707138",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/AI-girfriend-1200x675.jpg",
+            "publishedAt": "2026-01-08T01:10:58Z",
+            "content": "If you had \u201cholographic anime girlfriends\u201d on your CES 2026 bingo card, congratulations; you are both unhinged and\u00a0correct. I personally did not see this trend coming, but after walking the show floo\u2026 [+2559 chars]",
             "ai_score": 5
         },
         {
