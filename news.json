@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-25 15:25",
+    "last_updated": "2026-01-25 16:31",
     "articles": [
         {
             "source": {
@@ -409,20 +409,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Do You Actually Need the Best Gaming CPU?",
-            "description": "AMD\u2019s new Ryzen 7 9850X3D seems powerful, though it's not a massive leap over what we already have.",
-            "url": "https://gizmodo.com/do-you-actually-need-the-best-gaming-cpu-2000713038",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
-            "publishedAt": "2026-01-22T18:45:43Z",
-            "content": "AMD is using its latest CPU launch to declare, once again, its the current king of gaming CPUs for desktops. We finally know how much the long-rumored AMD Ryzen 7 9850X3D will cost and when you can e\u2026 [+3113 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -433,6 +419,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LinuxDiaryBliss.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-01-09T22:55:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLinux diary, chapter one: winging it.\r\nLinux diary, chapter one: winging it.\r\nby\r\nNathan EdwardsClose\r\nNathan Edwards\r\nPosts from this author will be added to yo\u2026 [+10243 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Do You Actually Need the Best Gaming CPU?",
+            "description": "AMD\u2019s new Ryzen 7 9850X3D seems powerful, though it's not a massive leap over what we already have.",
+            "url": "https://gizmodo.com/do-you-actually-need-the-best-gaming-cpu-2000713038",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
+            "publishedAt": "2026-01-22T18:45:43Z",
+            "content": "AMD is using its latest CPU launch to declare, once again, its the current king of gaming CPUs for desktops. We finally know how much the long-rumored AMD Ryzen 7 9850X3D will cost and when you can e\u2026 [+3113 chars]",
             "ai_score": 5
         },
         {
