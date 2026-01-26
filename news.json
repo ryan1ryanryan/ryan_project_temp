@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-26 17:35",
+    "last_updated": "2026-01-26 18:42",
     "articles": [
         {
             "source": {
@@ -816,6 +816,20 @@
         {
             "source": {
                 "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "New, Smarter Siri Is Reportedly Weeks from Arriving. It Had Better Be Amazing",
+            "description": "Apple is borrowing tech from Google to try and score a much-needed win. But Google wins either way.",
+            "url": "https://gizmodo.com/new-smarter-siri-is-reportedly-weeks-from-arriving-it-had-better-be-amazing-2000713754",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-01-25T18:03:34Z",
+            "content": "Just after the start of 2026, Google parent Alphabet became more valuable than Apple for the first time since 2019, a technically meaningless milestone, but a symbolically powerful one. And its still\u2026 [+3089 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CNET"
             },
             "author": "Lori Grunin",
@@ -965,20 +979,6 @@
             "urlToImage": "https://media.wired.com/photos/69698c37b8df1f891caafa19/191:100/w_1280,c_limit/Backchannel-Former-USDS-Set-to-Fix-what-DOGE-Broke-Business-2199882528.jpg",
             "publishedAt": "2026-01-16T16:00:00Z",
             "content": "The past year has been traumatic for many of the volunteer tech warriors of what was once called the United States Digital Service (USDS). The teams former coders, designers, and UX experts have watc\u2026 [+4218 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Kayla Kuefler",
-            "title": "These are the absolute best extended Boxing Day tech deals on Amazon Canada in 2025",
-            "description": "45 best extended Boxing Day tech deals on noise-cancelling headphones, TVs, smartwatches and more.",
-            "url": "https://ca.style.yahoo.com/these-are-the-absolute-best-extended-boxing-day-tech-deals-on-amazon-canada-in-2025-154802501.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AeWbHJ.jYRE.BEaeC3FXvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3c9e2c60-e33b-11f0-b8dd-b0865185c74c",
-            "publishedAt": "2025-12-27T15:48:02Z",
-            "content": "Boxing Day 2025 has come to an end, but savvy shoppers know you can still score dozens of extended Boxing Day deals you just need to know where to look. Whether you have your sights set on a new smar\u2026 [+1540 chars]",
             "ai_score": 5
         }
     ]
