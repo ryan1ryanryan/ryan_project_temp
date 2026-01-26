@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-01-26 21:30",
+    "last_updated": "2026-01-26 22:27",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Lori Grunin",
+            "title": "HP HyperX Omen Ups Its Game With a Cutting-Edge OLED, Leverless Controller and More",
+            "description": "There are several bright spots in HP's gaming announcements at CES 2026.",
+            "url": "https://www.cnet.com/tech/gaming/hp-hyperx-omen-ups-its-game-with-a-cutting-edge-oled-leverless-controller-and-more-ces-2026/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/bb961f11579585d39f33333e6a3c2ec296df70f7/hub/2026/01/04/3e1a449d-41b3-4597-ba0c-8d433197243b/hyperx-clutch-tachi.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-01-05T23:00:45Z",
+            "content": "HP's gaming gear for\u00a0CES 2026 doesn't bristle with jaw-dropping announcements, but there are a few that stand out, including a monitor incorporating a new Samsung V-Stripe OLED panel and a first-for-\u2026 [+2741 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -804,20 +818,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Kyle Barr",
-            "title": "Pebble\u2019s Plans for Circular Smartwatches Could Bring Me Back to Wearables",
-            "description": "The Pebble Round 2 and Index 01 are reminders of when tech didn't take itself 'too seriously.'",
-            "url": "https://gizmodo.com/pebbles-plans-for-circular-smartwatches-could-bring-me-back-to-wearables-2000710823",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Pebble-Round-2-3-1-1200x675.jpg",
-            "publishedAt": "2026-01-15T22:15:55Z",
-            "content": "If history is as cyclical as the Buddhists and Cynics would want us to believe, then the return of the Pebble smartwatch was inevitable. I\u2019ve largely eschewed any smartwatches in my daily life, mostl\u2026 [+5075 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Mike Pearl",
             "title": "New, Smarter Siri Is Reportedly Weeks from Arriving. It Had Better Be Amazing",
             "description": "Apple is borrowing tech from Google to try and score a much-needed win. But Google wins either way.",
@@ -830,15 +830,15 @@
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Gizmodo.com"
             },
-            "author": "Lori Grunin",
-            "title": "HP HyperX Omen Ups Its Game With a Cutting-Edge OLED, Leverless Controller and More",
-            "description": "There are several bright spots in HP's gaming announcements at CES 2026.",
-            "url": "https://www.cnet.com/tech/gaming/hp-hyperx-omen-ups-its-game-with-a-cutting-edge-oled-leverless-controller-and-more-ces-2026/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/bb961f11579585d39f33333e6a3c2ec296df70f7/hub/2026/01/04/3e1a449d-41b3-4597-ba0c-8d433197243b/hyperx-clutch-tachi.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-01-05T23:00:45Z",
-            "content": "HP's gaming gear for\u00a0CES 2026 doesn't bristle with jaw-dropping announcements, but there are a few that stand out, including a monitor incorporating a new Samsung V-Stripe OLED panel and a first-for-\u2026 [+2741 chars]",
+            "author": "Kyle Barr",
+            "title": "Pebble\u2019s Plans for Circular Smartwatches Could Bring Me Back to Wearables",
+            "description": "The Pebble Round 2 and Index 01 are reminders of when tech didn't take itself 'too seriously.'",
+            "url": "https://gizmodo.com/pebbles-plans-for-circular-smartwatches-could-bring-me-back-to-wearables-2000710823",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Pebble-Round-2-3-1-1200x675.jpg",
+            "publishedAt": "2026-01-15T22:15:55Z",
+            "content": "If history is as cyclical as the Buddhists and Cynics would want us to believe, then the return of the Pebble smartwatch was inevitable. I\u2019ve largely eschewed any smartwatches in my daily life, mostl\u2026 [+5075 chars]",
             "ai_score": 5
         },
         {
