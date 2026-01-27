@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27 05:32",
+    "last_updated": "2026-01-27 06:41",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -804,20 +804,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Mike Pearl",
-            "title": "New, Smarter Siri Is Reportedly Weeks from Arriving. It Had Better Be Amazing",
-            "description": "Apple is borrowing tech from Google to try and score a much-needed win. But Google wins either way.",
-            "url": "https://gizmodo.com/new-smarter-siri-is-reportedly-weeks-from-arriving-it-had-better-be-amazing-2000713754",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-01-25T18:03:34Z",
-            "content": "Just after the start of 2026, Google parent Alphabet became more valuable than Apple for the first time since 2019, a technically meaningless milestone, but a symbolically powerful one. And its still\u2026 [+3089 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Kyle Barr",
             "title": "Pebble\u2019s Plans for Circular Smartwatches Could Bring Me Back to Wearables",
             "description": "The Pebble Round 2 and Index 01 are reminders of when tech didn't take itself 'too seriously.'",
@@ -825,6 +811,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Pebble-Round-2-3-1-1200x675.jpg",
             "publishedAt": "2026-01-15T22:15:55Z",
             "content": "If history is as cyclical as the Buddhists and Cynics would want us to believe, then the return of the Pebble smartwatch was inevitable. I\u2019ve largely eschewed any smartwatches in my daily life, mostl\u2026 [+5075 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "New, Smarter Siri Is Reportedly Weeks from Arriving. It Had Better Be Amazing",
+            "description": "Apple is borrowing tech from Google to try and score a much-needed win. But Google wins either way.",
+            "url": "https://gizmodo.com/new-smarter-siri-is-reportedly-weeks-from-arriving-it-had-better-be-amazing-2000713754",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-01-25T18:03:34Z",
+            "content": "Just after the start of 2026, Google parent Alphabet became more valuable than Apple for the first time since 2019, a technically meaningless milestone, but a symbolically powerful one. And its still\u2026 [+3089 chars]",
             "ai_score": 5
         },
         {
