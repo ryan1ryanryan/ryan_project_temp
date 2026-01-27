@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27 16:36",
+    "last_updated": "2026-01-27 17:33",
     "articles": [
         {
             "source": {
@@ -731,20 +731,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "Want to Book a Hotel on the Moon? This Startup Is Now Taking $250K Deposits",
-            "description": "An upcoming space tech startup is looking to build the first hotel on the lunar surface.",
-            "url": "https://gizmodo.com/want-to-book-a-hotel-on-the-moon-this-startup-is-now-taking-250k-deposits-2000709632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/GRU-Lunar-Hotel-Artists-Impression-2048x1152-1-1200x675.jpg",
-            "publishedAt": "2026-01-13T20:30:40Z",
-            "content": "Planning a trip for 2032? You might want to start saving up for a stay at the first hotel on the Moon, a highly ambitious new project from a California-based company looking to take adventure tourism\u2026 [+3766 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -755,6 +741,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lg-oled-evo-w6-lifestyle.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200",
             "publishedAt": "2026-01-04T12:25:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter six years, the incredibly thin Wallpaper TV is back, and this time its wireless.\r\nAfter six years, the incredibly thin Wallpaper TV is back, and this time \u2026 [+3051 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Want to Book a Hotel on the Moon? This Startup Is Now Taking $250K Deposits",
+            "description": "An upcoming space tech startup is looking to build the first hotel on the lunar surface.",
+            "url": "https://gizmodo.com/want-to-book-a-hotel-on-the-moon-this-startup-is-now-taking-250k-deposits-2000709632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/GRU-Lunar-Hotel-Artists-Impression-2048x1152-1-1200x675.jpg",
+            "publishedAt": "2026-01-13T20:30:40Z",
+            "content": "Planning a trip for 2032? You might want to start saving up for a stay at the first hotel on the Moon, a highly ambitious new project from a California-based company looking to take adventure tourism\u2026 [+3766 chars]",
             "ai_score": 5
         },
         {
@@ -832,20 +832,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Mike Pearl",
-            "title": "New, Smarter Siri Is Reportedly Weeks from Arriving. It Had Better Be Amazing",
-            "description": "Apple is borrowing tech from Google to try and score a much-needed win. But Google wins either way.",
-            "url": "https://gizmodo.com/new-smarter-siri-is-reportedly-weeks-from-arriving-it-had-better-be-amazing-2000713754",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-01-25T18:03:34Z",
-            "content": "Just after the start of 2026, Google parent Alphabet became more valuable than Apple for the first time since 2019, a technically meaningless milestone, but a symbolically powerful one. And its still\u2026 [+3089 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Kyle Barr",
             "title": "Pebble\u2019s Plans for Circular Smartwatches Could Bring Me Back to Wearables",
             "description": "The Pebble Round 2 and Index 01 are reminders of when tech didn't take itself 'too seriously.'",
@@ -853,6 +839,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Pebble-Round-2-3-1-1200x675.jpg",
             "publishedAt": "2026-01-15T22:15:55Z",
             "content": "If history is as cyclical as the Buddhists and Cynics would want us to believe, then the return of the Pebble smartwatch was inevitable. I\u2019ve largely eschewed any smartwatches in my daily life, mostl\u2026 [+5075 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "New, Smarter Siri Is Reportedly Weeks from Arriving. It Had Better Be Amazing",
+            "description": "Apple is borrowing tech from Google to try and score a much-needed win. But Google wins either way.",
+            "url": "https://gizmodo.com/new-smarter-siri-is-reportedly-weeks-from-arriving-it-had-better-be-amazing-2000713754",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-01-25T18:03:34Z",
+            "content": "Just after the start of 2026, Google parent Alphabet became more valuable than Apple for the first time since 2019, a technically meaningless milestone, but a symbolically powerful one. And its still\u2026 [+3089 chars]",
             "ai_score": 5
         },
         {
