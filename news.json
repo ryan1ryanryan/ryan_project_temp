@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28 15:38",
+    "last_updated": "2026-01-28 16:43",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -563,6 +563,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Return of Nintendo\u2019s Worst-Selling Console Could Be More Glorious Than We Thought",
+            "description": "Get ready to return to the neck-straining magic of red and black gaming with several never-released games for the Virtual Boy.",
+            "url": "https://gizmodo.com/virtual-boy-switch-2-could-be-more-glorious-than-we-thought-2000714470",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Virtual-Boy-Nintendo-Switch-2-10-1200x675.jpg",
+            "publishedAt": "2026-01-27T16:00:12Z",
+            "content": "Nintendos Virtual Boy deserves your respect. At least, that seems to be Nintendos latest missive, as it\u2019s set to bring back its worst-selling console from the grave as a Switch 2 accessory. Whats mor\u2026 [+3035 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -965,20 +979,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/AI-girfriend-1200x675.jpg",
             "publishedAt": "2026-01-08T01:10:58Z",
             "content": "If you had \u201cholographic anime girlfriends\u201d on your CES 2026 bingo card, congratulations; you are both unhinged and\u00a0correct. I personally did not see this trend coming, but after walking the show floo\u2026 [+2559 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Sasha Lekach",
-            "title": "Sony Honda Mobility Still Needs to Deliver Its Game-Filled Afeela 1 EV, but Here\u2019s a New Concept Car",
-            "description": "Sony Honda Mobility introduced the Afeela Prototype 2026 at CES as a larger crossover EV.",
-            "url": "https://gizmodo.com/sony-honda-mobility-still-needs-to-deliver-its-game-filled-afeela-1-ev-but-heres-a-new-concept-car-2000706776",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Prototype-SHM-Official-1200x675.jpeg",
-            "publishedAt": "2026-01-07T16:50:09Z",
-            "content": "Sony Honda Mobility\u2019s first collab car, the Afeela 1, still hasn\u2019t hit the road yet, but the Japanese company is already moving on to its next electric vehicle.\r\nAt a CES event in Las Vegas this week\u2026 [+3485 chars]",
             "ai_score": 5
         }
     ]
