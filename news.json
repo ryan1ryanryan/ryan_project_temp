@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-01-30 07:44",
+    "last_updated": "2026-01-30 08:46",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Staff",
+            "title": "Gizmodo\u2019s Best of CES 2026 Awards: See the Winners",
+            "description": "Here's all the tech that impressed us the most at the 2026 Consumer Electronics Show in Las Vegas.",
+            "url": "https://gizmodo.com/gizmodo-best-of-ces-2026-awards-see-the-winners-2000697475",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Best-of-CES-2026-Awards-Gizmodo-1200x675.jpeg",
+            "publishedAt": "2026-01-08T12:00:28Z",
+            "content": "If you were hoping to see a grand spectacle, we hate to tell you, but there weren\u2019t really any surprises at CES 2026. Pretty much everything that Gizmodo expected to seemainly AI shoved into every ga\u2026 [+12587 chars]",
+            "ai_score": 9
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +41,77 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-06T05:22:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer Shoves All Its Wackiest Immersion Products Into a Single Gaming Chair",
+            "description": "Razer's got your back if you want spine-tingling haptics and sound.",
+            "url": "https://gizmodo.com/razer-shoves-all-its-wackiest-immersion-products-into-a-single-gaming-chair-2000705332",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Razer-Project-Madison-Chair-1-1200x675.jpg",
+            "publishedAt": "2026-01-06T14:00:07Z",
+            "content": "I want to believe in chairs. Specifically, I imagine that the ergonomic desk seat can be more than a comfy cushion for your bedraggled bum. So does Razer, as evidenced by its lingering love for shovi\u2026 [+2388 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
+            "description": "Nvidia is announcing its next major update to its Deep Learning Super Sampling (DLSS) feature at CES today. DLSS 4.5 includes Nvidia's second-generation Super Resolution transformer model and a new 6x Multi Frame Generation mode for RTX 50-series GPUs that us\u2026",
+            "url": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nvidiadlss45.jpg?quality=90&strip=all&crop=0%2C2.1780789104472%2C100%2C95.643842179106&w=1200",
+            "publishedAt": "2026-01-06T05:05:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nby\r\nT\u2026 [+3858 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Asus\u2019 Latest Gaming Laptop Is Twice the Machine With Twice the Screen",
+            "description": "The new ROG Zephyrus packs an incredible amount of screen for a 16-inch laptop.",
+            "url": "https://gizmodo.com/asus-latest-gaming-laptop-is-twice-the-machine-with-twice-the-screen-2000704080",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Asus-ROG-Zephyrus-Duo-1-1200x675.jpg",
+            "publishedAt": "2026-01-06T00:00:21Z",
+            "content": "Asus decided its not giving up on a mobile gaming machine with more than one screen. At CES 2026, the company announced a new version of the ROG Zephyrus Duo that doubles the amount of 16-inch screen\u2026 [+2871 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "You can charge the battery in Belkin\u2019s new Switch 2 power case without opening it",
+            "description": "Belkin has announced a new version of one of its first accessories for the Switch 2 at CES 2026. The Charging Case Pro for Nintendo Switch 2 carries forward the same 10,000mAh internal battery as the original, but it's been redesigned so you don't need to rem\u2026",
+            "url": "https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_switch2pro_case1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+            "publishedAt": "2026-01-02T21:17:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C port and status screen.\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C po\u2026 [+2711 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Gamers love AI in game dev \u2014 they just don\u2019t know it yet, says Razer\u2019s CEO",
+            "description": "We\u2019re back to start the year off with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES.\u00a0 Razer is obviously best known for making mice, keyboards, and gaming PC\u2026",
+            "url": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Min-Liang-Tan_NEW-1.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+            "publishedAt": "2026-01-19T14:08:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRazers Min-Liang Tan on gamings AI backlash, partnering with Grok, and creating anime waifus.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your\u2026 [+62934 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,20 +125,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268236_Lenovo_Legion_Pro_Rollable_gaming_laptop_concept_CES2026_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-07T00:12:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLenovos new rollable laptop for gamers has an OLED screen that horizontally extends from a 16-inch to a 24-inch.\r\nLenovos new rollable laptop for gamers has an O\u2026 [+5240 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gizmodo Staff",
-            "title": "Gizmodo\u2019s Best of CES 2026 Awards: See the Winners",
-            "description": "Here's all the tech that impressed us the most at the 2026 Consumer Electronics Show in Las Vegas.",
-            "url": "https://gizmodo.com/gizmodo-best-of-ces-2026-awards-see-the-winners-2000697475",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Best-of-CES-2026-Awards-Gizmodo-1200x675.jpeg",
-            "publishedAt": "2026-01-08T12:00:28Z",
-            "content": "If you were hoping to see a grand spectacle, we hate to tell you, but there weren\u2019t really any surprises at CES 2026. Pretty much everything that Gizmodo expected to seemainly AI shoved into every ga\u2026 [+12587 chars]",
             "ai_score": 5
         },
         {
@@ -227,20 +297,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer Shoves All Its Wackiest Immersion Products Into a Single Gaming Chair",
-            "description": "Razer's got your back if you want spine-tingling haptics and sound.",
-            "url": "https://gizmodo.com/razer-shoves-all-its-wackiest-immersion-products-into-a-single-gaming-chair-2000705332",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Razer-Project-Madison-Chair-1-1200x675.jpg",
-            "publishedAt": "2026-01-06T14:00:07Z",
-            "content": "I want to believe in chairs. Specifically, I imagine that the ergonomic desk seat can be more than a comfy cushion for your bedraggled bum. So does Razer, as evidenced by its lingering love for shovi\u2026 [+2388 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -283,20 +339,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
-            "description": "Nvidia is announcing its next major update to its Deep Learning Super Sampling (DLSS) feature at CES today. DLSS 4.5 includes Nvidia's second-generation Super Resolution transformer model and a new 6x Multi Frame Generation mode for RTX 50-series GPUs that us\u2026",
-            "url": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nvidiadlss45.jpg?quality=90&strip=all&crop=0%2C2.1780789104472%2C100%2C95.643842179106&w=1200",
-            "publishedAt": "2026-01-06T05:05:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nAll RTX owners will get DLSS 4.5 model and image quality improvements today.\r\nby\r\nT\u2026 [+3858 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -321,34 +363,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/HP-HyperX-16-Max-2-1200x675.jpg",
             "publishedAt": "2026-01-05T23:00:18Z",
             "content": "HP seemed to think there wasnt enough H and P in its gaming product lineup. Our old friends Hewlett and Packard are now combining their entire gaming lineupaccessories, peripherals, and PCsinto one. \u2026 [+2905 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Asus\u2019 Latest Gaming Laptop Is Twice the Machine With Twice the Screen",
-            "description": "The new ROG Zephyrus packs an incredible amount of screen for a 16-inch laptop.",
-            "url": "https://gizmodo.com/asus-latest-gaming-laptop-is-twice-the-machine-with-twice-the-screen-2000704080",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Asus-ROG-Zephyrus-Duo-1-1200x675.jpg",
-            "publishedAt": "2026-01-06T00:00:21Z",
-            "content": "Asus decided its not giving up on a mobile gaming machine with more than one screen. At CES 2026, the company announced a new version of the ROG Zephyrus Duo that doubles the amount of 16-inch screen\u2026 [+2871 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "You can charge the battery in Belkin\u2019s new Switch 2 power case without opening it",
-            "description": "Belkin has announced a new version of one of its first accessories for the Switch 2 at CES 2026. The Charging Case Pro for Nintendo Switch 2 carries forward the same 10,000mAh internal battery as the original, but it's been redesigned so you don't need to rem\u2026",
-            "url": "https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_switch2pro_case1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2026-01-02T21:17:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C port and status screen.\r\nThe Charging Case Pro for Nintendo Switch 2 adds an external USB-C po\u2026 [+2711 chars]",
             "ai_score": 5
         },
         {
@@ -433,20 +447,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
             "publishedAt": "2026-01-22T18:45:43Z",
             "content": "AMD is using its latest CPU launch to declare, once again, its the current king of gaming CPUs for desktops. We finally know how much the long-rumored AMD Ryzen 7 9850X3D will cost and when you can e\u2026 [+3113 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "Gamers love AI in game dev \u2014 they just don\u2019t know it yet, says Razer\u2019s CEO",
-            "description": "We\u2019re back to start the year off with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES.\u00a0 Razer is obviously best known for making mice, keyboards, and gaming PC\u2026",
-            "url": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Min-Liang-Tan_NEW-1.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-            "publishedAt": "2026-01-19T14:08:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRazers Min-Liang Tan on gamings AI backlash, partnering with Grok, and creating anime waifus.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your\u2026 [+62934 chars]",
             "ai_score": 5
         },
         {
@@ -833,12 +833,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Intel\u2019s Panther Lake CPUs Make the Best Case for \u2018Fake Frames\u2019 in Gaming",
-            "description": "The new Core Ultra Series 3 chips and XeSS 3 AI upscaler can juice up frame rates on laptops, but handhelds may benefit the most.",
-            "url": "https://gizmodo.com/intels-panther-lake-cpus-make-the-best-case-for-fake-frames-in-gaming-2000714188",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Asus-Zenbook-Duo-2026-review-3-1200x675.jpg",
-            "publishedAt": "2026-01-27T13:55:51Z",
-            "content": "If your gaming machine isnt rendering any frames itself, whats the point of having a costly computer at all? I know some of you out there are mumbling resentments, asking that question already knowin\u2026 [+8110 chars]",
+            "title": "Valve Might Finally Prove PC Gaming Doesn\u2019t Have to Be a Pain in the Ass",
+            "description": "Hopefully, we'll see even more non-Valve hybrid consoles/PCs soon enough.",
+            "url": "https://gizmodo.com/valve-might-finally-prove-pc-gaming-doesnt-have-to-be-a-pain-in-the-ass-2000711244",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-Console-1200x675.jpg",
+            "publishedAt": "2026-01-19T16:00:56Z",
+            "content": "This year, we may finally see if PC gaming can become the de facto mode for play. Valves long-promised Steam Machine is ready to make landfall early this year. Yes, we still dont know how much it wil\u2026 [+8389 chars]",
             "ai_score": 5
         },
         {
@@ -847,12 +847,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Valve Might Finally Prove PC Gaming Doesn\u2019t Have to Be a Pain in the Ass",
-            "description": "Hopefully, we'll see even more non-Valve hybrid consoles/PCs soon enough.",
-            "url": "https://gizmodo.com/valve-might-finally-prove-pc-gaming-doesnt-have-to-be-a-pain-in-the-ass-2000711244",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-Console-1200x675.jpg",
-            "publishedAt": "2026-01-19T16:00:56Z",
-            "content": "This year, we may finally see if PC gaming can become the de facto mode for play. Valves long-promised Steam Machine is ready to make landfall early this year. Yes, we still dont know how much it wil\u2026 [+8389 chars]",
+            "title": "Intel\u2019s Panther Lake CPUs Make the Best Case for \u2018Fake Frames\u2019 in Gaming",
+            "description": "The new Core Ultra Series 3 chips and XeSS 3 AI upscaler can juice up frame rates on laptops, but handhelds may benefit the most.",
+            "url": "https://gizmodo.com/intels-panther-lake-cpus-make-the-best-case-for-fake-frames-in-gaming-2000714188",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Asus-Zenbook-Duo-2026-review-3-1200x675.jpg",
+            "publishedAt": "2026-01-27T13:55:51Z",
+            "content": "If your gaming machine isnt rendering any frames itself, whats the point of having a costly computer at all? I know some of you out there are mumbling resentments, asking that question already knowin\u2026 [+8110 chars]",
             "ai_score": 5
         },
         {
