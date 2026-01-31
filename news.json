@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-31 18:38",
+    "last_updated": "2026-01-31 19:26",
     "articles": [
         {
             "source": {
@@ -27,7 +27,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
+            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
+            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-27T11:05:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -209,20 +223,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/project-ava-1200x675.jpg",
             "publishedAt": "2026-01-06T14:00:33Z",
             "content": "Razer is always good for a \u201cwait, what did I just see?\u201d moment at CES, and this year\u2019s convention is no different. At CES 2026, Razer showed off a desktop hologram meant to embody its gaming assistan\u2026 [+3024 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
-            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
-            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-27T11:05:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
             "ai_score": 5
         },
         {
