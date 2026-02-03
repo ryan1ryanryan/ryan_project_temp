@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03 15:56",
+    "last_updated": "2026-02-03 16:59",
     "articles": [
         {
             "source": {
@@ -955,16 +955,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Matt Novak",
-            "title": "California Could Get a 4-Year Ban on Toys With AI Chatbots",
-            "description": "\"Our children cannot be used as lab rats for Big Tech to experiment on,\" said the state senator who introduced new legislation around AI toys.",
-            "url": "https://gizmodo.com/california-could-get-a-4-year-ban-on-toys-with-ai-chatbots-2000706416",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/teddy_bear_AI-1200x675.jpg",
-            "publishedAt": "2026-01-07T00:13:12Z",
-            "content": "California state senator Steve Padilla, a Democrat from San Diego, introduced a bill in the California State Assembly on Monday that would place a 4-year moratorium on the sale of toys with artificia\u2026 [+3082 chars]",
+            "author": "Hilary Brueck",
+            "title": "Creatine, ADHD video games: The quest for a better brain is turning into a gold rush",
+            "description": "Americans love trying to upgrade their brains \u2014 one scoop, zap, or gaming session at a time",
+            "url": "https://www.businessinsider.com/americas-obsession-paying-to-get-smarter-brain-hacking-adhd-alzheimers-2026-1",
+            "urlToImage": "https://i.insider.com/696582fd04eda4732f2ef0f0?width=1200&format=jpeg",
+            "publishedAt": "2026-01-13T09:03:01Z",
+            "content": "At this point, you've probably at least thought about dropping a few scoops of creatine into your morning smoothie. An amino acid compound that promotes energy production in brain and muscle cells, i\u2026 [+7484 chars]",
             "ai_score": 5
         }
     ]
