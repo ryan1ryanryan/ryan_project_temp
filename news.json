@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03 06:58",
+    "last_updated": "2026-02-03 07:47",
     "articles": [
         {
             "source": {
@@ -13,20 +13,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "All of HP\u2019s Gaming Laptops Are Now Under the HyperX Umbrella",
-            "description": "We also got a first look at the improvements in the new HyperX Omen X 16.",
-            "url": "https://gizmodo.com/hp-maxes-out-its-max-gaming-laptop-now-with-more-hyperx-2000704515",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/HP-HyperX-16-Max-2-1200x675.jpg",
-            "publishedAt": "2026-01-05T23:00:18Z",
-            "content": "HP seemed to think there wasnt enough H and P in its gaming product lineup. Our old friends Hewlett and Packard are now combining their entire gaming lineupaccessories, peripherals, and PCsinto one. \u2026 [+2905 chars]",
             "ai_score": 8
         },
         {
@@ -321,6 +307,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/best-auto-1200x675.jpg",
             "publishedAt": "2026-01-09T23:00:51Z",
             "content": "If you broke away from the noise about agentic AI in cars, EVs, eVTOLs, trucks, big rigs, fleets, robotaxis, and even boats bouncing around the halls of CES 2026, you could find some impressive autom\u2026 [+5682 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "All of HP\u2019s Gaming Laptops Are Now Under the HyperX Umbrella",
+            "description": "We also got a first look at the improvements in the new HyperX Omen X 16.",
+            "url": "https://gizmodo.com/hp-maxes-out-its-max-gaming-laptop-now-with-more-hyperx-2000704515",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/HP-HyperX-16-Max-2-1200x675.jpg",
+            "publishedAt": "2026-01-05T23:00:18Z",
+            "content": "HP seemed to think there wasnt enough H and P in its gaming product lineup. Our old friends Hewlett and Packard are now combining their entire gaming lineupaccessories, peripherals, and PCsinto one. \u2026 [+2905 chars]",
             "ai_score": 5
         },
         {
@@ -941,20 +941,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "California Could Get a 4-Year Ban on Toys With AI Chatbots",
-            "description": "\"Our children cannot be used as lab rats for Big Tech to experiment on,\" said the state senator who introduced new legislation around AI toys.",
-            "url": "https://gizmodo.com/california-could-get-a-4-year-ban-on-toys-with-ai-chatbots-2000706416",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/teddy_bear_AI-1200x675.jpg",
-            "publishedAt": "2026-01-07T00:13:12Z",
-            "content": "California state senator Steve Padilla, a Democrat from San Diego, introduced a bill in the California State Assembly on Monday that would place a 4-year moratorium on the sale of toys with artificia\u2026 [+3082 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -965,6 +951,20 @@
             "urlToImage": "https://i.insider.com/696582fd04eda4732f2ef0f0?width=1200&format=jpeg",
             "publishedAt": "2026-01-13T09:03:01Z",
             "content": "At this point, you've probably at least thought about dropping a few scoops of creatine into your morning smoothie. An amino acid compound that promotes energy production in brain and muscle cells, i\u2026 [+7484 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "California Could Get a 4-Year Ban on Toys With AI Chatbots",
+            "description": "\"Our children cannot be used as lab rats for Big Tech to experiment on,\" said the state senator who introduced new legislation around AI toys.",
+            "url": "https://gizmodo.com/california-could-get-a-4-year-ban-on-toys-with-ai-chatbots-2000706416",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/teddy_bear_AI-1200x675.jpg",
+            "publishedAt": "2026-01-07T00:13:12Z",
+            "content": "California state senator Steve Padilla, a Democrat from San Diego, introduced a bill in the California State Assembly on Monday that would place a 4-year moratorium on the sale of toys with artificia\u2026 [+3082 chars]",
             "ai_score": 5
         }
     ]
