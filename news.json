@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03 19:51",
+    "last_updated": "2026-02-03 20:42",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/MAXWELL_2_STILL_LIFE_245.jpg?quality=90&strip=all&crop=0%2C10.75282363421%2C100%2C78.49435273158&w=1200",
             "publishedAt": "2026-01-02T13:28:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and $349 for Xbox.\r\nThe Maxwell 2 gaming headset costs $329 with support for PlayStation and\u2026 [+2456 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -745,20 +745,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "Want to Book a Hotel on the Moon? This Startup Is Now Taking $250K Deposits",
-            "description": "An upcoming space tech startup is looking to build the first hotel on the lunar surface.",
-            "url": "https://gizmodo.com/want-to-book-a-hotel-on-the-moon-this-startup-is-now-taking-250k-deposits-2000709632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/GRU-Lunar-Hotel-Artists-Impression-2048x1152-1-1200x675.jpg",
-            "publishedAt": "2026-01-13T20:30:40Z",
-            "content": "Planning a trip for 2032? You might want to start saving up for a stay at the first hotel on the Moon, a highly ambitious new project from a California-based company looking to take adventure tourism\u2026 [+3766 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -769,6 +755,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
             "publishedAt": "2026-01-05T17:01:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSnapdragon X2 Plus joins Elite and Elite Extreme.\r\nSnapdragon X2 Plus joins Elite and Elite Extreme.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this au\u2026 [+5144 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Want to Book a Hotel on the Moon? This Startup Is Now Taking $250K Deposits",
+            "description": "An upcoming space tech startup is looking to build the first hotel on the lunar surface.",
+            "url": "https://gizmodo.com/want-to-book-a-hotel-on-the-moon-this-startup-is-now-taking-250k-deposits-2000709632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/GRU-Lunar-Hotel-Artists-Impression-2048x1152-1-1200x675.jpg",
+            "publishedAt": "2026-01-13T20:30:40Z",
+            "content": "Planning a trip for 2032? You might want to start saving up for a stay at the first hotel on the Moon, a highly ambitious new project from a California-based company looking to take adventure tourism\u2026 [+3766 chars]",
             "ai_score": 5
         },
         {
