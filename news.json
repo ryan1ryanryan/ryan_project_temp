@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04 16:55",
+    "last_updated": "2026-02-04 17:50",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
-            "description": "The longtime cybersecurity professional says she\u2019s taking the helm of the legacy security organization at \u201can inflection point\u201d for tech and the world beyond.",
-            "url": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
-            "urlToImage": "https://media.wired.com/photos/6966cad4128328ffe04a0763/191:100/w_1280,c_limit/Former-CISA-Director-Will-Lead-RSA-Conference-Security-1975568782.jpg",
-            "publishedAt": "2026-01-15T13:00:00Z",
-            "content": "Jen Easterly, a longtime public- and private-sector cybersecurity practitioner who led the US Cybersecurity and Infrastructure Security Agency for more than three years, has been appointed CEO of RSA\u2026 [+3519 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -482,6 +468,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Lily Hay Newman",
+            "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
+            "description": "The longtime cybersecurity professional says she\u2019s taking the helm of the legacy security organization at \u201can inflection point\u201d for tech and the world beyond.",
+            "url": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
+            "urlToImage": "https://media.wired.com/photos/6966cad4128328ffe04a0763/191:100/w_1280,c_limit/Former-CISA-Director-Will-Lead-RSA-Conference-Security-1975568782.jpg",
+            "publishedAt": "2026-01-15T13:00:00Z",
+            "content": "Jen Easterly, a longtime public- and private-sector cybersecurity practitioner who led the US Cybersecurity and Infrastructure Security Agency for more than three years, has been appointed CEO of RSA\u2026 [+3519 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Katie Drummond",
             "title": "Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities",
             "description": "Even as Big Tech CEOs curry favor with President Trump, Silicon Valley employees are calling on their bosses to use their influence to help stop his immigration policies.",
@@ -745,20 +745,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Passant Rabie",
-            "title": "Want to Book a Hotel on the Moon? This Startup Is Now Taking $250K Deposits",
-            "description": "An upcoming space tech startup is looking to build the first hotel on the lunar surface.",
-            "url": "https://gizmodo.com/want-to-book-a-hotel-on-the-moon-this-startup-is-now-taking-250k-deposits-2000709632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/GRU-Lunar-Hotel-Artists-Impression-2048x1152-1-1200x675.jpg",
-            "publishedAt": "2026-01-13T20:30:40Z",
-            "content": "Planning a trip for 2032? You might want to start saving up for a stay at the first hotel on the Moon, a highly ambitious new project from a California-based company looking to take adventure tourism\u2026 [+3766 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -769,6 +755,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
             "publishedAt": "2026-01-05T17:01:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSnapdragon X2 Plus joins Elite and Elite Extreme.\r\nSnapdragon X2 Plus joins Elite and Elite Extreme.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this au\u2026 [+5144 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Want to Book a Hotel on the Moon? This Startup Is Now Taking $250K Deposits",
+            "description": "An upcoming space tech startup is looking to build the first hotel on the lunar surface.",
+            "url": "https://gizmodo.com/want-to-book-a-hotel-on-the-moon-this-startup-is-now-taking-250k-deposits-2000709632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/GRU-Lunar-Hotel-Artists-Impression-2048x1152-1-1200x675.jpg",
+            "publishedAt": "2026-01-13T20:30:40Z",
+            "content": "Planning a trip for 2032? You might want to start saving up for a stay at the first hotel on the Moon, a highly ambitious new project from a California-based company looking to take adventure tourism\u2026 [+3766 chars]",
             "ai_score": 5
         },
         {
