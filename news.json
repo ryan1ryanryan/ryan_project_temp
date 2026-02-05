@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-05 11:40",
+    "last_updated": "2026-02-05 13:08",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -521,6 +521,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Nintendo Switch becomes gaming giant's best-selling console in history",
+            "description": "The Super Mario maker said 155 million units of the console have now been sold overall.",
+            "url": "https://www.bbc.com/news/articles/ckglk543x3go",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5c/live/ad226b00-01ad-11f1-ba93-a3f256eaa772.jpg",
+            "publishedAt": "2026-02-04T11:51:29Z",
+            "content": "Despite this, the company said its sequel the Switch 2, had got off to a \"good start\" since its release in June 2025, selling 17 million units as of the end of the year.",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -923,20 +937,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/fortnite-sidekicks.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-01-08T15:23:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe top-played games on Xbox and PS5 were the same in 2024 and 2025 and likely wont change much in the near future.\r\nThe top-played games on Xbox and PS5 were th\u2026 [+5291 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Hilary Brueck",
-            "title": "Creatine, ADHD video games: The quest for a better brain is turning into a gold rush",
-            "description": "Americans love trying to upgrade their brains \u2014 one scoop, zap, or gaming session at a time",
-            "url": "https://www.businessinsider.com/americas-obsession-paying-to-get-smarter-brain-hacking-adhd-alzheimers-2026-1",
-            "urlToImage": "https://i.insider.com/696582fd04eda4732f2ef0f0?width=1200&format=jpeg",
-            "publishedAt": "2026-01-13T09:03:01Z",
-            "content": "At this point, you've probably at least thought about dropping a few scoops of creatine into your morning smoothie. An amino acid compound that promotes energy production in brain and muscle cells, i\u2026 [+7484 chars]",
             "ai_score": 5
         }
     ]
