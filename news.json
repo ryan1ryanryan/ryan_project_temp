@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-02-05 02:11",
+    "last_updated": "2026-02-05 04:52",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Lenovo\u2019s new concept rollable could be the ideal gaming laptop",
-            "description": "Lenovo is at it again with wild laptop concepts for CES 2026, and the biggest one is the Legion Pro Rollable gaming laptop. It has a flexible OLED display that expands horizontally - as opposed to Lenovo's ThinkBook Plus Gen 6, which rolls up and down. The Le\u2026",
-            "url": "https://www.theverge.com/tech/852352/lenovo-legion-pro-rollable-gaming-laptop-concept-ces-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268236_Lenovo_Legion_Pro_Rollable_gaming_laptop_concept_CES2026_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-07T00:12:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLenovos new rollable laptop for gamers has an OLED screen that horizontally extends from a 16-inch to a 24-inch.\r\nLenovos new rollable laptop for gamers has an O\u2026 [+5240 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-06T05:22:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nNvidia is also adding joystick and yoke flight control support to GeForce Now.\r\nb\u2026 [+3290 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Lenovo\u2019s new concept rollable could be the ideal gaming laptop",
+            "description": "Lenovo is at it again with wild laptop concepts for CES 2026, and the biggest one is the Legion Pro Rollable gaming laptop. It has a flexible OLED display that expands horizontally - as opposed to Lenovo's ThinkBook Plus Gen 6, which rolls up and down. The Le\u2026",
+            "url": "https://www.theverge.com/tech/852352/lenovo-legion-pro-rollable-gaming-laptop-concept-ces-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268236_Lenovo_Legion_Pro_Rollable_gaming_laptop_concept_CES2026_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-07T00:12:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLenovos new rollable laptop for gamers has an OLED screen that horizontally extends from a 16-inch to a 24-inch.\r\nLenovos new rollable laptop for gamers has an O\u2026 [+5240 chars]",
             "ai_score": 5
         },
         {
@@ -605,20 +605,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Surprise, surprise: Silksong wins Steam\u2019s Game of the Year",
-            "description": "Valve has announced the winners of the 2025 Steam Awards and, unsurprisingly, Hollow Knight: Silksong, took home the Game of the Year honors. It was also given the \"Best Game You Suck At\" award, which, I'm not sure if that's a good thing or not. Given the rel\u2026",
-            "url": "https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Screenshot-2026-01-03-at-6.01.33%E2%80%AFPM.png?quality=90&strip=all&crop=0,2.1926927181259,100,85.134153033831",
-            "publishedAt": "2026-01-03T23:04:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHades II, Baldurs Gate 3, The Midnight Walk, and Silent Hill f also took home awards.\r\nHades II, Baldurs Gate 3, The Midnight Walk, and Silent Hill f also took h\u2026 [+1975 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -937,6 +923,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/fortnite-sidekicks.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-01-08T15:23:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe top-played games on Xbox and PS5 were the same in 2024 and 2025 and likely wont change much in the near future.\r\nThe top-played games on Xbox and PS5 were th\u2026 [+5291 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hilary Brueck",
+            "title": "Creatine, ADHD video games: The quest for a better brain is turning into a gold rush",
+            "description": "Americans love trying to upgrade their brains \u2014 one scoop, zap, or gaming session at a time",
+            "url": "https://www.businessinsider.com/americas-obsession-paying-to-get-smarter-brain-hacking-adhd-alzheimers-2026-1",
+            "urlToImage": "https://i.insider.com/696582fd04eda4732f2ef0f0?width=1200&format=jpeg",
+            "publishedAt": "2026-01-13T09:03:01Z",
+            "content": "At this point, you've probably at least thought about dropping a few scoops of creatine into your morning smoothie. An amino acid compound that promotes energy production in brain and muscle cells, i\u2026 [+7484 chars]",
             "ai_score": 5
         }
     ]
