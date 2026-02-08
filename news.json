@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-08 12:57",
+    "last_updated": "2026-02-08 13:51",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -342,20 +342,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Lauren Goode",
-            "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
-            "description": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives.",
-            "url": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
-            "urlToImage": "https://media.wired.com/photos/6965992c482e29ae79e365d8/191:100/w_1280,c_limit/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg",
-            "publishedAt": "2026-01-14T22:48:32Z",
-            "content": "Since Donald Trump returned to the White House last January, the biggest names in tech have mostly fallen in line with the new regime, attending dinners with officials, heaping praise upon the admini\u2026 [+3882 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Boutayna Chokrane",
             "title": "Nick Goepper\u2019s Starter Pack: Winter Olympics 2026",
             "description": "Inside freestyle skier Nick Goepper\u2019s starter pack: the tech, recovery tools, and rituals powering his comeback in the halfpipe for the 2026 Winter Games.",
@@ -363,6 +349,20 @@
             "urlToImage": "https://media.wired.com/photos/6979d8491a6ccc7c52091a0e/191:100/w_1280,c_limit/012726_Winter-Olympics-Nick%20Goepper-SP.jpg",
             "publishedAt": "2026-02-03T11:30:00Z",
             "content": "Pit Vipers Magic Magnet system makes lens changes easy, even with gloves on. Goepper rotates between just two: a blackout lens for daytime sessions and a clear lens for nighttime. With an ultrawide f\u2026 [+1887 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode",
+            "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
+            "description": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives.",
+            "url": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
+            "urlToImage": "https://media.wired.com/photos/6965992c482e29ae79e365d8/191:100/w_1280,c_limit/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg",
+            "publishedAt": "2026-01-14T22:48:32Z",
+            "content": "Since Donald Trump returned to the White House last January, the biggest names in tech have mostly fallen in line with the new regime, attending dinners with officials, heaping praise upon the admini\u2026 [+3882 chars]",
             "ai_score": 5
         },
         {
@@ -412,20 +412,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "Asus says it\u2019s dropping the RTX 5070 Ti as the memory shortage squeezes supply",
-            "description": "On Thursday, Hardware Unboxed reported that Asus is winding down production of its RTX 5070 Ti, saying, Asus \"explicitly told us this model is currently facing a supply shortage and, as such, they have placed the model into end-of-life status.\" They added tha\u2026",
-            "url": "https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257586_Nvidia_RTX_5070_TWarren_0006.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
-            "publishedAt": "2026-01-15T22:06:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is hitting cheaper versions of 50-series GPUs, but Nvidia says it hasnt stopped making them.\r\nThe RAM shortage is hitting cheaper versions of 50\u2026 [+3442 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tom Warren",
             "title": "Call of Duty tries to block XIM and Cronus cheaters again",
             "description": "Activision is trying to crack down on third-party hardware cheating devices in Call of Duty again. Both Call of Duty: Warzone and Call of Duty: Black Ops 7 have been plagued by players using devices like XIM, Cronus Zen, and ReaSnow S1 to enable unfair advant\u2026",
@@ -433,6 +419,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BO7-MULTIPLAYER-OVERVIEW-TOUT.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-02-03T14:11:59Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nby\r\u2026 [+3105 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Asus says it\u2019s dropping the RTX 5070 Ti as the memory shortage squeezes supply",
+            "description": "On Thursday, Hardware Unboxed reported that Asus is winding down production of its RTX 5070 Ti, saying, Asus \"explicitly told us this model is currently facing a supply shortage and, as such, they have placed the model into end-of-life status.\" They added tha\u2026",
+            "url": "https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257586_Nvidia_RTX_5070_TWarren_0006.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+            "publishedAt": "2026-01-15T22:06:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is hitting cheaper versions of 50-series GPUs, but Nvidia says it hasnt stopped making them.\r\nThe RAM shortage is hitting cheaper versions of 50\u2026 [+3442 chars]",
             "ai_score": 5
         },
         {
@@ -482,20 +482,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "Democrats should reject tech influence to win elections, Warren says",
-            "description": "The path forward for the Democratic party after its 2024 defeat includes less tech influence and more populist policies, according to Sen. Elizabeth Warren (D-MA). Warren delivered this message in a speech at the National Press Club in Washington, DC on Monda\u2026",
-            "url": "https://www.theverge.com/news/860706/democrats-elections-big-tech-influence-senator-warren",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23646266/1393837660.jpg?quality=90&strip=all&crop=0%2C10.727421605036%2C100%2C78.545156789928&w=1200",
-            "publishedAt": "2026-01-12T18:44:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over rich donors.\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over ric\u2026 [+2851 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Nilay Patel",
             "title": "Experian\u2019s tech chief defends credit scores: \u2018We\u2019re not Palantir\u2019",
             "description": "Today, I\u2019m talking with Alex Lintner, who is the CEO of technology and software solutions at Experian, the credit reporting company. Experian is one of those multinationals that\u2019s so big and convoluted that it has multiple CEOs all over the world, so Alex and\u2026",
@@ -503,6 +489,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
             "publishedAt": "2026-01-26T14:17:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Democrats should reject tech influence to win elections, Warren says",
+            "description": "The path forward for the Democratic party after its 2024 defeat includes less tech influence and more populist policies, according to Sen. Elizabeth Warren (D-MA). Warren delivered this message in a speech at the National Press Club in Washington, DC on Monda\u2026",
+            "url": "https://www.theverge.com/news/860706/democrats-elections-big-tech-influence-senator-warren",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23646266/1393837660.jpg?quality=90&strip=all&crop=0%2C10.727421605036%2C100%2C78.545156789928&w=1200",
+            "publishedAt": "2026-01-12T18:44:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over rich donors.\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over ric\u2026 [+2851 chars]",
             "ai_score": 5
         },
         {
@@ -615,6 +615,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Asus-Zenbook-Duo-2026-review-3-1200x675.jpg",
             "publishedAt": "2026-01-27T13:55:51Z",
             "content": "If your gaming machine isnt rendering any frames itself, whats the point of having a costly computer at all? I know some of you out there are mumbling resentments, asking that question already knowin\u2026 [+8110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
+            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
+            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-07T13:17:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
             "ai_score": 5
         },
         {
@@ -748,20 +762,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Sasha Lekach",
-            "title": "Sony Honda Mobility Still Needs to Deliver Its Game-Filled Afeela 1 EV, but Here\u2019s a New Concept Car",
-            "description": "Sony Honda Mobility introduced the Afeela Prototype 2026 at CES as a larger crossover EV.",
-            "url": "https://gizmodo.com/sony-honda-mobility-still-needs-to-deliver-its-game-filled-afeela-1-ev-but-heres-a-new-concept-car-2000706776",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Prototype-SHM-Official-1200x675.jpeg",
-            "publishedAt": "2026-01-07T16:50:09Z",
-            "content": "Sony Honda Mobility\u2019s first collab car, the Afeela 1, still hasn\u2019t hit the road yet, but the Japanese company is already moving on to its next electric vehicle.\r\nAt a CES event in Las Vegas this week\u2026 [+3485 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "James Pero",
             "title": "CES 2026 Really Wants You to Own a Holographic Anime Girlfriend",
             "description": "Mark this convention down as the Year of the Waifu.",
@@ -769,6 +769,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/AI-girfriend-1200x675.jpg",
             "publishedAt": "2026-01-08T01:10:58Z",
             "content": "If you had \u201cholographic anime girlfriends\u201d on your CES 2026 bingo card, congratulations; you are both unhinged and\u00a0correct. I personally did not see this trend coming, but after walking the show floo\u2026 [+2559 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Sasha Lekach",
+            "title": "Sony Honda Mobility Still Needs to Deliver Its Game-Filled Afeela 1 EV, but Here\u2019s a New Concept Car",
+            "description": "Sony Honda Mobility introduced the Afeela Prototype 2026 at CES as a larger crossover EV.",
+            "url": "https://gizmodo.com/sony-honda-mobility-still-needs-to-deliver-its-game-filled-afeela-1-ev-but-heres-a-new-concept-car-2000706776",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Prototype-SHM-Official-1200x675.jpeg",
+            "publishedAt": "2026-01-07T16:50:09Z",
+            "content": "Sony Honda Mobility\u2019s first collab car, the Afeela 1, still hasn\u2019t hit the road yet, but the Japanese company is already moving on to its next electric vehicle.\r\nAt a CES event in Las Vegas this week\u2026 [+3485 chars]",
             "ai_score": 5
         },
         {
@@ -846,20 +860,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Justine Calma",
-            "title": "Trump and Mid-Atlantic governors want tech companies to pay for new power plants",
-            "description": "The Trump administration and a bipartisan group of governors are pressuring the PJM Interconnection, the biggest electricity market in the US, to hold a power auction meant to spur a massive buildout of new power plants. Together, they're \"urging\" PJM to hold\u2026",
-            "url": "https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2243421135.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-            "publishedAt": "2026-01-16T20:51:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyre calling for an emergency power auction.\r\nTheyre calling for an emergency power auction.\r\nby\r\nJustine CalmaClose\r\nPosts from this author will be added to y\u2026 [+3504 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Samsung and Intel\u2019s OLED tech makes HDR easier on laptop battery life",
             "description": "Samsung Display and Intel have teamed up on laptop technology called SmartPower HDR that they claim can minimize power usage while you're watching HDR content on an OLED screen. Intel showed off this technology last year, but Samsung Display is sharing detail\u2026",
@@ -867,6 +867,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ibld4nq4jb_20260106184208.jpg?quality=90&strip=all&crop=0%2C6.7799290206964%2C100%2C86.440141958607&w=1200",
             "publishedAt": "2026-01-07T01:06:12Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new SmartPower HDR tech adjusts the voltage to keep laptop displays from draining your battery unnecessarily.\r\nThe new SmartPower HDR tech adjusts the voltag\u2026 [+2628 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Trump and Mid-Atlantic governors want tech companies to pay for new power plants",
+            "description": "The Trump administration and a bipartisan group of governors are pressuring the PJM Interconnection, the biggest electricity market in the US, to hold a power auction meant to spur a massive buildout of new power plants. Together, they're \"urging\" PJM to hold\u2026",
+            "url": "https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2243421135.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2026-01-16T20:51:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyre calling for an emergency power auction.\r\nTheyre calling for an emergency power auction.\r\nby\r\nJustine CalmaClose\r\nPosts from this author will be added to y\u2026 [+3504 chars]",
             "ai_score": 5
         },
         {
@@ -930,20 +944,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Asus now claims it\u2019s not dropping the RTX 5070 Ti amid memory shortages",
-            "description": "The GPU market is turning into a mess again. Asus told Hardware Unboxed earlier this week that it was winding down production of its RTX 5070 Ti, but the PC maker is now walking back that claim and blaming \"incomplete information\" from its own Asus PR represe\u2026",
-            "url": "https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257566_Nvidia_RTX_5070_Ti_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
-            "publishedAt": "2026-01-16T12:05:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RTX 5070 Ti will probably still be very hard to find on retail shelves.\r\nThe RTX 5070 Ti will probably still be very hard to find on retail shelves.\r\nby\r\nTom\u2026 [+3977 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters, Sean Hollister",
             "title": "Valve\u2019s Steam Machine has been delayed, and the RAM crisis will impact pricing",
             "description": "When Valve first announced its impressive-looking Steam Machine, Steam Frame, and Steam Controller hardware in November, the company said the products would begin shipping in early 2026. Some journalists were told \"Q1 2026\" specifically. But because of the on\u2026",
@@ -958,13 +958,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Under Musk, the Grok disaster was inevitable",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
-            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-18T04:23:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
+            "author": "Tom Warren",
+            "title": "Asus now claims it\u2019s not dropping the RTX 5070 Ti amid memory shortages",
+            "description": "The GPU market is turning into a mess again. Asus told Hardware Unboxed earlier this week that it was winding down production of its RTX 5070 Ti, but the PC maker is now walking back that claim and blaming \"incomplete information\" from its own Asus PR represe\u2026",
+            "url": "https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257566_Nvidia_RTX_5070_Ti_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+            "publishedAt": "2026-01-16T12:05:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RTX 5070 Ti will probably still be very hard to find on retail shelves.\r\nThe RTX 5070 Ti will probably still be very hard to find on retail shelves.\r\nby\r\nTom\u2026 [+3977 chars]",
             "ai_score": 5
         },
         {
@@ -972,13 +972,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The end of the Sony era in TVs",
-            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
-            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-23T15:20:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
+            "author": "Lauren Feiner",
+            "title": "2026 is the year of social media\u2019s legal reckoning",
+            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
+            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-26T15:31:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
             "ai_score": 5
         },
         {
@@ -1000,13 +1000,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "2026 is the year of social media\u2019s legal reckoning",
-            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
-            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T15:31:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
+            "author": "David Pierce",
+            "title": "The end of the Sony era in TVs",
+            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
+            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-23T15:20:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Under Musk, the Grok disaster was inevitable",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
+            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-18T04:23:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
             "ai_score": 5
         },
         {
@@ -1049,20 +1063,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257821_Telly_ERoth_0106.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-22T16:53:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nFew TVs installed, many broken in transit.\r\nFew TVs installed, many broken in transit.\r\nby\r\nJanko RoettgersClose\r\nLowpass author, Verge contributor\r\nPosts from t\u2026 [+5344 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "Waymo raises $16 billion to take its robotaxi business \u2018global\u2019",
-            "description": "Waymo announced a $16 billion investment round aimed at bringing its robotaxi business to more US cities, as well as some overseas markets. The funding round was led by Dragoneer Investment Group, a \"crossover\" firm known for investing in late-stage tech comp\u2026",
-            "url": "https://www.theverge.com/transportation/872651/waymo-raises-16-billion-investment-value-robotaxi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-02T22:30:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIs an IPO next?\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by An\u2026 [+3048 chars]",
             "ai_score": 5
         }
     ]
