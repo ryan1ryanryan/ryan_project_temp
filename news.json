@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-09 10:09",
+    "last_updated": "2026-02-09 11:49",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -619,20 +619,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
-            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
-            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-07T13:17:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -643,6 +629,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6818/live/837d9160-0344-11f1-b5e2-dd58fc65f0f6.jpg",
             "publishedAt": "2026-02-08T01:07:34Z",
             "content": "\"Back in the 80s or 90s it was very easy to get into a vehicle, steal it and take it away. It was probably cheaper than getting a taxi at the time,\" he said. \"Now, because of the value of vehicles go\u2026 [+90 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
+            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
+            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-07T13:17:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
             "ai_score": 5
         },
         {
