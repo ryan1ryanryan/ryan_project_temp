@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-10 15:04",
+    "last_updated": "2026-02-10 16:18",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Microsoft scrambles to quell fury around its new AI data centers",
+            "description": "It looks like the wave of campaigns against data centers are getting under big tech companies' skin - and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers. The company announced a five-poi\u2026",
+            "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-13T15:33:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt made five pledges to address concerns that have stymied plans to build out new AI data centers.\r\nIt made five pledges to address concerns that have stymied pl\u2026 [+5202 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -111,6 +125,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego_pokemon_1.jpg?quality=90&strip=all&crop=0%2C10.724423792713%2C100%2C78.551152414575&w=1200",
             "publishedAt": "2026-01-12T15:58:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPikachu, Eevee, Charizard, Blastoise, and Venusaur are featured in the new sets that will be available on February 27th.\r\nPikachu, Eevee, Charizard, Blastoise, a\u2026 [+3597 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "To Succeed, the Next-Gen Xbox Needs to Steal These PC Features",
+            "description": "You may have more than one choice of next-gen Xbox, and not just from Microsoft.",
+            "url": "https://gizmodo.com/to-succeed-the-next-gen-xbox-needs-to-steal-these-pc-features-2000719649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Xbox-Series-X-Controller-1-1200x675.jpg",
+            "publishedAt": "2026-02-09T16:11:31Z",
+            "content": "Everything is an Xbox sounds like a great tagline until you ask gamers what they truly want from Microsofts longtime console brand. Heres a hint: its not more cloud gaming. The catchphrase everything\u2026 [+4519 chars]",
             "ai_score": 5
         },
         {
@@ -566,20 +594,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
-            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
-            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-07T13:17:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Charles Pulliam-Moore",
             "title": "A Palworld trading card game is coming this summer",
             "description": "Palworld, the monster-hunting action / adventure game known for its originality, is getting into the trading card business. Pocketpair announced today that it has partnered with Bushiroad - the company behind the Weiss Schwarz and Shadowverse: Evolve trading \u2026",
@@ -587,6 +601,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/scqn8v.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-01-12T15:52:55Z",
             "content": "<ul><li></li></ul>\r\nThe first set of Palworld cards are slated to release on July 30th.\r\nThe first set of Palworld cards are slated to release on July 30th.\r\nby\r\nCharles Pulliam-MooreClose\r\nCharles P\u2026 [+1649 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
+            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
+            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-07T13:17:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
             "ai_score": 5
         },
         {
@@ -718,20 +746,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
-            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
-            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
-            "publishedAt": "2026-02-09T00:01:57Z",
-            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "Ty Pendlebury",
@@ -741,6 +755,20 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/950436f6fe4b103a3ab6c617e5a337c83cfe1056/hub/2026/01/30/0dcc83e1-bfde-4687-8159-0bebc1b6f653/maingear-retro98.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-01-30T22:32:43Z",
             "content": "Everything '90s is back -- from Walkmans\u00a0and cassettes to postgrunge rock. Gaming PC maker Maingear is getting on board the trend, selling a 1990s-inspired PC, the Retro98. The company says it even h\u2026 [+1761 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
+            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
+            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
+            "publishedAt": "2026-02-09T00:01:57Z",
+            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
             "ai_score": 5
         },
         {
@@ -951,20 +979,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T22:22:19Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Justine Calma",
-            "title": "Microsoft scrambles to quell fury around its new AI data centers",
-            "description": "It looks like the wave of campaigns against data centers are getting under big tech companies' skin - and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers. The company announced a five-poi\u2026",
-            "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-13T15:33:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt made five pledges to address concerns that have stymied plans to build out new AI data centers.\r\nIt made five pledges to address concerns that have stymied pl\u2026 [+5202 chars]",
             "ai_score": 5
         },
         {
