@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-10 13:20",
+    "last_updated": "2026-02-10 15:04",
     "articles": [
         {
             "source": {
@@ -577,20 +577,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "My car was stolen. Here are six important things I learned",
-            "description": "Keyless thefts are on the rise and car crime is increasingly organised and high-tech.",
-            "url": "https://www.bbc.com/news/articles/c5yp08kmk4eo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6818/live/837d9160-0344-11f1-b5e2-dd58fc65f0f6.jpg",
-            "publishedAt": "2026-02-08T01:07:34Z",
-            "content": "\"Back in the 80s or 90s it was very easy to get into a vehicle, steal it and take it away. It was probably cheaper than getting a taxi at the time,\" he said. \"Now, because of the value of vehicles go\u2026 [+90 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -601,6 +587,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/scqn8v.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-01-12T15:52:55Z",
             "content": "<ul><li></li></ul>\r\nThe first set of Palworld cards are slated to release on July 30th.\r\nThe first set of Palworld cards are slated to release on July 30th.\r\nby\r\nCharles Pulliam-MooreClose\r\nCharles P\u2026 [+1649 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "My car was stolen. Here are six important things I learned",
+            "description": "Keyless thefts are on the rise and car crime is increasingly organised and high-tech.",
+            "url": "https://www.bbc.com/news/articles/c5yp08kmk4eo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6818/live/837d9160-0344-11f1-b5e2-dd58fc65f0f6.jpg",
+            "publishedAt": "2026-02-08T01:07:34Z",
+            "content": "\"Back in the 80s or 90s it was very easy to get into a vehicle, steal it and take it away. It was probably cheaper than getting a taxi at the time,\" he said. \"Now, because of the value of vehicles go\u2026 [+90 chars]",
             "ai_score": 5
         },
         {
@@ -1091,20 +1091,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/openfit-pro-1200x675.jpg",
             "publishedAt": "2026-01-13T22:00:41Z",
             "content": "If there\u2019s one thing that CES 2026 illustrated to audiophiles, it\u2019s that open-ear audio is\u00a0the thing\u00a0right now. The category isn\u2019t newbig names in the audio space like Bose and Nothing have been sell\u2026 [+4048 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Former 2K Boss Leaves Amazon Game Studios As It Pivots To Party Slop",
-            "description": "Christoph Hartmann was a key hire back in 2018\nThe post Former 2K Boss Leaves Amazon Game Studios As It Pivots To Party Slop appeared first on Kotaku.",
-            "url": "https://kotaku.com/2k-christoph-hartmann-amazon-studios-crucible-2000663900",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/01/crucible-1200x675.jpg",
-            "publishedAt": "2026-01-28T21:42:28Z",
-            "content": "The boss of Amazon Game Studios is out. VP Christoph Hartmann is leaving the company according to Bloomberg\u2018s Jason Schreier. It\u2019s another big blow to another tech giant that once had big ambitions f\u2026 [+1757 chars]",
             "ai_score": 5
         }
     ]
