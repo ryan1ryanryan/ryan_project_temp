@@ -1,90 +1,6 @@
 {
-    "last_updated": "2026-02-11 08:57",
+    "last_updated": "2026-02-11 10:00",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Half of developers think gen AI is bad for the gaming industry",
-            "description": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of\u2026",
-            "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T20:35:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia\u2019s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
-            "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chip\u2026",
-            "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-05T16:33:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritiz\u2026 [+2879 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Nintendo\u2019s Virtual Boy Recreation Reminds Us Gaming Doesn\u2019t Have to Be Fun",
-            "description": "You'll enjoy Nintendo's $100 Virtual Boy Switch 2 accessory if you look at it like a gaming archaeologist.",
-            "url": "https://gizmodo.com/nintendos-virtual-boy-recreation-reminds-us-gaming-doesnt-have-to-be-fun-2000716819",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Nintendo-Virtual-Boy-3-1200x675.jpg",
-            "publishedAt": "2026-02-03T14:00:56Z",
-            "content": "The recreated Virtual Boy may represent a new era of Nintendo, or at least the company\u2019s willingness to respect its past failures. For the $100 recreation of the nearly 31-year-old virtual reality co\u2026 [+8351 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
-            "description": "The longtime cybersecurity professional says she\u2019s taking the helm of the legacy security organization at \u201can inflection point\u201d for tech and the world beyond.",
-            "url": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
-            "urlToImage": "https://media.wired.com/photos/6966cad4128328ffe04a0763/191:100/w_1280,c_limit/Former-CISA-Director-Will-Lead-RSA-Conference-Security-1975568782.jpg",
-            "publishedAt": "2026-01-15T13:00:00Z",
-            "content": "Jen Easterly, a longtime public- and private-sector cybersecurity practitioner who led the US Cybersecurity and Infrastructure Security Agency for more than three years, has been appointed CEO of RSA\u2026 [+3519 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Lauren Edmonds",
-            "title": "Google Cloud gaming boss says AI is the Iron Man suit for game developers \u2014 and everyone needs to get on board",
-            "description": "For Jack Buser, who has worked in the gaming industry for 30 years, AI is  an opportunity to push the boundaries of player experiences.",
-            "url": "https://www.businessinsider.com/ai-gaming-developers-jack-buser-google-2026-1",
-            "urlToImage": "https://i.insider.com/69768282d3c7faef0ecce384?width=1200&format=jpeg",
-            "publishedAt": "2026-01-26T10:03:01Z",
-            "content": "Jack Buser, the global director for games at Google Cloud, compared equipping game developers with AI to giving them Iron Man's suit.Gabe Ginsberg/Getty Images\r\n<ul><li>Jack Buser, Google Cloud's gam\u2026 [+3500 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "Experian\u2019s tech chief defends credit scores: \u2018We\u2019re not Palantir\u2019",
-            "description": "Today, I\u2019m talking with Alex Lintner, who is the CEO of technology and software solutions at Experian, the credit reporting company. Experian is one of those multinationals that\u2019s so big and convoluted that it has multiple CEOs all over the world, so Alex and\u2026",
-            "url": "https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-            "publishedAt": "2026-01-26T14:17:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -111,6 +27,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T21:36:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Half of developers think gen AI is bad for the gaming industry",
+            "description": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of\u2026",
+            "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T20:35:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Nvidia\u2019s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
+            "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chip\u2026",
+            "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-05T16:33:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritiz\u2026 [+2879 chars]",
             "ai_score": 5
         },
         {
@@ -269,6 +213,34 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Nintendo\u2019s Virtual Boy Recreation Reminds Us Gaming Doesn\u2019t Have to Be Fun",
+            "description": "You'll enjoy Nintendo's $100 Virtual Boy Switch 2 accessory if you look at it like a gaming archaeologist.",
+            "url": "https://gizmodo.com/nintendos-virtual-boy-recreation-reminds-us-gaming-doesnt-have-to-be-fun-2000716819",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Nintendo-Virtual-Boy-3-1200x675.jpg",
+            "publishedAt": "2026-02-03T14:00:56Z",
+            "content": "The recreated Virtual Boy may represent a new era of Nintendo, or at least the company\u2019s willingness to respect its past failures. For the $100 recreation of the nearly 31-year-old virtual reality co\u2026 [+8351 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "Former CISA Director Jen Easterly Will Lead RSA Conference",
+            "description": "The longtime cybersecurity professional says she\u2019s taking the helm of the legacy security organization at \u201can inflection point\u201d for tech and the world beyond.",
+            "url": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
+            "urlToImage": "https://media.wired.com/photos/6966cad4128328ffe04a0763/191:100/w_1280,c_limit/Former-CISA-Director-Will-Lead-RSA-Conference-Security-1975568782.jpg",
+            "publishedAt": "2026-01-15T13:00:00Z",
+            "content": "Jen Easterly, a longtime public- and private-sector cybersecurity practitioner who led the US Cybersecurity and Infrastructure Security Agency for more than three years, has been appointed CEO of RSA\u2026 [+3519 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -286,20 +258,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Lauren Goode",
-            "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
-            "description": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives.",
-            "url": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
-            "urlToImage": "https://media.wired.com/photos/6965992c482e29ae79e365d8/191:100/w_1280,c_limit/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg",
-            "publishedAt": "2026-01-14T22:48:32Z",
-            "content": "Since Donald Trump returned to the White House last January, the biggest names in tech have mostly fallen in line with the new regime, attending dinners with officials, heaping praise upon the admini\u2026 [+3882 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Boutayna Chokrane",
             "title": "Nick Goepper\u2019s Starter Pack: Winter Olympics 2026",
             "description": "Inside freestyle skier Nick Goepper\u2019s starter pack: the tech, recovery tools, and rituals powering his comeback in the halfpipe for the 2026 Winter Games.",
@@ -307,6 +265,20 @@
             "urlToImage": "https://media.wired.com/photos/6979d8491a6ccc7c52091a0e/191:100/w_1280,c_limit/012726_Winter-Olympics-Nick%20Goepper-SP.jpg",
             "publishedAt": "2026-02-03T11:30:00Z",
             "content": "Pit Vipers Magic Magnet system makes lens changes easy, even with gloves on. Goepper rotates between just two: a blackout lens for daytime sessions and a clear lens for nighttime. With an ultrawide f\u2026 [+1887 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode",
+            "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
+            "description": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives.",
+            "url": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
+            "urlToImage": "https://media.wired.com/photos/6965992c482e29ae79e365d8/191:100/w_1280,c_limit/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg",
+            "publishedAt": "2026-01-14T22:48:32Z",
+            "content": "Since Donald Trump returned to the White House last January, the biggest names in tech have mostly fallen in line with the new regime, attending dinners with officials, heaping praise upon the admini\u2026 [+3882 chars]",
             "ai_score": 5
         },
         {
@@ -342,20 +314,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "Asus says it\u2019s dropping the RTX 5070 Ti as the memory shortage squeezes supply",
-            "description": "On Thursday, Hardware Unboxed reported that Asus is winding down production of its RTX 5070 Ti, saying, Asus \"explicitly told us this model is currently facing a supply shortage and, as such, they have placed the model into end-of-life status.\" They added tha\u2026",
-            "url": "https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257586_Nvidia_RTX_5070_TWarren_0006.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
-            "publishedAt": "2026-01-15T22:06:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is hitting cheaper versions of 50-series GPUs, but Nvidia says it hasnt stopped making them.\r\nThe RAM shortage is hitting cheaper versions of 50\u2026 [+3442 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tom Warren",
             "title": "Call of Duty tries to block XIM and Cronus cheaters again",
             "description": "Activision is trying to crack down on third-party hardware cheating devices in Call of Duty again. Both Call of Duty: Warzone and Call of Duty: Black Ops 7 have been plagued by players using devices like XIM, Cronus Zen, and ReaSnow S1 to enable unfair advant\u2026",
@@ -363,6 +321,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BO7-MULTIPLAYER-OVERVIEW-TOUT.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-02-03T14:11:59Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nby\r\u2026 [+3105 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Asus says it\u2019s dropping the RTX 5070 Ti as the memory shortage squeezes supply",
+            "description": "On Thursday, Hardware Unboxed reported that Asus is winding down production of its RTX 5070 Ti, saying, Asus \"explicitly told us this model is currently facing a supply shortage and, as such, they have placed the model into end-of-life status.\" They added tha\u2026",
+            "url": "https://www.theverge.com/news/863000/asus-nvidia-rtx-5070-ti-5060-ti-supply-rumors",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257586_Nvidia_RTX_5070_TWarren_0006.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+            "publishedAt": "2026-01-15T22:06:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is hitting cheaper versions of 50-series GPUs, but Nvidia says it hasnt stopped making them.\r\nThe RAM shortage is hitting cheaper versions of 50\u2026 [+3442 chars]",
             "ai_score": 5
         },
         {
@@ -377,6 +349,34 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/gamer-1200x675.jpg",
             "publishedAt": "2026-01-20T15:35:08Z",
             "content": "Weve got great news for everyone whos ever been kept awake until the wee hours of the morning by a family member or housemate screaming obscenities at their monitor while playing video games. Your le\u2026 [+2683 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "Google Cloud gaming boss says AI is the Iron Man suit for game developers \u2014 and everyone needs to get on board",
+            "description": "For Jack Buser, who has worked in the gaming industry for 30 years, AI is  an opportunity to push the boundaries of player experiences.",
+            "url": "https://www.businessinsider.com/ai-gaming-developers-jack-buser-google-2026-1",
+            "urlToImage": "https://i.insider.com/69768282d3c7faef0ecce384?width=1200&format=jpeg",
+            "publishedAt": "2026-01-26T10:03:01Z",
+            "content": "Jack Buser, the global director for games at Google Cloud, compared equipping game developers with AI to giving them Iron Man's suit.Gabe Ginsberg/Getty Images\r\n<ul><li>Jack Buser, Google Cloud's gam\u2026 [+3500 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Experian\u2019s tech chief defends credit scores: \u2018We\u2019re not Palantir\u2019",
+            "description": "Today, I\u2019m talking with Alex Lintner, who is the CEO of technology and software solutions at Experian, the credit reporting company. Experian is one of those multinationals that\u2019s so big and convoluted that it has multiple CEOs all over the world, so Alex and\u2026",
+            "url": "https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+            "publishedAt": "2026-01-26T14:17:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
             "ai_score": 5
         },
         {
@@ -552,20 +552,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
-            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
-            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-07T13:17:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Charles Pulliam-Moore",
             "title": "A Palworld trading card game is coming this summer",
             "description": "Palworld, the monster-hunting action / adventure game known for its originality, is getting into the trading card business. Pocketpair announced today that it has partnered with Bushiroad - the company behind the Weiss Schwarz and Shadowverse: Evolve trading \u2026",
@@ -573,6 +559,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/scqn8v.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-01-12T15:52:55Z",
             "content": "<ul><li></li></ul>\r\nThe first set of Palworld cards are slated to release on July 30th.\r\nThe first set of Palworld cards are slated to release on July 30th.\r\nby\r\nCharles Pulliam-MooreClose\r\nCharles P\u2026 [+1649 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
+            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
+            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-07T13:17:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
             "ai_score": 5
         },
         {
@@ -734,20 +734,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Asus now claims it\u2019s not dropping the RTX 5070 Ti amid memory shortages",
-            "description": "The GPU market is turning into a mess again. Asus told Hardware Unboxed earlier this week that it was winding down production of its RTX 5070 Ti, but the PC maker is now walking back that claim and blaming \"incomplete information\" from its own Asus PR represe\u2026",
-            "url": "https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257566_Nvidia_RTX_5070_Ti_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
-            "publishedAt": "2026-01-16T12:05:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RTX 5070 Ti will probably still be very hard to find on retail shelves.\r\nThe RTX 5070 Ti will probably still be very hard to find on retail shelves.\r\nby\r\nTom\u2026 [+3977 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters, Sean Hollister",
             "title": "Valve\u2019s Steam Machine has been delayed, and the RAM crisis will impact pricing",
             "description": "When Valve first announced its impressive-looking Steam Machine, Steam Frame, and Steam Controller hardware in November, the company said the products would begin shipping in early 2026. Some journalists were told \"Q1 2026\" specifically. But because of the on\u2026",
@@ -762,13 +748,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Under Musk, the Grok disaster was inevitable",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
-            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-18T04:23:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
+            "author": "Tom Warren",
+            "title": "Asus now claims it\u2019s not dropping the RTX 5070 Ti amid memory shortages",
+            "description": "The GPU market is turning into a mess again. Asus told Hardware Unboxed earlier this week that it was winding down production of its RTX 5070 Ti, but the PC maker is now walking back that claim and blaming \"incomplete information\" from its own Asus PR represe\u2026",
+            "url": "https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257566_Nvidia_RTX_5070_Ti_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+            "publishedAt": "2026-01-16T12:05:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RTX 5070 Ti will probably still be very hard to find on retail shelves.\r\nThe RTX 5070 Ti will probably still be very hard to find on retail shelves.\r\nby\r\nTom\u2026 [+3977 chars]",
             "ai_score": 5
         },
         {
@@ -776,13 +762,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The end of the Sony era in TVs",
-            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
-            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-23T15:20:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
+            "author": "Lauren Feiner",
+            "title": "2026 is the year of social media\u2019s legal reckoning",
+            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
+            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-26T15:31:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
             "ai_score": 5
         },
         {
@@ -804,13 +790,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "2026 is the year of social media\u2019s legal reckoning",
-            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
-            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T15:31:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
+            "author": "David Pierce",
+            "title": "The end of the Sony era in TVs",
+            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
+            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-23T15:20:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Under Musk, the Grok disaster was inevitable",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
+            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-18T04:23:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
             "ai_score": 5
         },
         {
@@ -888,13 +888,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Justine Calma",
-            "title": "Microsoft scrambles to quell fury around its new AI data centers",
-            "description": "It looks like the wave of campaigns against data centers are getting under big tech companies' skin - and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers. The company announced a five-poi\u2026",
-            "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-13T15:33:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt made five pledges to address concerns that have stymied plans to build out new AI data centers.\r\nIt made five pledges to address concerns that have stymied pl\u2026 [+5202 chars]",
+            "author": "David Pierce",
+            "title": "Millions of books died so Claude could live",
+            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
+            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-03T15:19:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
             "ai_score": 5
         },
         {
@@ -916,13 +916,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Millions of books died so Claude could live",
-            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
-            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-03T15:19:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
+            "author": "Justine Calma",
+            "title": "Microsoft scrambles to quell fury around its new AI data centers",
+            "description": "It looks like the wave of campaigns against data centers are getting under big tech companies' skin - and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers. The company announced a five-poi\u2026",
+            "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-13T15:33:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt made five pledges to address concerns that have stymied plans to build out new AI data centers.\r\nIt made five pledges to address concerns that have stymied pl\u2026 [+5202 chars]",
             "ai_score": 5
         },
         {
