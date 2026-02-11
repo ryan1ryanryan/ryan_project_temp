@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-11 14:59",
+    "last_updated": "2026-02-11 16:08",
     "articles": [
         {
             "source": {
@@ -13,20 +13,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
-            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
-            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-27T11:05:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
             "ai_score": 8
         },
         {
@@ -83,6 +69,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/forzahorizon6.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-01-14T15:17:34Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA May 19th release date has appeared inside a Forza Horizon 5 notification.\r\nA May 19th release date has appeared inside a Forza Horizon 5 notification.\r\nby\r\nTom\u2026 [+2342 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
+            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
+            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-27T11:05:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
             "ai_score": 5
         },
         {
@@ -258,20 +258,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Boutayna Chokrane",
-            "title": "Nick Goepper\u2019s Starter Pack: Winter Olympics 2026",
-            "description": "Inside freestyle skier Nick Goepper\u2019s starter pack: the tech, recovery tools, and rituals powering his comeback in the halfpipe for the 2026 Winter Games.",
-            "url": "https://www.wired.com/story/freestyle-skier-nick-goeppers-olympic-starter-pack/",
-            "urlToImage": "https://media.wired.com/photos/6979d8491a6ccc7c52091a0e/191:100/w_1280,c_limit/012726_Winter-Olympics-Nick%20Goepper-SP.jpg",
-            "publishedAt": "2026-02-03T11:30:00Z",
-            "content": "Pit Vipers Magic Magnet system makes lens changes easy, even with gloves on. Goepper rotates between just two: a blackout lens for daytime sessions and a clear lens for nighttime. With an ultrawide f\u2026 [+1887 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Lauren Goode",
             "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
             "description": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives.",
@@ -279,6 +265,20 @@
             "urlToImage": "https://media.wired.com/photos/6965992c482e29ae79e365d8/191:100/w_1280,c_limit/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg",
             "publishedAt": "2026-01-14T22:48:32Z",
             "content": "Since Donald Trump returned to the White House last January, the biggest names in tech have mostly fallen in line with the new regime, attending dinners with officials, heaping praise upon the admini\u2026 [+3882 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boutayna Chokrane",
+            "title": "Nick Goepper\u2019s Starter Pack: Winter Olympics 2026",
+            "description": "Inside freestyle skier Nick Goepper\u2019s starter pack: the tech, recovery tools, and rituals powering his comeback in the halfpipe for the 2026 Winter Games.",
+            "url": "https://www.wired.com/story/freestyle-skier-nick-goeppers-olympic-starter-pack/",
+            "urlToImage": "https://media.wired.com/photos/6979d8491a6ccc7c52091a0e/191:100/w_1280,c_limit/012726_Winter-Olympics-Nick%20Goepper-SP.jpg",
+            "publishedAt": "2026-02-03T11:30:00Z",
+            "content": "Pit Vipers Magic Magnet system makes lens changes easy, even with gloves on. Goepper rotates between just two: a blackout lens for daytime sessions and a clear lens for nighttime. With an ultrawide f\u2026 [+1887 chars]",
             "ai_score": 5
         },
         {
@@ -314,20 +314,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Call of Duty tries to block XIM and Cronus cheaters again",
-            "description": "Activision is trying to crack down on third-party hardware cheating devices in Call of Duty again. Both Call of Duty: Warzone and Call of Duty: Black Ops 7 have been plagued by players using devices like XIM, Cronus Zen, and ReaSnow S1 to enable unfair advant\u2026",
-            "url": "https://www.theverge.com/news/872976/call-of-duty-xim-cronus-reasnow-s1-ban-detections",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BO7-MULTIPLAYER-OVERVIEW-TOUT.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-02-03T14:11:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nby\r\u2026 [+3105 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "Asus says it\u2019s dropping the RTX 5070 Ti as the memory shortage squeezes supply",
             "description": "On Thursday, Hardware Unboxed reported that Asus is winding down production of its RTX 5070 Ti, saying, Asus \"explicitly told us this model is currently facing a supply shortage and, as such, they have placed the model into end-of-life status.\" They added tha\u2026",
@@ -335,6 +321,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257586_Nvidia_RTX_5070_TWarren_0006.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
             "publishedAt": "2026-01-15T22:06:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is hitting cheaper versions of 50-series GPUs, but Nvidia says it hasnt stopped making them.\r\nThe RAM shortage is hitting cheaper versions of 50\u2026 [+3442 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Call of Duty tries to block XIM and Cronus cheaters again",
+            "description": "Activision is trying to crack down on third-party hardware cheating devices in Call of Duty again. Both Call of Duty: Warzone and Call of Duty: Black Ops 7 have been plagued by players using devices like XIM, Cronus Zen, and ReaSnow S1 to enable unfair advant\u2026",
+            "url": "https://www.theverge.com/news/872976/call-of-duty-xim-cronus-reasnow-s1-ban-detections",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BO7-MULTIPLAYER-OVERVIEW-TOUT.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-02-03T14:11:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nby\r\u2026 [+3105 chars]",
             "ai_score": 5
         },
         {
@@ -370,20 +370,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Nilay Patel",
-            "title": "Experian\u2019s tech chief defends credit scores: \u2018We\u2019re not Palantir\u2019",
-            "description": "Today, I\u2019m talking with Alex Lintner, who is the CEO of technology and software solutions at Experian, the credit reporting company. Experian is one of those multinationals that\u2019s so big and convoluted that it has multiple CEOs all over the world, so Alex and\u2026",
-            "url": "https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-            "publishedAt": "2026-01-26T14:17:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Lauren Feiner",
             "title": "Democrats should reject tech influence to win elections, Warren says",
             "description": "The path forward for the Democratic party after its 2024 defeat includes less tech influence and more populist policies, according to Sen. Elizabeth Warren (D-MA). Warren delivered this message in a speech at the National Press Club in Washington, DC on Monda\u2026",
@@ -391,6 +377,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23646266/1393837660.jpg?quality=90&strip=all&crop=0%2C10.727421605036%2C100%2C78.545156789928&w=1200",
             "publishedAt": "2026-01-12T18:44:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over rich donors.\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over ric\u2026 [+2851 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Experian\u2019s tech chief defends credit scores: \u2018We\u2019re not Palantir\u2019",
+            "description": "Today, I\u2019m talking with Alex Lintner, who is the CEO of technology and software solutions at Experian, the credit reporting company. Experian is one of those multinationals that\u2019s so big and convoluted that it has multiple CEOs all over the world, so Alex and\u2026",
+            "url": "https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+            "publishedAt": "2026-01-26T14:17:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
             "ai_score": 5
         },
         {
@@ -703,6 +703,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Microsoft wants to rewire data centers to save space",
+            "description": "Microsoft wants to design more efficient data centers using materials that allow electricity to flow with zero resistance. If these new materials, called high-temperature superconductors, can make it to market, Microsoft thinks it could be a game changer for \u2026",
+            "url": "https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2243425240.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2026-02-10T16:01:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuperconducting cables could make for more compact data centers.\r\nSuperconducting cables could make for more compact data centers.\r\nby\r\nJustine CalmaClose\r\nPosts\u2026 [+6551 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -734,20 +748,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters, Sean Hollister",
-            "title": "Valve\u2019s Steam Machine has been delayed, and the RAM crisis will impact pricing",
-            "description": "When Valve first announced its impressive-looking Steam Machine, Steam Frame, and Steam Controller hardware in November, the company said the products would begin shipping in early 2026. Some journalists were told \"Q1 2026\" specifically. But because of the on\u2026",
-            "url": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
-            "publishedAt": "2026-02-05T00:22:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says it has to revisit its shipping schedule and pricing plans for the Steam Machine, Steam Frame, and Steam Controller.\r\nValve says it has to revisit its \u2026 [+4151 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tom Warren",
             "title": "Asus now claims it\u2019s not dropping the RTX 5070 Ti amid memory shortages",
             "description": "The GPU market is turning into a mess again. Asus told Hardware Unboxed earlier this week that it was winding down production of its RTX 5070 Ti, but the PC maker is now walking back that claim and blaming \"incomplete information\" from its own Asus PR represe\u2026",
@@ -762,13 +762,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "2026 is the year of social media\u2019s legal reckoning",
-            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
-            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T15:31:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
+            "author": "Jay Peters, Sean Hollister",
+            "title": "Valve\u2019s Steam Machine has been delayed, and the RAM crisis will impact pricing",
+            "description": "When Valve first announced its impressive-looking Steam Machine, Steam Frame, and Steam Controller hardware in November, the company said the products would begin shipping in early 2026. Some journalists were told \"Q1 2026\" specifically. But because of the on\u2026",
+            "url": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
+            "publishedAt": "2026-02-05T00:22:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says it has to revisit its shipping schedule and pricing plans for the Steam Machine, Steam Frame, and Steam Controller.\r\nValve says it has to revisit its \u2026 [+4151 chars]",
             "ai_score": 5
         },
         {
@@ -776,13 +776,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores",
-            "description": "Removing or restricting access to Grok's AI image editor might not be enough to stop the flood of nonconsensual sexualized images being generated by AI. A report from the Tech Transparency Project (TTP) released on Tuesday found dozens of AI \"nudify\" apps sim\u2026",
-            "url": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-27T16:26:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Tech Transparency Project identified dozens of apps that can create nonconsensual sexualized deepfakes beyond xAIs Grok.\r\nThe Tech Transparency Project ident\u2026 [+2543 chars]",
+            "author": "Hayden Field",
+            "title": "Under Musk, the Grok disaster was inevitable",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
+            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-18T04:23:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
             "ai_score": 5
         },
         {
@@ -804,13 +804,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Under Musk, the Grok disaster was inevitable",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
-            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-18T04:23:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
+            "author": "Stevie Bonifield",
+            "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores",
+            "description": "Removing or restricting access to Grok's AI image editor might not be enough to stop the flood of nonconsensual sexualized images being generated by AI. A report from the Tech Transparency Project (TTP) released on Tuesday found dozens of AI \"nudify\" apps sim\u2026",
+            "url": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-27T16:26:34Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Tech Transparency Project identified dozens of apps that can create nonconsensual sexualized deepfakes beyond xAIs Grok.\r\nThe Tech Transparency Project ident\u2026 [+2543 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "2026 is the year of social media\u2019s legal reckoning",
+            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
+            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-26T15:31:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
             "ai_score": 5
         },
         {
@@ -888,13 +902,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Millions of books died so Claude could live",
-            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
-            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-03T15:19:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
+            "author": "Justine Calma",
+            "title": "Microsoft scrambles to quell fury around its new AI data centers",
+            "description": "It looks like the wave of campaigns against data centers are getting under big tech companies' skin - and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers. The company announced a five-poi\u2026",
+            "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-13T15:33:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt made five pledges to address concerns that have stymied plans to build out new AI data centers.\r\nIt made five pledges to address concerns that have stymied pl\u2026 [+5202 chars]",
             "ai_score": 5
         },
         {
@@ -916,13 +930,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Justine Calma",
-            "title": "Microsoft scrambles to quell fury around its new AI data centers",
-            "description": "It looks like the wave of campaigns against data centers are getting under big tech companies' skin - and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers. The company announced a five-poi\u2026",
-            "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-13T15:33:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt made five pledges to address concerns that have stymied plans to build out new AI data centers.\r\nIt made five pledges to address concerns that have stymied pl\u2026 [+5202 chars]",
+            "author": "David Pierce",
+            "title": "Millions of books died so Claude could live",
+            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
+            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-03T15:19:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
             "ai_score": 5
         },
         {
@@ -1091,20 +1105,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/RazerKishi.jpg",
             "publishedAt": "2026-01-20T12:35:47Z",
             "content": "Little cousins love to ask the question, \u201cWhat games you got on your phone?\u201d Not too long ago, the answer to that question would be a humble response. Flappybird, some Tetris ripoff, maybe Words With\u2026 [+2353 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Nick Srnicek",
-            "title": "How AI Companies Got Caught Up in US Military Efforts",
-            "description": "Two years ago, companies like Meta and OpenAI were united against military use of their tools. Now all of that has changed.",
-            "url": "https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/",
-            "urlToImage": "https://media.wired.com/photos/69614ce6de24535c06b95baa/191:100/w_1280,c_limit/Book-Excerpt-How-AI-Companies-Got-Involved-in-US-Military-Efforts-Politics-2220173893.jpg",
-            "publishedAt": "2026-01-14T12:00:00Z",
-            "content": "At the start of 2024, Anthropic, Google, Meta, and OpenAI were united against military use of their AI tools. But over the next 12 months, something changed.\r\nIn January, OpenAI quietly rescinded its\u2026 [+4960 chars]",
             "ai_score": 5
         }
     ]
