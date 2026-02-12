@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-02-12 20:42",
+    "last_updated": "2026-02-12 21:39",
     "articles": [
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Kotaku"
             },
-            "author": "Jess Weatherbed",
-            "title": "The Switch is now Nintendo\u2019s best-selling console of all time",
-            "description": "The original Switch is officially Nintendo's best-selling console of all time after surpassing the DS handheld in lifetime sales. In its latest earnings release, Nintendo reports that the Nintendo Switch has, as of December 31, 2025, sold 155.37 million units\u2026",
-            "url": "https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9575287/akrales_171018_2067_games_0027.jpg?quality=90&strip=all&crop=0%2C26.221989528796%2C100%2C52.356020942408&w=1200",
-            "publishedAt": "2026-02-03T07:08:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe DS has been overthrown, 12 years after it was discontinued.\r\nThe DS has been overthrown, 12 years after it was discontinued.\r\nby\r\nJess WeatherbedClose\r\nPosts\u2026 [+2176 chars]",
+            "author": "Zack Zwiezen",
+            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
+            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
+            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
+            "publishedAt": "2026-02-11T16:00:01Z",
+            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
             "ai_score": 8
         },
         {
@@ -437,6 +437,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "The Switch is now Nintendo\u2019s best-selling console of all time",
+            "description": "The original Switch is officially Nintendo's best-selling console of all time after surpassing the DS handheld in lifetime sales. In its latest earnings release, Nintendo reports that the Nintendo Switch has, as of December 31, 2025, sold 155.37 million units\u2026",
+            "url": "https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9575287/akrales_171018_2067_games_0027.jpg?quality=90&strip=all&crop=0%2C26.221989528796%2C100%2C52.356020942408&w=1200",
+            "publishedAt": "2026-02-03T07:08:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe DS has been overthrown, 12 years after it was discontinued.\r\nThe DS has been overthrown, 12 years after it was discontinued.\r\nby\r\nJess WeatherbedClose\r\nPosts\u2026 [+2176 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -713,20 +727,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
             "publishedAt": "2026-01-26T16:44:18Z",
             "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
-            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
-            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
-            "publishedAt": "2026-02-11T16:00:01Z",
-            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
             "ai_score": 5
         },
         {
@@ -1039,20 +1039,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Sony\u2019s Hawk-Eye Cameras Still Aren\u2019t Giving Football Fans the One Thing They Want",
-            "description": "Sony's Hawk-Eye tech is an impressive feat of camera technology that changed the NFL this year, but there's still one thing fans and football commentators are begging for.",
-            "url": "https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
-            "publishedAt": "2026-02-08T15:00:26Z",
-            "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1063,6 +1049,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/GOW_-_RH__K.jpg?quality=90&strip=all&crop=0,12.701966623037,100,41.884816753927",
             "publishedAt": "2026-01-14T20:47:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a voice actor from the games, but not the one youre thinking.\r\nIts a voice actor from the games, but not the one youre thinking.\r\nby\r\nAsh ParrishClose\r\nAsh P\u2026 [+2227 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Sony\u2019s Hawk-Eye Cameras Still Aren\u2019t Giving Football Fans the One Thing They Want",
+            "description": "Sony's Hawk-Eye tech is an impressive feat of camera technology that changed the NFL this year, but there's still one thing fans and football commentators are begging for.",
+            "url": "https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
+            "publishedAt": "2026-02-08T15:00:26Z",
+            "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
             "ai_score": 5
         },
         {
