@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-12 22:39",
+    "last_updated": "2026-02-12 23:35",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -1053,20 +1053,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Sony\u2019s Hawk-Eye Cameras Still Aren\u2019t Giving Football Fans the One Thing They Want",
-            "description": "Sony's Hawk-Eye tech is an impressive feat of camera technology that changed the NFL this year, but there's still one thing fans and football commentators are begging for.",
-            "url": "https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
-            "publishedAt": "2026-02-08T15:00:26Z",
-            "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1077,6 +1063,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/GOW_-_RH__K.jpg?quality=90&strip=all&crop=0,12.701966623037,100,41.884816753927",
             "publishedAt": "2026-01-14T20:47:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a voice actor from the games, but not the one youre thinking.\r\nIts a voice actor from the games, but not the one youre thinking.\r\nby\r\nAsh ParrishClose\r\nAsh P\u2026 [+2227 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Sony\u2019s Hawk-Eye Cameras Still Aren\u2019t Giving Football Fans the One Thing They Want",
+            "description": "Sony's Hawk-Eye tech is an impressive feat of camera technology that changed the NFL this year, but there's still one thing fans and football commentators are begging for.",
+            "url": "https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
+            "publishedAt": "2026-02-08T15:00:26Z",
+            "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
             "ai_score": 5
         },
         {
