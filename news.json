@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-02-12 21:39",
+    "last_updated": "2026-02-12 22:39",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
-            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
-            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
-            "publishedAt": "2026-02-11T16:00:01Z",
-            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -69,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-05T16:33:27Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritiz\u2026 [+2879 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "How Gorilla Tag is weathering the VR winter",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. The VR industry has been on edge since Meta's massive job cuts earlier this year: One exec cal\u2026",
+            "url": "https://www.theverge.com/column/877473/gorilla-tag-vr-winter-quest",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gorillatag.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2026-02-11T22:24:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe popular VR game is breaking audience records, all while its makers are working on a mobile offshoot, a TV show and a Gorillacon live event.\r\nThe popular VR g\u2026 [+6939 chars]",
             "ai_score": 5
         },
         {
@@ -662,20 +662,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "msmash",
-            "title": "HP Now Rents Gaming Laptops",
-            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
-            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
-            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
-            "publishedAt": "2026-02-11T16:00:00Z",
-            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Zack Zwiezen",
@@ -685,6 +671,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/xboxps5console-1200x675.jpg",
             "publishedAt": "2026-01-20T22:28:44Z",
             "content": "The console wars ended a while ago, in case you didn\u2019t know. But if they were still raging on, a talented hardware modder in China created a device that would force a lasting peace. It\u2019s a massive an\u2026 [+1816 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "HP Now Rents Gaming Laptops",
+            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
+            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
+            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
+            "publishedAt": "2026-02-11T16:00:00Z",
+            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
             "ai_score": 5
         },
         {
@@ -727,6 +727,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
             "publishedAt": "2026-01-26T16:44:18Z",
             "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
+            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
+            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
+            "publishedAt": "2026-02-11T16:00:01Z",
+            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
             "ai_score": 5
         },
         {
@@ -1039,20 +1053,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Ash Parrish",
-            "title": "Amazon didn\u2019t have to go far to find its live-action Kratos",
-            "description": "Amazon has announced the first cast member of its God of War live-action adaptation on Prime Video. Ryan Hurst, known for his work as Opie in Sons of Anarchy and Beta in The Walking Dead, will play the titular God of War, Kratos. Though the casting might come\u2026",
-            "url": "https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/GOW_-_RH__K.jpg?quality=90&strip=all&crop=0,12.701966623037,100,41.884816753927",
-            "publishedAt": "2026-01-14T20:47:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a voice actor from the games, but not the one youre thinking.\r\nIts a voice actor from the games, but not the one youre thinking.\r\nby\r\nAsh ParrishClose\r\nAsh P\u2026 [+2227 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1063,6 +1063,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
             "publishedAt": "2026-02-08T15:00:26Z",
             "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "Amazon didn\u2019t have to go far to find its live-action Kratos",
+            "description": "Amazon has announced the first cast member of its God of War live-action adaptation on Prime Video. Ryan Hurst, known for his work as Opie in Sons of Anarchy and Beta in The Walking Dead, will play the titular God of War, Kratos. Though the casting might come\u2026",
+            "url": "https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/GOW_-_RH__K.jpg?quality=90&strip=all&crop=0,12.701966623037,100,41.884816753927",
+            "publishedAt": "2026-01-14T20:47:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a voice actor from the games, but not the one youre thinking.\r\nIts a voice actor from the games, but not the one youre thinking.\r\nby\r\nAsh ParrishClose\r\nAsh P\u2026 [+2227 chars]",
             "ai_score": 5
         },
         {
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-Geforce-RTX-5090-5080-5070-1200x675.jpg",
             "publishedAt": "2026-01-28T22:00:47Z",
             "content": "Unless you long to witness the demise of accessible PC gaming, I wouldnt check Amazon for any Nvidia graphics card right now. Just in the past month, prices on the companys coveted GPUs have skyrocke\u2026 [+4903 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Open-Ear Audio Is Having a Huge Moment Right Now",
-            "description": "At CES 2026, one audio trend was more audible than the rest.",
-            "url": "https://gizmodo.com/open-ear-audio-is-having-a-huge-moment-right-now-2000709804",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/openfit-pro-1200x675.jpg",
-            "publishedAt": "2026-01-13T22:00:41Z",
-            "content": "If there\u2019s one thing that CES 2026 illustrated to audiophiles, it\u2019s that open-ear audio is\u00a0the thing\u00a0right now. The category isn\u2019t newbig names in the audio space like Bose and Nothing have been sell\u2026 [+4048 chars]",
             "ai_score": 5
         }
     ]
