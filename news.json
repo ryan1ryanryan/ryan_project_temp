@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-12 23:35",
+    "last_updated": "2026-02-13 02:29",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Nena Farrell",
+            "title": "Best Baby Gear (2026): Baby Monitors, Strollers, Crib Mattresses",
+            "description": "From baby monitors and sound machines to smart bassinets and car seats, here\u2019s the baby tech we\u2019ve tested and recommend.",
+            "url": "https://www.wired.com/story/best-baby-gear-guide/",
+            "urlToImage": "https://media.wired.com/photos/696543f222e4662283f971bd/191:100/w_1280,c_limit/WIRED's%20Guide%20to%20the%20Best%20Baby%20Gear.png",
+            "publishedAt": "2026-01-13T10:23:00Z",
+            "content": "When you become a parent, youre flung into a new universe of feeding schedules, lack of sleep, and a sudden need to find the best baby gear for a tiny person you havent met yet. If youre feeling over\u2026 [+16708 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -139,20 +153,6 @@
             "urlToImage": "https://media.wired.com/photos/698a33745d41364caf4502da/191:100/w_1280,c_limit/Whats-At-Stake-Meta-Trial-Business-2243569637.jpg",
             "publishedAt": "2026-02-09T23:54:47Z",
             "content": "Today, Meta went to trial in the state of New Mexico for allegedly failing to protect minors from sexual exploitation on its apps, including Facebook and Instagram. The state claims that Meta violate\u2026 [+3477 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Nena Farrell",
-            "title": "Best Baby Gear (2026): Baby Monitors, Strollers, Crib Mattresses",
-            "description": "From baby monitors and sound machines to smart bassinets and car seats, here\u2019s the baby tech we\u2019ve tested and recommend.",
-            "url": "https://www.wired.com/story/best-baby-gear-guide/",
-            "urlToImage": "https://media.wired.com/photos/696543f222e4662283f971bd/191:100/w_1280,c_limit/WIRED's%20Guide%20to%20the%20Best%20Baby%20Gear.png",
-            "publishedAt": "2026-01-13T10:23:00Z",
-            "content": "When you become a parent, youre flung into a new universe of feeding schedules, lack of sleep, and a sudden need to find the best baby gear for a tiny person you havent met yet. If youre feeling over\u2026 [+16708 chars]",
             "ai_score": 5
         },
         {
@@ -1053,20 +1053,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Ash Parrish",
-            "title": "Amazon didn\u2019t have to go far to find its live-action Kratos",
-            "description": "Amazon has announced the first cast member of its God of War live-action adaptation on Prime Video. Ryan Hurst, known for his work as Opie in Sons of Anarchy and Beta in The Walking Dead, will play the titular God of War, Kratos. Though the casting might come\u2026",
-            "url": "https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/GOW_-_RH__K.jpg?quality=90&strip=all&crop=0,12.701966623037,100,41.884816753927",
-            "publishedAt": "2026-01-14T20:47:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a voice actor from the games, but not the one youre thinking.\r\nIts a voice actor from the games, but not the one youre thinking.\r\nby\r\nAsh ParrishClose\r\nAsh P\u2026 [+2227 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1077,6 +1063,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
             "publishedAt": "2026-02-08T15:00:26Z",
             "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "Amazon didn\u2019t have to go far to find its live-action Kratos",
+            "description": "Amazon has announced the first cast member of its God of War live-action adaptation on Prime Video. Ryan Hurst, known for his work as Opie in Sons of Anarchy and Beta in The Walking Dead, will play the titular God of War, Kratos. Though the casting might come\u2026",
+            "url": "https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/GOW_-_RH__K.jpg?quality=90&strip=all&crop=0,12.701966623037,100,41.884816753927",
+            "publishedAt": "2026-01-14T20:47:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a voice actor from the games, but not the one youre thinking.\r\nIts a voice actor from the games, but not the one youre thinking.\r\nby\r\nAsh ParrishClose\r\nAsh P\u2026 [+2227 chars]",
             "ai_score": 5
         },
         {
