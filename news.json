@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-13 17:45",
+    "last_updated": "2026-02-13 18:57",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "To Succeed, the Next-Gen Xbox Needs to Steal These PC Features",
+            "description": "You may have more than one choice of next-gen Xbox, and not just from Microsoft.",
+            "url": "https://gizmodo.com/to-succeed-the-next-gen-xbox-needs-to-steal-these-pc-features-2000719649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Xbox-Series-X-Controller-1-1200x675.jpg",
+            "publishedAt": "2026-02-09T16:11:31Z",
+            "content": "Everything is an Xbox sounds like a great tagline until you ask gamers what they truly want from Microsofts longtime console brand. Heres a hint: its not more cloud gaming. The catchphrase everything\u2026 [+4519 chars]",
+            "ai_score": 9
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -111,20 +125,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego_pokemon_1.jpg?quality=90&strip=all&crop=0%2C10.724423792713%2C100%2C78.551152414575&w=1200",
             "publishedAt": "2026-01-12T15:58:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPikachu, Eevee, Charizard, Blastoise, and Venusaur are featured in the new sets that will be available on February 27th.\r\nPikachu, Eevee, Charizard, Blastoise, a\u2026 [+3597 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "To Succeed, the Next-Gen Xbox Needs to Steal These PC Features",
-            "description": "You may have more than one choice of next-gen Xbox, and not just from Microsoft.",
-            "url": "https://gizmodo.com/to-succeed-the-next-gen-xbox-needs-to-steal-these-pc-features-2000719649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Xbox-Series-X-Controller-1-1200x675.jpg",
-            "publishedAt": "2026-02-09T16:11:31Z",
-            "content": "Everything is an Xbox sounds like a great tagline until you ask gamers what they truly want from Microsofts longtime console brand. Heres a hint: its not more cloud gaming. The catchphrase everything\u2026 [+4519 chars]",
             "ai_score": 5
         },
         {
@@ -272,20 +272,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Boutayna Chokrane",
-            "title": "Nick Goepper\u2019s Starter Pack: Winter Olympics 2026",
-            "description": "Inside freestyle skier Nick Goepper\u2019s starter pack: the tech, recovery tools, and rituals powering his comeback in the halfpipe for the 2026 Winter Games.",
-            "url": "https://www.wired.com/story/freestyle-skier-nick-goeppers-olympic-starter-pack/",
-            "urlToImage": "https://media.wired.com/photos/6979d8491a6ccc7c52091a0e/191:100/w_1280,c_limit/012726_Winter-Olympics-Nick%20Goepper-SP.jpg",
-            "publishedAt": "2026-02-03T11:30:00Z",
-            "content": "Pit Vipers Magic Magnet system makes lens changes easy, even with gloves on. Goepper rotates between just two: a blackout lens for daytime sessions and a clear lens for nighttime. With an ultrawide f\u2026 [+1887 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Lauren Goode",
             "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
             "description": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives.",
@@ -293,6 +279,20 @@
             "urlToImage": "https://media.wired.com/photos/6965992c482e29ae79e365d8/191:100/w_1280,c_limit/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg",
             "publishedAt": "2026-01-14T22:48:32Z",
             "content": "Since Donald Trump returned to the White House last January, the biggest names in tech have mostly fallen in line with the new regime, attending dinners with officials, heaping praise upon the admini\u2026 [+3882 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boutayna Chokrane",
+            "title": "Nick Goepper\u2019s Starter Pack: Winter Olympics 2026",
+            "description": "Inside freestyle skier Nick Goepper\u2019s starter pack: the tech, recovery tools, and rituals powering his comeback in the halfpipe for the 2026 Winter Games.",
+            "url": "https://www.wired.com/story/freestyle-skier-nick-goeppers-olympic-starter-pack/",
+            "urlToImage": "https://media.wired.com/photos/6979d8491a6ccc7c52091a0e/191:100/w_1280,c_limit/012726_Winter-Olympics-Nick%20Goepper-SP.jpg",
+            "publishedAt": "2026-02-03T11:30:00Z",
+            "content": "Pit Vipers Magic Magnet system makes lens changes easy, even with gloves on. Goepper rotates between just two: a blackout lens for daytime sessions and a clear lens for nighttime. With an ultrawide f\u2026 [+1887 chars]",
             "ai_score": 5
         },
         {
@@ -342,20 +342,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Call of Duty tries to block XIM and Cronus cheaters again",
-            "description": "Activision is trying to crack down on third-party hardware cheating devices in Call of Duty again. Both Call of Duty: Warzone and Call of Duty: Black Ops 7 have been plagued by players using devices like XIM, Cronus Zen, and ReaSnow S1 to enable unfair advant\u2026",
-            "url": "https://www.theverge.com/news/872976/call-of-duty-xim-cronus-reasnow-s1-ban-detections",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BO7-MULTIPLAYER-OVERVIEW-TOUT.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-02-03T14:11:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nby\r\u2026 [+3105 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "Asus says it\u2019s dropping the RTX 5070 Ti as the memory shortage squeezes supply",
             "description": "On Thursday, Hardware Unboxed reported that Asus is winding down production of its RTX 5070 Ti, saying, Asus \"explicitly told us this model is currently facing a supply shortage and, as such, they have placed the model into end-of-life status.\" They added tha\u2026",
@@ -363,6 +349,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257586_Nvidia_RTX_5070_TWarren_0006.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
             "publishedAt": "2026-01-15T22:06:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is hitting cheaper versions of 50-series GPUs, but Nvidia says it hasnt stopped making them.\r\nThe RAM shortage is hitting cheaper versions of 50\u2026 [+3442 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Call of Duty tries to block XIM and Cronus cheaters again",
+            "description": "Activision is trying to crack down on third-party hardware cheating devices in Call of Duty again. Both Call of Duty: Warzone and Call of Duty: Black Ops 7 have been plagued by players using devices like XIM, Cronus Zen, and ReaSnow S1 to enable unfair advant\u2026",
+            "url": "https://www.theverge.com/news/872976/call-of-duty-xim-cronus-reasnow-s1-ban-detections",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BO7-MULTIPLAYER-OVERVIEW-TOUT.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-02-03T14:11:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nby\r\u2026 [+3105 chars]",
             "ai_score": 5
         },
         {
@@ -412,20 +412,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Nilay Patel",
-            "title": "Experian\u2019s tech chief defends credit scores: \u2018We\u2019re not Palantir\u2019",
-            "description": "Today, I\u2019m talking with Alex Lintner, who is the CEO of technology and software solutions at Experian, the credit reporting company. Experian is one of those multinationals that\u2019s so big and convoluted that it has multiple CEOs all over the world, so Alex and\u2026",
-            "url": "https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-            "publishedAt": "2026-01-26T14:17:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Lauren Feiner",
             "title": "Democrats should reject tech influence to win elections, Warren says",
             "description": "The path forward for the Democratic party after its 2024 defeat includes less tech influence and more populist policies, according to Sen. Elizabeth Warren (D-MA). Warren delivered this message in a speech at the National Press Club in Washington, DC on Monda\u2026",
@@ -433,6 +419,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23646266/1393837660.jpg?quality=90&strip=all&crop=0%2C10.727421605036%2C100%2C78.545156789928&w=1200",
             "publishedAt": "2026-01-12T18:44:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over rich donors.\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over ric\u2026 [+2851 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Experian\u2019s tech chief defends credit scores: \u2018We\u2019re not Palantir\u2019",
+            "description": "Today, I\u2019m talking with Alex Lintner, who is the CEO of technology and software solutions at Experian, the credit reporting company. Experian is one of those multinationals that\u2019s so big and convoluted that it has multiple CEOs all over the world, so Alex and\u2026",
+            "url": "https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+            "publishedAt": "2026-01-26T14:17:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
             "ai_score": 5
         },
         {
@@ -573,6 +573,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1200x675.jpg",
             "publishedAt": "2026-01-27T23:00:48Z",
             "content": "After a launch in one U.S. city, Dallas, last month, Uber is preparing to roll out its own network of robotaxis available through its app with the cooperation of various autonomous vehicle partners. \u2026 [+1811 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems",
+            "description": "Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.",
+            "url": "https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg",
+            "publishedAt": "2026-02-12T17:40:37Z",
+            "content": "The Pentagon is looking to expand its use of artificial intelligence across both unclassified and classified networks, but negotiations with major AI companies have hit a sticking point.\r\nDefense off\u2026 [+2686 chars]",
             "ai_score": 5
         },
         {
@@ -790,20 +804,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
-            "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
-            "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
-            "publishedAt": "2026-02-10T18:43:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "Instagram and X have an impossible deepfake detection deadline",
             "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
@@ -811,6 +811,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-11T17:20:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
+            "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
+            "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
+            "publishedAt": "2026-02-10T18:43:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
             "ai_score": 5
         },
         {
@@ -860,20 +874,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters, Sean Hollister",
-            "title": "Valve\u2019s Steam Machine has been delayed, and the RAM crisis will impact pricing",
-            "description": "When Valve first announced its impressive-looking Steam Machine, Steam Frame, and Steam Controller hardware in November, the company said the products would begin shipping in early 2026. Some journalists were told \"Q1 2026\" specifically. But because of the on\u2026",
-            "url": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
-            "publishedAt": "2026-02-05T00:22:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says it has to revisit its shipping schedule and pricing plans for the Steam Machine, Steam Frame, and Steam Controller.\r\nValve says it has to revisit its \u2026 [+4151 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tom Warren",
             "title": "Asus now claims it\u2019s not dropping the RTX 5070 Ti amid memory shortages",
             "description": "The GPU market is turning into a mess again. Asus told Hardware Unboxed earlier this week that it was winding down production of its RTX 5070 Ti, but the PC maker is now walking back that claim and blaming \"incomplete information\" from its own Asus PR represe\u2026",
@@ -888,13 +888,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "2026 is the year of social media\u2019s legal reckoning",
-            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
-            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T15:31:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
+            "author": "Jay Peters, Sean Hollister",
+            "title": "Valve\u2019s Steam Machine has been delayed, and the RAM crisis will impact pricing",
+            "description": "When Valve first announced its impressive-looking Steam Machine, Steam Frame, and Steam Controller hardware in November, the company said the products would begin shipping in early 2026. Some journalists were told \"Q1 2026\" specifically. But because of the on\u2026",
+            "url": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
+            "publishedAt": "2026-02-05T00:22:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says it has to revisit its shipping schedule and pricing plans for the Steam Machine, Steam Frame, and Steam Controller.\r\nValve says it has to revisit its \u2026 [+4151 chars]",
             "ai_score": 5
         },
         {
@@ -902,13 +902,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores",
-            "description": "Removing or restricting access to Grok's AI image editor might not be enough to stop the flood of nonconsensual sexualized images being generated by AI. A report from the Tech Transparency Project (TTP) released on Tuesday found dozens of AI \"nudify\" apps sim\u2026",
-            "url": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-27T16:26:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Tech Transparency Project identified dozens of apps that can create nonconsensual sexualized deepfakes beyond xAIs Grok.\r\nThe Tech Transparency Project ident\u2026 [+2543 chars]",
+            "author": "Hayden Field",
+            "title": "Under Musk, the Grok disaster was inevitable",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
+            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-18T04:23:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
             "ai_score": 5
         },
         {
@@ -930,13 +930,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Under Musk, the Grok disaster was inevitable",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
-            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-18T04:23:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
+            "author": "Stevie Bonifield",
+            "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores",
+            "description": "Removing or restricting access to Grok's AI image editor might not be enough to stop the flood of nonconsensual sexualized images being generated by AI. A report from the Tech Transparency Project (TTP) released on Tuesday found dozens of AI \"nudify\" apps sim\u2026",
+            "url": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-27T16:26:34Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Tech Transparency Project identified dozens of apps that can create nonconsensual sexualized deepfakes beyond xAIs Grok.\r\nThe Tech Transparency Project ident\u2026 [+2543 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "2026 is the year of social media\u2019s legal reckoning",
+            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
+            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-26T15:31:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
             "ai_score": 5
         },
         {
@@ -1014,13 +1028,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Millions of books died so Claude could live",
-            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
-            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-03T15:19:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
+            "author": "Justine Calma",
+            "title": "Microsoft scrambles to quell fury around its new AI data centers",
+            "description": "It looks like the wave of campaigns against data centers are getting under big tech companies' skin - and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers. The company announced a five-poi\u2026",
+            "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-13T15:33:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt made five pledges to address concerns that have stymied plans to build out new AI data centers.\r\nIt made five pledges to address concerns that have stymied pl\u2026 [+5202 chars]",
             "ai_score": 5
         },
         {
@@ -1042,13 +1056,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Justine Calma",
-            "title": "Microsoft scrambles to quell fury around its new AI data centers",
-            "description": "It looks like the wave of campaigns against data centers are getting under big tech companies' skin - and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers. The company announced a five-poi\u2026",
-            "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-13T15:33:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt made five pledges to address concerns that have stymied plans to build out new AI data centers.\r\nIt made five pledges to address concerns that have stymied pl\u2026 [+5202 chars]",
+            "author": "David Pierce",
+            "title": "Millions of books died so Claude could live",
+            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
+            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-03T15:19:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
             "ai_score": 5
         },
         {
@@ -1109,20 +1123,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Sony\u2019s Hawk-Eye Cameras Still Aren\u2019t Giving Football Fans the One Thing They Want",
-            "description": "Sony's Hawk-Eye tech is an impressive feat of camera technology that changed the NFL this year, but there's still one thing fans and football commentators are begging for.",
-            "url": "https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
-            "publishedAt": "2026-02-08T15:00:26Z",
-            "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1138,15 +1138,15 @@
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Gizmodo.com"
             },
-            "author": "Oscar Gonzalez",
-            "title": "Xbox Cloud Gaming Ad-Supported Tier: When Does It Start, How Much Will It Cost and More",
-            "description": "Ads could remove the sting of Xbox Game Pass price hikes, but will it be worth it?",
-            "url": "https://www.cnet.com/tech/gaming/xbox-cloud-gaming-ad-supported-tier-when-does-it-start-how-will-it-work/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/62ba47601d7dd5a4f11269e3c31f526b65c2da11/hub/2024/12/27/9a349fe9-9975-478c-b138-7c4e1d191800/screenshot-2024-12-27-at-12-17-19pm.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-02-04T11:01:13Z",
-            "content": "Xbox Cloud Gaming is one of the key selling points of Xbox Game Pass, and it generally works well. The service lets gamers stream Xbox titles to a wide range of devices, including phones, tablets, ha\u2026 [+2093 chars]",
+            "author": "James Pero",
+            "title": "Sony\u2019s Hawk-Eye Cameras Still Aren\u2019t Giving Football Fans the One Thing They Want",
+            "description": "Sony's Hawk-Eye tech is an impressive feat of camera technology that changed the NFL this year, but there's still one thing fans and football commentators are begging for.",
+            "url": "https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
+            "publishedAt": "2026-02-08T15:00:26Z",
+            "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
             "ai_score": 5
         }
     ]
