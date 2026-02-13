@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13 19:47",
+    "last_updated": "2026-02-13 20:45",
     "articles": [
         {
             "source": {
@@ -675,20 +675,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Charles Pulliam-Moore",
-            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
-            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
-            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
-            "publishedAt": "2026-02-12T17:37:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -699,6 +685,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/xboxps5console-1200x675.jpg",
             "publishedAt": "2026-01-20T22:28:44Z",
             "content": "The console wars ended a while ago, in case you didn\u2019t know. But if they were still raging on, a talented hardware modder in China created a device that would force a lasting peace. It\u2019s a massive an\u2026 [+1816 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
+            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
+            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
+            "publishedAt": "2026-02-12T17:37:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
             "ai_score": 5
         },
         {
