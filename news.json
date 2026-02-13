@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13 16:53",
+    "last_updated": "2026-02-13 17:45",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -689,6 +689,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
+            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
+            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
+            "publishedAt": "2026-02-12T17:37:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Slashdot.org"
             },
@@ -1082,20 +1096,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Sony\u2019s Hawk-Eye Cameras Still Aren\u2019t Giving Football Fans the One Thing They Want",
-            "description": "Sony's Hawk-Eye tech is an impressive feat of camera technology that changed the NFL this year, but there's still one thing fans and football commentators are begging for.",
-            "url": "https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
-            "publishedAt": "2026-02-08T15:00:26Z",
-            "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Slashdot.org"
             },
             "author": "BeauHD",
@@ -1105,6 +1105,20 @@
             "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
             "publishedAt": "2026-01-30T00:45:00Z",
             "content": "Universal Blue, developer of the gaming-focused Linux distribution Bazzite, announced on Wednesday that its helping to form the OGC with several other groups, which will collaborate on improvements t\u2026 [+669 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Sony\u2019s Hawk-Eye Cameras Still Aren\u2019t Giving Football Fans the One Thing They Want",
+            "description": "Sony's Hawk-Eye tech is an impressive feat of camera technology that changed the NFL this year, but there's still one thing fans and football commentators are begging for.",
+            "url": "https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
+            "publishedAt": "2026-02-08T15:00:26Z",
+            "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
             "ai_score": 5
         },
         {
@@ -1133,20 +1147,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/62ba47601d7dd5a4f11269e3c31f526b65c2da11/hub/2024/12/27/9a349fe9-9975-478c-b138-7c4e1d191800/screenshot-2024-12-27-at-12-17-19pm.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-02-04T11:01:13Z",
             "content": "Xbox Cloud Gaming is one of the key selling points of Xbox Game Pass, and it generally works well. The service lets gamers stream Xbox titles to a wide range of devices, including phones, tablets, ha\u2026 [+2093 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Doom Has Come for Nvidia\u2019s Graphics Cards, After All",
-            "description": "The latest RTX 50-series is hundreds or thousands of dollars more expensive than at launch.",
-            "url": "https://gizmodo.com/doom-has-come-for-nvidias-graphics-cards-after-all-2000715184",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-Geforce-RTX-5090-5080-5070-1200x675.jpg",
-            "publishedAt": "2026-01-28T22:00:47Z",
-            "content": "Unless you long to witness the demise of accessible PC gaming, I wouldnt check Amazon for any Nvidia graphics card right now. Just in the past month, prices on the companys coveted GPUs have skyrocke\u2026 [+4903 chars]",
             "ai_score": 5
         }
     ]
