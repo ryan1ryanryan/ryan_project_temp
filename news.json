@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-02-14 07:39",
+    "last_updated": "2026-02-14 08:40",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Linux gaming developers join forces to form the Open Gaming Collective",
-            "description": "Gaming on Linux has already come a long way over recent years, with improvements to Valve's Proton and more gamers switching to Linux, but the newly-formed Open Gaming Collective (OGC) is aiming to take it even further. Universal Blue, developer of the gaming\u2026",
-            "url": "https://www.theverge.com/tech/870159/linux-gaming-open-gaming-collective-bazzite",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-29T16:36:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T21:36:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,6 +27,104 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T20:35:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Nena Farrell",
+            "title": "Best Baby Gear (2026): Baby Monitors, Strollers, Crib Mattresses",
+            "description": "From baby monitors and sound machines to smart bassinets and car seats, here\u2019s the baby tech we\u2019ve tested and recommend.",
+            "url": "https://www.wired.com/story/best-baby-gear-guide/",
+            "urlToImage": "https://media.wired.com/photos/696543f222e4662283f971bd/191:100/w_1280,c_limit/WIRED's%20Guide%20to%20the%20Best%20Baby%20Gear.png",
+            "publishedAt": "2026-01-13T10:23:00Z",
+            "content": "When you become a parent, youre flung into a new universe of feeding schedules, lack of sleep, and a sudden need to find the best baby gear for a tiny person you havent met yet. If youre feeling over\u2026 [+16708 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Do You Actually Need the Best Gaming CPU?",
+            "description": "AMD\u2019s new Ryzen 7 9850X3D seems powerful, though it's not a massive leap over what we already have.",
+            "url": "https://gizmodo.com/do-you-actually-need-the-best-gaming-cpu-2000713038",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
+            "publishedAt": "2026-01-22T18:45:43Z",
+            "content": "AMD is using its latest CPU launch to declare, once again, its the current king of gaming CPUs for desktops. We finally know how much the long-rumored AMD Ryzen 7 9850X3D will cost and when you can e\u2026 [+3113 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Gamers love AI in game dev \u2014 they just don\u2019t know it yet, says Razer\u2019s CEO",
+            "description": "We\u2019re back to start the year off with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES.\u00a0 Razer is obviously best known for making mice, keyboards, and gaming PC\u2026",
+            "url": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Min-Liang-Tan_NEW-1.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+            "publishedAt": "2026-01-19T14:08:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRazers Min-Liang Tan on gamings AI backlash, partnering with Grok, and creating anime waifus.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your\u2026 [+62934 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "This fanny pack robot helped me walk miles",
+            "description": "Oops, I did it again: I wore an exoskeleton to the world's biggest tech show, walking the streets and casinos of Las Vegas with a robot powering my legs. I don't mean I briefly tried a new gadget there. I mean that for the second year in a row, robotic legs h\u2026",
+            "url": "https://www.theverge.com/tech/869109/fanny-pack-exoskeleton-wirobotics-wim-s-ces-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/wim-s-on-sean-7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T14:57:49Z",
+            "content": "<ul><li></li><li></li></ul>\r\nThe Wim S is here to teach other exoskeletons a lesson.\r\nThe Wim S is here to teach other exoskeletons a lesson.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be \u2026 [+6788 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "HP ZBook Ultra G1a review: a business-class workstation that\u2019s got game",
+            "description": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's\u2026",
+            "url": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-12T04:20:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis pricey laptop has got sleek no-frills looks and Strix Halo strengths on lock.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See \u2026 [+11974 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "My car was stolen. Here are six important things I learned",
+            "description": "Keyless thefts are on the rise and car crime is increasingly organised and high-tech.",
+            "url": "https://www.bbc.com/news/articles/c5yp08kmk4eo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6818/live/837d9160-0344-11f1-b5e2-dd58fc65f0f6.jpg",
+            "publishedAt": "2026-02-08T01:07:34Z",
+            "content": "\"Back in the 80s or 90s it was very easy to get into a vehicle, steal it and take it away. It was probably cheaper than getting a taxi at the time,\" he said. \"Now, because of the value of vehicles go\u2026 [+90 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Linux gaming developers join forces to form the Open Gaming Collective",
+            "description": "Gaming on Linux has already come a long way over recent years, with improvements to Valve's Proton and more gamers switching to Linux, but the newly-formed Open Gaming Collective (OGC) is aiming to take it even further. Universal Blue, developer of the gaming\u2026",
+            "url": "https://www.theverge.com/tech/870159/linux-gaming-open-gaming-collective-bazzite",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-29T16:36:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
             "ai_score": 5
         },
         {
@@ -143,34 +227,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Nena Farrell",
-            "title": "Best Baby Gear (2026): Baby Monitors, Strollers, Crib Mattresses",
-            "description": "From baby monitors and sound machines to smart bassinets and car seats, here\u2019s the baby tech we\u2019ve tested and recommend.",
-            "url": "https://www.wired.com/story/best-baby-gear-guide/",
-            "urlToImage": "https://media.wired.com/photos/696543f222e4662283f971bd/191:100/w_1280,c_limit/WIRED's%20Guide%20to%20the%20Best%20Baby%20Gear.png",
-            "publishedAt": "2026-01-13T10:23:00Z",
-            "content": "When you become a parent, youre flung into a new universe of feeding schedules, lack of sleep, and a sudden need to find the best baby gear for a tiny person you havent met yet. If youre feeling over\u2026 [+16708 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Do You Actually Need the Best Gaming CPU?",
-            "description": "AMD\u2019s new Ryzen 7 9850X3D seems powerful, though it's not a massive leap over what we already have.",
-            "url": "https://gizmodo.com/do-you-actually-need-the-best-gaming-cpu-2000713038",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
-            "publishedAt": "2026-01-22T18:45:43Z",
-            "content": "AMD is using its latest CPU launch to declare, once again, its the current king of gaming CPUs for desktops. We finally know how much the long-rumored AMD Ryzen 7 9850X3D will cost and when you can e\u2026 [+3113 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -181,34 +237,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Razer-20th-Anniversary-Boomslang-1-1200x675.jpg",
             "publishedAt": "2026-02-05T18:15:25Z",
             "content": "Oh God, the puns. Razer, ever the company to throw subtlety out the window, is trying to make you nostalgic for one of the oddest gaming mice it ever devised. The PC gaming brand is marketing its $1,\u2026 [+3755 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "Gamers love AI in game dev \u2014 they just don\u2019t know it yet, says Razer\u2019s CEO",
-            "description": "We\u2019re back to start the year off with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES.\u00a0 Razer is obviously best known for making mice, keyboards, and gaming PC\u2026",
-            "url": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Min-Liang-Tan_NEW-1.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-            "publishedAt": "2026-01-19T14:08:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRazers Min-Liang Tan on gamings AI backlash, partnering with Grok, and creating anime waifus.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your\u2026 [+62934 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "This fanny pack robot helped me walk miles",
-            "description": "Oops, I did it again: I wore an exoskeleton to the world's biggest tech show, walking the streets and casinos of Las Vegas with a robot powering my legs. I don't mean I briefly tried a new gadget there. I mean that for the second year in a row, robotic legs h\u2026",
-            "url": "https://www.theverge.com/tech/869109/fanny-pack-exoskeleton-wirobotics-wim-s-ces-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/wim-s-on-sean-7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T14:57:49Z",
-            "content": "<ul><li></li><li></li></ul>\r\nThe Wim S is here to teach other exoskeletons a lesson.\r\nThe Wim S is here to teach other exoskeletons a lesson.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be \u2026 [+6788 chars]",
             "ai_score": 5
         },
         {
@@ -307,20 +335,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5c/live/ad226b00-01ad-11f1-ba93-a3f256eaa772.jpg",
             "publishedAt": "2026-02-04T11:51:29Z",
             "content": "Despite this, the company said its sequel the Switch 2, had got off to a \"good start\" since its release in June 2025, selling 17 million units as of the end of the year.",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "HP ZBook Ultra G1a review: a business-class workstation that\u2019s got game",
-            "description": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's\u2026",
-            "url": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-12T04:20:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis pricey laptop has got sleek no-frills looks and Strix Halo strengths on lock.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See \u2026 [+11974 chars]",
             "ai_score": 5
         },
         {
@@ -601,20 +615,6 @@
             "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
             "publishedAt": "2026-02-06T20:13:00Z",
             "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "My car was stolen. Here are six important things I learned",
-            "description": "Keyless thefts are on the rise and car crime is increasingly organised and high-tech.",
-            "url": "https://www.bbc.com/news/articles/c5yp08kmk4eo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6818/live/837d9160-0344-11f1-b5e2-dd58fc65f0f6.jpg",
-            "publishedAt": "2026-02-08T01:07:34Z",
-            "content": "\"Back in the 80s or 90s it was very easy to get into a vehicle, steal it and take it away. It was probably cheaper than getting a taxi at the time,\" he said. \"Now, because of the value of vehicles go\u2026 [+90 chars]",
             "ai_score": 5
         },
         {
