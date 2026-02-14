@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-13 23:36",
+    "last_updated": "2026-02-14 02:10",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Intel Announces More Bad News For PC Gaming",
+            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
+            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
+            "publishedAt": "2026-01-26T16:44:18Z",
+            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -311,6 +325,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Return of Nintendo\u2019s Worst-Selling Console Could Be More Glorious Than We Thought",
+            "description": "Get ready to return to the neck-straining magic of red and black gaming with several never-released games for the Virtual Boy.",
+            "url": "https://gizmodo.com/virtual-boy-switch-2-could-be-more-glorious-than-we-thought-2000714470",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Virtual-Boy-Nintendo-Switch-2-10-1200x675.jpg",
+            "publishedAt": "2026-01-27T16:00:12Z",
+            "content": "Nintendos Virtual Boy deserves your respect. At least, that seems to be Nintendos latest missive, as it\u2019s set to bring back its worst-selling console from the grave as a Switch 2 accessory. Whats mor\u2026 [+3035 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -325,16 +353,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Kyle Barr",
-            "title": "The Return of Nintendo\u2019s Worst-Selling Console Could Be More Glorious Than We Thought",
-            "description": "Get ready to return to the neck-straining magic of red and black gaming with several never-released games for the Virtual Boy.",
-            "url": "https://gizmodo.com/virtual-boy-switch-2-could-be-more-glorious-than-we-thought-2000714470",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Virtual-Boy-Nintendo-Switch-2-10-1200x675.jpg",
-            "publishedAt": "2026-01-27T16:00:12Z",
-            "content": "Nintendos Virtual Boy deserves your respect. At least, that seems to be Nintendos latest missive, as it\u2019s set to bring back its worst-selling console from the grave as a Switch 2 accessory. Whats mor\u2026 [+3035 chars]",
+            "author": "Antonio G. Di Benedetto",
+            "title": "HP ZBook Ultra G1a review: a business-class workstation that\u2019s got game",
+            "description": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's\u2026",
+            "url": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-12T04:20:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis pricey laptop has got sleek no-frills looks and Strix Halo strengths on lock.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See \u2026 [+11974 chars]",
             "ai_score": 5
         },
         {
@@ -363,20 +391,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BO7-MULTIPLAYER-OVERVIEW-TOUT.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-02-03T14:11:59Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nActivision is now detecting player inputs instead of the third-party devices.\r\nby\r\u2026 [+3105 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "HP ZBook Ultra G1a review: a business-class workstation that\u2019s got game",
-            "description": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's\u2026",
-            "url": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-12T04:20:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis pricey laptop has got sleek no-frills looks and Strix Halo strengths on lock.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See \u2026 [+11974 chars]",
             "ai_score": 5
         },
         {
@@ -727,20 +741,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2243421135.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
             "publishedAt": "2026-01-16T20:51:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyre calling for an emergency power auction.\r\nTheyre calling for an emergency power auction.\r\nby\r\nJustine CalmaClose\r\nPosts from this author will be added to y\u2026 [+3504 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "Intel Announces More Bad News For PC Gaming",
-            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
-            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
-            "publishedAt": "2026-01-26T16:44:18Z",
-            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
             "ai_score": 5
         },
         {
