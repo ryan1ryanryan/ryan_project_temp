@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-02-14 21:30",
+    "last_updated": "2026-02-14 22:30",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "Telly only had 35,000 TVs in people\u2019s homes last fall",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When free TV startup Telly came out of stealth in 2023, it did so with big promises: Company e\u2026",
-            "url": "https://www.theverge.com/column/865645/telly-units",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257821_Telly_ERoth_0106.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-22T16:53:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFew TVs installed, many broken in transit.\r\nFew TVs installed, many broken in transit.\r\nby\r\nJanko RoettgersClose\r\nLowpass author, Verge contributor\r\nPosts from t\u2026 [+5344 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -965,6 +951,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/sennheiser_auracast1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
             "publishedAt": "2026-01-21T17:06:55Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSennheisers using Bluetooth Auracast to broadcast your TVs audio to a room full of people.\r\nSennheisers using Bluetooth Auracast to broadcast your TVs audio to a\u2026 [+3381 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "Telly only had 35,000 TVs in people\u2019s homes last fall",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When free TV startup Telly came out of stealth in 2023, it did so with big promises: Company e\u2026",
+            "url": "https://www.theverge.com/column/865645/telly-units",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257821_Telly_ERoth_0106.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-22T16:53:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFew TVs installed, many broken in transit.\r\nFew TVs installed, many broken in transit.\r\nby\r\nJanko RoettgersClose\r\nLowpass author, Verge contributor\r\nPosts from t\u2026 [+5344 chars]",
             "ai_score": 5
         },
         {
