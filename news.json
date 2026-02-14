@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-14 19:29",
+    "last_updated": "2026-02-14 20:33",
     "articles": [
         {
             "source": {
@@ -153,20 +153,6 @@
             "urlToImage": "https://media.wired.com/photos/698a33745d41364caf4502da/191:100/w_1280,c_limit/Whats-At-Stake-Meta-Trial-Business-2243569637.jpg",
             "publishedAt": "2026-02-09T23:54:47Z",
             "content": "Today, Meta went to trial in the state of New Mexico for allegedly failing to protect minors from sexual exploitation on its apps, including Facebook and Instagram. The state claims that Meta violate\u2026 [+3477 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Nena Farrell",
-            "title": "Best Baby Gear (2026): Baby Monitors, Strollers, Crib Mattresses",
-            "description": "From baby monitors and sound machines to smart bassinets and car seats, here\u2019s the baby tech we\u2019ve tested and recommend.",
-            "url": "https://www.wired.com/story/best-baby-gear-guide/",
-            "urlToImage": "https://media.wired.com/photos/696543f222e4662283f971bd/191:100/w_1280,c_limit/WIRED's%20Guide%20to%20the%20Best%20Baby%20Gear.png",
-            "publishedAt": "2026-01-13T10:23:00Z",
-            "content": "When you become a parent, youre flung into a new universe of feeding schedules, lack of sleep, and a sudden need to find the best baby gear for a tiny person you havent met yet. If youre feeling over\u2026 [+16708 chars]",
             "ai_score": 5
         },
         {
@@ -633,20 +619,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Hilary Brueck",
-            "title": "Creatine, ADHD video games: The quest for a better brain is turning into a gold rush",
-            "description": "Americans love trying to upgrade their brains \u2014 one scoop, zap, or gaming session at a time",
-            "url": "https://www.businessinsider.com/americas-obsession-paying-to-get-smarter-brain-hacking-adhd-alzheimers-2026-1",
-            "urlToImage": "https://i.insider.com/696582fd04eda4732f2ef0f0?width=1200&format=jpeg",
-            "publishedAt": "2026-01-13T09:03:01Z",
-            "content": "At this point, you've probably at least thought about dropping a few scoops of creatine into your morning smoothie. An amino acid compound that promotes energy production in brain and muscle cells, i\u2026 [+7484 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1039,20 +1011,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Justine Calma",
-            "title": "Microsoft scrambles to quell fury around its new AI data centers",
-            "description": "It looks like the wave of campaigns against data centers are getting under big tech companies' skin - and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers. The company announced a five-poi\u2026",
-            "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-13T15:33:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt made five pledges to address concerns that have stymied plans to build out new AI data centers.\r\nIt made five pledges to address concerns that have stymied pl\u2026 [+5202 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1147,6 +1105,34 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/62ba47601d7dd5a4f11269e3c31f526b65c2da11/hub/2024/12/27/9a349fe9-9975-478c-b138-7c4e1d191800/screenshot-2024-12-27-at-12-17-19pm.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-02-04T11:01:13Z",
             "content": "Xbox Cloud Gaming is one of the key selling points of Xbox Game Pass, and it generally works well. The service lets gamers stream Xbox titles to a wide range of devices, including phones, tablets, ha\u2026 [+2093 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Doom Has Come for Nvidia\u2019s Graphics Cards, After All",
+            "description": "The latest RTX 50-series is hundreds or thousands of dollars more expensive than at launch.",
+            "url": "https://gizmodo.com/doom-has-come-for-nvidias-graphics-cards-after-all-2000715184",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-Geforce-RTX-5090-5080-5070-1200x675.jpg",
+            "publishedAt": "2026-01-28T22:00:47Z",
+            "content": "Unless you long to witness the demise of accessible PC gaming, I wouldnt check Amazon for any Nvidia graphics card right now. Just in the past month, prices on the companys coveted GPUs have skyrocke\u2026 [+4903 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Open-Ear Audio Is Having a Huge Moment Right Now",
+            "description": "At CES 2026, one audio trend was more audible than the rest.",
+            "url": "https://gizmodo.com/open-ear-audio-is-having-a-huge-moment-right-now-2000709804",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/openfit-pro-1200x675.jpg",
+            "publishedAt": "2026-01-13T22:00:41Z",
+            "content": "If there\u2019s one thing that CES 2026 illustrated to audiophiles, it\u2019s that open-ear audio is\u00a0the thing\u00a0right now. The category isn\u2019t newbig names in the audio space like Bose and Nothing have been sell\u2026 [+4048 chars]",
             "ai_score": 5
         }
     ]
