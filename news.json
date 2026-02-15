@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-15 05:00",
+    "last_updated": "2026-02-15 06:02",
     "articles": [
         {
             "source": {
@@ -297,20 +297,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Nintendo Switch becomes gaming giant's best-selling console in history",
-            "description": "The Super Mario maker said 155 million units of the console have now been sold overall.",
-            "url": "https://www.bbc.com/news/articles/ckglk543x3go",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5c/live/ad226b00-01ad-11f1-ba93-a3f256eaa772.jpg",
-            "publishedAt": "2026-02-04T11:51:29Z",
-            "content": "Despite this, the company said its sequel the Switch 2, had got off to a \"good start\" since its release in June 2025, selling 17 million units as of the end of the year.",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -321,6 +307,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-12T04:20:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThis pricey laptop has got sleek no-frills looks and Strix Halo strengths on lock.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See \u2026 [+11974 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Nintendo Switch becomes gaming giant's best-selling console in history",
+            "description": "The Super Mario maker said 155 million units of the console have now been sold overall.",
+            "url": "https://www.bbc.com/news/articles/ckglk543x3go",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5c/live/ad226b00-01ad-11f1-ba93-a3f256eaa772.jpg",
+            "publishedAt": "2026-02-04T11:51:29Z",
+            "content": "Despite this, the company said its sequel the Switch 2, had got off to a \"good start\" since its release in June 2025, selling 17 million units as of the end of the year.",
             "ai_score": 5
         },
         {
@@ -661,20 +661,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "Woman Creates Super Console Containing PS5, Xbox, And Switch 2",
-            "description": "Behold the Ningtendo PXPBOX 5, a massive homemade gaming machine\nThe post Woman Creates Super Console Containing PS5, Xbox, And Switch 2 appeared first on Kotaku.",
-            "url": "https://kotaku.com/woman-creates-super-console-containing-ps5-xbox-and-switch-2-2000661391",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/01/xboxps5console-1200x675.jpg",
-            "publishedAt": "2026-01-20T22:28:44Z",
-            "content": "The console wars ended a while ago, in case you didn\u2019t know. But if they were still raging on, a talented hardware modder in China created a device that would force a lasting peace. It\u2019s a massive an\u2026 [+1816 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -685,6 +671,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
             "publishedAt": "2026-02-12T17:37:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Woman Creates Super Console Containing PS5, Xbox, And Switch 2",
+            "description": "Behold the Ningtendo PXPBOX 5, a massive homemade gaming machine\nThe post Woman Creates Super Console Containing PS5, Xbox, And Switch 2 appeared first on Kotaku.",
+            "url": "https://kotaku.com/woman-creates-super-console-containing-ps5-xbox-and-switch-2-2000661391",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/01/xboxps5console-1200x675.jpg",
+            "publishedAt": "2026-01-20T22:28:44Z",
+            "content": "The console wars ended a while ago, in case you didn\u2019t know. But if they were still raging on, a talented hardware modder in China created a device that would force a lasting peace. It\u2019s a massive an\u2026 [+1816 chars]",
             "ai_score": 5
         },
         {
