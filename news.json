@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-16 13:10",
+    "last_updated": "2026-02-16 14:47",
     "articles": [
         {
             "source": {
@@ -13,34 +13,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Half of developers think gen AI is bad for the gaming industry",
-            "description": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of\u2026",
-            "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T20:35:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Nintendo\u2019s Virtual Boy Recreation Reminds Us Gaming Doesn\u2019t Have to Be Fun",
-            "description": "You'll enjoy Nintendo's $100 Virtual Boy Switch 2 accessory if you look at it like a gaming archaeologist.",
-            "url": "https://gizmodo.com/nintendos-virtual-boy-recreation-reminds-us-gaming-doesnt-have-to-be-fun-2000716819",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Nintendo-Virtual-Boy-3-1200x675.jpg",
-            "publishedAt": "2026-02-03T14:00:56Z",
-            "content": "The recreated Virtual Boy may represent a new era of Nintendo, or at least the company\u2019s willingness to respect its past failures. For the $100 recreation of the nearly 31-year-old virtual reality co\u2026 [+8351 chars]",
             "ai_score": 8
         },
         {
@@ -83,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/the-stepback-mario-back.png?quality=90&strip=all&crop=0%2C10.704835894838%2C100%2C78.590328210325&w=1200",
             "publishedAt": "2026-02-15T02:13:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProject Genie is an underwhelming glimpse into what may come.\r\nProject Genie is an underwhelming glimpse into what may come.\r\nby\r\nJay PetersClose\r\nPosts from thi\u2026 [+8731 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Half of developers think gen AI is bad for the gaming industry",
+            "description": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of\u2026",
+            "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T20:35:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
             "ai_score": 5
         },
         {
@@ -269,6 +255,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Nintendo\u2019s Virtual Boy Recreation Reminds Us Gaming Doesn\u2019t Have to Be Fun",
+            "description": "You'll enjoy Nintendo's $100 Virtual Boy Switch 2 accessory if you look at it like a gaming archaeologist.",
+            "url": "https://gizmodo.com/nintendos-virtual-boy-recreation-reminds-us-gaming-doesnt-have-to-be-fun-2000716819",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Nintendo-Virtual-Boy-3-1200x675.jpg",
+            "publishedAt": "2026-02-03T14:00:56Z",
+            "content": "The recreated Virtual Boy may represent a new era of Nintendo, or at least the company\u2019s willingness to respect its past failures. For the $100 recreation of the nearly 31-year-old virtual reality co\u2026 [+8351 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -311,20 +311,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "HP ZBook Ultra G1a review: a business-class workstation that\u2019s got game",
-            "description": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's\u2026",
-            "url": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-12T04:20:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis pricey laptop has got sleek no-frills looks and Strix Halo strengths on lock.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See \u2026 [+11974 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -335,6 +321,20 @@
             "urlToImage": "https://media.wired.com/photos/698d0b7ff7ce0778b7d1b836/191:100/w_1280,c_limit/Review-%20Therabody%20JetBoots%20Pro%20Plus.png",
             "publishedAt": "2026-02-12T12:00:00Z",
             "content": "Compression is still the core feature here, and its the part that delivers most consistently. The boots apply even, targeted pressure up and down the legs, which helps increase blood and lymphatic ci\u2026 [+2521 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "HP ZBook Ultra G1a review: a business-class workstation that\u2019s got game",
+            "description": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's\u2026",
+            "url": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-12T04:20:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis pricey laptop has got sleek no-frills looks and Strix Halo strengths on lock.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See \u2026 [+11974 chars]",
             "ai_score": 5
         },
         {
