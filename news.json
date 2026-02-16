@@ -1,32 +1,18 @@
 {
-    "last_updated": "2026-02-16 02:17",
+    "last_updated": "2026-02-16 05:05",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Torpey",
-            "title": "Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI",
-            "description": "For the dubious tech of the last decade, one door closes and another one opens.",
-            "url": "https://gizmodo.com/major-bitcoin-miner-sells-305-million-worth-of-crypto-to-fund-pivot-to-ai-2000720078",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/AI-pivot-1200x675.jpg",
-            "publishedAt": "2026-02-10T16:10:27Z",
-            "content": "Over the weekend, bitcoin miner Cango sold 4,451 bitcoin for around $305 million. According to a company press release, the sale was completed to partially pay down a bitcoin-collateralized loan. Add\u2026 [+3923 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
             "author": "Tom Warren",
-            "title": "Here\u2019s what Xbox is working on for 2026",
-            "description": "Microsoft has a big year ahead for Xbox as it marks its 25-year milestone. After the tough decision to release more Xbox games on rival consoles two years ago, 2026 is a chance to refocus on the platform and celebrate some of Xbox's biggest franchises. It's a\u2026",
-            "url": "https://www.theverge.com/tech/874303/microsoft-xbox-roadmap-2026-notepad",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25480192/247141_NOTEPAD_X_BOX_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-05T14:23:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is celebrating 25 years of Xbox with new games, hardware, and more.\r\nMicrosoft is celebrating 25 years of Xbox with new games, hardware, and more.\r\nby\r\u2026 [+14582 chars]",
+            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
+            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
+            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-27T11:05:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
             "ai_score": 8
         },
         {
@@ -76,6 +62,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Jay Peters",
+            "title": "AI can\u2019t make good video game worlds yet, and it might never be able to",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, follow Jay Peters. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in fo\u2026",
+            "url": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/the-stepback-mario-back.png?quality=90&strip=all&crop=0%2C10.704835894838%2C100%2C78.590328210325&w=1200",
+            "publishedAt": "2026-02-15T02:13:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nProject Genie is an underwhelming glimpse into what may come.\r\nProject Genie is an underwhelming glimpse into what may come.\r\nby\r\nJay PetersClose\r\nPosts from thi\u2026 [+8731 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Andrew Webster",
             "title": "Half of developers think gen AI is bad for the gaming industry",
             "description": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of\u2026",
@@ -111,34 +111,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-05T16:33:27Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritiz\u2026 [+2879 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft might have just leaked Forza Horizon 6\u2019s release date",
-            "description": "Microsoft is getting ready to show the first gameplay of Forza Horizon 6 next week, and it might also be ready to put a date on its release, too. X poster Xbox Infinite claims they received a Forza Horizon 6 preorder notification inside Forza Horizon 5, imply\u2026",
-            "url": "https://www.theverge.com/news/861762/forza-horizon-6-release-date-leak",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/forzahorizon6.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-01-14T15:17:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA May 19th release date has appeared inside a Forza Horizon 5 notification.\r\nA May 19th release date has appeared inside a Forza Horizon 5 notification.\r\nby\r\nTom\u2026 [+2342 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
-            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
-            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-27T11:05:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
             "ai_score": 5
         },
         {
@@ -328,20 +300,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Lauren Goode",
-            "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
-            "description": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives.",
-            "url": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
-            "urlToImage": "https://media.wired.com/photos/6965992c482e29ae79e365d8/191:100/w_1280,c_limit/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg",
-            "publishedAt": "2026-01-14T22:48:32Z",
-            "content": "Since Donald Trump returned to the White House last January, the biggest names in tech have mostly fallen in line with the new regime, attending dinners with officials, heaping praise upon the admini\u2026 [+3882 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Boutayna Chokrane",
             "title": "Nick Goepper\u2019s Starter Pack: Winter Olympics 2026",
             "description": "Inside freestyle skier Nick Goepper\u2019s starter pack: the tech, recovery tools, and rituals powering his comeback in the halfpipe for the 2026 Winter Games.",
@@ -489,6 +447,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
             "publishedAt": "2026-01-26T14:17:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI",
+            "description": "For the dubious tech of the last decade, one door closes and another one opens.",
+            "url": "https://gizmodo.com/major-bitcoin-miner-sells-305-million-worth-of-crypto-to-fund-pivot-to-ai-2000720078",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/AI-pivot-1200x675.jpg",
+            "publishedAt": "2026-02-10T16:10:27Z",
+            "content": "Over the weekend, bitcoin miner Cango sold 4,451 bitcoin for around $305 million. According to a company press release, the sale was completed to partially pay down a bitcoin-collateralized loan. Add\u2026 [+3923 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Here\u2019s what Xbox is working on for 2026",
+            "description": "Microsoft has a big year ahead for Xbox as it marks its 25-year milestone. After the tough decision to release more Xbox games on rival consoles two years ago, 2026 is a chance to refocus on the platform and celebrate some of Xbox's biggest franchises. It's a\u2026",
+            "url": "https://www.theverge.com/tech/874303/microsoft-xbox-roadmap-2026-notepad",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25480192/247141_NOTEPAD_X_BOX_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-05T14:23:57Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is celebrating 25 years of Xbox with new games, hardware, and more.\r\nMicrosoft is celebrating 25 years of Xbox with new games, hardware, and more.\r\nby\r\u2026 [+14582 chars]",
             "ai_score": 5
         },
         {
@@ -689,6 +675,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
+            "description": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes\u2026",
+            "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/2026-Guthman-Musical-Instrument-Competition.jpg?quality=90&strip=all&crop=0%2C7.8060612256323%2C100%2C84.387877548735&w=1200",
+            "publishedAt": "2026-02-14T16:42:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nby\r\nT\u2026 [+2623 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -703,16 +703,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Slashdot.org"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
-            "description": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes\u2026",
-            "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/2026-Guthman-Musical-Instrument-Competition.jpg?quality=90&strip=all&crop=0%2C7.8060612256323%2C100%2C84.387877548735&w=1200",
-            "publishedAt": "2026-02-14T16:42:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nby\r\nT\u2026 [+2623 chars]",
+            "author": "msmash",
+            "title": "HP Now Rents Gaming Laptops",
+            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
+            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
+            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
+            "publishedAt": "2026-02-11T16:00:00Z",
+            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
             "ai_score": 5
         },
         {
@@ -741,20 +741,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/xboxps5console-1200x675.jpg",
             "publishedAt": "2026-01-20T22:28:44Z",
             "content": "The console wars ended a while ago, in case you didn\u2019t know. But if they were still raging on, a talented hardware modder in China created a device that would force a lasting peace. It\u2019s a massive an\u2026 [+1816 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "msmash",
-            "title": "HP Now Rents Gaming Laptops",
-            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
-            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
-            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
-            "publishedAt": "2026-02-11T16:00:00Z",
-            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
             "ai_score": 5
         },
         {
@@ -801,20 +787,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Ty Pendlebury",
-            "title": "Time Warp Back to the 1990s With Maingear's Retro98 PC",
-            "description": "But good luck getting one: The PC maker is producing only 32 of the old-school-style beige computers, starting at $2,499.",
-            "url": "https://www.cnet.com/tech/computing/maingears-1990s-inspired-retro98-pc-has-working-turbo-button/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/950436f6fe4b103a3ab6c617e5a337c83cfe1056/hub/2026/01/30/0dcc83e1-bfde-4687-8159-0bebc1b6f653/maingear-retro98.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-01-30T22:32:43Z",
-            "content": "Everything '90s is back -- from Walkmans\u00a0and cassettes to postgrunge rock. Gaming PC maker Maingear is getting on board the trend, selling a 1990s-inspired PC, the Retro98. The company says it even h\u2026 [+1761 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -839,6 +811,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
             "publishedAt": "2026-02-10T18:43:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ty Pendlebury",
+            "title": "Time Warp Back to the 1990s With Maingear's Retro98 PC",
+            "description": "But good luck getting one: The PC maker is producing only 32 of the old-school-style beige computers, starting at $2,499.",
+            "url": "https://www.cnet.com/tech/computing/maingears-1990s-inspired-retro98-pc-has-working-turbo-button/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/950436f6fe4b103a3ab6c617e5a337c83cfe1056/hub/2026/01/30/0dcc83e1-bfde-4687-8159-0bebc1b6f653/maingear-retro98.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-01-30T22:32:43Z",
+            "content": "Everything '90s is back -- from Walkmans\u00a0and cassettes to postgrunge rock. Gaming PC maker Maingear is getting on board the trend, selling a 1990s-inspired PC, the Retro98. The company says it even h\u2026 [+1761 chars]",
             "ai_score": 5
         },
         {
@@ -1109,20 +1095,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Ash Parrish",
-            "title": "Amazon didn\u2019t have to go far to find its live-action Kratos",
-            "description": "Amazon has announced the first cast member of its God of War live-action adaptation on Prime Video. Ryan Hurst, known for his work as Opie in Sons of Anarchy and Beta in The Walking Dead, will play the titular God of War, Kratos. Though the casting might come\u2026",
-            "url": "https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/GOW_-_RH__K.jpg?quality=90&strip=all&crop=0,12.701966623037,100,41.884816753927",
-            "publishedAt": "2026-01-14T20:47:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a voice actor from the games, but not the one youre thinking.\r\nIts a voice actor from the games, but not the one youre thinking.\r\nby\r\nAsh ParrishClose\r\nAsh P\u2026 [+2227 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Slashdot.org"
             },
@@ -1147,6 +1119,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/anbernic_controller1.jpg?quality=90&strip=all&crop=0%2C10.72329591034%2C100%2C78.55340817932&w=1200",
             "publishedAt": "2026-01-23T15:11:26Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can program button combos for the RG G01s four customizable back buttons directly on the controller.\r\nYou can program button combos for the RG G01s four cust\u2026 [+2839 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Oscar Gonzalez",
+            "title": "Xbox Cloud Gaming Ad-Supported Tier: When Does It Start, How Much Will It Cost and More",
+            "description": "Ads could remove the sting of Xbox Game Pass price hikes, but will it be worth it?",
+            "url": "https://www.cnet.com/tech/gaming/xbox-cloud-gaming-ad-supported-tier-when-does-it-start-how-will-it-work/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/62ba47601d7dd5a4f11269e3c31f526b65c2da11/hub/2024/12/27/9a349fe9-9975-478c-b138-7c4e1d191800/screenshot-2024-12-27-at-12-17-19pm.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-02-04T11:01:13Z",
+            "content": "Xbox Cloud Gaming is one of the key selling points of Xbox Game Pass, and it generally works well. The service lets gamers stream Xbox titles to a wide range of devices, including phones, tablets, ha\u2026 [+2093 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Doom Has Come for Nvidia\u2019s Graphics Cards, After All",
+            "description": "The latest RTX 50-series is hundreds or thousands of dollars more expensive than at launch.",
+            "url": "https://gizmodo.com/doom-has-come-for-nvidias-graphics-cards-after-all-2000715184",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-Geforce-RTX-5090-5080-5070-1200x675.jpg",
+            "publishedAt": "2026-01-28T22:00:47Z",
+            "content": "Unless you long to witness the demise of accessible PC gaming, I wouldnt check Amazon for any Nvidia graphics card right now. Just in the past month, prices on the companys coveted GPUs have skyrocke\u2026 [+4903 chars]",
             "ai_score": 5
         }
     ]
