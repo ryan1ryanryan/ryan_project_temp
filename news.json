@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-16 15:46",
+    "last_updated": "2026-02-16 16:50",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Instagram and X have an impossible deepfake detection deadline",
+            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-11T17:20:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -718,20 +732,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "msmash",
-            "title": "HP Now Rents Gaming Laptops",
-            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
-            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
-            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
-            "publishedAt": "2026-02-11T16:00:00Z",
-            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Zack Zwiezen",
@@ -741,6 +741,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/xboxps5console-1200x675.jpg",
             "publishedAt": "2026-01-20T22:28:44Z",
             "content": "The console wars ended a while ago, in case you didn\u2019t know. But if they were still raging on, a talented hardware modder in China created a device that would force a lasting peace. It\u2019s a massive an\u2026 [+1816 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "HP Now Rents Gaming Laptops",
+            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
+            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
+            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
+            "publishedAt": "2026-02-11T16:00:00Z",
+            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
             "ai_score": 5
         },
         {
@@ -783,20 +797,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
             "publishedAt": "2026-01-26T16:44:18Z",
             "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
             "ai_score": 5
         },
         {
