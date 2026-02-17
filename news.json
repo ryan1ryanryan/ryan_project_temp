@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-17 14:52",
+    "last_updated": "2026-02-17 15:59",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Zac Estrada",
+            "title": "Uber Creates \u2018AV Labs\u2019 To Leverage Data For Future Robotaxi Routes",
+            "description": "Uber will manage data for its robotaxi tech partners to access and use as they deploy vehicles.",
+            "url": "https://gizmodo.com/uber-creates-av-labs-to-leverage-data-for-future-robotaxi-routes-2000714658",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1200x675.jpg",
+            "publishedAt": "2026-01-27T23:00:48Z",
+            "content": "After a launch in one U.S. city, Dallas, last month, Uber is preparing to roll out its own network of robotaxis available through its app with the cooperation of various autonomous vehicle partners. \u2026 [+1811 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -538,20 +552,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Zac Estrada",
-            "title": "Uber Creates \u2018AV Labs\u2019 To Leverage Data For Future Robotaxi Routes",
-            "description": "Uber will manage data for its robotaxi tech partners to access and use as they deploy vehicles.",
-            "url": "https://gizmodo.com/uber-creates-av-labs-to-leverage-data-for-future-robotaxi-routes-2000714658",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1200x675.jpg",
-            "publishedAt": "2026-01-27T23:00:48Z",
-            "content": "After a launch in one U.S. city, Dallas, last month, Uber is preparing to roll out its own network of robotaxis available through its app with the cooperation of various autonomous vehicle partners. \u2026 [+1811 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Bruce Gil",
             "title": "The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems",
             "description": "Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.",
@@ -633,20 +633,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
-            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
-            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
-            "publishedAt": "2026-02-14T15:26:50Z",
-            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -657,6 +643,20 @@
             "urlToImage": "https://media.wired.com/photos/69698c37b8df1f891caafa19/191:100/w_1280,c_limit/Backchannel-Former-USDS-Set-to-Fix-what-DOGE-Broke-Business-2199882528.jpg",
             "publishedAt": "2026-01-16T16:00:00Z",
             "content": "The past year has been traumatic for many of the volunteer tech warriors of what was once called the United States Digital Service (USDS). The teams former coders, designers, and UX experts have watc\u2026 [+4218 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
+            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
+            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
+            "publishedAt": "2026-02-14T15:26:50Z",
+            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
             "ai_score": 5
         },
         {
@@ -774,20 +774,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
-            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
-            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
-            "publishedAt": "2026-02-09T00:01:57Z",
-            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "Ty Pendlebury",
@@ -797,6 +783,20 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/950436f6fe4b103a3ab6c617e5a337c83cfe1056/hub/2026/01/30/0dcc83e1-bfde-4687-8159-0bebc1b6f653/maingear-retro98.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-01-30T22:32:43Z",
             "content": "Everything '90s is back -- from Walkmans\u00a0and cassettes to postgrunge rock. Gaming PC maker Maingear is getting on board the trend, selling a 1990s-inspired PC, the Retro98. The company says it even h\u2026 [+1761 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
+            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
+            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
+            "publishedAt": "2026-02-09T00:01:57Z",
+            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
             "ai_score": 5
         },
         {
