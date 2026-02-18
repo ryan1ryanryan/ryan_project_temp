@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-18 13:11",
+    "last_updated": "2026-02-18 14:50",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft reports strong cloud earnings in Q2 as gaming declines",
+            "description": "Microsoft just posted the second quarter of its 2026 fiscal financial results. The software maker made $81.3 billion in revenue and a net income of $30.9 billion during Q3. Revenue is up 17 percent, and net income has increased by 23 percent. The holiday quar\u2026",
+            "url": "https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T21:36:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,20 +41,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft reports strong cloud earnings in Q2 as gaming declines",
-            "description": "Microsoft just posted the second quarter of its 2026 fiscal financial results. The software maker made $81.3 billion in revenue and a net income of $30.9 billion during Q3. Revenue is up 17 percent, and net income has increased by 23 percent. The holiday quar\u2026",
-            "url": "https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T21:36:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
             "ai_score": 5
         },
         {
@@ -622,20 +622,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
-            "description": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes\u2026",
-            "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/2026-Guthman-Musical-Instrument-Competition.jpg?quality=90&strip=all&crop=0%2C7.8060612256323%2C100%2C84.387877548735&w=1200",
-            "publishedAt": "2026-02-14T16:42:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nby\r\nT\u2026 [+2623 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield, Emma Roth",
             "title": "Discord says \u2018vast majority\u2019 of users won\u2019t see its new age verification setup",
             "description": "On Tuesday, Discord released an update clarifying that the \"vast majority of people can continue using Discord exactly as they do today,\" without needing to use a face scan or ID to verify their age so they can use the platform without restrictions. Discord s\u2026",
@@ -643,6 +629,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985722/acastro_STK062_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-10T20:18:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEither because they arent accessing age-restricted experiences, or if its AI predicts theyre old enough.\r\nEither because they arent accessing age-restricted expe\u2026 [+3699 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
+            "description": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes\u2026",
+            "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/2026-Guthman-Musical-Instrument-Competition.jpg?quality=90&strip=all&crop=0%2C7.8060612256323%2C100%2C84.387877548735&w=1200",
+            "publishedAt": "2026-02-14T16:42:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nby\r\nT\u2026 [+2623 chars]",
             "ai_score": 5
         },
         {
