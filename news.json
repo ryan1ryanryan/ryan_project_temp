@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-18 09:55",
+    "last_updated": "2026-02-18 10:50",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Nvidia\u2019s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
+            "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chip\u2026",
+            "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-05T16:33:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritiz\u2026 [+2879 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -83,20 +97,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T20:35:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia\u2019s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
-            "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chip\u2026",
-            "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-05T16:33:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritiz\u2026 [+2879 chars]",
             "ai_score": 5
         },
         {
@@ -749,12 +749,12 @@
                 "name": "Kotaku"
             },
             "author": "Zack Zwiezen",
-            "title": "Intel Announces More Bad News For PC Gaming",
-            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
-            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
-            "publishedAt": "2026-01-26T16:44:18Z",
-            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
+            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
+            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
+            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
+            "publishedAt": "2026-02-11T16:00:01Z",
+            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
             "ai_score": 5
         },
         {
@@ -763,12 +763,12 @@
                 "name": "Kotaku"
             },
             "author": "Zack Zwiezen",
-            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
-            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
-            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
-            "publishedAt": "2026-02-11T16:00:01Z",
-            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
+            "title": "Intel Announces More Bad News For PC Gaming",
+            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
+            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
+            "publishedAt": "2026-01-26T16:44:18Z",
+            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
             "ai_score": 5
         },
         {
