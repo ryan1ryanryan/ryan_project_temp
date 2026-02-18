@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-17 23:35",
+    "last_updated": "2026-02-18 02:18",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
+            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
+            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-27T11:05:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -97,20 +111,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gorillatag.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-02-11T22:24:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe popular VR game is breaking audience records, all while its makers are working on a mobile offshoot, a TV show and a Gorillacon live event.\r\nThe popular VR g\u2026 [+6939 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
-            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
-            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-27T11:05:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
             "ai_score": 5
         },
         {
@@ -311,20 +311,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Nintendo Switch becomes gaming giant's best-selling console in history",
-            "description": "The Super Mario maker said 155 million units of the console have now been sold overall.",
-            "url": "https://www.bbc.com/news/articles/ckglk543x3go",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5c/live/ad226b00-01ad-11f1-ba93-a3f256eaa772.jpg",
-            "publishedAt": "2026-02-04T11:51:29Z",
-            "content": "Despite this, the company said its sequel the Switch 2, had got off to a \"good start\" since its release in June 2025, selling 17 million units as of the end of the year.",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -335,6 +321,20 @@
             "urlToImage": "https://media.wired.com/photos/698d0b7ff7ce0778b7d1b836/191:100/w_1280,c_limit/Review-%20Therabody%20JetBoots%20Pro%20Plus.png",
             "publishedAt": "2026-02-12T12:00:00Z",
             "content": "Compression is still the core feature here, and its the part that delivers most consistently. The boots apply even, targeted pressure up and down the legs, which helps increase blood and lymphatic ci\u2026 [+2521 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Nintendo Switch becomes gaming giant's best-selling console in history",
+            "description": "The Super Mario maker said 155 million units of the console have now been sold overall.",
+            "url": "https://www.bbc.com/news/articles/ckglk543x3go",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5c/live/ad226b00-01ad-11f1-ba93-a3f256eaa772.jpg",
+            "publishedAt": "2026-02-04T11:51:29Z",
+            "content": "Despite this, the company said its sequel the Switch 2, had got off to a \"good start\" since its release in June 2025, selling 17 million units as of the end of the year.",
             "ai_score": 5
         },
         {
@@ -685,6 +685,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/xboxps5console-1200x675.jpg",
             "publishedAt": "2026-01-20T22:28:44Z",
             "content": "The console wars ended a while ago, in case you didn\u2019t know. But if they were still raging on, a talented hardware modder in China created a device that would force a lasting peace. It\u2019s a massive an\u2026 [+1816 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "The tech bros might show more humility in Delhi \u2013 but will they make AI any safer?",
+            "description": "As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.",
+            "url": "https://www.bbc.com/news/articles/cr5l6gnen72o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
+            "publishedAt": "2026-02-17T00:12:58Z",
+            "content": "\"Without tech that understands and speaks these languages, millions are excluded from the digital revolution - especially in education, governance, healthcare, and banking,\" Professor Pushpak Bhattac\u2026 [+49 chars]",
             "ai_score": 5
         },
         {
@@ -1105,20 +1119,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-Geforce-RTX-5090-5080-5070-1200x675.jpg",
             "publishedAt": "2026-01-28T22:00:47Z",
             "content": "Unless you long to witness the demise of accessible PC gaming, I wouldnt check Amazon for any Nvidia graphics card right now. Just in the past month, prices on the companys coveted GPUs have skyrocke\u2026 [+4903 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Former 2K Boss Leaves Amazon Game Studios As It Pivots To Party Slop",
-            "description": "Christoph Hartmann was a key hire back in 2018\nThe post Former 2K Boss Leaves Amazon Game Studios As It Pivots To Party Slop appeared first on Kotaku.",
-            "url": "https://kotaku.com/2k-christoph-hartmann-amazon-studios-crucible-2000663900",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/01/crucible-1200x675.jpg",
-            "publishedAt": "2026-01-28T21:42:28Z",
-            "content": "The boss of Amazon Game Studios is out. VP Christoph Hartmann is leaving the company according to Bloomberg\u2018s Jason Schreier. It\u2019s another big blow to another tech giant that once had big ambitions f\u2026 [+1757 chars]",
             "ai_score": 5
         }
     ]
