@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-02-18 02:18",
+    "last_updated": "2026-02-18 04:59",
     "articles": [
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Tom Warren",
-            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
-            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
-            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-27T11:05:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
+            "author": "Kyle Barr",
+            "title": "Doom Has Come for Nvidia\u2019s Graphics Cards, After All",
+            "description": "The latest RTX 50-series is hundreds or thousands of dollars more expensive than at launch.",
+            "url": "https://gizmodo.com/doom-has-come-for-nvidias-graphics-cards-after-all-2000715184",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-Geforce-RTX-5090-5080-5070-1200x675.jpg",
+            "publishedAt": "2026-01-28T22:00:47Z",
+            "content": "Unless you long to witness the demise of accessible PC gaming, I wouldnt check Amazon for any Nvidia graphics card right now. Just in the past month, prices on the companys coveted GPUs have skyrocke\u2026 [+4903 chars]",
             "ai_score": 8
         },
         {
@@ -55,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T21:36:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Valve\u2019s Steam Deck OLED will be \u2018intermittently\u2019 out of stock because of the RAM crisis",
+            "description": "Valve has updated the Steam Deck OLED website to say that the PC gaming handheld may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The Steam Deck OLED has been out of stock in the US and other parts of the world for a f\u2026",
+            "url": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-17T02:57:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
             "ai_score": 5
         },
         {
@@ -111,6 +125,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gorillatag.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-02-11T22:24:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe popular VR game is breaking audience records, all while its makers are working on a mobile offshoot, a TV show and a Gorillacon live event.\r\nThe popular VR g\u2026 [+6939 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox Cloud Gaming\u2019s new design teases the future of Xbox console UI",
+            "description": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It al\u2026",
+            "url": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-27T11:05:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
             "ai_score": 5
         },
         {
@@ -1105,20 +1133,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/62ba47601d7dd5a4f11269e3c31f526b65c2da11/hub/2024/12/27/9a349fe9-9975-478c-b138-7c4e1d191800/screenshot-2024-12-27-at-12-17-19pm.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-02-04T11:01:13Z",
             "content": "Xbox Cloud Gaming is one of the key selling points of Xbox Game Pass, and it generally works well. The service lets gamers stream Xbox titles to a wide range of devices, including phones, tablets, ha\u2026 [+2093 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Doom Has Come for Nvidia\u2019s Graphics Cards, After All",
-            "description": "The latest RTX 50-series is hundreds or thousands of dollars more expensive than at launch.",
-            "url": "https://gizmodo.com/doom-has-come-for-nvidias-graphics-cards-after-all-2000715184",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-Geforce-RTX-5090-5080-5070-1200x675.jpg",
-            "publishedAt": "2026-01-28T22:00:47Z",
-            "content": "Unless you long to witness the demise of accessible PC gaming, I wouldnt check Amazon for any Nvidia graphics card right now. Just in the past month, prices on the companys coveted GPUs have skyrocke\u2026 [+4903 chars]",
             "ai_score": 5
         }
     ]
