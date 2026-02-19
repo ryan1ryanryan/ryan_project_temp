@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-19 02:16",
+    "last_updated": "2026-02-19 04:58",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -41,7 +41,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T21:36:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -759,16 +759,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": null,
-            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
-            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
-            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
-            "publishedAt": "2026-02-09T00:01:57Z",
-            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
+            "author": "Jess Weatherbed",
+            "title": "Instagram and X have an impossible deepfake detection deadline",
+            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-11T17:20:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
             "ai_score": 5
         },
         {
@@ -787,16 +787,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "author": null,
+            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
+            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
+            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
+            "publishedAt": "2026-02-09T00:01:57Z",
+            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
             "ai_score": 5
         },
         {
@@ -846,27 +846,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "2026 is the year of social media\u2019s legal reckoning",
-            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
-            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T15:31:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores",
-            "description": "Removing or restricting access to Grok's AI image editor might not be enough to stop the flood of nonconsensual sexualized images being generated by AI. A report from the Tech Transparency Project (TTP) released on Tuesday found dozens of AI \"nudify\" apps sim\u2026",
-            "url": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-27T16:26:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Tech Transparency Project identified dozens of apps that can create nonconsensual sexualized deepfakes beyond xAIs Grok.\r\nThe Tech Transparency Project ident\u2026 [+2543 chars]",
+            "author": "Hayden Field",
+            "title": "Under Musk, the Grok disaster was inevitable",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
+            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-18T04:23:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
             "ai_score": 5
         },
         {
@@ -888,13 +874,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Under Musk, the Grok disaster was inevitable",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it st\u2026",
-            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-18T04:23:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe problems were baked in.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al\u2026 [+10356 chars]",
+            "author": "Stevie Bonifield",
+            "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores",
+            "description": "Removing or restricting access to Grok's AI image editor might not be enough to stop the flood of nonconsensual sexualized images being generated by AI. A report from the Tech Transparency Project (TTP) released on Tuesday found dozens of AI \"nudify\" apps sim\u2026",
+            "url": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-27T16:26:34Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Tech Transparency Project identified dozens of apps that can create nonconsensual sexualized deepfakes beyond xAIs Grok.\r\nThe Tech Transparency Project ident\u2026 [+2543 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "2026 is the year of social media\u2019s legal reckoning",
+            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
+            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-26T15:31:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
             "ai_score": 5
         },
         {
@@ -972,20 +972,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Millions of books died so Claude could live",
-            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
-            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-03T15:19:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Janko Roettgers",
             "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
             "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
@@ -993,6 +979,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T22:22:19Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Millions of books died so Claude could live",
+            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
+            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-03T15:19:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
             "ai_score": 5
         },
         {
