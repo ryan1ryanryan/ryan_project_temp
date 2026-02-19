@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-19 20:39",
+    "last_updated": "2026-02-19 21:39",
     "articles": [
         {
             "source": {
@@ -675,6 +675,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Verge Staff",
+            "title": "Social media on trial: tech giants face lawsuits over addiction, safety, and mental health",
+            "description": "A set of bellwether cases alleging that social media platforms harmed teens\u2019 safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answer questions about what they\u2019ve done or not done to protect\u2026",
+            "url": "https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D_1b4bb5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-18T21:27:09Z",
+            "content": "A set of bellwether cases alleging that social media platforms harmed teens safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answ\u2026 [+3507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -1053,20 +1067,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "Anbernic\u2019s next wireless controller adds a screen and heart rate monitoring",
-            "description": "Anbernic has announced its second wireless controller through a teaser video on YouTube highlighting its features. The company's first gamepad, the RG P01, offered features like Hall effect triggers and joysticks for just $18. Pricing for the new Anbernic RG \u2026",
-            "url": "https://www.theverge.com/tech/866600/anbernic-rg-g01-smart-wireless-gaming-controller-heart-rate-sensor-display",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/anbernic_controller1.jpg?quality=90&strip=all&crop=0%2C10.72329591034%2C100%2C78.55340817932&w=1200",
-            "publishedAt": "2026-01-23T15:11:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can program button combos for the RG G01s four customizable back buttons directly on the controller.\r\nYou can program button combos for the RG G01s four cust\u2026 [+2839 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1077,6 +1077,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
             "publishedAt": "2026-02-08T15:00:26Z",
             "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Anbernic\u2019s next wireless controller adds a screen and heart rate monitoring",
+            "description": "Anbernic has announced its second wireless controller through a teaser video on YouTube highlighting its features. The company's first gamepad, the RG P01, offered features like Hall effect triggers and joysticks for just $18. Pricing for the new Anbernic RG \u2026",
+            "url": "https://www.theverge.com/tech/866600/anbernic-rg-g01-smart-wireless-gaming-controller-heart-rate-sensor-display",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/anbernic_controller1.jpg?quality=90&strip=all&crop=0%2C10.72329591034%2C100%2C78.55340817932&w=1200",
+            "publishedAt": "2026-01-23T15:11:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can program button combos for the RG G01s four customizable back buttons directly on the controller.\r\nYou can program button combos for the RG G01s four cust\u2026 [+2839 chars]",
             "ai_score": 5
         },
         {
