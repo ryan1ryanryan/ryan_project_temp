@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-19 13:12",
+    "last_updated": "2026-02-19 14:53",
     "articles": [
         {
             "source": {
@@ -563,20 +563,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems",
-            "description": "Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.",
-            "url": "https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156",
-            "urlToImage": "https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg",
-            "publishedAt": "2026-02-12T17:40:37Z",
-            "content": "The Pentagon is looking to expand its use of artificial intelligence across both unclassified and classified networks, but negotiations with major AI companies have hit a sticking point.\r\nDefense off\u2026 [+2686 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -587,6 +573,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-07T13:17:02Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems",
+            "description": "Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.",
+            "url": "https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg",
+            "publishedAt": "2026-02-12T17:40:37Z",
+            "content": "The Pentagon is looking to expand its use of artificial intelligence across both unclassified and classified networks, but negotiations with major AI companies have hit a sticking point.\r\nDefense off\u2026 [+2686 chars]",
             "ai_score": 5
         },
         {
@@ -759,6 +759,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
+            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
+            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
+            "publishedAt": "2026-02-09T00:01:57Z",
+            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -783,20 +797,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-11T17:20:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
-            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
-            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
-            "publishedAt": "2026-02-09T00:01:57Z",
-            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
             "ai_score": 5
         },
         {
@@ -969,20 +969,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Mark Knapp",
-            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
-            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
-            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-02-18T12:01:01Z",
-            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1007,6 +993,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T22:22:19Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Mark Knapp",
+            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
+            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
+            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-02-18T12:01:01Z",
+            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
             "ai_score": 5
         },
         {
