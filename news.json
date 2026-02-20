@@ -1,6 +1,48 @@
 {
-    "last_updated": "2026-02-20 11:38",
+    "last_updated": "2026-02-20 13:05",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Nvidia\u2019s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
+            "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chip\u2026",
+            "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-05T16:33:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritiz\u2026 [+2879 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
+            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
+            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
+            "publishedAt": "2026-02-11T16:00:01Z",
+            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Linux Gaming Developers Join Forces To Form the Open Gaming Collective",
+            "description": "A group of Linux gaming-focused distros and developers have formed the Open Gaming Collective to pool work on shared components like kernels, input systems, and Valve tooling. The Verge reports: Universal Blue, developer of the gaming-focused Linux distributi\u2026",
+            "url": "https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective",
+            "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
+            "publishedAt": "2026-01-30T00:45:00Z",
+            "content": "Universal Blue, developer of the gaming-focused Linux distribution Bazzite, announced on Wednesday that its helping to form the OGC with several other groups, which will collaborate on improvements t\u2026 [+669 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -83,20 +125,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T20:35:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia\u2019s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
-            "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chip\u2026",
-            "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-05T16:33:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritiz\u2026 [+2879 chars]",
             "ai_score": 5
         },
         {
@@ -661,20 +689,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
-            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
-            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
-            "publishedAt": "2026-02-14T15:26:50Z",
-            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -685,6 +699,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D_1b4bb5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-18T21:27:09Z",
             "content": "A set of bellwether cases alleging that social media platforms harmed teens safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answ\u2026 [+3507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
+            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
+            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
+            "publishedAt": "2026-02-14T15:26:50Z",
+            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
             "ai_score": 5
         },
         {
@@ -755,20 +783,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
             "publishedAt": "2026-01-26T16:44:18Z",
             "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
-            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
-            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
-            "publishedAt": "2026-02-11T16:00:01Z",
-            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
             "ai_score": 5
         },
         {
@@ -1063,20 +1077,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
             "publishedAt": "2026-02-08T15:00:26Z",
             "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "BeauHD",
-            "title": "Linux Gaming Developers Join Forces To Form the Open Gaming Collective",
-            "description": "A group of Linux gaming-focused distros and developers have formed the Open Gaming Collective to pool work on shared components like kernels, input systems, and Valve tooling. The Verge reports: Universal Blue, developer of the gaming-focused Linux distributi\u2026",
-            "url": "https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective",
-            "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
-            "publishedAt": "2026-01-30T00:45:00Z",
-            "content": "Universal Blue, developer of the gaming-focused Linux distribution Bazzite, announced on Wednesday that its helping to form the OGC with several other groups, which will collaborate on improvements t\u2026 [+669 chars]",
             "ai_score": 5
         },
         {
