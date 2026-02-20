@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20 15:43",
+    "last_updated": "2026-02-20 16:45",
     "articles": [
         {
             "source": {
@@ -577,20 +577,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems",
-            "description": "Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.",
-            "url": "https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156",
-            "urlToImage": "https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg",
-            "publishedAt": "2026-02-12T17:40:37Z",
-            "content": "The Pentagon is looking to expand its use of artificial intelligence across both unclassified and classified networks, but negotiations with major AI companies have hit a sticking point.\r\nDefense off\u2026 [+2686 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -601,6 +587,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-07T13:17:02Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems",
+            "description": "Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.",
+            "url": "https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg",
+            "publishedAt": "2026-02-12T17:40:37Z",
+            "content": "The Pentagon is looking to expand its use of artificial intelligence across both unclassified and classified networks, but negotiations with major AI companies have hit a sticking point.\r\nDefense off\u2026 [+2686 chars]",
             "ai_score": 5
         },
         {
