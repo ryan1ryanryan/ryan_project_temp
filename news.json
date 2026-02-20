@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20 21:31",
+    "last_updated": "2026-02-20 22:32",
     "articles": [
         {
             "source": {
@@ -272,20 +272,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Nilay Patel",
-            "title": "Gamers love AI in game dev \u2014 they just don\u2019t know it yet, says Razer\u2019s CEO",
-            "description": "We\u2019re back to start the year off with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES.\u00a0 Razer is obviously best known for making mice, keyboards, and gaming PC\u2026",
-            "url": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Min-Liang-Tan_NEW-1.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-            "publishedAt": "2026-01-19T14:08:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRazers Min-Liang Tan on gamings AI backlash, partnering with Grok, and creating anime waifus.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your\u2026 [+62934 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sean Hollister",
             "title": "This fanny pack robot helped me walk miles",
             "description": "Oops, I did it again: I wore an exoskeleton to the world's biggest tech show, walking the streets and casinos of Las Vegas with a robot powering my legs. I don't mean I briefly tried a new gadget there. I mean that for the second year in a row, robotic legs h\u2026",
@@ -423,20 +409,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brad Bourque",
-            "title": "Upgrade Your Computer Speakers With These Discounted Edifier M60s",
-            "description": "These compact Edifier speakers may not be the fanciest, but they'll blow your monitor's built-in speakers out of the water.",
-            "url": "https://www.wired.com/story/edifier-m60-deal-226/",
-            "urlToImage": "https://media.wired.com/photos/699759e787f28b476c1c65d6/191:100/w_1280,c_limit/Save%20$30%20on%20Our%20Favorite%20Budget%20Desktop%20Speaker.png",
-            "publishedAt": "2026-02-19T19:47:39Z",
-            "content": "Tired of the tinny, flat sound you're getting from your current computer speakers? Even the best gaming screens tend to have lackluster audio, if they include it at all, so we recommend either a pair\u2026 [+1845 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -447,6 +419,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/gamer-1200x675.jpg",
             "publishedAt": "2026-01-20T15:35:08Z",
             "content": "Weve got great news for everyone whos ever been kept awake until the wee hours of the morning by a family member or housemate screaming obscenities at their monitor while playing video games. Your le\u2026 [+2683 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Upgrade Your Computer Speakers With These Discounted Edifier M60s",
+            "description": "These compact Edifier speakers may not be the fanciest, but they'll blow your monitor's built-in speakers out of the water.",
+            "url": "https://www.wired.com/story/edifier-m60-deal-226/",
+            "urlToImage": "https://media.wired.com/photos/699759e787f28b476c1c65d6/191:100/w_1280,c_limit/Save%20$30%20on%20Our%20Favorite%20Budget%20Desktop%20Speaker.png",
+            "publishedAt": "2026-02-19T19:47:39Z",
+            "content": "Tired of the tinny, flat sound you're getting from your current computer speakers? Even the best gaming screens tend to have lackluster audio, if they include it at all, so we recommend either a pair\u2026 [+1845 chars]",
             "ai_score": 5
         },
         {
@@ -553,20 +539,6 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Valve Might Finally Prove PC Gaming Doesn\u2019t Have to Be a Pain in the Ass",
-            "description": "Hopefully, we'll see even more non-Valve hybrid consoles/PCs soon enough.",
-            "url": "https://gizmodo.com/valve-might-finally-prove-pc-gaming-doesnt-have-to-be-a-pain-in-the-ass-2000711244",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-Console-1200x675.jpg",
-            "publishedAt": "2026-01-19T16:00:56Z",
-            "content": "This year, we may finally see if PC gaming can become the de facto mode for play. Valves long-promised Steam Machine is ready to make landfall early this year. Yes, we still dont know how much it wil\u2026 [+8389 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
             "title": "Intel\u2019s Panther Lake CPUs Make the Best Case for \u2018Fake Frames\u2019 in Gaming",
             "description": "The new Core Ultra Series 3 chips and XeSS 3 AI upscaler can juice up frame rates on laptops, but handhelds may benefit the most.",
             "url": "https://gizmodo.com/intels-panther-lake-cpus-make-the-best-case-for-fake-frames-in-gaming-2000714188",
@@ -605,20 +577,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
-            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
-            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-07T13:17:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -629,6 +587,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg",
             "publishedAt": "2026-02-12T17:40:37Z",
             "content": "The Pentagon is looking to expand its use of artificial intelligence across both unclassified and classified networks, but negotiations with major AI companies have hit a sticking point.\r\nDefense off\u2026 [+2686 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
+            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
+            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-07T13:17:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
             "ai_score": 5
         },
         {
@@ -802,20 +774,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
-            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
-            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
-            "publishedAt": "2026-02-11T16:00:01Z",
-            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "Ty Pendlebury",
@@ -825,6 +783,20 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/950436f6fe4b103a3ab6c617e5a337c83cfe1056/hub/2026/01/30/0dcc83e1-bfde-4687-8159-0bebc1b6f653/maingear-retro98.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-01-30T22:32:43Z",
             "content": "Everything '90s is back -- from Walkmans\u00a0and cassettes to postgrunge rock. Gaming PC maker Maingear is getting on board the trend, selling a 1990s-inspired PC, the Retro98. The company says it even h\u2026 [+1761 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
+            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
+            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
+            "publishedAt": "2026-02-11T16:00:01Z",
+            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
             "ai_score": 5
         },
         {
@@ -846,20 +818,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
-            "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
-            "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
-            "publishedAt": "2026-02-10T18:43:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "Instagram and X have an impossible deepfake detection deadline",
             "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
@@ -867,6 +825,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-11T17:20:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
+            "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
+            "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
+            "publishedAt": "2026-02-10T18:43:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
             "ai_score": 5
         },
         {
@@ -930,13 +902,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "2026 is the year of social media\u2019s legal reckoning",
-            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
-            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T15:31:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
+            "author": "David Pierce",
+            "title": "The end of the Sony era in TVs",
+            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
+            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-23T15:20:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
             "ai_score": 5
         },
         {
@@ -958,13 +930,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The end of the Sony era in TVs",
-            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
-            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-23T15:20:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
+            "author": "Lauren Feiner",
+            "title": "2026 is the year of social media\u2019s legal reckoning",
+            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
+            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-26T15:31:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
             "ai_score": 5
         },
         {
@@ -1026,20 +998,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNET"
-            },
-            "author": "Mark Knapp",
-            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
-            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
-            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-02-18T12:01:01Z",
-            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "James Pero",
@@ -1049,6 +1007,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/11/even-realities-even-g2-review-01-1200x675.jpg",
             "publishedAt": "2026-01-20T17:15:09Z",
             "content": "If it feels like everyone is talking about smart glasses lately, it\u2019s not just your imagination. There\u2019s Meta, of course, which is by far the biggest gravitational force in the smart glasses game rig\u2026 [+3204 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
+            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T22:22:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
             "ai_score": 5
         },
         {
@@ -1067,16 +1039,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "CNET"
             },
-            "author": "Janko Roettgers",
-            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
-            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T22:22:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
+            "author": "Mark Knapp",
+            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
+            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
+            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-02-18T12:01:01Z",
+            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
             "ai_score": 5
         },
         {
@@ -1133,6 +1105,20 @@
             "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
             "publishedAt": "2026-01-30T00:45:00Z",
             "content": "Universal Blue, developer of the gaming-focused Linux distribution Bazzite, announced on Wednesday that its helping to form the OGC with several other groups, which will collaborate on improvements t\u2026 [+669 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Anbernic\u2019s next wireless controller adds a screen and heart rate monitoring",
+            "description": "Anbernic has announced its second wireless controller through a teaser video on YouTube highlighting its features. The company's first gamepad, the RG P01, offered features like Hall effect triggers and joysticks for just $18. Pricing for the new Anbernic RG \u2026",
+            "url": "https://www.theverge.com/tech/866600/anbernic-rg-g01-smart-wireless-gaming-controller-heart-rate-sensor-display",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/anbernic_controller1.jpg?quality=90&strip=all&crop=0%2C10.72329591034%2C100%2C78.55340817932&w=1200",
+            "publishedAt": "2026-01-23T15:11:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can program button combos for the RG G01s four customizable back buttons directly on the controller.\r\nYou can program button combos for the RG G01s four cust\u2026 [+2839 chars]",
             "ai_score": 5
         }
     ]
