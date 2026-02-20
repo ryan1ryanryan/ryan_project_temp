@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-02-20 16:45",
+    "last_updated": "2026-02-20 17:43",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Katie Drummond",
+            "title": "Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities",
+            "description": "Even as Big Tech CEOs curry favor with President Trump, Silicon Valley employees are calling on their bosses to use their influence to help stop his immigration policies.",
+            "url": "https://www.wired.com/story/the-big-interview-podcast-ice-out-tech/",
+            "urlToImage": "https://media.wired.com/photos/697bcbc1c665ec82a9eaf379/191:100/w_1280,c_limit/Big-Interview-UV-Interview-Why-Tech-Workers-Want-ICE-Out-of-US-Cities-Business-2254689766.jpg",
+            "publishedAt": "2026-01-30T11:30:00Z",
+            "content": "The first Trump administration, and the tech industry that stood up to it, are both looking quainter by the day.\r\nHeres one example: In 2017, when President Trump issued a series of executive orders \u2026 [+3637 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Moz Farooque",
+            "title": "Nvidia may skip new GPU release in stunning break",
+            "description": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year. The tech...",
+            "url": "https://www.thestreet.com/investing/stocks/nvidia-may-skip-new-gpu-release-in-stunning-break",
+            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
+            "publishedAt": "2026-02-06T20:13:00Z",
+            "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -314,20 +342,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Katie Drummond",
-            "title": "Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities",
-            "description": "Even as Big Tech CEOs curry favor with President Trump, Silicon Valley employees are calling on their bosses to use their influence to help stop his immigration policies.",
-            "url": "https://www.wired.com/story/the-big-interview-podcast-ice-out-tech/",
-            "urlToImage": "https://media.wired.com/photos/697bcbc1c665ec82a9eaf379/191:100/w_1280,c_limit/Big-Interview-UV-Interview-Why-Tech-Workers-Want-ICE-Out-of-US-Cities-Business-2254689766.jpg",
-            "publishedAt": "2026-01-30T11:30:00Z",
-            "content": "The first Trump administration, and the tech industry that stood up to it, are both looking quainter by the day.\r\nHeres one example: In 2017, when President Trump issued a series of executive orders \u2026 [+3637 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Boutayna Chokrane",
             "title": "Nick Goepper\u2019s Starter Pack: Winter Olympics 2026",
             "description": "Inside freestyle skier Nick Goepper\u2019s starter pack: the tech, recovery tools, and rituals powering his comeback in the halfpipe for the 2026 Winter Games.",
@@ -601,20 +615,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg",
             "publishedAt": "2026-02-12T17:40:37Z",
             "content": "The Pentagon is looking to expand its use of artificial intelligence across both unclassified and classified networks, but negotiations with major AI companies have hit a sticking point.\r\nDefense off\u2026 [+2686 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Moz Farooque",
-            "title": "Nvidia may skip new GPU release in stunning break",
-            "description": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year. The tech...",
-            "url": "https://www.thestreet.com/investing/stocks/nvidia-may-skip-new-gpu-release-in-stunning-break",
-            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
-            "publishedAt": "2026-02-06T20:13:00Z",
-            "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
             "ai_score": 5
         },
         {
