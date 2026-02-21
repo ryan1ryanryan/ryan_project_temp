@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-21 15:31",
+    "last_updated": "2026-02-21 16:35",
     "articles": [
         {
             "source": {
@@ -801,20 +801,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
-            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
-            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
-            "publishedAt": "2026-02-11T16:00:01Z",
-            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -853,6 +839,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-19T13:22:41Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new music app Parachord aims to unite Spotify, Apple Music, and Bandcamp with the help of AI.\r\nThe new music app Parachord aims to unite Spotify, Apple Music\u2026 [+7343 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
+            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
+            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
+            "publishedAt": "2026-02-11T16:00:01Z",
+            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
             "ai_score": 5
         },
         {
