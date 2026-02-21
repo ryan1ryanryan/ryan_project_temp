@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-21 21:29",
+    "last_updated": "2026-02-21 22:30",
     "articles": [
         {
             "source": {
@@ -731,20 +731,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Charles Pulliam-Moore",
-            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
-            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
-            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
-            "publishedAt": "2026-02-12T17:37:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -755,6 +741,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
             "publishedAt": "2026-02-14T15:26:50Z",
             "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
+            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
+            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
+            "publishedAt": "2026-02-12T17:37:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
             "ai_score": 5
         },
         {
@@ -818,20 +818,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
             "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
@@ -839,6 +825,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
             "publishedAt": "2026-02-10T18:43:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Instagram and X have an impossible deepfake detection deadline",
+            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-11T17:20:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
             "ai_score": 5
         },
         {
@@ -871,20 +871,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "msmash",
-            "title": "HP Now Rents Gaming Laptops",
-            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
-            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
-            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
-            "publishedAt": "2026-02-11T16:00:00Z",
-            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -895,6 +881,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2243425240.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
             "publishedAt": "2026-02-10T16:01:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSuperconducting cables could make for more compact data centers.\r\nSuperconducting cables could make for more compact data centers.\r\nby\r\nJustine CalmaClose\r\nPosts\u2026 [+6551 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "HP Now Rents Gaming Laptops",
+            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
+            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
+            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
+            "publishedAt": "2026-02-11T16:00:00Z",
+            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
             "ai_score": 5
         },
         {
@@ -930,13 +930,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The end of the Sony era in TVs",
-            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
-            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-23T15:20:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
+            "author": "Lauren Feiner",
+            "title": "2026 is the year of social media\u2019s legal reckoning",
+            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
+            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-26T15:31:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
             "ai_score": 5
         },
         {
@@ -958,13 +958,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "2026 is the year of social media\u2019s legal reckoning",
-            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
-            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T15:31:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
+            "author": "David Pierce",
+            "title": "The end of the Sony era in TVs",
+            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
+            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-23T15:20:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
             "ai_score": 5
         },
         {
@@ -1042,20 +1042,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
-            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T22:22:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "Millions of books died so Claude could live",
             "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
@@ -1063,6 +1049,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-03T15:19:28Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
+            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T22:22:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
             "ai_score": 5
         },
         {
@@ -1119,20 +1119,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nintendo_talking_flower2.jpg?quality=90&strip=all&crop=0%2C10.717639621171%2C100%2C78.564720757659&w=1200",
             "publishedAt": "2026-01-22T14:35:36Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe interactive toy will be available for preorder today and launches on March 12th.\r\nThe interactive toy will be available for preorder today and launches on Ma\u2026 [+2925 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "BeauHD",
-            "title": "Linux Gaming Developers Join Forces To Form the Open Gaming Collective",
-            "description": "A group of Linux gaming-focused distros and developers have formed the Open Gaming Collective to pool work on shared components like kernels, input systems, and Valve tooling. The Verge reports: Universal Blue, developer of the gaming-focused Linux distributi\u2026",
-            "url": "https://games.slashdot.org/story/26/01/29/2252203/linux-gaming-developers-join-forces-to-form-the-open-gaming-collective",
-            "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
-            "publishedAt": "2026-01-30T00:45:00Z",
-            "content": "Universal Blue, developer of the gaming-focused Linux distribution Bazzite, announced on Wednesday that its helping to form the OGC with several other groups, which will collaborate on improvements t\u2026 [+669 chars]",
             "ai_score": 5
         }
     ]
