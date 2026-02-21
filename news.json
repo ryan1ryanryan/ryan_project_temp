@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-21 06:48",
+    "last_updated": "2026-02-21 07:38",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -760,20 +760,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNET"
-            },
-            "author": "Ty Pendlebury",
-            "title": "Time Warp Back to the 1990s With Maingear's Retro98 PC",
-            "description": "But good luck getting one: The PC maker is producing only 32 of the old-school-style beige computers, starting at $2,499.",
-            "url": "https://www.cnet.com/tech/computing/maingears-1990s-inspired-retro98-pc-has-working-turbo-button/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/950436f6fe4b103a3ab6c617e5a337c83cfe1056/hub/2026/01/30/0dcc83e1-bfde-4687-8159-0bebc1b6f653/maingear-retro98.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-01-30T22:32:43Z",
-            "content": "Everything '90s is back -- from Walkmans\u00a0and cassettes to postgrunge rock. Gaming PC maker Maingear is getting on board the trend, selling a 1990s-inspired PC, the Retro98. The company says it even h\u2026 [+1761 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Slashdot.org"
             },
             "author": "msmash",
@@ -783,6 +769,20 @@
             "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
             "publishedAt": "2026-02-11T16:00:00Z",
             "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ty Pendlebury",
+            "title": "Time Warp Back to the 1990s With Maingear's Retro98 PC",
+            "description": "But good luck getting one: The PC maker is producing only 32 of the old-school-style beige computers, starting at $2,499.",
+            "url": "https://www.cnet.com/tech/computing/maingears-1990s-inspired-retro98-pc-has-working-turbo-button/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/950436f6fe4b103a3ab6c617e5a337c83cfe1056/hub/2026/01/30/0dcc83e1-bfde-4687-8159-0bebc1b6f653/maingear-retro98.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-01-30T22:32:43Z",
+            "content": "Everything '90s is back -- from Walkmans\u00a0and cassettes to postgrunge rock. Gaming PC maker Maingear is getting on board the trend, selling a 1990s-inspired PC, the Retro98. The company says it even h\u2026 [+1761 chars]",
             "ai_score": 5
         },
         {
