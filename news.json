@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-02-21 17:31",
+    "last_updated": "2026-02-21 18:41",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Linux gaming developers join forces to form the Open Gaming Collective",
-            "description": "Gaming on Linux has already come a long way over recent years, with improvements to Valve's Proton and more gamers switching to Linux, but the newly-formed Open Gaming Collective (OGC) is aiming to take it even further. Universal Blue, developer of the gaming\u2026",
-            "url": "https://www.theverge.com/tech/870159/linux-gaming-open-gaming-collective-bazzite",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-29T16:36:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Linux gaming developers join forces to form the Open Gaming Collective",
+            "description": "Gaming on Linux has already come a long way over recent years, with improvements to Valve's Proton and more gamers switching to Linux, but the newly-formed Open Gaming Collective (OGC) is aiming to take it even further. Universal Blue, developer of the gaming\u2026",
+            "url": "https://www.theverge.com/tech/870159/linux-gaming-open-gaming-collective-bazzite",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-29T16:36:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
             "ai_score": 5
         },
         {
@@ -620,20 +620,6 @@
         {
             "source": {
                 "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Moz Farooque",
-            "title": "Nvidia may skip new GPU release in stunning break",
-            "description": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year. The tech...",
-            "url": "https://www.thestreet.com/investing/stocks/nvidia-may-skip-new-gpu-release-in-stunning-break",
-            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
-            "publishedAt": "2026-02-06T20:13:00Z",
-            "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -643,6 +629,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6818/live/837d9160-0344-11f1-b5e2-dd58fc65f0f6.jpg",
             "publishedAt": "2026-02-08T01:07:34Z",
             "content": "\"Back in the 80s or 90s it was very easy to get into a vehicle, steal it and take it away. It was probably cheaper than getting a taxi at the time,\" he said. \"Now, because of the value of vehicles go\u2026 [+90 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Moz Farooque",
+            "title": "Nvidia may skip new GPU release in stunning break",
+            "description": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year. The tech...",
+            "url": "https://www.thestreet.com/investing/stocks/nvidia-may-skip-new-gpu-release-in-stunning-break",
+            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
+            "publishedAt": "2026-02-06T20:13:00Z",
+            "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
             "ai_score": 5
         },
         {
@@ -801,20 +801,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
-            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
-            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
-            "publishedAt": "2026-02-11T16:00:01Z",
-            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -853,6 +839,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-19T13:22:41Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new music app Parachord aims to unite Spotify, Apple Music, and Bandcamp with the help of AI.\r\nThe new music app Parachord aims to unite Spotify, Apple Music\u2026 [+7343 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
+            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
+            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
+            "publishedAt": "2026-02-11T16:00:01Z",
+            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
             "ai_score": 5
         },
         {
