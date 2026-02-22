@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-22 08:39",
+    "last_updated": "2026-02-22 09:37",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "iBuyPower\u2019s gaming desktops are discounted for Presidents Day",
+            "description": "Buying a pre-assembled gaming desktop makes sense for some. It can save you time and money, too, compared to buying PC components piecemeal. If you\u2019re weighing your options, consider some Presidents Day offers on iBuyPower\u2019s pre-built desktops, including the \u2026",
+            "url": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/iBuyPower-Element-9-Pro-R07-Lifestyle-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2026-02-14T12:34:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf its too pricey or complicated to build your own, here are two configurations with high-end AMD CPUs and GPUs.\r\nIf its too pricey or complicated to build your \u2026 [+3215 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,7 +41,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -41,7 +55,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T21:36:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -55,119 +69,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/the-stepback-mario-back.png?quality=90&strip=all&crop=0%2C10.704835894838%2C100%2C78.590328210325&w=1200",
             "publishedAt": "2026-02-15T02:13:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProject Genie is an underwhelming glimpse into what may come.\r\nProject Genie is an underwhelming glimpse into what may come.\r\nby\r\nJay PetersClose\r\nPosts from thi\u2026 [+8731 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Half of developers think gen AI is bad for the gaming industry",
-            "description": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of\u2026",
-            "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T20:35:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Nintendo Virtual Boy for Switch 2 Review: An Incredible Recreation of a Terrible Console",
-            "description": "You'll enjoy Nintendo's $100 Virtual Boy if you enjoy digging through gaming history.",
-            "url": "https://gizmodo.com/nintendo-virtual-boy-for-switch-2-review-an-incredible-recreation-of-a-terrible-console-2000724146",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Virtual-Boy-Switch-2-Acessory-Review-17-1200x675.jpg",
-            "publishedAt": "2026-02-20T21:15:19Z",
-            "content": "I imagine most gamers who approach Nintendo\u2019s new $100 Virtual Boy peripheral will be as skeptical as my brother. I loaded up the games for him, plugged the Switch 2 into the Virtual Boy\u2019s awaiting s\u2026 [+14189 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Nintendo\u2019s Virtual Boy Recreation Reminds Us Gaming Doesn\u2019t Have to Be Fun",
-            "description": "You'll enjoy Nintendo's $100 Virtual Boy Switch 2 accessory if you look at it like a gaming archaeologist.",
-            "url": "https://gizmodo.com/nintendos-virtual-boy-recreation-reminds-us-gaming-doesnt-have-to-be-fun-2000716819",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Nintendo-Virtual-Boy-3-1200x675.jpg",
-            "publishedAt": "2026-02-03T14:00:56Z",
-            "content": "The recreated Virtual Boy may represent a new era of Nintendo, or at least the company\u2019s willingness to respect its past failures. For the $100 recreation of the nearly 31-year-old virtual reality co\u2026 [+8351 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Katie Drummond",
-            "title": "Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities",
-            "description": "Even as Big Tech CEOs curry favor with President Trump, Silicon Valley employees are calling on their bosses to use their influence to help stop his immigration policies.",
-            "url": "https://www.wired.com/story/the-big-interview-podcast-ice-out-tech/",
-            "urlToImage": "https://media.wired.com/photos/697bcbc1c665ec82a9eaf379/191:100/w_1280,c_limit/Big-Interview-UV-Interview-Why-Tech-Workers-Want-ICE-Out-of-US-Cities-Business-2254689766.jpg",
-            "publishedAt": "2026-01-30T11:30:00Z",
-            "content": "The first Trump administration, and the tech industry that stood up to it, are both looking quainter by the day.\r\nHeres one example: In 2017, when President Trump issued a series of executive orders \u2026 [+3637 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Nintendo Switch becomes gaming giant's best-selling console in history",
-            "description": "The Super Mario maker said 155 million units of the console have now been sold overall.",
-            "url": "https://www.bbc.com/news/articles/ckglk543x3go",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5c/live/ad226b00-01ad-11f1-ba93-a3f256eaa772.jpg",
-            "publishedAt": "2026-02-04T11:51:29Z",
-            "content": "Despite this, the company said its sequel the Switch 2, had got off to a \"good start\" since its release in June 2025, selling 17 million units as of the end of the year.",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "How to un-Big Tech your online life",
-            "description": "Hi, friends! Welcome to Installer No. 116, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy National Ferris Wheel Day to all those who celebrate, and also you can read all the old editions at the Installer homepage\u2026",
-            "url": "https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Installer-116.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-13T20:28:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: a new Mario Tennis, Sonys great new buds, a wild time-travel movie, and much more.\r\nPlus, in this weeks Installer: a new Mario Ten\u2026 [+15346 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Lauren Edmonds",
-            "title": "Google Cloud gaming boss says AI is the Iron Man suit for game developers \u2014 and everyone needs to get on board",
-            "description": "For Jack Buser, who has worked in the gaming industry for 30 years, AI is  an opportunity to push the boundaries of player experiences.",
-            "url": "https://www.businessinsider.com/ai-gaming-developers-jack-buser-google-2026-1",
-            "urlToImage": "https://i.insider.com/69768282d3c7faef0ecce384?width=1200&format=jpeg",
-            "publishedAt": "2026-01-26T10:03:01Z",
-            "content": "Jack Buser, the global director for games at Google Cloud, compared equipping game developers with AI to giving them Iron Man's suit.Gabe Ginsberg/Getty Images\r\n<ul><li>Jack Buser, Google Cloud's gam\u2026 [+3500 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Intel\u2019s Panther Lake CPUs Make the Best Case for \u2018Fake Frames\u2019 in Gaming",
-            "description": "The new Core Ultra Series 3 chips and XeSS 3 AI upscaler can juice up frame rates on laptops, but handhelds may benefit the most.",
-            "url": "https://gizmodo.com/intels-panther-lake-cpus-make-the-best-case-for-fake-frames-in-gaming-2000714188",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Asus-Zenbook-Duo-2026-review-3-1200x675.jpg",
-            "publishedAt": "2026-01-27T13:55:51Z",
-            "content": "If your gaming machine isnt rendering any frames itself, whats the point of having a costly computer at all? I know some of you out there are mumbling resentments, asking that question already knowin\u2026 [+8110 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -181,6 +83,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-17T02:57:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Half of developers think gen AI is bad for the gaming industry",
+            "description": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of\u2026",
+            "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T20:35:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
             "ai_score": 5
         },
         {
@@ -230,20 +146,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "iBuyPower\u2019s gaming desktops are discounted for Presidents Day",
-            "description": "Buying a pre-assembled gaming desktop makes sense for some. It can save you time and money, too, compared to buying PC components piecemeal. If you\u2019re weighing your options, consider some Presidents Day offers on iBuyPower\u2019s pre-built desktops, including the \u2026",
-            "url": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/iBuyPower-Element-9-Pro-R07-Lifestyle-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-02-14T12:34:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf its too pricey or complicated to build your own, here are two configurations with high-end AMD CPUs and GPUs.\r\nIf its too pricey or complicated to build your \u2026 [+3215 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Antonio G. Di Benedetto",
             "title": "I review laptops for The Verge, ask me anything",
             "description": "What up, Verge-heads! Wait. \"Vergesters?\" \"Verge-igans?\" Nope, that ain't it\u2026 GREETINGS, DEAREST VERGE SUBSCRIBERS! Antonio here. \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb I'm your friendly neighborhood laptop reviewer, and I'm hosting an exclusive subscriber \"AMA\" today at 11AM PT / 2PM ET.\u2026",
@@ -265,6 +167,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062778/STK138_Stream_Kradtke_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-13T18:15:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nValve is also adding an option to collect anonymized framerate data for monitoring game compatibility.\r\nValve is also adding an option to collect anonymized fram\u2026 [+2385 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Nintendo Virtual Boy for Switch 2 Review: An Incredible Recreation of a Terrible Console",
+            "description": "You'll enjoy Nintendo's $100 Virtual Boy if you enjoy digging through gaming history.",
+            "url": "https://gizmodo.com/nintendo-virtual-boy-for-switch-2-review-an-incredible-recreation-of-a-terrible-console-2000724146",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Virtual-Boy-Switch-2-Acessory-Review-17-1200x675.jpg",
+            "publishedAt": "2026-02-20T21:15:19Z",
+            "content": "I imagine most gamers who approach Nintendo\u2019s new $100 Virtual Boy peripheral will be as skeptical as my brother. I loaded up the games for him, plugged the Switch 2 into the Virtual Boy\u2019s awaiting s\u2026 [+14189 chars]",
             "ai_score": 5
         },
         {
@@ -409,6 +325,34 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Nintendo\u2019s Virtual Boy Recreation Reminds Us Gaming Doesn\u2019t Have to Be Fun",
+            "description": "You'll enjoy Nintendo's $100 Virtual Boy Switch 2 accessory if you look at it like a gaming archaeologist.",
+            "url": "https://gizmodo.com/nintendos-virtual-boy-recreation-reminds-us-gaming-doesnt-have-to-be-fun-2000716819",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Nintendo-Virtual-Boy-3-1200x675.jpg",
+            "publishedAt": "2026-02-03T14:00:56Z",
+            "content": "The recreated Virtual Boy may represent a new era of Nintendo, or at least the company\u2019s willingness to respect its past failures. For the $100 recreation of the nearly 31-year-old virtual reality co\u2026 [+8351 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Katie Drummond",
+            "title": "Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities",
+            "description": "Even as Big Tech CEOs curry favor with President Trump, Silicon Valley employees are calling on their bosses to use their influence to help stop his immigration policies.",
+            "url": "https://www.wired.com/story/the-big-interview-podcast-ice-out-tech/",
+            "urlToImage": "https://media.wired.com/photos/697bcbc1c665ec82a9eaf379/191:100/w_1280,c_limit/Big-Interview-UV-Interview-Why-Tech-Workers-Want-ICE-Out-of-US-Cities-Business-2254689766.jpg",
+            "publishedAt": "2026-01-30T11:30:00Z",
+            "content": "The first Trump administration, and the tech industry that stood up to it, are both looking quainter by the day.\r\nHeres one example: In 2017, when President Trump issued a series of executive orders \u2026 [+3637 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -419,6 +363,20 @@
             "urlToImage": "https://media.wired.com/photos/6979d8491a6ccc7c52091a0e/191:100/w_1280,c_limit/012726_Winter-Olympics-Nick%20Goepper-SP.jpg",
             "publishedAt": "2026-02-03T11:30:00Z",
             "content": "Pit Vipers Magic Magnet system makes lens changes easy, even with gloves on. Goepper rotates between just two: a blackout lens for daytime sessions and a clear lens for nighttime. With an ultrawide f\u2026 [+1887 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Nintendo Switch becomes gaming giant's best-selling console in history",
+            "description": "The Super Mario maker said 155 million units of the console have now been sold overall.",
+            "url": "https://www.bbc.com/news/articles/ckglk543x3go",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5c/live/ad226b00-01ad-11f1-ba93-a3f256eaa772.jpg",
+            "publishedAt": "2026-02-04T11:51:29Z",
+            "content": "Despite this, the company said its sequel the Switch 2, had got off to a \"good start\" since its release in June 2025, selling 17 million units as of the end of the year.",
             "ai_score": 5
         },
         {
@@ -496,13 +454,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Nilay Patel",
-            "title": "Experian\u2019s tech chief defends credit scores: \u2018We\u2019re not Palantir\u2019",
-            "description": "Today, I\u2019m talking with Alex Lintner, who is the CEO of technology and software solutions at Experian, the credit reporting company. Experian is one of those multinationals that\u2019s so big and convoluted that it has multiple CEOs all over the world, so Alex and\u2026",
-            "url": "https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-            "publishedAt": "2026-01-26T14:17:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
+            "author": "David Pierce",
+            "title": "How to un-Big Tech your online life",
+            "description": "Hi, friends! Welcome to Installer No. 116, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy National Ferris Wheel Day to all those who celebrate, and also you can read all the old editions at the Installer homepage\u2026",
+            "url": "https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Installer-116.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-13T20:28:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: a new Mario Tennis, Sonys great new buds, a wild time-travel movie, and much more.\r\nPlus, in this weeks Installer: a new Mario Ten\u2026 [+15346 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "Google Cloud gaming boss says AI is the Iron Man suit for game developers \u2014 and everyone needs to get on board",
+            "description": "For Jack Buser, who has worked in the gaming industry for 30 years, AI is  an opportunity to push the boundaries of player experiences.",
+            "url": "https://www.businessinsider.com/ai-gaming-developers-jack-buser-google-2026-1",
+            "urlToImage": "https://i.insider.com/69768282d3c7faef0ecce384?width=1200&format=jpeg",
+            "publishedAt": "2026-01-26T10:03:01Z",
+            "content": "Jack Buser, the global director for games at Google Cloud, compared equipping game developers with AI to giving them Iron Man's suit.Gabe Ginsberg/Getty Images\r\n<ul><li>Jack Buser, Google Cloud's gam\u2026 [+3500 chars]",
             "ai_score": 5
         },
         {
@@ -517,6 +489,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/AI-pivot-1200x675.jpg",
             "publishedAt": "2026-02-10T16:10:27Z",
             "content": "Over the weekend, bitcoin miner Cango sold 4,451 bitcoin for around $305 million. According to a company press release, the sale was completed to partially pay down a bitcoin-collateralized loan. Add\u2026 [+3923 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Experian\u2019s tech chief defends credit scores: \u2018We\u2019re not Palantir\u2019",
+            "description": "Today, I\u2019m talking with Alex Lintner, who is the CEO of technology and software solutions at Experian, the credit reporting company. Experian is one of those multinationals that\u2019s so big and convoluted that it has multiple CEOs all over the world, so Alex and\u2026",
+            "url": "https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DCD-Experian-Alex-Lintner.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+            "publishedAt": "2026-01-26T14:17:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlex Lintner, head of tech for the global credit reporting company, on AI, privacy, and what data brokerages really do.\r\nby\r\nNilay PatelClose\r\nPosts from this au\u2026 [+62520 chars]",
             "ai_score": 5
         },
         {
@@ -559,6 +545,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/shutterstock_2718210697-1200x675.jpg",
             "publishedAt": "2026-02-02T10:00:36Z",
             "content": "Only days after a nationwide general strike to protest the Trump administration\u2019s brutal immigration crackdown, a new group is now embarking on a longer coordinated economic strike, this time targeti\u2026 [+5243 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Intel\u2019s Panther Lake CPUs Make the Best Case for \u2018Fake Frames\u2019 in Gaming",
+            "description": "The new Core Ultra Series 3 chips and XeSS 3 AI upscaler can juice up frame rates on laptops, but handhelds may benefit the most.",
+            "url": "https://gizmodo.com/intels-panther-lake-cpus-make-the-best-case-for-fake-frames-in-gaming-2000714188",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Asus-Zenbook-Duo-2026-review-3-1200x675.jpg",
+            "publishedAt": "2026-01-27T13:55:51Z",
+            "content": "If your gaming machine isnt rendering any frames itself, whats the point of having a costly computer at all? I know some of you out there are mumbling resentments, asking that question already knowin\u2026 [+8110 chars]",
             "ai_score": 5
         },
         {
@@ -664,20 +664,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield, Emma Roth",
-            "title": "Discord says \u2018vast majority\u2019 of users won\u2019t see its new age verification setup",
-            "description": "On Tuesday, Discord released an update clarifying that the \"vast majority of people can continue using Discord exactly as they do today,\" without needing to use a face scan or ID to verify their age so they can use the platform without restrictions. Discord s\u2026",
-            "url": "https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985722/acastro_STK062_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-10T20:18:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEither because they arent accessing age-restricted experiences, or if its AI predicts theyre old enough.\r\nEither because they arent accessing age-restricted expe\u2026 [+3699 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
             "description": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes\u2026",
@@ -685,6 +671,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/2026-Guthman-Musical-Instrument-Competition.jpg?quality=90&strip=all&crop=0%2C7.8060612256323%2C100%2C84.387877548735&w=1200",
             "publishedAt": "2026-02-14T16:42:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nby\r\nT\u2026 [+2623 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield, Emma Roth",
+            "title": "Discord says \u2018vast majority\u2019 of users won\u2019t see its new age verification setup",
+            "description": "On Tuesday, Discord released an update clarifying that the \"vast majority of people can continue using Discord exactly as they do today,\" without needing to use a face scan or ID to verify their age so they can use the platform without restrictions. Discord s\u2026",
+            "url": "https://www.theverge.com/tech/876575/discord-age-verification-vast-majority-users-inference",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985722/acastro_STK062_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-10T20:18:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEither because they arent accessing age-restricted experiences, or if its AI predicts theyre old enough.\r\nEither because they arent accessing age-restricted expe\u2026 [+3699 chars]",
             "ai_score": 5
         },
         {
@@ -717,20 +717,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
-            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
-            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
-            "publishedAt": "2026-02-14T15:26:50Z",
-            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -741,6 +727,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
             "publishedAt": "2026-02-12T17:37:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
+            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
+            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
+            "publishedAt": "2026-02-14T15:26:50Z",
+            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
             "ai_score": 5
         },
         {
