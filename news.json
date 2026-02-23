@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-02-23 06:14",
+    "last_updated": "2026-02-23 08:01",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "HP Now Rents Gaming Laptops",
+            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
+            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
+            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
+            "publishedAt": "2026-02-11T16:00:00Z",
+            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HyperX Cloud Alpha 2 Review: An Enormous Battery Life Wasted on a Stationary Headset",
+            "description": "The HP HyperX Cloud Alpha 2 costs extra for a base station and one standout feature.",
+            "url": "https://gizmodo.com/hyperx-cloud-alpha-2-review-an-enormous-battery-life-wasted-on-a-stationary-headset-2000716182",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/hyperx-cloud-alpha-2-review-08-1200x675.jpg",
+            "publishedAt": "2026-02-02T19:30:44Z",
+            "content": "If anything, the HyperX Cloud Alpha 2 shows us how headsets can\u2019t define themselves by one superlative feature. Earlier last month, out of a spot of curiosity, I decided to don Sonys PlayStation Puls\u2026 [+11807 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -790,20 +818,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
             "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
@@ -811,6 +825,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
             "publishedAt": "2026-02-10T18:43:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Instagram and X have an impossible deepfake detection deadline",
+            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-11T17:20:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
             "ai_score": 5
         },
         {
@@ -899,30 +927,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "CNET"
             },
-            "author": "David Pierce",
-            "title": "The end of the Sony era in TVs",
-            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
-            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-23T15:20:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores",
-            "description": "Removing or restricting access to Grok's AI image editor might not be enough to stop the flood of nonconsensual sexualized images being generated by AI. A report from the Tech Transparency Project (TTP) released on Tuesday found dozens of AI \"nudify\" apps sim\u2026",
-            "url": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-27T16:26:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Tech Transparency Project identified dozens of apps that can create nonconsensual sexualized deepfakes beyond xAIs Grok.\r\nThe Tech Transparency Project ident\u2026 [+2543 chars]",
+            "author": "Mark Knapp",
+            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
+            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
+            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-02-18T12:01:01Z",
+            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
             "ai_score": 5
         },
         {
@@ -944,13 +958,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "Game consoles built streaming \u2014 until it outgrew them",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. It's been a rough couple of days for gamers who also love to binge their favorite TV shows wit\u2026",
-            "url": "https://www.theverge.com/column/874413/game-consoles-streaming-ps3-netflix-switch-hulu",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-05T15:53:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the end of an era: Hulu ends support for its Nintendo Switch app, while Netflix says goodbye to the PlayStation 3.\r\nIts the end of an era: Hulu ends support \u2026 [+5191 chars]",
+            "author": "Stevie Bonifield",
+            "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores",
+            "description": "Removing or restricting access to Grok's AI image editor might not be enough to stop the flood of nonconsensual sexualized images being generated by AI. A report from the Tech Transparency Project (TTP) released on Tuesday found dozens of AI \"nudify\" apps sim\u2026",
+            "url": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-27T16:26:34Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Tech Transparency Project identified dozens of apps that can create nonconsensual sexualized deepfakes beyond xAIs Grok.\r\nThe Tech Transparency Project ident\u2026 [+2543 chars]",
             "ai_score": 5
         },
         {
@@ -958,13 +972,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Everyone can hear your TV in their headphones using this transmitter",
-            "description": "As we've previously lamented, one of Bluetooth's best modern features isn't being embraced by the tech world, but that's changing. Sennheiser has announced a new pair of wireless headphones and a transmitter designed for private TV watching that both use a Bl\u2026",
-            "url": "https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/sennheiser_auracast1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2026-01-21T17:06:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSennheisers using Bluetooth Auracast to broadcast your TVs audio to a room full of people.\r\nSennheisers using Bluetooth Auracast to broadcast your TVs audio to a\u2026 [+3381 chars]",
+            "author": "David Pierce",
+            "title": "The end of the Sony era in TVs",
+            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
+            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-23T15:20:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "Game consoles built streaming \u2014 until it outgrew them",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. It's been a rough couple of days for gamers who also love to binge their favorite TV shows wit\u2026",
+            "url": "https://www.theverge.com/column/874413/game-consoles-streaming-ps3-netflix-switch-hulu",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-05T15:53:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the end of an era: Hulu ends support for its Nintendo Switch app, while Netflix says goodbye to the PlayStation 3.\r\nIts the end of an era: Hulu ends support \u2026 [+5191 chars]",
             "ai_score": 5
         },
         {
@@ -997,48 +1025,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Mark Knapp",
-            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
-            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
-            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-02-18T12:01:01Z",
-            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "msmash",
-            "title": "HP Now Rents Gaming Laptops",
-            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
-            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
-            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
-            "publishedAt": "2026-02-11T16:00:00Z",
-            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
-            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T22:22:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1053,16 +1039,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Kyle Barr",
-            "title": "HyperX Cloud Alpha 2 Review: An Enormous Battery Life Wasted on a Stationary Headset",
-            "description": "The HP HyperX Cloud Alpha 2 costs extra for a base station and one standout feature.",
-            "url": "https://gizmodo.com/hyperx-cloud-alpha-2-review-an-enormous-battery-life-wasted-on-a-stationary-headset-2000716182",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/hyperx-cloud-alpha-2-review-08-1200x675.jpg",
-            "publishedAt": "2026-02-02T19:30:44Z",
-            "content": "If anything, the HyperX Cloud Alpha 2 shows us how headsets can\u2019t define themselves by one superlative feature. Earlier last month, out of a spot of curiosity, I decided to don Sonys PlayStation Puls\u2026 [+11807 chars]",
+            "author": "Janko Roettgers",
+            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
+            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T22:22:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
             "ai_score": 5
         },
         {
