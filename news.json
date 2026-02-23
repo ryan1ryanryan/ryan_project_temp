@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-02-23 14:53",
+    "last_updated": "2026-02-23 15:52",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Intel Announces More Bad News For PC Gaming",
+            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
+            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
+            "publishedAt": "2026-01-26T16:44:18Z",
+            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -773,20 +787,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "Intel Announces More Bad News For PC Gaming",
-            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
-            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
-            "publishedAt": "2026-01-26T16:44:18Z",
-            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -871,20 +871,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Mark Knapp",
-            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
-            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
-            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-02-18T12:01:01Z",
-            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -909,6 +895,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
             "publishedAt": "2026-02-05T00:22:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says it has to revisit its shipping schedule and pricing plans for the Steam Machine, Steam Frame, and Steam Controller.\r\nValve says it has to revisit its \u2026 [+4151 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Mark Knapp",
+            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
+            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
+            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-02-18T12:01:01Z",
+            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
             "ai_score": 5
         },
         {
