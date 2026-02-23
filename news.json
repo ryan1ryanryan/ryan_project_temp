@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-02-23 20:54",
+    "last_updated": "2026-02-23 21:50",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Zac Estrada",
-            "title": "Uber Creates \u2018AV Labs\u2019 To Leverage Data For Future Robotaxi Routes",
-            "description": "Uber will manage data for its robotaxi tech partners to access and use as they deploy vehicles.",
-            "url": "https://gizmodo.com/uber-creates-av-labs-to-leverage-data-for-future-robotaxi-routes-2000714658",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1200x675.jpg",
-            "publishedAt": "2026-01-27T23:00:48Z",
-            "content": "After a launch in one U.S. city, Dallas, last month, Uber is preparing to roll out its own network of robotaxis available through its app with the cooperation of various autonomous vehicle partners. \u2026 [+1811 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -594,6 +580,20 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
+            "author": "Zac Estrada",
+            "title": "Uber Creates \u2018AV Labs\u2019 To Leverage Data For Future Robotaxi Routes",
+            "description": "Uber will manage data for its robotaxi tech partners to access and use as they deploy vehicles.",
+            "url": "https://gizmodo.com/uber-creates-av-labs-to-leverage-data-for-future-robotaxi-routes-2000714658",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1200x675.jpg",
+            "publishedAt": "2026-01-27T23:00:48Z",
+            "content": "After a launch in one U.S. city, Dallas, last month, Uber is preparing to roll out its own network of robotaxis available through its app with the cooperation of various autonomous vehicle partners. \u2026 [+1811 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
             "author": "Bruce Gil",
             "title": "The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems",
             "description": "Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.",
@@ -1070,20 +1070,6 @@
                 "id": null,
                 "name": "Slashdot.org"
             },
-            "author": "msmash",
-            "title": "HP Now Rents Gaming Laptops",
-            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
-            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
-            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
-            "publishedAt": "2026-02-11T16:00:00Z",
-            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
             "author": "BeauHD",
             "title": "Linux Gaming Developers Join Forces To Form the Open Gaming Collective",
             "description": "A group of Linux gaming-focused distros and developers have formed the Open Gaming Collective to pool work on shared components like kernels, input systems, and Valve tooling. The Verge reports: Universal Blue, developer of the gaming-focused Linux distributi\u2026",
@@ -1105,6 +1091,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/anbernic_controller1.jpg?quality=90&strip=all&crop=0%2C10.72329591034%2C100%2C78.55340817932&w=1200",
             "publishedAt": "2026-01-23T15:11:26Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can program button combos for the RG G01s four customizable back buttons directly on the controller.\r\nYou can program button combos for the RG G01s four cust\u2026 [+2839 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "HP Now Rents Gaming Laptops",
+            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
+            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
+            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
+            "publishedAt": "2026-02-11T16:00:00Z",
+            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
             "ai_score": 5
         }
     ]
