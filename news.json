@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-02-23 10:01",
+    "last_updated": "2026-02-23 10:58",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Return of Nintendo\u2019s Worst-Selling Console Could Be More Glorious Than We Thought",
+            "description": "Get ready to return to the neck-straining magic of red and black gaming with several never-released games for the Virtual Boy.",
+            "url": "https://gizmodo.com/virtual-boy-switch-2-could-be-more-glorious-than-we-thought-2000714470",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Virtual-Boy-Nintendo-Switch-2-10-1200x675.jpg",
+            "publishedAt": "2026-01-27T16:00:12Z",
+            "content": "Nintendos Virtual Boy deserves your respect. At least, that seems to be Nintendos latest missive, as it\u2019s set to bring back its worst-selling console from the grave as a Switch 2 accessory. Whats mor\u2026 [+3035 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "The next iTunes may be vibe-coded",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Wouldn't it be great if you could exchange music recommendations with your friends, no matter \u2026",
+            "url": "https://www.theverge.com/column/881256/parachord-vibe-coded-music-streaming-app",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-19T13:22:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new music app Parachord aims to unite Spotify, Apple Music, and Bandcamp with the help of AI.\r\nThe new music app Parachord aims to unite Spotify, Apple Music\u2026 [+7343 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -409,20 +437,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Return of Nintendo\u2019s Worst-Selling Console Could Be More Glorious Than We Thought",
-            "description": "Get ready to return to the neck-straining magic of red and black gaming with several never-released games for the Virtual Boy.",
-            "url": "https://gizmodo.com/virtual-boy-switch-2-could-be-more-glorious-than-we-thought-2000714470",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Virtual-Boy-Nintendo-Switch-2-10-1200x675.jpg",
-            "publishedAt": "2026-01-27T16:00:12Z",
-            "content": "Nintendos Virtual Boy deserves your respect. At least, that seems to be Nintendos latest missive, as it\u2019s set to bring back its worst-selling console from the grave as a Switch 2 accessory. Whats mor\u2026 [+3035 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -760,20 +774,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "Intel Announces More Bad News For PC Gaming",
-            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
-            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
-            "publishedAt": "2026-01-26T16:44:18Z",
-            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -787,16 +787,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Kotaku"
             },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "author": "Zack Zwiezen",
+            "title": "Intel Announces More Bad News For PC Gaming",
+            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
+            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
+            "publishedAt": "2026-01-26T16:44:18Z",
+            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
             "ai_score": 5
         },
         {
@@ -818,13 +818,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "The next iTunes may be vibe-coded",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Wouldn't it be great if you could exchange music recommendations with your friends, no matter \u2026",
-            "url": "https://www.theverge.com/column/881256/parachord-vibe-coded-music-streaming-app",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-19T13:22:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new music app Parachord aims to unite Spotify, Apple Music, and Bandcamp with the help of AI.\r\nThe new music app Parachord aims to unite Spotify, Apple Music\u2026 [+7343 chars]",
+            "author": "Jess Weatherbed",
+            "title": "Instagram and X have an impossible deepfake detection deadline",
+            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-11T17:20:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
             "ai_score": 5
         },
         {
@@ -871,20 +871,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Google won\u2019t stop replacing our news headlines with terrible AI",
-            "description": "In early December, I brought you the news that Google has begun replacing Verge headlines, and those of our competitors, with AI clickbait nonsense in its content feed. Google appeared to be backing away from the experiment, but now tells The Verge that its A\u2026",
-            "url": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-discover-drone-ban-false.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-23T03:07:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt now says AI headlines are a feature, not an experiment.\r\nIt now says AI headlines are a feature, not an experiment.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+7239 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -895,6 +881,20 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-02-18T12:01:01Z",
             "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Google won\u2019t stop replacing our news headlines with terrible AI",
+            "description": "In early December, I brought you the news that Google has begun replacing Verge headlines, and those of our competitors, with AI clickbait nonsense in its content feed. Google appeared to be backing away from the experiment, but now tells The Verge that its A\u2026",
+            "url": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-discover-drone-ban-false.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-23T03:07:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt now says AI headlines are a feature, not an experiment.\r\nIt now says AI headlines are a feature, not an experiment.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+7239 chars]",
             "ai_score": 5
         },
         {
@@ -930,13 +930,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The end of the Sony era in TVs",
-            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
-            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-23T15:20:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
+            "author": "Lauren Feiner",
+            "title": "2026 is the year of social media\u2019s legal reckoning",
+            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
+            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-26T15:31:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
             "ai_score": 5
         },
         {
@@ -958,13 +958,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "2026 is the year of social media\u2019s legal reckoning",
-            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
-            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T15:31:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
+            "author": "David Pierce",
+            "title": "The end of the Sony era in TVs",
+            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
+            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-23T15:20:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
             "ai_score": 5
         },
         {
@@ -1014,20 +1014,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
-            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T22:22:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "Millions of books died so Claude could live",
             "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
@@ -1035,6 +1021,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-03T15:19:28Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
+            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T22:22:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
             "ai_score": 5
         },
         {
