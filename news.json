@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24 10:56",
+    "last_updated": "2026-02-24 11:46",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "iBuyPower\u2019s gaming desktops are discounted for Presidents Day",
+            "description": "Buying a pre-assembled gaming desktop makes sense for some. It can save you time and money, too, compared to buying PC components piecemeal. If you\u2019re weighing your options, consider some Presidents Day offers on iBuyPower\u2019s pre-built desktops, including the \u2026",
+            "url": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/iBuyPower-Element-9-Pro-R07-Lifestyle-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2026-02-14T12:34:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf its too pricey or complicated to build your own, here are two configurations with high-end AMD CPUs and GPUs.\r\nIf its too pricey or complicated to build your \u2026 [+3215 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -143,20 +157,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "iBuyPower\u2019s gaming desktops are discounted for Presidents Day",
-            "description": "Buying a pre-assembled gaming desktop makes sense for some. It can save you time and money, too, compared to buying PC components piecemeal. If you\u2019re weighing your options, consider some Presidents Day offers on iBuyPower\u2019s pre-built desktops, including the \u2026",
-            "url": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/iBuyPower-Element-9-Pro-R07-Lifestyle-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-02-14T12:34:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf its too pricey or complicated to build your own, here are two configurations with high-end AMD CPUs and GPUs.\r\nIf its too pricey or complicated to build your \u2026 [+3215 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Meta Goes to Trial in a New Mexico Child Safety Case. Here's What's at Stake",
-            "description": "Attorney General Ra\u00fal Torrez is accusing the tech giant of failing to protect minors on Facebook and Instagram.",
-            "url": "https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/",
-            "urlToImage": "https://media.wired.com/photos/698a33745d41364caf4502da/191:100/w_1280,c_limit/Whats-At-Stake-Meta-Trial-Business-2243569637.jpg",
-            "publishedAt": "2026-02-09T23:54:47Z",
-            "content": "Today, Meta went to trial in the state of New Mexico for allegedly failing to protect minors from sexual exploitation on its apps, including Facebook and Instagram. The state claims that Meta violate\u2026 [+3477 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -258,6 +244,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Lauren Goode",
+            "title": "Meta Goes to Trial in a New Mexico Child Safety Case. Here's What's at Stake",
+            "description": "Attorney General Ra\u00fal Torrez is accusing the tech giant of failing to protect minors on Facebook and Instagram.",
+            "url": "https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/",
+            "urlToImage": "https://media.wired.com/photos/698a33745d41364caf4502da/191:100/w_1280,c_limit/Whats-At-Stake-Meta-Trial-Business-2243569637.jpg",
+            "publishedAt": "2026-02-09T23:54:47Z",
+            "content": "Today, Meta went to trial in the state of New Mexico for allegedly failing to protect minors from sexual exploitation on its apps, including Facebook and Instagram. The state claims that Meta violate\u2026 [+3477 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Luke Larsen",
             "title": "Amazon Props Up Misleading, Junky Laptops No One Should Buy",
             "description": "I review laptops for a living, and it kills me when I see the PCs that Amazon and other retailers filter to the top.",
@@ -265,20 +265,6 @@
             "urlToImage": "https://media.wired.com/photos/6990e3e8876b755ff3162f1f/191:100/w_1280,c_limit/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png",
             "publishedAt": "2026-02-16T12:00:00Z",
             "content": "Beyond the outdated Acer Nitro, I also spotted this Samsung Galaxy Book4. This is not a terrible laptop on its own, but at $565, there are better options. There's the Asus Vivobook 14 (or 16), which \u2026 [+2977 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Do You Actually Need the Best Gaming CPU?",
-            "description": "AMD\u2019s new Ryzen 7 9850X3D seems powerful, though it's not a massive leap over what we already have.",
-            "url": "https://gizmodo.com/do-you-actually-need-the-best-gaming-cpu-2000713038",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
-            "publishedAt": "2026-01-22T18:45:43Z",
-            "content": "AMD is using its latest CPU launch to declare, once again, its the current king of gaming CPUs for desktops. We finally know how much the long-rumored AMD Ryzen 7 9850X3D will cost and when you can e\u2026 [+3113 chars]",
             "ai_score": 5
         },
         {
@@ -776,20 +762,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
-            "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
-            "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
-            "publishedAt": "2026-02-10T18:43:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "Instagram and X have an impossible deepfake detection deadline",
             "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
@@ -797,6 +769,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-11T17:20:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
+            "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
+            "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
+            "publishedAt": "2026-02-10T18:43:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
             "ai_score": 5
         },
         {
@@ -874,20 +860,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Google won\u2019t stop replacing our news headlines with terrible AI",
-            "description": "In early December, I brought you the news that Google has begun replacing Verge headlines, and those of our competitors, with AI clickbait nonsense in its content feed. Google appeared to be backing away from the experiment, but now tells The Verge that its A\u2026",
-            "url": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-discover-drone-ban-false.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-23T03:07:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt now says AI headlines are a feature, not an experiment.\r\nIt now says AI headlines are a feature, not an experiment.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+7239 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters, Sean Hollister",
             "title": "Valve\u2019s Steam Machine has been delayed, and the RAM crisis will impact pricing",
             "description": "When Valve first announced its impressive-looking Steam Machine, Steam Frame, and Steam Controller hardware in November, the company said the products would begin shipping in early 2026. Some journalists were told \"Q1 2026\" specifically. But because of the on\u2026",
@@ -916,13 +888,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "2026 is the year of social media\u2019s legal reckoning",
-            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
-            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T15:31:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
+            "author": "David Pierce",
+            "title": "The end of the Sony era in TVs",
+            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
+            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-23T15:20:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
             "ai_score": 5
         },
         {
@@ -944,13 +916,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The end of the Sony era in TVs",
-            "description": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news j\u2026",
-            "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_012226_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-23T15:20:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut\u2026 [+3507 chars]",
+            "author": "Lauren Feiner",
+            "title": "2026 is the year of social media\u2019s legal reckoning",
+            "description": "Over the next year, top social media executives are expected to take the witness stand to defend their companies from an avalanche of claims about their failure to protect kids. The first of many trials is set to begin this month in California, when Meta, Tik\u2026",
+            "url": "https://www.theverge.com/policy/867830/social-media-trials-product-liability-school-districts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-26T15:31:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe first sampling among thousands of cases over tech companies alleged failure to protect kids will be tried this year.\r\nThe first sampling among thousands of c\u2026 [+9637 chars]",
             "ai_score": 5
         },
         {
@@ -972,20 +944,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "Telly only had 35,000 TVs in people\u2019s homes last fall",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When free TV startup Telly came out of stealth in 2023, it did so with big promises: Company e\u2026",
-            "url": "https://www.theverge.com/column/865645/telly-units",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257821_Telly_ERoth_0106.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-22T16:53:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFew TVs installed, many broken in transit.\r\nFew TVs installed, many broken in transit.\r\nby\r\nJanko RoettgersClose\r\nLowpass author, Verge contributor\r\nPosts from t\u2026 [+5344 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew J. Hawkins",
             "title": "Waymo raises $16 billion to take its robotaxi business \u2018global\u2019",
             "description": "Waymo announced a $16 billion investment round aimed at bringing its robotaxi business to more US cities, as well as some overseas markets. The funding round was led by Dragoneer Investment Group, a \"crossover\" firm known for investing in late-stage tech comp\u2026",
@@ -1000,20 +958,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Millions of books died so Claude could live",
-            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
-            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-03T15:19:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Janko Roettgers",
             "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
             "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
@@ -1021,6 +965,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T22:22:19Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Millions of books died so Claude could live",
+            "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
+            "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-03T15:19:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
             "ai_score": 5
         },
         {
@@ -1049,20 +1007,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
             "publishedAt": "2026-02-08T15:00:26Z",
             "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "Nintendo is following up Alarmo with a weird Talking Flower in March",
-            "description": "After sharing a brief look at its new Talking Flower toy during a Nintendo Direct showcase last September that generated more questions than answers, Nintendo has finally revealed more details about what the interactive toy actually does. It shares some funct\u2026",
-            "url": "https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nintendo_talking_flower2.jpg?quality=90&strip=all&crop=0%2C10.717639621171%2C100%2C78.564720757659&w=1200",
-            "publishedAt": "2026-01-22T14:35:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe interactive toy will be available for preorder today and launches on March 12th.\r\nThe interactive toy will be available for preorder today and launches on Ma\u2026 [+2925 chars]",
             "ai_score": 5
         },
         {
@@ -1105,6 +1049,34 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/62ba47601d7dd5a4f11269e3c31f526b65c2da11/hub/2024/12/27/9a349fe9-9975-478c-b138-7c4e1d191800/screenshot-2024-12-27-at-12-17-19pm.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-02-04T11:01:13Z",
             "content": "Xbox Cloud Gaming is one of the key selling points of Xbox Game Pass, and it generally works well. The service lets gamers stream Xbox titles to a wide range of devices, including phones, tablets, ha\u2026 [+2093 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Doom Has Come for Nvidia\u2019s Graphics Cards, After All",
+            "description": "The latest RTX 50-series is hundreds or thousands of dollars more expensive than at launch.",
+            "url": "https://gizmodo.com/doom-has-come-for-nvidias-graphics-cards-after-all-2000715184",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Nvidia-Geforce-RTX-5090-5080-5070-1200x675.jpg",
+            "publishedAt": "2026-01-28T22:00:47Z",
+            "content": "Unless you long to witness the demise of accessible PC gaming, I wouldnt check Amazon for any Nvidia graphics card right now. Just in the past month, prices on the companys coveted GPUs have skyrocke\u2026 [+4903 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "HP Now Rents Gaming Laptops",
+            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
+            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
+            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
+            "publishedAt": "2026-02-11T16:00:00Z",
+            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
             "ai_score": 5
         }
     ]
