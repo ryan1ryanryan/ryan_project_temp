@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24 23:37",
+    "last_updated": "2026-02-25 02:16",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -157,20 +157,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Steam beta lets users add their PC specs to reviews",
-            "description": "User reviews on Steam may get more informative after a Steam Client Beta update released on Thursday, which adds an option for users to attach their hardware specs to game reviews. Steam users have always been able to share their specs in the text of their re\u2026",
-            "url": "https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062778/STK138_Stream_Kradtke_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-13T18:15:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve is also adding an option to collect anonymized framerate data for monitoring game compatibility.\r\nValve is also adding an option to collect anonymized fram\u2026 [+2385 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -181,6 +167,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Virtual-Boy-Switch-2-Acessory-Review-17-1200x675.jpg",
             "publishedAt": "2026-02-20T21:15:19Z",
             "content": "I imagine most gamers who approach Nintendo\u2019s new $100 Virtual Boy peripheral will be as skeptical as my brother. I loaded up the games for him, plugged the Switch 2 into the Virtual Boy\u2019s awaiting s\u2026 [+14189 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Steam beta lets users add their PC specs to reviews",
+            "description": "User reviews on Steam may get more informative after a Steam Client Beta update released on Thursday, which adds an option for users to attach their hardware specs to game reviews. Steam users have always been able to share their specs in the text of their re\u2026",
+            "url": "https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062778/STK138_Stream_Kradtke_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-13T18:15:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve is also adding an option to collect anonymized framerate data for monitoring game compatibility.\r\nValve is also adding an option to collect anonymized fram\u2026 [+2385 chars]",
             "ai_score": 5
         },
         {
@@ -745,20 +745,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Charles Pulliam-Moore",
-            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
-            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
-            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
-            "publishedAt": "2026-02-12T17:37:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -769,6 +755,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
             "publishedAt": "2026-02-17T00:12:58Z",
             "content": "\"Without tech that understands and speaks these languages, millions are excluded from the digital revolution - especially in education, governance, healthcare, and banking,\" Professor Pushpak Bhattac\u2026 [+49 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
+            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
+            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
+            "publishedAt": "2026-02-12T17:37:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
             "ai_score": 5
         },
         {
@@ -797,20 +797,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
             "publishedAt": "2026-02-09T00:01:57Z",
             "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "Intel Announces More Bad News For PC Gaming",
-            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
-            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
-            "publishedAt": "2026-01-26T16:44:18Z",
-            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
             "ai_score": 5
         },
         {
@@ -853,6 +839,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-19T13:22:41Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new music app Parachord aims to unite Spotify, Apple Music, and Bandcamp with the help of AI.\r\nThe new music app Parachord aims to unite Spotify, Apple Music\u2026 [+7343 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Intel Announces More Bad News For PC Gaming",
+            "description": "It is only going to get harder and more expensive to build a gaming computer in the future\nThe post Intel Announces More Bad News For PC Gaming appeared first on Kotaku.",
+            "url": "https://kotaku.com/intel-cpu-production-pivot-ai-data-centers-shortages-increase-price-ram-memory-pc-2000663095",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/01/Intel-pc-gamer-1200x675.jpg",
+            "publishedAt": "2026-01-26T16:44:18Z",
+            "content": "Bad news to anyone wanting to build or upgrade a PC in the future: Intel, one of the largest chip manufacturers in the world, is going to start \u201cprioritizing\u201d data centers more and won\u2019t produce as m\u2026 [+2492 chars]",
             "ai_score": 5
         },
         {
