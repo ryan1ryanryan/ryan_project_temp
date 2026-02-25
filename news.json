@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-02-25 13:12",
+    "last_updated": "2026-02-25 14:55",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft reports strong cloud earnings in Q2 as gaming declines",
-            "description": "Microsoft just posted the second quarter of its 2026 fiscal financial results. The software maker made $81.3 billion in revenue and a net income of $30.9 billion during Q3. Revenue is up 17 percent, and net income has increased by 23 percent. The holiday quar\u2026",
-            "url": "https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T21:36:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Half of developers think gen AI is bad for the gaming industry",
-            "description": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of\u2026",
-            "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T20:35:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -62,6 +34,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Tom Warren",
+            "title": "Microsoft reports strong cloud earnings in Q2 as gaming declines",
+            "description": "Microsoft just posted the second quarter of its 2026 fiscal financial results. The software maker made $81.3 billion in revenue and a net income of $30.9 billion during Q3. Revenue is up 17 percent, and net income has increased by 23 percent. The holiday quar\u2026",
+            "url": "https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T21:36:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jay Peters",
             "title": "AI can\u2019t make good video game worlds yet, and it might never be able to",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about video game industry's pushback against generative AI, follow Jay Peters. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in fo\u2026",
@@ -83,6 +69,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-17T02:57:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Half of developers think gen AI is bad for the gaming industry",
+            "description": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of\u2026",
+            "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T20:35:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new survey from the Game Developers Conference reveals how many developers feel about the technology.\r\nA new survey from the Game Developers Conference reveals\u2026 [+4167 chars]",
             "ai_score": 5
         },
         {
@@ -265,6 +265,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Gizmodo-Very-Chinese-Gaming-1200x675.jpg",
             "publishedAt": "2026-02-19T19:45:48Z",
             "content": "On some corners of the internet, young people have recently taken to only-half-jokingly pining for a more Chinese way of living, and not just in celebration of the lunar new year. They express this S\u2026 [+3422 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "This limited edition Death Stranding-inspired tablet is the coolest computer I\u2019ve ever touched",
+            "description": "The Asus ROG Flow Z13 was already a unique beast. It's a chunky gaming tablet with impressive AMD Strix Halo integrated graphics. I was really into it when I reviewed it around this time last year. But just look at it now, clad in the stylings of Hideo Kojima\u2026",
+            "url": "https://www.theverge.com/tech/883400/asus-rog-flow-z13-kojima-productions-edition-gaming-tablet-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268368_Asus_ROG_Flow_Z13-KJP_Edition_LE_tablet_ADiBenedetto_0031.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-24T13:59:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt turned me into Antonio Hikingman.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nby\r\nAntonio G. Di Bened\u2026 [+8138 chars]",
             "ai_score": 5
         },
         {
@@ -871,20 +885,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Justine Calma",
-            "title": "Microsoft wants to rewire data centers to save space",
-            "description": "Microsoft wants to design more efficient data centers using materials that allow electricity to flow with zero resistance. If these new materials, called high-temperature superconductors, can make it to market, Microsoft thinks it could be a game changer for \u2026",
-            "url": "https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2243425240.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-            "publishedAt": "2026-02-10T16:01:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuperconducting cables could make for more compact data centers.\r\nSuperconducting cables could make for more compact data centers.\r\nby\r\nJustine CalmaClose\r\nPosts\u2026 [+6551 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -895,6 +895,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
             "publishedAt": "2026-02-11T16:00:01Z",
             "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Microsoft wants to rewire data centers to save space",
+            "description": "Microsoft wants to design more efficient data centers using materials that allow electricity to flow with zero resistance. If these new materials, called high-temperature superconductors, can make it to market, Microsoft thinks it could be a game changer for \u2026",
+            "url": "https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2243425240.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2026-02-10T16:01:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuperconducting cables could make for more compact data centers.\r\nSuperconducting cables could make for more compact data centers.\r\nby\r\nJustine CalmaClose\r\nPosts\u2026 [+6551 chars]",
             "ai_score": 5
         },
         {
