@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26 10:52",
+    "last_updated": "2026-02-26 11:45",
     "articles": [
         {
             "source": {
@@ -241,20 +241,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Meta Goes to Trial in a New Mexico Child Safety Case. Here's What's at Stake",
-            "description": "Attorney General Ra\u00fal Torrez is accusing the tech giant of failing to protect minors on Facebook and Instagram.",
-            "url": "https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/",
-            "urlToImage": "https://media.wired.com/photos/698a33745d41364caf4502da/191:100/w_1280,c_limit/Whats-At-Stake-Meta-Trial-Business-2243569637.jpg",
-            "publishedAt": "2026-02-09T23:54:47Z",
-            "content": "Today, Meta went to trial in the state of New Mexico for allegedly failing to protect minors from sexual exploitation on its apps, including Facebook and Instagram. The state claims that Meta violate\u2026 [+3477 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -265,6 +251,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Gizmodo-Very-Chinese-Gaming-1200x675.jpg",
             "publishedAt": "2026-02-19T19:45:48Z",
             "content": "On some corners of the internet, young people have recently taken to only-half-jokingly pining for a more Chinese way of living, and not just in celebration of the lunar new year. They express this S\u2026 [+3422 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode",
+            "title": "Meta Goes to Trial in a New Mexico Child Safety Case. Here's What's at Stake",
+            "description": "Attorney General Ra\u00fal Torrez is accusing the tech giant of failing to protect minors on Facebook and Instagram.",
+            "url": "https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/",
+            "urlToImage": "https://media.wired.com/photos/698a33745d41364caf4502da/191:100/w_1280,c_limit/Whats-At-Stake-Meta-Trial-Business-2243569637.jpg",
+            "publishedAt": "2026-02-09T23:54:47Z",
+            "content": "Today, Meta went to trial in the state of New Mexico for allegedly failing to protect minors from sexual exploitation on its apps, including Facebook and Instagram. The state claims that Meta violate\u2026 [+3477 chars]",
             "ai_score": 5
         },
         {
