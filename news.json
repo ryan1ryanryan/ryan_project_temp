@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26 04:56",
+    "last_updated": "2026-02-26 06:03",
     "articles": [
         {
             "source": {
@@ -409,20 +409,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Return of Nintendo\u2019s Worst-Selling Console Could Be More Glorious Than We Thought",
-            "description": "Get ready to return to the neck-straining magic of red and black gaming with several never-released games for the Virtual Boy.",
-            "url": "https://gizmodo.com/virtual-boy-switch-2-could-be-more-glorious-than-we-thought-2000714470",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Virtual-Boy-Nintendo-Switch-2-10-1200x675.jpg",
-            "publishedAt": "2026-01-27T16:00:12Z",
-            "content": "Nintendos Virtual Boy deserves your respect. At least, that seems to be Nintendos latest missive, as it\u2019s set to bring back its worst-selling console from the grave as a Switch 2 accessory. Whats mor\u2026 [+3035 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -433,6 +419,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-12T04:20:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThis pricey laptop has got sleek no-frills looks and Strix Halo strengths on lock.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See \u2026 [+11974 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Return of Nintendo\u2019s Worst-Selling Console Could Be More Glorious Than We Thought",
+            "description": "Get ready to return to the neck-straining magic of red and black gaming with several never-released games for the Virtual Boy.",
+            "url": "https://gizmodo.com/virtual-boy-switch-2-could-be-more-glorious-than-we-thought-2000714470",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Virtual-Boy-Nintendo-Switch-2-10-1200x675.jpg",
+            "publishedAt": "2026-01-27T16:00:12Z",
+            "content": "Nintendos Virtual Boy deserves your respect. At least, that seems to be Nintendos latest missive, as it\u2019s set to bring back its worst-selling console from the grave as a Switch 2 accessory. Whats mor\u2026 [+3035 chars]",
             "ai_score": 5
         },
         {
@@ -829,6 +829,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ty Pendlebury",
+            "title": "Time Warp Back to the 1990s With Maingear's Retro98 PC",
+            "description": "But good luck getting one: The PC maker is producing only 32 of the old-school-style beige computers, starting at $2,499.",
+            "url": "https://www.cnet.com/tech/computing/maingears-1990s-inspired-retro98-pc-has-working-turbo-button/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/950436f6fe4b103a3ab6c617e5a337c83cfe1056/hub/2026/01/30/0dcc83e1-bfde-4687-8159-0bebc1b6f653/maingear-retro98.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-01-30T22:32:43Z",
+            "content": "Everything '90s is back -- from Walkmans\u00a0and cassettes to postgrunge rock. Gaming PC maker Maingear is getting on board the trend, selling a 1990s-inspired PC, the Retro98. The company says it even h\u2026 [+1761 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -867,20 +881,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-19T13:22:41Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new music app Parachord aims to unite Spotify, Apple Music, and Bandcamp with the help of AI.\r\nThe new music app Parachord aims to unite Spotify, Apple Music\u2026 [+7343 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Ty Pendlebury",
-            "title": "Time Warp Back to the 1990s With Maingear's Retro98 PC",
-            "description": "But good luck getting one: The PC maker is producing only 32 of the old-school-style beige computers, starting at $2,499.",
-            "url": "https://www.cnet.com/tech/computing/maingears-1990s-inspired-retro98-pc-has-working-turbo-button/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/950436f6fe4b103a3ab6c617e5a337c83cfe1056/hub/2026/01/30/0dcc83e1-bfde-4687-8159-0bebc1b6f653/maingear-retro98.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-01-30T22:32:43Z",
-            "content": "Everything '90s is back -- from Walkmans\u00a0and cassettes to postgrunge rock. Gaming PC maker Maingear is getting on board the trend, selling a 1990s-inspired PC, the Retro98. The company says it even h\u2026 [+1761 chars]",
             "ai_score": 5
         },
         {
