@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-02-26 21:38",
+    "last_updated": "2026-02-26 22:39",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
-            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
-            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
-            "publishedAt": "2026-02-14T12:43:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "I review laptops for The Verge, ask me anything",
+            "description": "What up, Verge-heads! Wait. \"Vergesters?\" \"Verge-igans?\" Nope, that ain't it\u2026 GREETINGS, DEAREST VERGE SUBSCRIBERS! Antonio here. \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb I'm your friendly neighborhood laptop reviewer, and I'm hosting an exclusive subscriber \"AMA\" today at 11AM PT / 2PM ET.\u2026",
+            "url": "https://www.theverge.com/column/881567/i-review-laptops-for-the-verge-ask-me-anything",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/AMA_Antonio_laptop_reviewer_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-20T14:43:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIll be answering subscriber questions today at 11AM PT / 2PM ET. Come geek out with me about laptops, photography, the great state of New Jersey, or other nerdy \u2026 [+2730 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
+            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
+            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
+            "publishedAt": "2026-02-14T12:43:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
             "ai_score": 5
         },
         {
@@ -125,20 +139,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/xboxcloudmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-27T11:05:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences.\r\nMicrosoft says its new Xbox Cloud UI is the foundation for new Xbox experiences\u2026 [+3293 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "I review laptops for The Verge, ask me anything",
-            "description": "What up, Verge-heads! Wait. \"Vergesters?\" \"Verge-igans?\" Nope, that ain't it\u2026 GREETINGS, DEAREST VERGE SUBSCRIBERS! Antonio here. \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb I'm your friendly neighborhood laptop reviewer, and I'm hosting an exclusive subscriber \"AMA\" today at 11AM PT / 2PM ET.\u2026",
-            "url": "https://www.theverge.com/column/881567/i-review-laptops-for-the-verge-ask-me-anything",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/AMA_Antonio_laptop_reviewer_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-20T14:43:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIll be answering subscriber questions today at 11AM PT / 2PM ET. Come geek out with me about laptops, photography, the great state of New Jersey, or other nerdy \u2026 [+2730 chars]",
             "ai_score": 5
         },
         {
@@ -451,20 +451,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "How to un-Big Tech your online life",
-            "description": "Hi, friends! Welcome to Installer No. 116, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy National Ferris Wheel Day to all those who celebrate, and also you can read all the old editions at the Installer homepage\u2026",
-            "url": "https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Installer-116.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-13T20:28:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: a new Mario Tennis, Sonys great new buds, a wild time-travel movie, and much more.\r\nPlus, in this weeks Installer: a new Mario Ten\u2026 [+15346 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -475,6 +461,20 @@
             "urlToImage": "https://media.wired.com/photos/699759e787f28b476c1c65d6/191:100/w_1280,c_limit/Save%20$30%20on%20Our%20Favorite%20Budget%20Desktop%20Speaker.png",
             "publishedAt": "2026-02-19T19:47:39Z",
             "content": "Tired of the tinny, flat sound you're getting from your current computer speakers? Even the best gaming screens tend to have lackluster audio, if they include it at all, so we recommend either a pair\u2026 [+1845 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "How to un-Big Tech your online life",
+            "description": "Hi, friends! Welcome to Installer No. 116, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy National Ferris Wheel Day to all those who celebrate, and also you can read all the old editions at the Installer homepage\u2026",
+            "url": "https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Installer-116.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-13T20:28:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: a new Mario Tennis, Sonys great new buds, a wild time-travel movie, and much more.\r\nPlus, in this weeks Installer: a new Mario Ten\u2026 [+15346 chars]",
             "ai_score": 5
         },
         {
