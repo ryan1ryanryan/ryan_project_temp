@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27 14:43",
+    "last_updated": "2026-02-27 15:42",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -479,6 +479,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Xbox is in danger. Will Microsoft fix it or kill it?",
+            "description": "Today, we\u2019re talking about the future of Xbox. Phil Spencer, a two\u2013time Decoder guest who\u2019s led Xbox for more than a decade, retired last week. But in a shocking twist, his deputy and long-assumed successor, Sarah Bond, is also out too, and the Xbox division \u2026",
+            "url": "https://www.theverge.com/podcast/884693/xbox-phil-spencer-microsoft-gaming-future-cloud-game-pass",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DCD_0226.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-26T15:07:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTom Warren joins Decoder to discuss what Phil Spencers departure means for the future of Xbox.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to you\u2026 [+38654 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -885,6 +899,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "Your smart TV may be crawling the web for AI",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. These days, if you sign up for a new streaming service, you generally have two options: Either\u2026",
+            "url": "https://www.theverge.com/column/885244/smart-tv-web-crawler-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268376_Your_smart_TV_may_be_crawling_the_web_for_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-26T14:39:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome TV apps let you watch programming with fewer ads, as long as you allow your TV to participate in a global proxy network.\r\nSome TV apps let you watch program\u2026 [+9093 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -998,20 +1026,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNET"
-            },
-            "author": "Mark Knapp",
-            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
-            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
-            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-02-18T12:01:01Z",
-            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
@@ -1021,6 +1035,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/hyperx-cloud-alpha-2-review-08-1200x675.jpg",
             "publishedAt": "2026-02-02T19:30:44Z",
             "content": "If anything, the HyperX Cloud Alpha 2 shows us how headsets can\u2019t define themselves by one superlative feature. Earlier last month, out of a spot of curiosity, I decided to don Sonys PlayStation Puls\u2026 [+11807 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Mark Knapp",
+            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
+            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
+            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-02-18T12:01:01Z",
+            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
             "ai_score": 5
         },
         {
@@ -1049,20 +1077,6 @@
             "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
             "publishedAt": "2026-01-30T00:45:00Z",
             "content": "Universal Blue, developer of the gaming-focused Linux distribution Bazzite, announced on Wednesday that its helping to form the OGC with several other groups, which will collaborate on improvements t\u2026 [+669 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Oscar Gonzalez",
-            "title": "Xbox Cloud Gaming Ad-Supported Tier: When Does It Start, How Much Will It Cost and More",
-            "description": "Ads could remove the sting of Xbox Game Pass price hikes, but will it be worth it?",
-            "url": "https://www.cnet.com/tech/gaming/xbox-cloud-gaming-ad-supported-tier-when-does-it-start-how-will-it-work/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/62ba47601d7dd5a4f11269e3c31f526b65c2da11/hub/2024/12/27/9a349fe9-9975-478c-b138-7c4e1d191800/screenshot-2024-12-27-at-12-17-19pm.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-02-04T11:01:13Z",
-            "content": "Xbox Cloud Gaming is one of the key selling points of Xbox Game Pass, and it generally works well. The service lets gamers stream Xbox titles to a wide range of devices, including phones, tablets, ha\u2026 [+2093 chars]",
             "ai_score": 5
         }
     ]
