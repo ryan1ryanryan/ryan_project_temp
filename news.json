@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-28 14:28",
+    "last_updated": "2026-02-28 15:28",
     "articles": [
         {
             "source": {
@@ -153,6 +153,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/AMA_Antonio_laptop_reviewer_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-20T14:43:00Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIll be answering subscriber questions today at 11AM PT / 2PM ET. Come geek out with me about laptops, photography, the great state of New Jersey, or other nerdy \u2026 [+2730 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The Galaxy S26 is a photography nightmare",
+            "description": "In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bit of tech and a really useful new feature - and a lot of it\u2026",
+            "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0227_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-27T15:15:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Another what is a photo? apocalypse, the uncertain future of Xbox, and Claudes consciousness.\r\nOn The Vergecast: Another what is a photo? apoca\u2026 [+3149 chars]",
             "ai_score": 5
         },
         {
@@ -776,6 +790,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Andrew Webster",
+            "title": "Here\u2019s your first look at Kratos in Amazon\u2019s God of War show",
+            "description": "Amazon has slowly been teasing out casting details for its live-action adaptation of God of War, and now we have our first look at the show. It's a single image but a notable one showing protagonist Kratos and his son Atreus. The characters are played by Ryan\u2026",
+            "url": "https://www.theverge.com/streaming/886008/amazon-god-of-war-kratos-image",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Start-of-Production-Image.jpg?quality=90&strip=all&crop=0%2C3.4666176674128%2C100%2C93.066764665174&w=1200",
+            "publishedAt": "2026-02-27T15:19:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nProduction is underway for the Prime Video adaptation.\r\nProduction is underway for the Prime Video adaptation.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment edi\u2026 [+3110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Charles Pulliam-Moore",
             "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
             "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
@@ -860,20 +888,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
             "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
@@ -881,6 +895,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
             "publishedAt": "2026-02-10T18:43:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Instagram and X have an impossible deepfake detection deadline",
+            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-11T17:20:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
             "ai_score": 5
         },
         {
@@ -1014,20 +1042,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
-            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-28T22:22:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "Millions of books died so Claude could live",
             "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
@@ -1039,44 +1053,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Kyle Barr",
-            "title": "HyperX Cloud Alpha 2 Review: An Enormous Battery Life Wasted on a Stationary Headset",
-            "description": "The HP HyperX Cloud Alpha 2 costs extra for a base station and one standout feature.",
-            "url": "https://gizmodo.com/hyperx-cloud-alpha-2-review-an-enormous-battery-life-wasted-on-a-stationary-headset-2000716182",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/hyperx-cloud-alpha-2-review-08-1200x675.jpg",
-            "publishedAt": "2026-02-02T19:30:44Z",
-            "content": "If anything, the HyperX Cloud Alpha 2 shows us how headsets can\u2019t define themselves by one superlative feature. Earlier last month, out of a spot of curiosity, I decided to don Sonys PlayStation Puls\u2026 [+11807 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Mark Knapp",
-            "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
-            "description": "The magic of magnets tucked into your joysticks can put an end to drift. But which technology is superior?",
-            "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-02-18T12:01:01Z",
-            "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Sony\u2019s Hawk-Eye Cameras Still Aren\u2019t Giving Football Fans the One Thing They Want",
-            "description": "Sony's Hawk-Eye tech is an impressive feat of camera technology that changed the NFL this year, but there's still one thing fans and football commentators are begging for.",
-            "url": "https://gizmodo.com/sonys-hawk-eye-cameras-still-arent-giving-football-fans-the-one-thing-they-want-2000717879",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/super-bowl-camera-1200x675.jpg",
-            "publishedAt": "2026-02-08T15:00:26Z",
-            "content": "When Super Bowl LX rolls around this year, all eyes will be on the NFL. That includes, on average, a gargantuan audience of 120 million human viewers from across the U.S. (around one-third of the cou\u2026 [+10585 chars]",
+            "author": "Janko Roettgers",
+            "title": "What Netflix\u2019s Warner Bros. deal could mean for TVs and remotes",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new TV, you'll have plenty of different options these days, rang\u2026",
+            "url": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK072_STKB374_NETFLIX_WB_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-28T22:22:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart TV makers have long been forced to jump through many hoops to carry the Netflix app. Will that change once Netflix gets its hands on HBO Max?\r\nSmart TV mak\u2026 [+8007 chars]",
             "ai_score": 5
         }
     ]
