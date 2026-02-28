@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-02-28 10:29",
+    "last_updated": "2026-02-28 11:25",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
-            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
-            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
-            "publishedAt": "2026-02-14T12:43:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-29T16:36:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nThe OGC is collaborating to build a more unified Linux gaming experience.\r\nby\r\nStevie \u2026 [+2653 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25418233/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-01-28T21:36:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts More Personal Computing division was the only business unit to post a revenue decline this quarter.\r\nMicrosofts More Personal Computing division was t\u2026 [+4688 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
+            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
+            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
+            "publishedAt": "2026-02-14T12:43:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
             "ai_score": 5
         },
         {
@@ -788,20 +788,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "The tech bros might show more humility in Delhi \u2013 but will they make AI any safer?",
-            "description": "As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.",
-            "url": "https://www.bbc.com/news/articles/cr5l6gnen72o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
-            "publishedAt": "2026-02-17T00:12:58Z",
-            "content": "\"Without tech that understands and speaks these languages, millions are excluded from the digital revolution - especially in education, governance, healthcare, and banking,\" Professor Pushpak Bhattac\u2026 [+49 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Zack Kotzer",
@@ -811,6 +797,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
             "publishedAt": "2026-02-14T15:26:50Z",
             "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "The tech bros might show more humility in Delhi \u2013 but will they make AI any safer?",
+            "description": "As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.",
+            "url": "https://www.bbc.com/news/articles/cr5l6gnen72o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
+            "publishedAt": "2026-02-17T00:12:58Z",
+            "content": "\"Without tech that understands and speaks these languages, millions are excluded from the digital revolution - especially in education, governance, healthcare, and banking,\" Professor Pushpak Bhattac\u2026 [+49 chars]",
             "ai_score": 5
         },
         {
