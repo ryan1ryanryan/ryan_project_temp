@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-01 11:26",
+    "last_updated": "2026-03-01 12:55",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Waymo raises $16 billion to take its robotaxi business \u2018global\u2019",
+            "description": "Waymo announced a $16 billion investment round aimed at bringing its robotaxi business to more US cities, as well as some overseas markets. The funding round was led by Dragoneer Investment Group, a \"crossover\" firm known for investing in late-stage tech comp\u2026",
+            "url": "https://www.theverge.com/transportation/872651/waymo-raises-16-billion-investment-value-robotaxi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-02T22:30:19Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIs an IPO next?\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by An\u2026 [+3048 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -167,6 +181,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062778/STK138_Stream_Kradtke_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-13T18:15:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nValve is also adding an option to collect anonymized framerate data for monitoring game compatibility.\r\nValve is also adding an option to collect anonymized fram\u2026 [+2385 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
+            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
+            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
+            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
+            "publishedAt": "2026-02-28T11:38:00Z",
+            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
             "ai_score": 5
         },
         {
@@ -902,20 +930,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew J. Hawkins",
-            "title": "Waymo raises $16 billion to take its robotaxi business \u2018global\u2019",
-            "description": "Waymo announced a $16 billion investment round aimed at bringing its robotaxi business to more US cities, as well as some overseas markets. The funding round was led by Dragoneer Investment Group, a \"crossover\" firm known for investing in late-stage tech comp\u2026",
-            "url": "https://www.theverge.com/transportation/872651/waymo-raises-16-billion-investment-value-robotaxi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-02T22:30:19Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIs an IPO next?\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by An\u2026 [+3048 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "Millions of books died so Claude could live",
             "description": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions a\u2026",
@@ -923,20 +937,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_020326_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-03T15:19:28Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart buttons.\r\nOn The Vergecast: data-hungry AI models, Netflix movie theaters, and smart b\u2026 [+3923 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "HyperX Cloud Alpha 2 Review: An Enormous Battery Life Wasted on a Stationary Headset",
-            "description": "The HP HyperX Cloud Alpha 2 costs extra for a base station and one standout feature.",
-            "url": "https://gizmodo.com/hyperx-cloud-alpha-2-review-an-enormous-battery-life-wasted-on-a-stationary-headset-2000716182",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/hyperx-cloud-alpha-2-review-08-1200x675.jpg",
-            "publishedAt": "2026-02-02T19:30:44Z",
-            "content": "If anything, the HyperX Cloud Alpha 2 shows us how headsets can\u2019t define themselves by one superlative feature. Earlier last month, out of a spot of curiosity, I decided to don Sonys PlayStation Puls\u2026 [+11807 chars]",
             "ai_score": 5
         },
         {
@@ -951,6 +951,20 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/98e694182f00c6794c8ec0bacd9c59cd59ff02f7/hub/2026/01/30/83ba92c4-0109-46ab-9730-cf7515047815/img20260120133718.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-02-18T12:01:01Z",
             "content": "Competitive gamers look for every advantage they can get, and that drive has spawned some of the zaniest gaming peripherals under the sun. There are plenty of hardware components that actually offer \u2026 [+6091 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HyperX Cloud Alpha 2 Review: An Enormous Battery Life Wasted on a Stationary Headset",
+            "description": "The HP HyperX Cloud Alpha 2 costs extra for a base station and one standout feature.",
+            "url": "https://gizmodo.com/hyperx-cloud-alpha-2-review-an-enormous-battery-life-wasted-on-a-stationary-headset-2000716182",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/hyperx-cloud-alpha-2-review-08-1200x675.jpg",
+            "publishedAt": "2026-02-02T19:30:44Z",
+            "content": "If anything, the HyperX Cloud Alpha 2 shows us how headsets can\u2019t define themselves by one superlative feature. Earlier last month, out of a spot of curiosity, I decided to don Sonys PlayStation Puls\u2026 [+11807 chars]",
             "ai_score": 5
         },
         {
@@ -1007,20 +1021,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/02/clickout-1200x675.jpg",
             "publishedAt": "2026-02-17T18:39:50Z",
             "content": "Clickout Media is a group that buys up gaming sites and then forces them to host endless unmarked advertorial content for gambling sites and casinos. Now the owner of The Escapist, Adventure Gamers, \u2026 [+3095 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Louryn Strampe",
-            "title": "Sony\u2019s WH-CH720N headphones offer excellent value at full price, but right now they're a steal.",
-            "description": "The Sony WH-CH720N headphone offer excellent value at full price, but right now they're a steal.",
-            "url": "https://www.wired.com/story/sony-wh-ch720n-deal-february-2026/",
-            "urlToImage": "https://media.wired.com/photos/6998c3349043220668a7e874/191:100/w_1280,c_limit/The%20Best%20Cheap%20Noise-Canceling%20Headphones%20Are%20More%20Affordable%20Than%20Ever.png",
-            "publishedAt": "2026-02-21T20:30:46Z",
-            "content": "We've tested oodles of noise-canceling headphones and the Sony WH-CH720N might have an unfortunate name, but they're the best budget-friendly pair we've tried. They usually offer good value when sell\u2026 [+1013 chars]",
             "ai_score": 5
         }
     ]
