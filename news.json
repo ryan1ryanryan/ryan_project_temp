@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-03-01 02:30",
+    "last_updated": "2026-03-01 04:59",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
-            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
-            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
-            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
-            "publishedAt": "2026-02-26T19:00:00Z",
-            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Zac Estrada",
-            "title": "Uber Creates \u2018AV Labs\u2019 To Leverage Data For Future Robotaxi Routes",
-            "description": "Uber will manage data for its robotaxi tech partners to access and use as they deploy vehicles.",
-            "url": "https://gizmodo.com/uber-creates-av-labs-to-leverage-data-for-future-robotaxi-routes-2000714658",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1200x675.jpg",
-            "publishedAt": "2026-01-27T23:00:48Z",
-            "content": "After a launch in one U.S. city, Dallas, last month, Uber is preparing to roll out its own network of robotaxis available through its app with the cooperation of various autonomous vehicle partners. \u2026 [+1811 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -426,6 +398,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Maxwell Zeff",
+            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
+            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
+            "publishedAt": "2026-02-26T19:00:00Z",
+            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Katie Drummond",
             "title": "Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities",
             "description": "Even as Big Tech CEOs curry favor with President Trump, Silicon Valley employees are calling on their bosses to use their influence to help stop his immigration policies.",
@@ -657,6 +643,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Asus-Zenbook-Duo-2026-review-3-1200x675.jpg",
             "publishedAt": "2026-01-27T13:55:51Z",
             "content": "If your gaming machine isnt rendering any frames itself, whats the point of having a costly computer at all? I know some of you out there are mumbling resentments, asking that question already knowin\u2026 [+8110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Zac Estrada",
+            "title": "Uber Creates \u2018AV Labs\u2019 To Leverage Data For Future Robotaxi Routes",
+            "description": "Uber will manage data for its robotaxi tech partners to access and use as they deploy vehicles.",
+            "url": "https://gizmodo.com/uber-creates-av-labs-to-leverage-data-for-future-robotaxi-routes-2000714658",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Uber-AV-Labs-1200x675.jpg",
+            "publishedAt": "2026-01-27T23:00:48Z",
+            "content": "After a launch in one U.S. city, Dallas, last month, Uber is preparing to roll out its own network of robotaxis available through its app with the cooperation of various autonomous vehicle partners. \u2026 [+1811 chars]",
             "ai_score": 5
         },
         {
