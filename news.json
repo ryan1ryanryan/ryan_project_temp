@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-01 19:27",
+    "last_updated": "2026-03-01 20:33",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -367,20 +367,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Boutayna Chokrane",
-            "title": "Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech",
-            "description": "The JetBoots Pro Plus promise faster, more effective recovery by combining multiple therapies in one device. I tested whether it\u2019s worth the $1,150 splurge.",
-            "url": "https://www.wired.com/review/review-therabody-jetboots-pro-plus/",
-            "urlToImage": "https://media.wired.com/photos/698d0b7ff7ce0778b7d1b836/191:100/w_1280,c_limit/Review-%20Therabody%20JetBoots%20Pro%20Plus.png",
-            "publishedAt": "2026-02-12T12:00:00Z",
-            "content": "Compression is still the core feature here, and its the part that delivers most consistently. The boots apply even, targeted pressure up and down the legs, which helps increase blood and lymphatic ci\u2026 [+2521 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -391,6 +377,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b5c/live/ad226b00-01ad-11f1-ba93-a3f256eaa772.jpg",
             "publishedAt": "2026-02-04T11:51:29Z",
             "content": "Despite this, the company said its sequel the Switch 2, had got off to a \"good start\" since its release in June 2025, selling 17 million units as of the end of the year.",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boutayna Chokrane",
+            "title": "Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech",
+            "description": "The JetBoots Pro Plus promise faster, more effective recovery by combining multiple therapies in one device. I tested whether it\u2019s worth the $1,150 splurge.",
+            "url": "https://www.wired.com/review/review-therabody-jetboots-pro-plus/",
+            "urlToImage": "https://media.wired.com/photos/698d0b7ff7ce0778b7d1b836/191:100/w_1280,c_limit/Review-%20Therabody%20JetBoots%20Pro%20Plus.png",
+            "publishedAt": "2026-02-12T12:00:00Z",
+            "content": "Compression is still the core feature here, and its the part that delivers most consistently. The boots apply even, targeted pressure up and down the legs, which helps increase blood and lymphatic ci\u2026 [+2521 chars]",
             "ai_score": 5
         },
         {
