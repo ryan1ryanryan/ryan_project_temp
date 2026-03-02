@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02 18:56",
+    "last_updated": "2026-03-02 19:42",
     "articles": [
         {
             "source": {
@@ -325,20 +325,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
-            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
-            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
-            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
-            "publishedAt": "2026-02-26T19:00:00Z",
-            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -349,6 +335,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Nintendo-Virtual-Boy-3-1200x675.jpg",
             "publishedAt": "2026-02-03T14:00:56Z",
             "content": "The recreated Virtual Boy may represent a new era of Nintendo, or at least the company\u2019s willingness to respect its past failures. For the $100 recreation of the nearly 31-year-old virtual reality co\u2026 [+8351 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff",
+            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
+            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
+            "publishedAt": "2026-02-26T19:00:00Z",
+            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
             "ai_score": 5
         },
         {
@@ -437,20 +437,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Torpey",
-            "title": "Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI",
-            "description": "For the dubious tech of the last decade, one door closes and another one opens.",
-            "url": "https://gizmodo.com/major-bitcoin-miner-sells-305-million-worth-of-crypto-to-fund-pivot-to-ai-2000720078",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/AI-pivot-1200x675.jpg",
-            "publishedAt": "2026-02-10T16:10:27Z",
-            "content": "Over the weekend, bitcoin miner Cango sold 4,451 bitcoin for around $305 million. According to a company press release, the sale was completed to partially pay down a bitcoin-collateralized loan. Add\u2026 [+3923 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -461,6 +447,20 @@
             "urlToImage": "https://media.wired.com/photos/699759e787f28b476c1c65d6/191:100/w_1280,c_limit/Save%20$30%20on%20Our%20Favorite%20Budget%20Desktop%20Speaker.png",
             "publishedAt": "2026-02-19T19:47:39Z",
             "content": "Tired of the tinny, flat sound you're getting from your current computer speakers? Even the best gaming screens tend to have lackluster audio, if they include it at all, so we recommend either a pair\u2026 [+1845 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Major Bitcoin Miner Sells $305 Million Worth of Crypto to Fund Pivot to AI",
+            "description": "For the dubious tech of the last decade, one door closes and another one opens.",
+            "url": "https://gizmodo.com/major-bitcoin-miner-sells-305-million-worth-of-crypto-to-fund-pivot-to-ai-2000720078",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/AI-pivot-1200x675.jpg",
+            "publishedAt": "2026-02-10T16:10:27Z",
+            "content": "Over the weekend, bitcoin miner Cango sold 4,451 bitcoin for around $305 million. According to a company press release, the sale was completed to partially pay down a bitcoin-collateralized loan. Add\u2026 [+3923 chars]",
             "ai_score": 5
         },
         {
