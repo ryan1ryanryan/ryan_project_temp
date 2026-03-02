@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-02 16:55",
+    "last_updated": "2026-03-02 17:49",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Morris",
-            "title": "Jeffrey Epstein saw promise in Bitcoin \u2014 and its far-right supporters",
-            "description": "The tranche of Jeffrey Epstein emails and files released on January 30th tie the infamous pedophile, sex trafficker, and influence peddler to elite figures across the tech industry. The world of cryptocurrency is no exception. Epstein's connections are intrig\u2026",
-            "url": "https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268350_Did_Jeffrey_Epstein_shape_bitcoin_or_not_understand_it_at_all__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-26T22:59:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nJeffrey Epstein saw promise in Bitcoin and its far-right supporters\r\nEpstein may not have fully understood crypto, but he helped shape its culture anyway.\r\nby\r\nD\u2026 [+21731 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -312,20 +298,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "LOL What Is This Thing?",
-            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
-            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
-            "publishedAt": "2026-02-26T23:05:25Z",
-            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
@@ -335,6 +307,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Series-X-1-1200x675.jpg",
             "publishedAt": "2026-02-04T15:40:53Z",
             "content": "Xbox is in freefall, but Microsoft\u2019s gaming platform could redeem itself as\u00a0soon as next year. During AMD\u2019s Q4 2025 earnings call on Tuesday, the chipmaker\u2019s CEO, Lisa Su, said that \u201cdevelopment of M\u2026 [+3861 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "LOL What Is This Thing?",
+            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
+            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
+            "publishedAt": "2026-02-26T23:05:25Z",
+            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
             "ai_score": 5
         },
         {
@@ -451,20 +437,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brad Bourque",
-            "title": "Upgrade Your Computer Speakers With These Discounted Edifier M60s",
-            "description": "These compact Edifier speakers may not be the fanciest, but they'll blow your monitor's built-in speakers out of the water.",
-            "url": "https://www.wired.com/story/edifier-m60-deal-226/",
-            "urlToImage": "https://media.wired.com/photos/699759e787f28b476c1c65d6/191:100/w_1280,c_limit/Save%20$30%20on%20Our%20Favorite%20Budget%20Desktop%20Speaker.png",
-            "publishedAt": "2026-02-19T19:47:39Z",
-            "content": "Tired of the tinny, flat sound you're getting from your current computer speakers? Even the best gaming screens tend to have lackluster audio, if they include it at all, so we recommend either a pair\u2026 [+1845 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -475,6 +447,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/AI-pivot-1200x675.jpg",
             "publishedAt": "2026-02-10T16:10:27Z",
             "content": "Over the weekend, bitcoin miner Cango sold 4,451 bitcoin for around $305 million. According to a company press release, the sale was completed to partially pay down a bitcoin-collateralized loan. Add\u2026 [+3923 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Upgrade Your Computer Speakers With These Discounted Edifier M60s",
+            "description": "These compact Edifier speakers may not be the fanciest, but they'll blow your monitor's built-in speakers out of the water.",
+            "url": "https://www.wired.com/story/edifier-m60-deal-226/",
+            "urlToImage": "https://media.wired.com/photos/699759e787f28b476c1c65d6/191:100/w_1280,c_limit/Save%20$30%20on%20Our%20Favorite%20Budget%20Desktop%20Speaker.png",
+            "publishedAt": "2026-02-19T19:47:39Z",
+            "content": "Tired of the tinny, flat sound you're getting from your current computer speakers? Even the best gaming screens tend to have lackluster audio, if they include it at all, so we recommend either a pair\u2026 [+1845 chars]",
             "ai_score": 5
         },
         {
@@ -867,6 +853,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268376_Your_smart_TV_may_be_crawling_the_web_for_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-26T14:39:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSome TV apps let you watch programming with fewer ads, as long as you allow your TV to participate in a global proxy network.\r\nSome TV apps let you watch program\u2026 [+9093 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Morris",
+            "title": "Jeffrey Epstein saw promise in Bitcoin \u2014 and its far-right supporters",
+            "description": "The tranche of Jeffrey Epstein emails and files released on January 30th tie the infamous pedophile, sex trafficker, and influence peddler to elite figures across the tech industry. The world of cryptocurrency is no exception. Epstein's connections are intrig\u2026",
+            "url": "https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268350_Did_Jeffrey_Epstein_shape_bitcoin_or_not_understand_it_at_all__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-26T22:59:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nJeffrey Epstein saw promise in Bitcoin and its far-right supporters\r\nEpstein may not have fully understood crypto, but he helped shape its culture anyway.\r\nby\r\nD\u2026 [+21731 chars]",
             "ai_score": 5
         },
         {
