@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-02 07:04",
+    "last_updated": "2026-03-02 07:57",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Valve\u2019s Steam Deck OLED will be \u2018intermittently\u2019 out of stock because of the RAM crisis",
-            "description": "Valve has updated the Steam Deck OLED website to say that the PC gaming handheld may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The Steam Deck OLED has been out of stock in the US and other parts of the world for a f\u2026",
-            "url": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-17T02:57:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Valve\u2019s Steam Deck OLED will be \u2018intermittently\u2019 out of stock because of the RAM crisis",
+            "description": "Valve has updated the Steam Deck OLED website to say that the PC gaming handheld may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The Steam Deck OLED has been out of stock in the US and other parts of the world for a f\u2026",
+            "url": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-17T02:57:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
             "ai_score": 5
         },
         {
@@ -325,20 +325,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Nintendo\u2019s Virtual Boy Recreation Reminds Us Gaming Doesn\u2019t Have to Be Fun",
-            "description": "You'll enjoy Nintendo's $100 Virtual Boy Switch 2 accessory if you look at it like a gaming archaeologist.",
-            "url": "https://gizmodo.com/nintendos-virtual-boy-recreation-reminds-us-gaming-doesnt-have-to-be-fun-2000716819",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Nintendo-Virtual-Boy-3-1200x675.jpg",
-            "publishedAt": "2026-02-03T14:00:56Z",
-            "content": "The recreated Virtual Boy may represent a new era of Nintendo, or at least the company\u2019s willingness to respect its past failures. For the $100 recreation of the nearly 31-year-old virtual reality co\u2026 [+8351 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -349,6 +335,20 @@
             "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
             "publishedAt": "2026-02-26T19:00:00Z",
             "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Nintendo\u2019s Virtual Boy Recreation Reminds Us Gaming Doesn\u2019t Have to Be Fun",
+            "description": "You'll enjoy Nintendo's $100 Virtual Boy Switch 2 accessory if you look at it like a gaming archaeologist.",
+            "url": "https://gizmodo.com/nintendos-virtual-boy-recreation-reminds-us-gaming-doesnt-have-to-be-fun-2000716819",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Nintendo-Virtual-Boy-3-1200x675.jpg",
+            "publishedAt": "2026-02-03T14:00:56Z",
+            "content": "The recreated Virtual Boy may represent a new era of Nintendo, or at least the company\u2019s willingness to respect its past failures. For the $100 recreation of the nearly 31-year-old virtual reality co\u2026 [+8351 chars]",
             "ai_score": 5
         },
         {
@@ -790,20 +790,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
-            "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
-            "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
-            "publishedAt": "2026-02-10T18:43:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "Instagram and X have an impossible deepfake detection deadline",
             "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
@@ -811,6 +797,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-11T17:20:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
+            "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
+            "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/shargeek300_1.jpg?quality=90&strip=all&crop=0%2C10.706541858374%2C100%2C78.586916283251&w=1200",
+            "publishedAt": "2026-02-10T18:43:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Shargeek 300 can simultaneously output 140W through two USB-C ports, with enough power left to top up your phone.\r\nThe Shargeek 300 can simultaneously output\u2026 [+2787 chars]",
             "ai_score": 5
         },
         {
