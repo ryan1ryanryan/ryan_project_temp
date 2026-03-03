@@ -1,118 +1,6 @@
 {
-    "last_updated": "2026-03-03 08:47",
+    "last_updated": "2026-03-03 09:47",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
-            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
-            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
-            "publishedAt": "2026-02-26T20:25:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Steam beta lets users add their PC specs to reviews",
-            "description": "User reviews on Steam may get more informative after a Steam Client Beta update released on Thursday, which adds an option for users to attach their hardware specs to game reviews. Steam users have always been able to share their specs in the text of their re\u2026",
-            "url": "https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062778/STK138_Stream_Kradtke_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-13T18:15:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve is also adding an option to collect anonymized framerate data for monitoring game compatibility.\r\nValve is also adding an option to collect anonymized fram\u2026 [+2385 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap",
-            "description": "The Asus Zenbook S 16 was a favorite of ours last year, but the price was always too high. Now it has dropped to $1,000, and it\u2019s a total steal.",
-            "url": "https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/",
-            "urlToImage": "https://media.wired.com/photos/698e5f58e6079eaf3eb8e384/191:100/w_1280,c_limit/This%20$500%20Price%20Cut%20Just%20Made%20the%20Prettiest%20Laptop%20of%20Last%20Year%20Worth%20Buying.png",
-            "publishedAt": "2026-02-12T23:20:21Z",
-            "content": "After a long time of resisting significant price drops, the Asus Zenbook S 16 has finally dropped down to $1,000, which is $500 off its retail price.\r\nIt's normal for laptops to dip in price toward t\u2026 [+2233 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Amazon Props Up Misleading, Junky Laptops No One Should Buy",
-            "description": "I review laptops for a living, and it kills me when I see the PCs that Amazon and other retailers filter to the top.",
-            "url": "https://www.wired.com/story/bad-amazon-laptops/",
-            "urlToImage": "https://media.wired.com/photos/6990e3e8876b755ff3162f1f/191:100/w_1280,c_limit/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png",
-            "publishedAt": "2026-02-16T12:00:00Z",
-            "content": "Beyond the outdated Acer Nitro, I also spotted this Samsung Galaxy Book4. This is not a terrible laptop on its own, but at $565, there are better options. There's the Asus Vivobook 14 (or 16), which \u2026 [+2977 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer Wants to Sell You a $1,337 Gaming Mouse",
-            "description": "Remember the 1999 Boomslang mouse? Now, you can once again fondle one of a limited set of 1,337.",
-            "url": "https://gizmodo.com/razer-wants-to-sell-you-a-1337-gaming-mouse-2000718577",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Razer-20th-Anniversary-Boomslang-1-1200x675.jpg",
-            "publishedAt": "2026-02-05T18:15:25Z",
-            "content": "Oh God, the puns. Razer, ever the company to throw subtlety out the window, is trying to make you nostalgic for one of the oddest gaming mice it ever devised. The PC gaming brand is marketing its $1,\u2026 [+3755 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "LOL What Is This Thing?",
-            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
-            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
-            "publishedAt": "2026-02-26T23:05:25Z",
-            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
-            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
-            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
-            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
-            "publishedAt": "2026-02-26T19:00:00Z",
-            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems",
-            "description": "Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.",
-            "url": "https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156",
-            "urlToImage": "https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg",
-            "publishedAt": "2026-02-12T17:40:37Z",
-            "content": "The Pentagon is looking to expand its use of artificial intelligence across both unclassified and classified networks, but negotiations with major AI companies have hit a sticking point.\r\nDefense off\u2026 [+2686 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -125,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -139,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/the-stepback-mario-back.png?quality=90&strip=all&crop=0%2C10.704835894838%2C100%2C78.590328210325&w=1200",
             "publishedAt": "2026-02-15T02:13:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProject Genie is an underwhelming glimpse into what may come.\r\nProject Genie is an underwhelming glimpse into what may come.\r\nby\r\nJay PetersClose\r\nPosts from thi\u2026 [+8731 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -153,6 +41,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-17T02:57:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
+            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
+            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
+            "publishedAt": "2026-02-26T20:25:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
             "ai_score": 5
         },
         {
@@ -269,6 +171,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Steam beta lets users add their PC specs to reviews",
+            "description": "User reviews on Steam may get more informative after a Steam Client Beta update released on Thursday, which adds an option for users to attach their hardware specs to game reviews. Steam users have always been able to share their specs in the text of their re\u2026",
+            "url": "https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062778/STK138_Stream_Kradtke_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-13T18:15:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve is also adding an option to collect anonymized framerate data for monitoring game compatibility.\r\nValve is also adding an option to collect anonymized fram\u2026 [+2385 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -279,6 +195,20 @@
             "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
             "publishedAt": "2026-02-28T11:38:00Z",
             "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap",
+            "description": "The Asus Zenbook S 16 was a favorite of ours last year, but the price was always too high. Now it has dropped to $1,000, and it\u2019s a total steal.",
+            "url": "https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/",
+            "urlToImage": "https://media.wired.com/photos/698e5f58e6079eaf3eb8e384/191:100/w_1280,c_limit/This%20$500%20Price%20Cut%20Just%20Made%20the%20Prettiest%20Laptop%20of%20Last%20Year%20Worth%20Buying.png",
+            "publishedAt": "2026-02-12T23:20:21Z",
+            "content": "After a long time of resisting significant price drops, the Asus Zenbook S 16 has finally dropped down to $1,000, which is $500 off its retail price.\r\nIt's normal for laptops to dip in price toward t\u2026 [+2233 chars]",
             "ai_score": 5
         },
         {
@@ -353,6 +283,48 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "Amazon Props Up Misleading, Junky Laptops No One Should Buy",
+            "description": "I review laptops for a living, and it kills me when I see the PCs that Amazon and other retailers filter to the top.",
+            "url": "https://www.wired.com/story/bad-amazon-laptops/",
+            "urlToImage": "https://media.wired.com/photos/6990e3e8876b755ff3162f1f/191:100/w_1280,c_limit/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png",
+            "publishedAt": "2026-02-16T12:00:00Z",
+            "content": "Beyond the outdated Acer Nitro, I also spotted this Samsung Galaxy Book4. This is not a terrible laptop on its own, but at $565, there are better options. There's the Asus Vivobook 14 (or 16), which \u2026 [+2977 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer Wants to Sell You a $1,337 Gaming Mouse",
+            "description": "Remember the 1999 Boomslang mouse? Now, you can once again fondle one of a limited set of 1,337.",
+            "url": "https://gizmodo.com/razer-wants-to-sell-you-a-1337-gaming-mouse-2000718577",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Razer-20th-Anniversary-Boomslang-1-1200x675.jpg",
+            "publishedAt": "2026-02-05T18:15:25Z",
+            "content": "Oh God, the puns. Razer, ever the company to throw subtlety out the window, is trying to make you nostalgic for one of the oddest gaming mice it ever devised. The PC gaming brand is marketing its $1,\u2026 [+3755 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "LOL What Is This Thing?",
+            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
+            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
+            "publishedAt": "2026-02-26T23:05:25Z",
+            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -363,6 +335,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Series-X-1-1200x675.jpg",
             "publishedAt": "2026-02-04T15:40:53Z",
             "content": "Xbox is in freefall, but Microsoft\u2019s gaming platform could redeem itself as\u00a0soon as next year. During AMD\u2019s Q4 2025 earnings call on Tuesday, the chipmaker\u2019s CEO, Lisa Su, said that \u201cdevelopment of M\u2026 [+3861 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff",
+            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
+            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
+            "publishedAt": "2026-02-26T19:00:00Z",
+            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
             "ai_score": 5
         },
         {
@@ -587,6 +573,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/lego-star-wars-smart-play-luke-vader-1200x675.jpg",
             "publishedAt": "2026-02-23T23:00:01Z",
             "content": "Ever since they were introduced at CES earlier this year, Lego has had to fight an uphill battle to convince increasingly skeptical audiences that its new \u201cSmart Play\u201d systemfeaturing electronic bric\u2026 [+4185 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "The Pentagon Wants to Raw Dog the Latest AI Models on Classified Systems",
+            "description": "Defense officials are pushing tech companies to loosen restrictions on their most powerful models as the military expands its use of AI.",
+            "url": "https://gizmodo.com/the-pentagon-wants-to-raw-dog-the-latest-ai-models-on-classified-systems-2000721156",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/09/1ffbcea06ca4757b885b987ba6ed784a.jpg",
+            "publishedAt": "2026-02-12T17:40:37Z",
+            "content": "The Pentagon is looking to expand its use of artificial intelligence across both unclassified and classified networks, but negotiations with major AI companies have hit a sticking point.\r\nDefense off\u2026 [+2686 chars]",
             "ai_score": 5
         },
         {
