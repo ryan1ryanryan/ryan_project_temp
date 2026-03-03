@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-03 17:48",
+    "last_updated": "2026-03-03 18:59",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Morris",
-            "title": "Jeffrey Epstein saw promise in Bitcoin \u2014 and its far-right supporters",
-            "description": "The tranche of Jeffrey Epstein emails and files released on January 30th tie the infamous pedophile, sex trafficker, and influence peddler to elite figures across the tech industry. The world of cryptocurrency is no exception. Epstein's connections are intrig\u2026",
-            "url": "https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268350_Did_Jeffrey_Epstein_shape_bitcoin_or_not_understand_it_at_all__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-26T22:59:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nJeffrey Epstein saw promise in Bitcoin and its far-right supporters\r\nEpstein may not have fully understood crypto, but he helped shape its culture anyway.\r\nby\r\nD\u2026 [+21731 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -566,20 +552,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Anti-ICE Protesters Have Started a Month-Long Tech and AI Boycott. Here\u2019s How It Works",
-            "description": "Protesters are cancelling subscriptions from ten major tech and AI companies.",
-            "url": "https://gizmodo.com/anti-ice-protesters-have-started-a-month-long-tech-and-ai-boycott-heres-how-it-works-2000716458",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/shutterstock_2718210697-1200x675.jpg",
-            "publishedAt": "2026-02-02T10:00:36Z",
-            "content": "Only days after a nationwide general strike to protest the Trump administration\u2019s brutal immigration crackdown, a new group is now embarking on a longer coordinated economic strike, this time targeti\u2026 [+5243 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Gayoung Lee",
             "title": "The Pentagon Wants X-Ray Vision to Spot Hidden Threats From 3,280 Feet",
             "description": "The futuristic tech, funded by DARPA, would allow the U.S. military to preemptively detect danger from a remarkably long distance.",
@@ -689,6 +661,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Our Favorite Budget TV Is On Sale",
+            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
+            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
+            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
+            "publishedAt": "2026-03-02T18:25:57Z",
+            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -720,20 +706,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Charles Pulliam-Moore",
-            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
-            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
-            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
-            "publishedAt": "2026-02-12T17:37:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Webster",
             "title": "Here\u2019s your first look at Kratos in Amazon\u2019s God of War show",
             "description": "Amazon has slowly been teasing out casting details for its live-action adaptation of God of War, and now we have our first look at the show. It's a single image but a notable one showing protagonist Kratos and his son Atreus. The characters are played by Ryan\u2026",
@@ -755,6 +727,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985722/acastro_STK062_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-10T20:18:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEither because they arent accessing age-restricted experiences, or if its AI predicts theyre old enough.\r\nEither because they arent accessing age-restricted expe\u2026 [+3699 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
+            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
+            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
+            "publishedAt": "2026-02-12T17:37:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
             "ai_score": 5
         },
         {
@@ -902,6 +888,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "David Morris",
+            "title": "Jeffrey Epstein saw promise in Bitcoin \u2014 and its far-right supporters",
+            "description": "The tranche of Jeffrey Epstein emails and files released on January 30th tie the infamous pedophile, sex trafficker, and influence peddler to elite figures across the tech industry. The world of cryptocurrency is no exception. Epstein's connections are intrig\u2026",
+            "url": "https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268350_Did_Jeffrey_Epstein_shape_bitcoin_or_not_understand_it_at_all__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-26T22:59:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nJeffrey Epstein saw promise in Bitcoin and its far-right supporters\r\nEpstein may not have fully understood crypto, but he helped shape its culture anyway.\r\nby\r\nD\u2026 [+21731 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Cameron Faulkner",
             "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
             "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
@@ -1035,6 +1035,34 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/hyperx-cloud-alpha-2-review-08-1200x675.jpg",
             "publishedAt": "2026-02-02T19:30:44Z",
             "content": "If anything, the HyperX Cloud Alpha 2 shows us how headsets can\u2019t define themselves by one superlative feature. Earlier last month, out of a spot of curiosity, I decided to don Sonys PlayStation Puls\u2026 [+11807 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "HP Now Rents Gaming Laptops",
+            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
+            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
+            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
+            "publishedAt": "2026-02-11T16:00:00Z",
+            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Oscar Gonzalez",
+            "title": "Xbox Cloud Gaming Ad-Supported Tier: When Does It Start, How Much Will It Cost and More",
+            "description": "Ads could remove the sting of Xbox Game Pass price hikes, but will it be worth it?",
+            "url": "https://www.cnet.com/tech/gaming/xbox-cloud-gaming-ad-supported-tier-when-does-it-start-how-will-it-work/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/62ba47601d7dd5a4f11269e3c31f526b65c2da11/hub/2024/12/27/9a349fe9-9975-478c-b138-7c4e1d191800/screenshot-2024-12-27-at-12-17-19pm.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-02-04T11:01:13Z",
+            "content": "Xbox Cloud Gaming is one of the key selling points of Xbox Game Pass, and it generally works well. The service lets gamers stream Xbox titles to a wide range of devices, including phones, tablets, ha\u2026 [+2093 chars]",
             "ai_score": 5
         }
     ]
