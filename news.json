@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-05 18:09",
+    "last_updated": "2026-03-05 19:57",
     "articles": [
         {
             "source": {
@@ -675,20 +675,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "The Trump Whitehouse Is Debating Whether To Kick Tencent Out Of U.S. Gaming",
-            "description": "The Chines conglomerate could be forced to divest over security concerns",
-            "url": "https://kotaku.com/tencent-trump-divest-china-epic-riot-supercell-2000675567",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/03/fortnite-1200x675.jpg",
-            "publishedAt": "2026-03-04T04:57:01Z",
-            "content": "The Trump administration is weighing whether to force Chinese tech conglomerate Tencent to abandon its investment in U.S. gaming companies, the\u00a0Financial Times reports. That would include divesting m\u2026 [+2053 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -720,13 +706,13 @@
                 "id": null,
                 "name": "Kotaku"
             },
-            "author": "Zack Kotzer",
-            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
-            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
-            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
-            "publishedAt": "2026-02-14T15:26:50Z",
-            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
+            "author": "Ethan Gach",
+            "title": "The Trump Whitehouse Is Debating Whether To Kick Tencent Out Of U.S. Gaming",
+            "description": "The Chines conglomerate could be forced to divest over security concerns",
+            "url": "https://kotaku.com/tencent-trump-divest-china-epic-riot-supercell-2000675567",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/03/fortnite-1200x675.jpg",
+            "publishedAt": "2026-03-04T04:57:01Z",
+            "content": "The Trump administration is weighing whether to force Chinese tech conglomerate Tencent to abandon its investment in U.S. gaming companies, the\u00a0Financial Times reports. That would include divesting m\u2026 [+2053 chars]",
             "ai_score": 5
         },
         {
@@ -741,6 +727,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
             "publishedAt": "2026-02-17T00:12:58Z",
             "content": "\"Without tech that understands and speaks these languages, millions are excluded from the digital revolution - especially in education, governance, healthcare, and banking,\" Professor Pushpak Bhattac\u2026 [+49 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
+            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
+            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
+            "publishedAt": "2026-02-14T15:26:50Z",
+            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
             "ai_score": 5
         },
         {
