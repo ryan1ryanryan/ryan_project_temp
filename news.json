@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-05 09:48",
+    "last_updated": "2026-03-05 10:44",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
+            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
+            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
+            "publishedAt": "2026-02-14T12:43:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
+            "ai_score": 5
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/the-stepback-mario-back.png?quality=90&strip=all&crop=0%2C10.704835894838%2C100%2C78.590328210325&w=1200",
             "publishedAt": "2026-02-15T02:13:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProject Genie is an underwhelming glimpse into what may come.\r\nProject Genie is an underwhelming glimpse into what may come.\r\nby\r\nJay PetersClose\r\nPosts from thi\u2026 [+8731 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,20 +41,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-17T02:57:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
-            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
-            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
-            "publishedAt": "2026-02-14T12:43:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
             "ai_score": 5
         },
         {
@@ -594,20 +594,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Brad Bourque",
-            "title": "Our Favorite Budget TV Is On Sale",
-            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
-            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
-            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
-            "publishedAt": "2026-03-02T18:25:57Z",
-            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Luke Larsen",
             "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
             "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
@@ -615,6 +601,20 @@
             "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
             "publishedAt": "2026-02-21T12:00:00Z",
             "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Our Favorite Budget TV Is On Sale",
+            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
+            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
+            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
+            "publishedAt": "2026-03-02T18:25:57Z",
+            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
             "ai_score": 5
         },
         {
