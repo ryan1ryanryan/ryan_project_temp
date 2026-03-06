@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-06 22:34",
+    "last_updated": "2026-03-06 23:33",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gayoung Lee",
+            "title": "The Pentagon Wants X-Ray Vision to Spot Hidden Threats From 3,280 Feet",
+            "description": "The futuristic tech, funded by DARPA, would allow the U.S. military to preemptively detect danger from a remarkably long distance.",
+            "url": "https://gizmodo.com/the-pentagon-wants-x-ray-vision-to-spot-hidden-threats-from-3280-feet-2000727608",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/xena-bbn-rtx-x-ray-1200x675.jpg",
+            "publishedAt": "2026-02-27T16:35:35Z",
+            "content": "According to the National Institute of Standards and Technology (NIST), the U.S. government spends billions of dollars on X-ray imaging technology for security purposes. The latest project in this re\u2026 [+2759 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -62,20 +76,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "How Gorilla Tag is weathering the VR winter",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. The VR industry has been on edge since Meta's massive job cuts earlier this year: One exec cal\u2026",
-            "url": "https://www.theverge.com/column/877473/gorilla-tag-vr-winter-quest",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gorillatag.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-02-11T22:24:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe popular VR game is breaking audience records, all while its makers are working on a mobile offshoot, a TV show and a Gorillacon live event.\r\nThe popular VR g\u2026 [+6939 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "Nvidia\u2019s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
             "description": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chip\u2026",
@@ -83,6 +83,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-05T16:33:27Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.\r\nWith a limited supply of RAM available, Nvidia is reportedly prioritiz\u2026 [+2879 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "How Gorilla Tag is weathering the VR winter",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. The VR industry has been on edge since Meta's massive job cuts earlier this year: One exec cal\u2026",
+            "url": "https://www.theverge.com/column/877473/gorilla-tag-vr-winter-quest",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gorillatag.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2026-02-11T22:24:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe popular VR game is breaking audience records, all while its makers are working on a mobile offshoot, a TV show and a Gorillacon live event.\r\nThe popular VR g\u2026 [+6939 chars]",
             "ai_score": 5
         },
         {
@@ -297,20 +311,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Amazon Props Up Misleading, Junky Laptops No One Should Buy",
-            "description": "I review laptops for a living, and it kills me when I see the PCs that Amazon and other retailers filter to the top.",
-            "url": "https://www.wired.com/story/bad-amazon-laptops/",
-            "urlToImage": "https://media.wired.com/photos/6990e3e8876b755ff3162f1f/191:100/w_1280,c_limit/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png",
-            "publishedAt": "2026-02-16T12:00:00Z",
-            "content": "Beyond the outdated Acer Nitro, I also spotted this Samsung Galaxy Book4. This is not a terrible laptop on its own, but at $565, there are better options. There's the Asus Vivobook 14 (or 16), which \u2026 [+2977 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -321,6 +321,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Razer-20th-Anniversary-Boomslang-1-1200x675.jpg",
             "publishedAt": "2026-02-05T18:15:25Z",
             "content": "Oh God, the puns. Razer, ever the company to throw subtlety out the window, is trying to make you nostalgic for one of the oddest gaming mice it ever devised. The PC gaming brand is marketing its $1,\u2026 [+3755 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "Amazon Props Up Misleading, Junky Laptops No One Should Buy",
+            "description": "I review laptops for a living, and it kills me when I see the PCs that Amazon and other retailers filter to the top.",
+            "url": "https://www.wired.com/story/bad-amazon-laptops/",
+            "urlToImage": "https://media.wired.com/photos/6990e3e8876b755ff3162f1f/191:100/w_1280,c_limit/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png",
+            "publishedAt": "2026-02-16T12:00:00Z",
+            "content": "Beyond the outdated Acer Nitro, I also spotted this Samsung Galaxy Book4. This is not a terrible laptop on its own, but at $565, there are better options. There's the Asus Vivobook 14 (or 16), which \u2026 [+2977 chars]",
             "ai_score": 5
         },
         {
@@ -489,20 +503,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-04T14:03:35Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gayoung Lee",
-            "title": "The Pentagon Wants X-Ray Vision to Spot Hidden Threats From 3,280 Feet",
-            "description": "The futuristic tech, funded by DARPA, would allow the U.S. military to preemptively detect danger from a remarkably long distance.",
-            "url": "https://gizmodo.com/the-pentagon-wants-x-ray-vision-to-spot-hidden-threats-from-3280-feet-2000727608",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/xena-bbn-rtx-x-ray-1200x675.jpg",
-            "publishedAt": "2026-02-27T16:35:35Z",
-            "content": "According to the National Institute of Standards and Technology (NIST), the U.S. government spends billions of dollars on X-ray imaging technology for security purposes. The latest project in this re\u2026 [+2759 chars]",
             "ai_score": 5
         },
         {
