@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06 14:03",
+    "last_updated": "2026-03-06 14:50",
     "articles": [
         {
             "source": {
@@ -563,20 +563,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Moz Farooque",
-            "title": "Nvidia may skip new GPU release in stunning break",
-            "description": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year. The tech...",
-            "url": "https://www.thestreet.com/investing/stocks/nvidia-may-skip-new-gpu-release-in-stunning-break",
-            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
-            "publishedAt": "2026-02-06T20:13:00Z",
-            "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -587,6 +573,20 @@
             "urlToImage": "https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg",
             "publishedAt": "2026-02-18T15:17:31Z",
             "content": "But a lot of these claims, it turns out, have very littleif anyactual proof behind them.\r\nJoshi is the author of a new report, released Monday with support from several environmental organizations, t\u2026 [+3370 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Moz Farooque",
+            "title": "Nvidia may skip new GPU release in stunning break",
+            "description": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year. The tech...",
+            "url": "https://www.thestreet.com/investing/stocks/nvidia-may-skip-new-gpu-release-in-stunning-break",
+            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
+            "publishedAt": "2026-02-06T20:13:00Z",
+            "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
             "ai_score": 5
         },
         {
