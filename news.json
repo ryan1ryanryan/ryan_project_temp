@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06 15:42",
+    "last_updated": "2026-03-06 16:46",
     "articles": [
         {
             "source": {
@@ -325,20 +325,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "LOL What Is This Thing?",
-            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
-            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
-            "publishedAt": "2026-02-26T23:05:25Z",
-            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -349,6 +335,20 @@
             "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
             "publishedAt": "2026-02-26T19:00:00Z",
             "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "LOL What Is This Thing?",
+            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
+            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
+            "publishedAt": "2026-02-26T23:05:25Z",
+            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
             "ai_score": 5
         },
         {
