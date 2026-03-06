@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06 21:35",
+    "last_updated": "2026-03-06 22:34",
     "articles": [
         {
             "source": {
@@ -297,20 +297,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer Wants to Sell You a $1,337 Gaming Mouse",
-            "description": "Remember the 1999 Boomslang mouse? Now, you can once again fondle one of a limited set of 1,337.",
-            "url": "https://gizmodo.com/razer-wants-to-sell-you-a-1337-gaming-mouse-2000718577",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Razer-20th-Anniversary-Boomslang-1-1200x675.jpg",
-            "publishedAt": "2026-02-05T18:15:25Z",
-            "content": "Oh God, the puns. Razer, ever the company to throw subtlety out the window, is trying to make you nostalgic for one of the oddest gaming mice it ever devised. The PC gaming brand is marketing its $1,\u2026 [+3755 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -321,6 +307,20 @@
             "urlToImage": "https://media.wired.com/photos/6990e3e8876b755ff3162f1f/191:100/w_1280,c_limit/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png",
             "publishedAt": "2026-02-16T12:00:00Z",
             "content": "Beyond the outdated Acer Nitro, I also spotted this Samsung Galaxy Book4. This is not a terrible laptop on its own, but at $565, there are better options. There's the Asus Vivobook 14 (or 16), which \u2026 [+2977 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer Wants to Sell You a $1,337 Gaming Mouse",
+            "description": "Remember the 1999 Boomslang mouse? Now, you can once again fondle one of a limited set of 1,337.",
+            "url": "https://gizmodo.com/razer-wants-to-sell-you-a-1337-gaming-mouse-2000718577",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Razer-20th-Anniversary-Boomslang-1-1200x675.jpg",
+            "publishedAt": "2026-02-05T18:15:25Z",
+            "content": "Oh God, the puns. Razer, ever the company to throw subtlety out the window, is trying to make you nostalgic for one of the oddest gaming mice it ever devised. The PC gaming brand is marketing its $1,\u2026 [+3755 chars]",
             "ai_score": 5
         },
         {
