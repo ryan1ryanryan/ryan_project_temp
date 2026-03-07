@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-07 16:33",
+    "last_updated": "2026-03-07 17:27",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
+            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
+            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
+            "publishedAt": "2026-02-26T20:25:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,20 +55,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-17T02:57:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
-            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
-            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
-            "publishedAt": "2026-02-26T20:25:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
             "ai_score": 5
         },
         {
@@ -633,6 +633,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "The Trump Whitehouse Is Debating Whether To Kick Tencent Out Of U.S. Gaming",
+            "description": "The Chines conglomerate could be forced to divest over security concerns",
+            "url": "https://kotaku.com/tencent-trump-divest-china-epic-riot-supercell-2000675567",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/03/fortnite-1200x675.jpg",
+            "publishedAt": "2026-03-04T04:57:01Z",
+            "content": "The Trump administration is weighing whether to force Chinese tech conglomerate Tencent to abandon its investment in U.S. gaming companies, the\u00a0Financial Times reports. That would include divesting m\u2026 [+2053 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -647,16 +661,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Ethan Gach",
-            "title": "The Trump Whitehouse Is Debating Whether To Kick Tencent Out Of U.S. Gaming",
-            "description": "The Chines conglomerate could be forced to divest over security concerns",
-            "url": "https://kotaku.com/tencent-trump-divest-china-epic-riot-supercell-2000675567",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/03/fortnite-1200x675.jpg",
-            "publishedAt": "2026-03-04T04:57:01Z",
-            "content": "The Trump administration is weighing whether to force Chinese tech conglomerate Tencent to abandon its investment in U.S. gaming companies, the\u00a0Financial Times reports. That would include divesting m\u2026 [+2053 chars]",
+            "author": "Sheena Vasani",
+            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
+            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
+            "publishedAt": "2026-03-04T20:23:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
             "ai_score": 5
         },
         {
@@ -685,20 +699,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985722/acastro_STK062_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-10T20:18:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEither because they arent accessing age-restricted experiences, or if its AI predicts theyre old enough.\r\nEither because they arent accessing age-restricted expe\u2026 [+3699 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sheena Vasani",
-            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
-            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
-            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
-            "publishedAt": "2026-03-04T20:23:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
             "ai_score": 5
         },
         {
@@ -787,6 +787,34 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
+            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
+            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
+            "publishedAt": "2026-02-09T00:01:57Z",
+            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Instagram and X have an impossible deepfake detection deadline",
+            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-11T17:20:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -832,34 +860,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
-            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
-            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
-            "publishedAt": "2026-02-09T00:01:57Z",
-            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Webster",
             "title": "Console exclusives might be making a comeback",
             "description": "The near future of game consoles could look a lot like the past. Once a hallmark of the industry, over the last few years console-exclusive games have steadily become rare, as the likes of Sony and Microsoft experimented with offering titles on multiple platf\u2026",
@@ -867,20 +867,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_ea8b45bb65d05fafa911387df16399ead11e6878.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-04T20:05:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSony and Microsoft have spent years luring new audiences with multiplatform games, but the tide appears to be turning.\r\nSony and Microsoft have spent years lurin\u2026 [+6132 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Justine Calma",
-            "title": "Microsoft wants to rewire data centers to save space",
-            "description": "Microsoft wants to design more efficient data centers using materials that allow electricity to flow with zero resistance. If these new materials, called high-temperature superconductors, can make it to market, Microsoft thinks it could be a game changer for \u2026",
-            "url": "https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2243425240.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-            "publishedAt": "2026-02-10T16:01:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuperconducting cables could make for more compact data centers.\r\nSuperconducting cables could make for more compact data centers.\r\nby\r\nJustine CalmaClose\r\nPosts\u2026 [+6551 chars]",
             "ai_score": 5
         },
         {
@@ -902,6 +888,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Cameron Faulkner",
+            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
+            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
+            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-03-01T16:00:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "David Morris",
             "title": "Jeffrey Epstein saw promise in Bitcoin \u2014 and its far-right supporters",
             "description": "The tranche of Jeffrey Epstein emails and files released on January 30th tie the infamous pedophile, sex trafficker, and influence peddler to elite figures across the tech industry. The world of cryptocurrency is no exception. Epstein's connections are intrig\u2026",
@@ -916,13 +916,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
-            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
-            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-03-01T16:00:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
+            "author": "Justine Calma",
+            "title": "Microsoft wants to rewire data centers to save space",
+            "description": "Microsoft wants to design more efficient data centers using materials that allow electricity to flow with zero resistance. If these new materials, called high-temperature superconductors, can make it to market, Microsoft thinks it could be a game changer for \u2026",
+            "url": "https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2243425240.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2026-02-10T16:01:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuperconducting cables could make for more compact data centers.\r\nSuperconducting cables could make for more compact data centers.\r\nby\r\nJustine CalmaClose\r\nPosts\u2026 [+6551 chars]",
             "ai_score": 5
         },
         {
