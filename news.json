@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-07 02:04",
+    "last_updated": "2026-03-07 04:11",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap",
-            "description": "The Asus Zenbook S 16 was a favorite of ours last year, but the price was always too high. Now it has dropped to $1,000, and it\u2019s a total steal.",
-            "url": "https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/",
-            "urlToImage": "https://media.wired.com/photos/698e5f58e6079eaf3eb8e384/191:100/w_1280,c_limit/This%20$500%20Price%20Cut%20Just%20Made%20the%20Prettiest%20Laptop%20of%20Last%20Year%20Worth%20Buying.png",
-            "publishedAt": "2026-02-12T23:20:21Z",
-            "content": "After a long time of resisting significant price drops, the Asus Zenbook S 16 has finally dropped down to $1,000, which is $500 off its retail price.\r\nIt's normal for laptops to dip in price toward t\u2026 [+2233 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -209,6 +195,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276282/xbox_horizon.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-02-23T15:06:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nby\r\nTom\u2026 [+10577 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap",
+            "description": "The Asus Zenbook S 16 was a favorite of ours last year, but the price was always too high. Now it has dropped to $1,000, and it\u2019s a total steal.",
+            "url": "https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/",
+            "urlToImage": "https://media.wired.com/photos/698e5f58e6079eaf3eb8e384/191:100/w_1280,c_limit/This%20$500%20Price%20Cut%20Just%20Made%20the%20Prettiest%20Laptop%20of%20Last%20Year%20Worth%20Buying.png",
+            "publishedAt": "2026-02-12T23:20:21Z",
+            "content": "After a long time of resisting significant price drops, the Asus Zenbook S 16 has finally dropped down to $1,000, which is $500 off its retail price.\r\nIt's normal for laptops to dip in price toward t\u2026 [+2233 chars]",
             "ai_score": 5
         },
         {
