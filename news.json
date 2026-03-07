@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-03-07 19:27",
+    "last_updated": "2026-03-07 20:31",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
-            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
-            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
-            "publishedAt": "2026-02-26T20:25:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "This Windows gaming handheld has a screen that folds in half",
-            "description": "Lenovo put a foldable display on a gaming handheld. The Legion Go Fold Concept is a Windows-based handheld with a flexible POLED display, detachable Joy-Con-like controllers, and a folio case to turn the whole thing into a mini laptop. You can use it as a sta\u2026",
-            "url": "https://www.theverge.com/tech/886848/lenovo-legion-go-fold-concept-windows-foldable-pc-gaming-handheld",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268328_Lenovo_Legion_Go_Fold_Concept_MWC2026_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-01T23:04:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch display to an 11.6-inch and its also a laptop.\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch d\u2026 [+5365 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -76,6 +48,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Sean Hollister",
+            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
+            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
+            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
+            "publishedAt": "2026-02-26T20:25:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Janko Roettgers",
             "title": "How Gorilla Tag is weathering the VR winter",
             "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. The VR industry has been on edge since Meta's massive job cuts earlier this year: One exec cal\u2026",
@@ -83,6 +69,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gorillatag.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-02-11T22:24:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe popular VR game is breaking audience records, all while its makers are working on a mobile offshoot, a TV show and a Gorillacon live event.\r\nThe popular VR g\u2026 [+6939 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "This Windows gaming handheld has a screen that folds in half",
+            "description": "Lenovo put a foldable display on a gaming handheld. The Legion Go Fold Concept is a Windows-based handheld with a flexible POLED display, detachable Joy-Con-like controllers, and a folio case to turn the whole thing into a mini laptop. You can use it as a sta\u2026",
+            "url": "https://www.theverge.com/tech/886848/lenovo-legion-go-fold-concept-windows-foldable-pc-gaming-handheld",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268328_Lenovo_Legion_Go_Fold_Concept_MWC2026_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-01T23:04:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch display to an 11.6-inch and its also a laptop.\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch d\u2026 [+5365 chars]",
             "ai_score": 5
         },
         {
