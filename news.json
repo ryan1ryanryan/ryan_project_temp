@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-07 09:34",
+    "last_updated": "2026-03-07 10:29",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Moz Farooque",
+            "title": "Nvidia may skip new GPU release in stunning break",
+            "description": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year. The tech...",
+            "url": "https://www.thestreet.com/investing/stocks/nvidia-may-skip-new-gpu-release-in-stunning-break",
+            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
+            "publishedAt": "2026-02-06T20:13:00Z",
+            "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -535,20 +549,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Moz Farooque",
-            "title": "Nvidia may skip new GPU release in stunning break",
-            "description": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year. The tech...",
-            "url": "https://www.thestreet.com/investing/stocks/nvidia-may-skip-new-gpu-release-in-stunning-break",
-            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
-            "publishedAt": "2026-02-06T20:13:00Z",
-            "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -619,20 +619,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Charles Pulliam-Moore",
-            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
-            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
-            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
-            "publishedAt": "2026-02-12T17:37:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -650,13 +636,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
-            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
-            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
-            "publishedAt": "2026-03-04T20:23:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
+            "author": "Charles Pulliam-Moore",
+            "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
+            "description": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and w\u2026",
+            "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
+            "publishedAt": "2026-02-12T17:37:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
             "ai_score": 5
         },
         {
@@ -685,6 +671,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985722/acastro_STK062_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-10T20:18:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEither because they arent accessing age-restricted experiences, or if its AI predicts theyre old enough.\r\nEither because they arent accessing age-restricted expe\u2026 [+3699 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
+            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
+            "publishedAt": "2026-03-04T20:23:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
             "ai_score": 5
         },
         {
@@ -776,20 +776,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "Sharge\u2019s new power bank can charge two laptops while putting on a light show",
             "description": "Sharge has made a name for itself amongst the tech-obsessed with chargers and power banks featuring eye-catching designs and extra functionality. Power bank feature creep is more often than not a bad thing, but Sharge is unabashedly leaning into the trend wit\u2026",
@@ -829,6 +815,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Instagram and X have an impossible deepfake detection deadline",
+            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-11T17:20:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -860,13 +860,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "Your smart TV may be crawling the web for AI",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. These days, if you sign up for a new streaming service, you generally have two options: Either\u2026",
-            "url": "https://www.theverge.com/column/885244/smart-tv-web-crawler-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268376_Your_smart_TV_may_be_crawling_the_web_for_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-26T14:39:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome TV apps let you watch programming with fewer ads, as long as you allow your TV to participate in a global proxy network.\r\nSome TV apps let you watch program\u2026 [+9093 chars]",
+            "author": "Justine Calma",
+            "title": "Microsoft wants to rewire data centers to save space",
+            "description": "Microsoft wants to design more efficient data centers using materials that allow electricity to flow with zero resistance. If these new materials, called high-temperature superconductors, can make it to market, Microsoft thinks it could be a game changer for \u2026",
+            "url": "https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2243425240.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2026-02-10T16:01:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuperconducting cables could make for more compact data centers.\r\nSuperconducting cables could make for more compact data centers.\r\nby\r\nJustine CalmaClose\r\nPosts\u2026 [+6551 chars]",
             "ai_score": 5
         },
         {
@@ -874,13 +874,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
-            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
-            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-03-01T16:00:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
+            "author": "Janko Roettgers",
+            "title": "Your smart TV may be crawling the web for AI",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. These days, if you sign up for a new streaming service, you generally have two options: Either\u2026",
+            "url": "https://www.theverge.com/column/885244/smart-tv-web-crawler-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268376_Your_smart_TV_may_be_crawling_the_web_for_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-26T14:39:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome TV apps let you watch programming with fewer ads, as long as you allow your TV to participate in a global proxy network.\r\nSome TV apps let you watch program\u2026 [+9093 chars]",
             "ai_score": 5
         },
         {
@@ -902,13 +902,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Justine Calma",
-            "title": "Microsoft wants to rewire data centers to save space",
-            "description": "Microsoft wants to design more efficient data centers using materials that allow electricity to flow with zero resistance. If these new materials, called high-temperature superconductors, can make it to market, Microsoft thinks it could be a game changer for \u2026",
-            "url": "https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2243425240.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-            "publishedAt": "2026-02-10T16:01:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuperconducting cables could make for more compact data centers.\r\nSuperconducting cables could make for more compact data centers.\r\nby\r\nJustine CalmaClose\r\nPosts\u2026 [+6551 chars]",
+            "author": "Cameron Faulkner",
+            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
+            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
+            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-03-01T16:00:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
             "ai_score": 5
         },
         {
