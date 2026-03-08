@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-08 13:45",
+    "last_updated": "2026-03-08 14:30",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "I review laptops for The Verge, ask me anything",
-            "description": "What up, Verge-heads! Wait. \"Vergesters?\" \"Verge-igans?\" Nope, that ain't it\u2026 GREETINGS, DEAREST VERGE SUBSCRIBERS! Antonio here. \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb I'm your friendly neighborhood laptop reviewer, and I'm hosting an exclusive subscriber \"AMA\" today at 11AM PT / 2PM ET.\u2026",
-            "url": "https://www.theverge.com/column/881567/i-review-laptops-for-the-verge-ask-me-anything",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/AMA_Antonio_laptop_reviewer_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-20T14:43:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIll be answering subscriber questions today at 11AM PT / 2PM ET. Come geek out with me about laptops, photography, the great state of New Jersey, or other nerdy \u2026 [+2730 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -111,6 +97,20 @@
             "urlToImage": "https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/191:100/w_1280,c_limit/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png",
             "publishedAt": "2026-03-06T13:00:00Z",
             "content": "While this assembly works well and allows for the mouse to be incredibly lightweight and rigid, I found a few concerns with repairability. With both shells, there is a risk of repeated disassembly br\u2026 [+2752 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "I review laptops for The Verge, ask me anything",
+            "description": "What up, Verge-heads! Wait. \"Vergesters?\" \"Verge-igans?\" Nope, that ain't it\u2026 GREETINGS, DEAREST VERGE SUBSCRIBERS! Antonio here. \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb I'm your friendly neighborhood laptop reviewer, and I'm hosting an exclusive subscriber \"AMA\" today at 11AM PT / 2PM ET.\u2026",
+            "url": "https://www.theverge.com/column/881567/i-review-laptops-for-the-verge-ask-me-anything",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/AMA_Antonio_laptop_reviewer_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-20T14:43:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIll be answering subscriber questions today at 11AM PT / 2PM ET. Come geek out with me about laptops, photography, the great state of New Jersey, or other nerdy \u2026 [+2730 chars]",
             "ai_score": 5
         },
         {
@@ -549,34 +549,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "LG\u2019s C5 TV and Anker\u2019s powerful power bank are this week\u2019s best deals",
-            "description": "It\u2019s the first weekend of February, which can only mean one thing: The Super Bowl (or \u201cBenito Bowl,\u201d if you\u2019re mainly tuning in for the Bad Bunny-led halftime show) is upon us. The game is Sunday, February 8th, at 6:30PM ET on Peacock, NFL Plus, and on live s\u2026",
-            "url": "https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lgc5lede.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-07T13:17:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEnjoy some great deals, whether youre shopping for yourself or getting ready for a tech-filled Valentines Day.\r\nEnjoy some great deals, whether youre shopping fo\u2026 [+5550 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Moz Farooque",
-            "title": "Nvidia may skip new GPU release in stunning break",
-            "description": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year. The tech...",
-            "url": "https://www.thestreet.com/investing/stocks/nvidia-may-skip-new-gpu-release-in-stunning-break",
-            "urlToImage": "https://s.yimg.com/os/en/thestreet_881/971a580dc712deb268f8144421ba3d7d",
-            "publishedAt": "2026-02-06T20:13:00Z",
-            "content": "In a stunning blow for gamers, it seems that for the first time in decades, Nvidia (NVDA) might look to skip launching a fresh gaming GPU this year.\r\nThe tech behemoth is looking to forgo a 2026 gami\u2026 [+5717 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -801,6 +773,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
+            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
+            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
+            "publishedAt": "2026-02-09T00:01:57Z",
+            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -853,20 +839,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-11T17:20:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
-            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
-            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
-            "publishedAt": "2026-02-09T00:01:57Z",
-            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
             "ai_score": 5
         },
         {
@@ -1011,6 +983,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The best Switch 2 controller just got better (and a little worse)",
+            "description": "Crowning the EasySMX S10 the best Switch 2 controller last fall was easy. The $60 wireless gamepad, which is often well below $50, mimics or improves on many of the $90 Switch 2 Pro controller's best features. The S10 has great-feeling rumble in games, TMR jo\u2026",
+            "url": "https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/P3020768.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-06T21:32:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe S10 Lite offers native Switch 2 support for easy wake-up and per-game rear paddle customization.\r\nThe S10 Lite offers native Switch 2 support for easy wake-u\u2026 [+4392 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Slashdot.org"
             },
@@ -1049,6 +1035,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK461_INTERNET_CHILD_SAFETY_E_Stock_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-05T23:16:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nRep. Alexandria Ocasio-Cortez says the KIDS Act is a smoke screen for what Big Tech lobbyists want.\r\nRep. Alexandria Ocasio-Cortez says the KIDS Act is a smoke s\u2026 [+5482 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "John Walker",
+            "title": "Report: Escapist And Other Gaming Sites Slash Staff As Gambling Firm \u2018Pivots To AI\u2019",
+            "description": "The peculiarly shy company has been buying up gaming sites and turning them into gambling sites for years",
+            "url": "https://kotaku.com/the-escapist-esports-insider-clickout-media-layoffs-2000669743",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/clickout-1200x675.jpg",
+            "publishedAt": "2026-02-17T18:39:50Z",
+            "content": "Clickout Media is a group that buys up gaming sites and then forces them to host endless unmarked advertorial content for gambling sites and casinos. Now the owner of The Escapist, Adventure Gamers, \u2026 [+3095 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Louryn Strampe",
+            "title": "Sony\u2019s WH-CH720N headphones offer excellent value at full price, but right now they're a steal.",
+            "description": "The Sony WH-CH720N headphone offer excellent value at full price, but right now they're a steal.",
+            "url": "https://www.wired.com/story/sony-wh-ch720n-deal-february-2026/",
+            "urlToImage": "https://media.wired.com/photos/6998c3349043220668a7e874/191:100/w_1280,c_limit/The%20Best%20Cheap%20Noise-Canceling%20Headphones%20Are%20More%20Affordable%20Than%20Ever.png",
+            "publishedAt": "2026-02-21T20:30:46Z",
+            "content": "We've tested oodles of noise-canceling headphones and the Sony WH-CH720N might have an unfortunate name, but they're the best budget-friendly pair we've tried. They usually offer good value when sell\u2026 [+1013 chars]",
             "ai_score": 5
         }
     ]
