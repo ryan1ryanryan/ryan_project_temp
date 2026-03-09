@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-09 04:56",
+    "last_updated": "2026-03-09 06:03",
     "articles": [
         {
             "source": {
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "To Succeed, the Next-Gen Xbox Needs to Steal These PC Features",
-            "description": "You may have more than one choice of next-gen Xbox, and not just from Microsoft.",
-            "url": "https://gizmodo.com/to-succeed-the-next-gen-xbox-needs-to-steal-these-pc-features-2000719649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Xbox-Series-X-Controller-1-1200x675.jpg",
-            "publishedAt": "2026-02-09T16:11:31Z",
-            "content": "Everything is an Xbox sounds like a great tagline until you ask gamers what they truly want from Microsofts longtime console brand. Heres a hint: its not more cloud gaming. The catchphrase everything\u2026 [+4519 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -251,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/abxylutehed.jpg?quality=90&strip=all&crop=0%2C10.741445188627%2C100%2C78.517109622746&w=1200",
             "publishedAt": "2026-02-19T13:09:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nJoy-Con alternatives typically provide improvements aplenty, but this prototype doesnt.\r\nJoy-Con alternatives typically provide improvements aplenty, but this pr\u2026 [+5964 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "To Succeed, the Next-Gen Xbox Needs to Steal These PC Features",
+            "description": "You may have more than one choice of next-gen Xbox, and not just from Microsoft.",
+            "url": "https://gizmodo.com/to-succeed-the-next-gen-xbox-needs-to-steal-these-pc-features-2000719649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Xbox-Series-X-Controller-1-1200x675.jpg",
+            "publishedAt": "2026-02-09T16:11:31Z",
+            "content": "Everything is an Xbox sounds like a great tagline until you ask gamers what they truly want from Microsofts longtime console brand. Heres a hint: its not more cloud gaming. The catchphrase everything\u2026 [+4519 chars]",
             "ai_score": 5
         },
         {
@@ -787,20 +787,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
-            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
-            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
-            "publishedAt": "2026-02-09T00:01:57Z",
-            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -853,6 +839,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-11T17:20:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "In the AI gold rush, tech firms are embracing 72-hour weeks",
+            "description": "In the race for AI, tech firms are asking for their staff to work long hours. But there are risks, experts say",
+            "url": "https://www.bbc.com/news/articles/cvgn2k285ypo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dbd4/live/1b136220-02b4-11f1-b7e1-afb6d0884c18.jpg",
+            "publishedAt": "2026-02-09T00:01:57Z",
+            "content": "In China, 996 has not disappeared, but its advocates have generally been a lot quieter. A notable exception was Baidu's one-time head of public relations, Qu Jing, who posted a series of videos on so\u2026 [+253 chars]",
             "ai_score": 5
         },
         {
