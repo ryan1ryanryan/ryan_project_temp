@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-09 16:04",
+    "last_updated": "2026-03-09 17:08",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
+            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
+            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
+            "publishedAt": "2026-02-14T12:43:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -14,62 +28,6 @@
             "publishedAt": "2026-02-15T02:13:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProject Genie is an underwhelming glimpse into what may come.\r\nProject Genie is an underwhelming glimpse into what may come.\r\nby\r\nJay PetersClose\r\nPosts from thi\u2026 [+8731 chars]",
             "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
-            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
-            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
-            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
-            "publishedAt": "2026-02-26T19:00:00Z",
-            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "LOL What Is This Thing?",
-            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
-            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
-            "publishedAt": "2026-02-26T23:05:25Z",
-            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gayoung Lee",
-            "title": "The Pentagon Wants X-Ray Vision to Spot Hidden Threats From 3,280 Feet",
-            "description": "The futuristic tech, funded by DARPA, would allow the U.S. military to preemptively detect danger from a remarkably long distance.",
-            "url": "https://gizmodo.com/the-pentagon-wants-x-ray-vision-to-spot-hidden-threats-from-3280-feet-2000727608",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/xena-bbn-rtx-x-ray-1200x675.jpg",
-            "publishedAt": "2026-02-27T16:35:35Z",
-            "content": "According to the National Institute of Standards and Technology (NIST), the U.S. government spends billions of dollars on X-ray imaging technology for security purposes. The latest project in this re\u2026 [+2759 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
-            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
-            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
-            "publishedAt": "2026-02-14T12:43:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
         },
         {
             "source": {
@@ -370,6 +328,34 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Maxwell Zeff",
+            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
+            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
+            "publishedAt": "2026-02-26T19:00:00Z",
+            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "LOL What Is This Thing?",
+            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
+            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
+            "publishedAt": "2026-02-26T23:05:25Z",
+            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Boutayna Chokrane",
             "title": "Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech",
             "description": "The JetBoots Pro Plus promise faster, more effective recovery by combining multiple therapies in one device. I tested whether it\u2019s worth the $1,150 splurge.",
@@ -503,6 +489,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-04T14:03:35Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gayoung Lee",
+            "title": "The Pentagon Wants X-Ray Vision to Spot Hidden Threats From 3,280 Feet",
+            "description": "The futuristic tech, funded by DARPA, would allow the U.S. military to preemptively detect danger from a remarkably long distance.",
+            "url": "https://gizmodo.com/the-pentagon-wants-x-ray-vision-to-spot-hidden-threats-from-3280-feet-2000727608",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/xena-bbn-rtx-x-ray-1200x675.jpg",
+            "publishedAt": "2026-02-27T16:35:35Z",
+            "content": "According to the National Institute of Standards and Technology (NIST), the U.S. government spends billions of dollars on X-ray imaging technology for security purposes. The latest project in this re\u2026 [+2759 chars]",
             "ai_score": 5
         },
         {
