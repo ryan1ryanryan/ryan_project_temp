@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-11 13:06",
+    "last_updated": "2026-03-11 14:52",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap",
+            "description": "The Asus Zenbook S 16 was a favorite of ours last year, but the price was always too high. Now it has dropped to $1,000, and it\u2019s a total steal.",
+            "url": "https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/",
+            "urlToImage": "https://media.wired.com/photos/698e5f58e6079eaf3eb8e384/191:100/w_1280,c_limit/This%20$500%20Price%20Cut%20Just%20Made%20the%20Prettiest%20Laptop%20of%20Last%20Year%20Worth%20Buying.png",
+            "publishedAt": "2026-02-12T23:20:21Z",
+            "content": "After a long time of resisting significant price drops, the Asus Zenbook S 16 has finally dropped down to $1,000, which is $500 off its retail price.\r\nIt's normal for laptops to dip in price toward t\u2026 [+2233 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -213,16 +227,16 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Luke Larsen",
-            "title": "The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap",
-            "description": "The Asus Zenbook S 16 was a favorite of ours last year, but the price was always too high. Now it has dropped to $1,000, and it\u2019s a total steal.",
-            "url": "https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/",
-            "urlToImage": "https://media.wired.com/photos/698e5f58e6079eaf3eb8e384/191:100/w_1280,c_limit/This%20$500%20Price%20Cut%20Just%20Made%20the%20Prettiest%20Laptop%20of%20Last%20Year%20Worth%20Buying.png",
-            "publishedAt": "2026-02-12T23:20:21Z",
-            "content": "After a long time of resisting significant price drops, the Asus Zenbook S 16 has finally dropped down to $1,000, which is $500 off its retail price.\r\nIt's normal for laptops to dip in price toward t\u2026 [+2233 chars]",
+            "author": "Stevie Bonifield",
+            "title": "V-bucks are getting more X-pensive",
+            "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
+            "url": "https://www.theverge.com/games/892074/fortnite-v-bucks-price-increase-march-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-10T14:02:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
             "ai_score": 5
         },
         {
@@ -647,20 +661,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
-            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
-            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
-            "publishedAt": "2026-02-14T15:26:50Z",
-            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -699,6 +699,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
             "publishedAt": "2026-03-04T20:23:41Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
+            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
+            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
+            "publishedAt": "2026-02-14T15:26:50Z",
+            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
             "ai_score": 5
         },
         {
@@ -1063,20 +1077,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
             "publishedAt": "2026-03-09T03:02:04Z",
             "content": "Under the new rules, search engines, app stores, social media and gaming platforms, porn sites and AI systems - including companion chatbots - must take \"meaningful steps\" to prevent children from be\u2026 [+28 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "derrek.lee@futurenet.com (Derrek Lee) , Derrek Lee",
-            "title": "6 of the coolest display innovations I saw from TCL at MWC, and some of them could be in your next phone",
-            "description": "TCL's display division showcased its display tech at MWC 2026, including a new Super Pixel display arrangement features in the latest Xiaomi phones.",
-            "url": "https://www.androidcentral.com/phones/tcl/6-of-the-coolest-display-innovations-i-saw-from-tcl-at-mwc",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/P9em2WmgonJKG3cG4Ek2zE-2560-80.jpg",
-            "publishedAt": "2026-03-06T00:57:48Z",
-            "content": "TCL doesn't just make phones and TVs; the company also makes the displays for these products, supplying them to various other companies. TCL China Star Optoelectronics Technology (CSOT) is a division\u2026 [+6012 chars]",
             "ai_score": 5
         }
     ]
