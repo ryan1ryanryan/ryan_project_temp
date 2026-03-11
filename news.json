@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11 04:48",
+    "last_updated": "2026-03-11 05:55",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Australians must prove they are over 18 to access porn under new laws",
-            "description": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
-            "url": "https://www.bbc.com/news/articles/cwy92qpv424o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
-            "publishedAt": "2026-03-09T03:02:04Z",
-            "content": "Under the new rules, search engines, app stores, social media and gaming platforms, porn sites and AI systems - including companion chatbots - must take \"meaningful steps\" to prevent children from be\u2026 [+28 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -552,20 +538,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "Google\u2019s latest Pixel Watches have fallen to their lowest prices ever",
-            "description": "With longer days and warmer weather on the way, it\u2019s a good time to take your gym routine outside. Luckily, Google\u2019s Pixel Watch 4 can help you track all your outdoor fitness activities, and right now it\u2019s on sale at Amazon, Best Buy, and Target starting at $\u2026",
-            "url": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/googlepixelwatch4deals.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-09T16:45:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest mobile controller.\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest m\u2026 [+5428 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Verge Staff",
             "title": "Social media on trial: tech giants face lawsuits over addiction, safety, and mental health",
             "description": "A set of bellwether cases alleging that social media platforms harmed teens\u2019 safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answer questions about what they\u2019ve done or not done to protect\u2026",
@@ -573,6 +545,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D_1b4bb5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-18T21:27:09Z",
             "content": "A set of bellwether cases alleging that social media platforms harmed teens safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answ\u2026 [+3507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Google\u2019s latest Pixel Watches have fallen to their lowest prices ever",
+            "description": "With longer days and warmer weather on the way, it\u2019s a good time to take your gym routine outside. Luckily, Google\u2019s Pixel Watch 4 can help you track all your outdoor fitness activities, and right now it\u2019s on sale at Amazon, Best Buy, and Target starting at $\u2026",
+            "url": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/googlepixelwatch4deals.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-09T16:45:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest mobile controller.\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest m\u2026 [+5428 chars]",
             "ai_score": 5
         },
         {
@@ -1063,6 +1049,20 @@
             "urlToImage": "https://media.wired.com/photos/6998c3349043220668a7e874/191:100/w_1280,c_limit/The%20Best%20Cheap%20Noise-Canceling%20Headphones%20Are%20More%20Affordable%20Than%20Ever.png",
             "publishedAt": "2026-02-21T20:30:46Z",
             "content": "We've tested oodles of noise-canceling headphones and the Sony WH-CH720N might have an unfortunate name, but they're the best budget-friendly pair we've tried. They usually offer good value when sell\u2026 [+1013 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Australians must prove they are over 18 to access porn under new laws",
+            "description": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
+            "url": "https://www.bbc.com/news/articles/cwy92qpv424o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
+            "publishedAt": "2026-03-09T03:02:04Z",
+            "content": "Under the new rules, search engines, app stores, social media and gaming platforms, porn sites and AI systems - including companion chatbots - must take \"meaningful steps\" to prevent children from be\u2026 [+28 chars]",
             "ai_score": 5
         },
         {
