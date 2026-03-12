@@ -1,6 +1,76 @@
 {
-    "last_updated": "2026-03-12 05:57",
+    "last_updated": "2026-03-12 07:03",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "The tech bros might show more humility in Delhi \u2013 but will they make AI any safer?",
+            "description": "As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.",
+            "url": "https://www.bbc.com/news/articles/cr5l6gnen72o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
+            "publishedAt": "2026-02-17T00:12:58Z",
+            "content": "\"Without tech that understands and speaks these languages, millions are excluded from the digital revolution - especially in education, governance, healthcare, and banking,\" Professor Pushpak Bhattac\u2026 [+49 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Instagram and X have an impossible deepfake detection deadline",
+            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-11T17:20:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "Your smart TV may be crawling the web for AI",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. These days, if you sign up for a new streaming service, you generally have two options: Either\u2026",
+            "url": "https://www.theverge.com/column/885244/smart-tv-web-crawler-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268376_Your_smart_TV_may_be_crawling_the_web_for_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-26T14:39:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome TV apps let you watch programming with fewer ads, as long as you allow your TV to participate in a global proxy network.\r\nSome TV apps let you watch program\u2026 [+9093 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The best Switch 2 controller just got better (and a little worse)",
+            "description": "Crowning the EasySMX S10 the best Switch 2 controller last fall was easy. The $60 wireless gamepad, which is often well below $50, mimics or improves on many of the $90 Switch 2 Pro controller's best features. The S10 has great-feeling rumble in games, TMR jo\u2026",
+            "url": "https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/P3020768.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-06T21:32:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe S10 Lite offers native Switch 2 support for easy wake-up and per-game rear paddle customization.\r\nThe S10 Lite offers native Switch 2 support for easy wake-u\u2026 [+4392 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Gamers Thought China Would Save Them With Cheap RAM But It\u2019s Not That Simple",
+            "description": "CXMT might one day provide more RAM in more products, but for now the company won't save gamers from high prices",
+            "url": "https://kotaku.com/ram-shortage-ai-pc-gaming-china-cxmt-2000670712",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/RAMchina-1200x675.jpg",
+            "publishedAt": "2026-02-18T19:41:45Z",
+            "content": "For a few months now, many gamers had seemingly pinned their hopes on a company in China to help alleviate rising prices on RAM resulting from the ongoing and worsening memory shortage fueled by AI h\u2026 [+2796 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -648,20 +718,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "The tech bros might show more humility in Delhi \u2013 but will they make AI any safer?",
-            "description": "As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.",
-            "url": "https://www.bbc.com/news/articles/cr5l6gnen72o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
-            "publishedAt": "2026-02-17T00:12:58Z",
-            "content": "\"Without tech that understands and speaks these languages, millions are excluded from the digital revolution - especially in education, governance, healthcare, and banking,\" Professor Pushpak Bhattac\u2026 [+49 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Zack Kotzer",
@@ -748,20 +804,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Janko Roettgers",
             "title": "The next iTunes may be vibe-coded",
             "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Wouldn't it be great if you could exchange music recommendations with your friends, no matter \u2026",
@@ -797,20 +839,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868498.jpg?quality=90&strip=all&crop=0%2C10.726456111031%2C100%2C78.547087777937&w=1200",
             "publishedAt": "2026-03-04T14:15:03Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nUntangling the Anthropic-PentagonOpenAI-Iran news cycle.\r\nUntangling the Anthropic-PentagonOpenAI-Iran news cycle.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Washin\u2026 [+11805 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "Your smart TV may be crawling the web for AI",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. These days, if you sign up for a new streaming service, you generally have two options: Either\u2026",
-            "url": "https://www.theverge.com/column/885244/smart-tv-web-crawler-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268376_Your_smart_TV_may_be_crawling_the_web_for_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-26T14:39:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome TV apps let you watch programming with fewer ads, as long as you allow your TV to participate in a global proxy network.\r\nSome TV apps let you watch program\u2026 [+9093 chars]",
             "ai_score": 5
         },
         {
@@ -927,20 +955,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The best Switch 2 controller just got better (and a little worse)",
-            "description": "Crowning the EasySMX S10 the best Switch 2 controller last fall was easy. The $60 wireless gamepad, which is often well below $50, mimics or improves on many of the $90 Switch 2 Pro controller's best features. The S10 has great-feeling rumble in games, TMR jo\u2026",
-            "url": "https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/P3020768.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-06T21:32:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe S10 Lite offers native Switch 2 support for easy wake-up and per-game rear paddle customization.\r\nThe S10 Lite offers native Switch 2 support for easy wake-u\u2026 [+4392 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Slashdot.org"
             },
@@ -1049,20 +1063,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/P9em2WmgonJKG3cG4Ek2zE-2560-80.jpg",
             "publishedAt": "2026-03-06T00:57:48Z",
             "content": "TCL doesn't just make phones and TVs; the company also makes the displays for these products, supplying them to various other companies. TCL China Star Optoelectronics Technology (CSOT) is a division\u2026 [+6012 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "Gamers Thought China Would Save Them With Cheap RAM But It\u2019s Not That Simple",
-            "description": "CXMT might one day provide more RAM in more products, but for now the company won't save gamers from high prices",
-            "url": "https://kotaku.com/ram-shortage-ai-pc-gaming-china-cxmt-2000670712",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/RAMchina-1200x675.jpg",
-            "publishedAt": "2026-02-18T19:41:45Z",
-            "content": "For a few months now, many gamers had seemingly pinned their hopes on a company in China to help alleviate rising prices on RAM resulting from the ongoing and worsening memory shortage fueled by AI h\u2026 [+2796 chars]",
             "ai_score": 5
         },
         {
