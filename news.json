@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12 14:55",
+    "last_updated": "2026-03-12 16:05",
     "articles": [
         {
             "source": {
@@ -941,6 +941,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ajay Kumar",
+            "title": "My Favorite Gaming Headphones From SteelSeries Cured My Battery Anxiety",
+            "description": "I've used a lot of great wireless gaming headsets, but this pair from SteelSeries helped me stop worrying about battery life, making them worth the high price.",
+            "url": "https://www.cnet.com/tech/mobile/my-favorite-gaming-headphones-from-steelseries-cured-my-battery-anxiety/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/fbbaaa9fa1de0658e9a79eb258a0c29fc590cc6f/hub/2026/03/10/7911e01a-9785-4763-a4b3-c576b7adba17/dsc05177.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-03-11T15:01:01Z",
+            "content": "Wireless PC gaming headsets are a necessity for me. Wired gaming headsets are just too restrictive, tethering you to your desk and limiting your movements during intense gaming sessions. However, the\u2026 [+8505 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1077,20 +1091,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/02/RAMchina-1200x675.jpg",
             "publishedAt": "2026-02-18T19:41:45Z",
             "content": "For a few months now, many gamers had seemingly pinned their hopes on a company in China to help alleviate rising prices on RAM resulting from the ongoing and worsening memory shortage fueled by AI h\u2026 [+2796 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Microsoft Confirms Next-Gen Xbox Is Still Happening, It\u2019s Called Project Helix, And It\u2019ll Play Your PC Games",
-            "description": "The news comes as a leadership shakeup has fans questioning the platform's future",
-            "url": "https://kotaku.com/xbox-project-helix-codename-next-gen-pc-games-2000676398",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
-            "publishedAt": "2026-03-05T20:40:20Z",
-            "content": "People have been speculating about Microisoft\u2019s plans for the next Xbox for over a year now and the company\u2019s new gaming CEO just went ahead and tweeted them out. Recently appointed Xbox boss Asha Sh\u2026 [+2363 chars]",
             "ai_score": 5
         }
     ]
