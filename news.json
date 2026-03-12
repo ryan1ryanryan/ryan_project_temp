@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12 11:37",
+    "last_updated": "2026-03-12 13:06",
     "articles": [
         {
             "source": {
@@ -307,6 +307,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2264235364.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
             "publishedAt": "2026-03-05T00:17:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe pledge is supposed to commit companies to paying for grid upgrades needed to meet soaring electricity demand from data centers. \r\nThe pledge is supposed to c\u2026 [+6484 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Intel\u2019s Redemption Arc for PC Gaming Starts With Midrange Desktop CPUs",
+            "description": "Intel Core Ultra 200S Plus likely won\u2019t beat AMD\u2019s best X3D chips, but Intel promises its \"best gaming performance\" ever.",
+            "url": "https://gizmodo.com/intels-redemption-arc-for-pc-gaming-starts-with-midrange-desktop-cpus-2000732274",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/HP-Origin-Neuron-PC-13-1200x675.jpg",
+            "publishedAt": "2026-03-11T13:00:55Z",
+            "content": "Two years ago, the Intel Core Ultra 200 series brought PC gamers to a state of existential crisis. The chipmakers desktop CPUs bore few performance gains and occasionally performed worse than Intels \u2026 [+3825 chars]",
             "ai_score": 5
         },
         {
@@ -1077,20 +1091,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
             "publishedAt": "2026-03-05T20:40:20Z",
             "content": "People have been speculating about Microisoft\u2019s plans for the next Xbox for over a year now and the company\u2019s new gaming CEO just went ahead and tweeted them out. Recently appointed Xbox boss Asha Sh\u2026 [+2363 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Woot\u2019s \u2018Video Games for All\u2019 sale features some of our favorite games",
-            "description": "There\u2019s a sale happening at Woot that\u2019s delivering Black Friday-esque deals on video games through March 5th. The \u201cVideo Games for All\u201d sale includes discounts on physical games for most modern consoles, making it a great time to treat yourself (or a pal) to \u2026",
-            "url": "https://www.theverge.com/gadgets/885334/woot-ps5-nintendo-switch-video-game-sale-lg-c5-oled-tv-deal",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/silenthillfMarioGalaxy.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-27T17:13:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, save on Govees dashing Pendant Light, and get a deal on LGs 48-inch C5 OLED that beats Super Bowl pricing.\r\nPlus, save on Govees dashing Pendant Light, and\u2026 [+4347 chars]",
             "ai_score": 5
         }
     ]
