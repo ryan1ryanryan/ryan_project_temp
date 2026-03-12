@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-12 10:44",
+    "last_updated": "2026-03-12 11:37",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap",
-            "description": "The Asus Zenbook S 16 was a favorite of ours last year, but the price was always too high. Now it has dropped to $1,000, and it\u2019s a total steal.",
-            "url": "https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/",
-            "urlToImage": "https://media.wired.com/photos/698e5f58e6079eaf3eb8e384/191:100/w_1280,c_limit/This%20$500%20Price%20Cut%20Just%20Made%20the%20Prettiest%20Laptop%20of%20Last%20Year%20Worth%20Buying.png",
-            "publishedAt": "2026-02-12T23:20:21Z",
-            "content": "After a long time of resisting significant price drops, the Asus Zenbook S 16 has finally dropped down to $1,000, which is $500 off its retail price.\r\nIt's normal for laptops to dip in price toward t\u2026 [+2233 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -251,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-10T15:18:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "The Asus Zenbook S 16 Is $500 Off and Has Never Been This Cheap",
+            "description": "The Asus Zenbook S 16 was a favorite of ours last year, but the price was always too high. Now it has dropped to $1,000, and it\u2019s a total steal.",
+            "url": "https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/",
+            "urlToImage": "https://media.wired.com/photos/698e5f58e6079eaf3eb8e384/191:100/w_1280,c_limit/This%20$500%20Price%20Cut%20Just%20Made%20the%20Prettiest%20Laptop%20of%20Last%20Year%20Worth%20Buying.png",
+            "publishedAt": "2026-02-12T23:20:21Z",
+            "content": "After a long time of resisting significant price drops, the Asus Zenbook S 16 has finally dropped down to $1,000, which is $500 off its retail price.\r\nIt's normal for laptops to dip in price toward t\u2026 [+2233 chars]",
             "ai_score": 5
         },
         {
@@ -591,20 +591,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
-            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
-            "url": "https://www.wired.com/story/best-budget-monitors/",
-            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
-            "publishedAt": "2026-02-21T12:00:00Z",
-            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -615,6 +601,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
             "publishedAt": "2026-02-12T17:37:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGood Luck, Have Fun, Dont Die is a rollicking parable about this moment in tech\r\nGore Verbinskis latest film gets at the heart of everything that makes society f\u2026 [+6227 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
+            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
+            "url": "https://www.wired.com/story/best-budget-monitors/",
+            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
+            "publishedAt": "2026-02-21T12:00:00Z",
+            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
             "ai_score": 5
         },
         {
@@ -661,20 +661,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
-            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
-            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
-            "publishedAt": "2026-02-14T15:26:50Z",
-            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -699,6 +685,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Start-of-Production-Image.jpg?quality=90&strip=all&crop=0%2C3.4666176674128%2C100%2C93.066764665174&w=1200",
             "publishedAt": "2026-02-27T15:19:14Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProduction is underway for the Prime Video adaptation.\r\nProduction is underway for the Prime Video adaptation.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment edi\u2026 [+3110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
+            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
+            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
+            "publishedAt": "2026-02-14T15:26:50Z",
+            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
             "ai_score": 5
         },
         {
