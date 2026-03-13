@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-13 09:44",
+    "last_updated": "2026-03-13 10:42",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Valve\u2019s Steam Deck OLED will be \u2018intermittently\u2019 out of stock because of the RAM crisis",
-            "description": "Valve has updated the Steam Deck OLED website to say that the PC gaming handheld may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The Steam Deck OLED has been out of stock in the US and other parts of the world for a f\u2026",
-            "url": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-17T02:57:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+            "title": "REDMAGIC just teased another small gaming tablet that's got me hyped",
+            "description": "Redmagic teases an upcoming compact gaming tablet that's coming soon.\"",
+            "url": "https://www.androidcentral.com/tablets/redmagic-just-teased-another-small-gaming-tablet-thats-got-me-hyped",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JS2pXPNqgLGSXCKC6qe4MF-2048-80.jpg",
+            "publishedAt": "2026-03-07T12:11:00Z",
+            "content": "What you need to know\r\n<ul><li>Redmagic started teasing on Weibo that it's got another gaming tablet on the way.</li><li>The company's brief teaser shows the compact device in a robot's hand, stating\u2026 [+2984 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -48,13 +48,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
-            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
-            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
-            "publishedAt": "2026-02-26T20:25:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
+            "author": "Jay Peters",
+            "title": "Valve\u2019s Steam Deck OLED will be \u2018intermittently\u2019 out of stock because of the RAM crisis",
+            "description": "Valve has updated the Steam Deck OLED website to say that the PC gaming handheld may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The Steam Deck OLED has been out of stock in the US and other parts of the world for a f\u2026",
+            "url": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-17T02:57:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
             "ai_score": 5
         },
         {
@@ -62,13 +62,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "How Gorilla Tag is weathering the VR winter",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. The VR industry has been on edge since Meta's massive job cuts earlier this year: One exec cal\u2026",
-            "url": "https://www.theverge.com/column/877473/gorilla-tag-vr-winter-quest",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gorillatag.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-02-11T22:24:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe popular VR game is breaking audience records, all while its makers are working on a mobile offshoot, a TV show and a Gorillacon live event.\r\nThe popular VR g\u2026 [+6939 chars]",
+            "author": "Sean Hollister",
+            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
+            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
+            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
+            "publishedAt": "2026-02-26T20:25:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
             "ai_score": 5
         },
         {
@@ -412,20 +412,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Antonio G. Di Benedetto",
-            "title": "HP ZBook Ultra G1a review: a business-class workstation that\u2019s got game",
-            "description": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's\u2026",
-            "url": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268349_HP_ZBook_Ultra_G1a_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-12T04:20:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis pricey laptop has got sleek no-frills looks and Strix Halo strengths on lock.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See \u2026 [+11974 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Sony appears to be testing dynamic pricing on PlayStation games",
             "description": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment iden\u2026",
@@ -703,20 +689,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
-            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
-            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
-            "publishedAt": "2026-02-14T15:26:50Z",
-            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -741,6 +713,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Start-of-Production-Image.jpg?quality=90&strip=all&crop=0%2C3.4666176674128%2C100%2C93.066764665174&w=1200",
             "publishedAt": "2026-02-27T15:19:14Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProduction is underway for the Prime Video adaptation.\r\nProduction is underway for the Prime Video adaptation.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment edi\u2026 [+3110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
+            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
+            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
+            "publishedAt": "2026-02-14T15:26:50Z",
+            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
             "ai_score": 5
         },
         {
@@ -783,20 +769,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-05T18:17:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter missing CES, Trump Mobile skipped out on MWC too.\r\nAfter missing CES, Trump Mobile skipped out on MWC too.\r\nby\r\nDominic PrestonClose\r\nPosts from this autho\u2026 [+3968 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "description": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all s\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-11T17:20:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlatforms have until February 20th to start labelling all AI-generated or manipulated content.\r\nPlatforms have until February 20th to start labelling all AI-gene\u2026 [+5913 chars]",
             "ai_score": 5
         },
         {
@@ -942,20 +914,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "PC Gamers Are Dumpster Diving For RAM Because Prices Keep Skyrocketing",
-            "description": "Your local junkyard might be hiding some buried PC gaming parts if you're willing (and allowed) to jump in",
-            "url": "https://kotaku.com/pc-gamers-are-dumpster-diving-for-ram-because-prices-keep-skyrocketing-2000667727",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/dumo.jpg",
-            "publishedAt": "2026-02-11T16:00:01Z",
-            "content": "PC parts, in particular memory, have skyrocketed in price over the last few months, thanks largely to AI companies rushing to build massive datacenters. But at least a few people are skipping the sto\u2026 [+2188 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "Mark Knapp",
@@ -998,20 +956,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "msmash",
-            "title": "HP Now Rents Gaming Laptops",
-            "description": "HP has quietly launched a gaming laptop subscription service called the OMEN Gaming Subscription that lets customers pay a monthly fee to use one of several gaming laptops but never actually own the hardware, even after paying well past the machine's retail p\u2026",
-            "url": "https://slashdot.org/story/26/02/11/1549234/hp-now-rents-gaming-laptops",
-            "urlToImage": "https://a.fsdn.com/sd/topics/hp_64.png",
-            "publishedAt": "2026-02-11T16:00:00Z",
-            "content": "I was going to say that might make sense for short term needs. If you need a better PC for a 6 month job, do this.\r\nBut they dissallow the only sensible use for the customer, requiring a year long mi\u2026 [+236 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -1021,20 +965,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e71a/live/a254d370-005e-11f1-9653-b9d6c7314345.jpg",
             "publishedAt": "2026-03-09T06:00:05Z",
             "content": "\"It uses, effectively, laser beams and very clever maths,\" she explains. The system spots patterns of movement and only goes in for a closer look if, based on what it knows about how threatening beha\u2026 [+40 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
-            "title": "REDMAGIC just teased another small gaming tablet that's got me hyped",
-            "description": "Redmagic teases an upcoming compact gaming tablet that's coming soon.\"",
-            "url": "https://www.androidcentral.com/tablets/redmagic-just-teased-another-small-gaming-tablet-thats-got-me-hyped",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JS2pXPNqgLGSXCKC6qe4MF-2048-80.jpg",
-            "publishedAt": "2026-03-07T12:11:00Z",
-            "content": "What you need to know\r\n<ul><li>Redmagic started teasing on Weibo that it's got another gaming tablet on the way.</li><li>The company's brief teaser shows the compact device in a robot's hand, stating\u2026 [+2984 chars]",
             "ai_score": 5
         },
         {
@@ -1077,6 +1007,76 @@
             "urlToImage": "https://media.wired.com/photos/6998c3349043220668a7e874/191:100/w_1280,c_limit/The%20Best%20Cheap%20Noise-Canceling%20Headphones%20Are%20More%20Affordable%20Than%20Ever.png",
             "publishedAt": "2026-02-21T20:30:46Z",
             "content": "We've tested oodles of noise-canceling headphones and the Sony WH-CH720N might have an unfortunate name, but they're the best budget-friendly pair we've tried. They usually offer good value when sell\u2026 [+1013 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Australians must prove they are over 18 to access porn under new laws",
+            "description": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
+            "url": "https://www.bbc.com/news/articles/cwy92qpv424o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
+            "publishedAt": "2026-03-09T03:02:04Z",
+            "content": "Under the new rules, search engines, app stores, social media and gaming platforms, porn sites and AI systems - including companion chatbots - must take \"meaningful steps\" to prevent children from be\u2026 [+28 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "derrek.lee@futurenet.com (Derrek Lee) , Derrek Lee",
+            "title": "6 of the coolest display innovations I saw from TCL at MWC, and some of them could be in your next phone",
+            "description": "TCL's display division showcased its display tech at MWC 2026, including a new Super Pixel display arrangement features in the latest Xiaomi phones.",
+            "url": "https://www.androidcentral.com/phones/tcl/6-of-the-coolest-display-innovations-i-saw-from-tcl-at-mwc",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/P9em2WmgonJKG3cG4Ek2zE-2560-80.jpg",
+            "publishedAt": "2026-03-06T00:57:48Z",
+            "content": "TCL doesn't just make phones and TVs; the company also makes the displays for these products, supplying them to various other companies. TCL China Star Optoelectronics Technology (CSOT) is a division\u2026 [+6012 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Gamers Thought China Would Save Them With Cheap RAM But It\u2019s Not That Simple",
+            "description": "CXMT might one day provide more RAM in more products, but for now the company won't save gamers from high prices",
+            "url": "https://kotaku.com/ram-shortage-ai-pc-gaming-china-cxmt-2000670712",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/RAMchina-1200x675.jpg",
+            "publishedAt": "2026-02-18T19:41:45Z",
+            "content": "For a few months now, many gamers had seemingly pinned their hopes on a company in China to help alleviate rising prices on RAM resulting from the ongoing and worsening memory shortage fueled by AI h\u2026 [+2796 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Microsoft Confirms Next-Gen Xbox Is Still Happening, It\u2019s Called Project Helix, And It\u2019ll Play Your PC Games",
+            "description": "The news comes as a leadership shakeup has fans questioning the platform's future",
+            "url": "https://kotaku.com/xbox-project-helix-codename-next-gen-pc-games-2000676398",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
+            "publishedAt": "2026-03-05T20:40:20Z",
+            "content": "People have been speculating about Microisoft\u2019s plans for the next Xbox for over a year now and the company\u2019s new gaming CEO just went ahead and tweeted them out. Recently appointed Xbox boss Asha Sh\u2026 [+2363 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+            "title": "Nothing is the only brand taking the counterfeit tech problem seriously",
+            "description": "Counterfeit tech products are a major problem globally, and the knockoffs get better every year. One tech company is finally talking about the issue publicly.",
+            "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-is-the-only-brand-taking-the-counterfeit-tech-problem-seriously",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pctuFpho5MmEA2vPS77iVR-2560-80.jpg",
+            "publishedAt": "2026-02-19T13:12:00Z",
+            "content": "Fake tech products are nothing new, but they are getting harder and harder to spot. Certain product categories, like earbuds, are easier to fake than others. Scammers have figured out how to replicat\u2026 [+5246 chars]",
             "ai_score": 5
         }
     ]
