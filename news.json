@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-13 19:36",
+    "last_updated": "2026-03-13 20:40",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-02-14T12:43:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -157,20 +157,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
-            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
-            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
-            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
-            "publishedAt": "2026-02-28T11:38:00Z",
-            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -181,6 +167,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276282/xbox_horizon.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-02-23T15:06:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nby\r\nTom\u2026 [+10577 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
+            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
+            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
+            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
+            "publishedAt": "2026-02-28T11:38:00Z",
+            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
             "ai_score": 5
         },
         {
@@ -984,6 +984,20 @@
         {
             "source": {
                 "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+            "title": "6G is coming, and these are 3 things you'll be able to do with it",
+            "description": "6G will be here before you know it, and Qualcomm and Nvidia have already shared their plans for the new connectivity tech. Here's what you need to know.",
+            "url": "https://www.androidcentral.com/phones/carriers/6g-is-coming-and-these-are-3-things-youll-be-able-to-do-with-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4TnBMWEJ2cWez2hvDvcbRB-2560-80.jpg",
+            "publishedAt": "2026-03-12T20:07:36Z",
+            "content": "After a long 5G rollout, we're finally at the point where flagship phones and networks no longer need to advertise the current cellular technology as a feature \u2014 it's the standard. To that end, we're\u2026 [+5447 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Kotaku"
             },
             "author": "John Walker",
@@ -1063,20 +1077,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
             "publishedAt": "2026-03-05T20:40:20Z",
             "content": "People have been speculating about Microisoft\u2019s plans for the next Xbox for over a year now and the company\u2019s new gaming CEO just went ahead and tweeted them out. Recently appointed Xbox boss Asha Sh\u2026 [+2363 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
-            "title": "Nothing is the only brand taking the counterfeit tech problem seriously",
-            "description": "Counterfeit tech products are a major problem globally, and the knockoffs get better every year. One tech company is finally talking about the issue publicly.",
-            "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-is-the-only-brand-taking-the-counterfeit-tech-problem-seriously",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pctuFpho5MmEA2vPS77iVR-2560-80.jpg",
-            "publishedAt": "2026-02-19T13:12:00Z",
-            "content": "Fake tech products are nothing new, but they are getting harder and harder to spot. Certain product categories, like earbuds, are easier to fake than others. Scammers have figured out how to replicat\u2026 [+5246 chars]",
             "ai_score": 5
         }
     ]
