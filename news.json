@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-14 10:35",
+    "last_updated": "2026-03-14 11:29",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
-            "title": "I'm getting chills over the OnePlus 15T's confirmed 7,500mAh Glacier battery",
-            "description": "OnePlus confirmed over social media that its OnePlus 15T model will feature a huge battery, thanks to its Glacier tech.",
-            "url": "https://www.androidcentral.com/phones/oneplus/im-getting-chills-over-the-oneplus-15ts-confirmed-7-500mah-glacier-battery",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z8tfhGFd5FufCSsjmrMaNo-2048-80.jpg",
-            "publishedAt": "2026-03-05T18:34:22Z",
-            "content": "What you need to know\r\n<ul><li>OnePlus president, Li Jie Louis, confirms the OnePlus 15T will feature a huge 7,500mAh battery, powered by its Glacier technology.</li><li>The company also confirms tha\u2026 [+3285 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -535,16 +521,16 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": null,
+                "name": "Android Central"
             },
-            "author": "Dana Alomar",
-            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
-            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
-            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
-            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
-            "publishedAt": "2026-03-11T18:38:21Z",
-            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+            "title": "I'm getting chills over the OnePlus 15T's confirmed 7,500mAh Glacier battery",
+            "description": "OnePlus confirmed over social media that its OnePlus 15T model will feature a huge battery, thanks to its Glacier tech.",
+            "url": "https://www.androidcentral.com/phones/oneplus/im-getting-chills-over-the-oneplus-15ts-confirmed-7-500mah-glacier-battery",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z8tfhGFd5FufCSsjmrMaNo-2048-80.jpg",
+            "publishedAt": "2026-03-05T18:34:22Z",
+            "content": "What you need to know\r\n<ul><li>OnePlus president, Li Jie Louis, confirms the OnePlus 15T will feature a huge 7,500mAh battery, powered by its Glacier technology.</li><li>The company also confirms tha\u2026 [+3285 chars]",
             "ai_score": 5
         },
         {
@@ -563,16 +549,30 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
-            "description": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes\u2026",
-            "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/2026-Guthman-Musical-Instrument-Competition.jpg?quality=90&strip=all&crop=0%2C7.8060612256323%2C100%2C84.387877548735&w=1200",
-            "publishedAt": "2026-02-14T16:42:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nby\r\nT\u2026 [+2623 chars]",
+            "author": "Dana Alomar",
+            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
+            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
+            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
+            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
+            "publishedAt": "2026-03-11T18:38:21Z",
+            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julian Chokkattu",
+            "title": "6G Is Coming. Here\u2019s What to Expect From the Next Generation of Cellular Tech",
+            "description": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like \u201csensing\u201d of vehicles, devices, and people.",
+            "url": "https://www.wired.com/story/6g-is-coming/",
+            "urlToImage": "https://media.wired.com/photos/69a80d4351ceefbb4fe55330/191:100/w_1280,c_limit/GettyImages-2219660002.jpg",
+            "publishedAt": "2026-03-13T10:30:00Z",
+            "content": "5G came with many promises. Remote surgery, where surgeons operate thousands of miles away from patients; driverless cars talking to each other and autonomously navigating highways; new killer apps t\u2026 [+4181 chars]",
             "ai_score": 5
         },
         {
@@ -587,6 +587,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D_1b4bb5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-18T21:27:09Z",
             "content": "A set of bellwether cases alleging that social media platforms harmed teens safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answ\u2026 [+3507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
+            "description": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes\u2026",
+            "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/2026-Guthman-Musical-Instrument-Competition.jpg?quality=90&strip=all&crop=0%2C7.8060612256323%2C100%2C84.387877548735&w=1200",
+            "publishedAt": "2026-02-14T16:42:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nby\r\nT\u2026 [+2623 chars]",
             "ai_score": 5
         },
         {
@@ -1063,20 +1077,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/P9em2WmgonJKG3cG4Ek2zE-2560-80.jpg",
             "publishedAt": "2026-03-06T00:57:48Z",
             "content": "TCL doesn't just make phones and TVs; the company also makes the displays for these products, supplying them to various other companies. TCL China Star Optoelectronics Technology (CSOT) is a division\u2026 [+6012 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "Gamers Thought China Would Save Them With Cheap RAM But It\u2019s Not That Simple",
-            "description": "CXMT might one day provide more RAM in more products, but for now the company won't save gamers from high prices",
-            "url": "https://kotaku.com/ram-shortage-ai-pc-gaming-china-cxmt-2000670712",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/RAMchina-1200x675.jpg",
-            "publishedAt": "2026-02-18T19:41:45Z",
-            "content": "For a few months now, many gamers had seemingly pinned their hopes on a company in China to help alleviate rising prices on RAM resulting from the ongoing and worsening memory shortage fueled by AI h\u2026 [+2796 chars]",
             "ai_score": 5
         }
     ]
