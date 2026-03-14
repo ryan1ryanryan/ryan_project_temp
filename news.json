@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-14 14:33",
+    "last_updated": "2026-03-14 15:34",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
-            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
-            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
-            "publishedAt": "2026-02-14T12:43:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Henri Robbins",
+            "title": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
+            "description": "It is worth using motorsports materials in a gaming mouse? As long as it's the same price as plastic.",
+            "url": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
+            "urlToImage": "https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/191:100/w_1280,c_limit/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png",
+            "publishedAt": "2026-03-06T13:00:00Z",
+            "content": "While this assembly works well and allows for the mouse to be incredibly lightweight and rigid, I found a few concerns with repairability. With both shells, there is a risk of repeated disassembly br\u2026 [+2752 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new Superstrike is a faster, more customizable gaming mouse",
+            "description": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many \u2026",
+            "url": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
+            "publishedAt": "2026-02-14T12:43:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be copied.\r\nAnalog sensors and haptics makes this a standout gaming mouse begging to be \u2026 [+5759 chars]",
             "ai_score": 5
         },
         {
@@ -83,20 +97,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268328_Lenovo_Legion_Go_Fold_Concept_MWC2026_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-01T23:04:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch display to an 11.6-inch and its also a laptop.\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch d\u2026 [+5365 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Henri Robbins",
-            "title": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
-            "description": "It is worth using motorsports materials in a gaming mouse? As long as it's the same price as plastic.",
-            "url": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
-            "urlToImage": "https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/191:100/w_1280,c_limit/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png",
-            "publishedAt": "2026-03-06T13:00:00Z",
-            "content": "While this assembly works well and allows for the mouse to be incredibly lightweight and rigid, I found a few concerns with repairability. With both shells, there is a risk of repeated disassembly br\u2026 [+2752 chars]",
             "ai_score": 5
         },
         {
