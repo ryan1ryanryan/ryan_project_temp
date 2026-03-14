@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-14 09:39",
+    "last_updated": "2026-03-14 10:35",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+            "title": "I'm getting chills over the OnePlus 15T's confirmed 7,500mAh Glacier battery",
+            "description": "OnePlus confirmed over social media that its OnePlus 15T model will feature a huge battery, thanks to its Glacier tech.",
+            "url": "https://www.androidcentral.com/phones/oneplus/im-getting-chills-over-the-oneplus-15ts-confirmed-7-500mah-glacier-battery",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z8tfhGFd5FufCSsjmrMaNo-2048-80.jpg",
+            "publishedAt": "2026-03-05T18:34:22Z",
+            "content": "What you need to know\r\n<ul><li>OnePlus president, Li Jie Louis, confirms the OnePlus 15T will feature a huge 7,500mAh battery, powered by its Glacier technology.</li><li>The company also confirms tha\u2026 [+3285 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -521,16 +535,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
-            "title": "I'm getting chills over the OnePlus 15T's confirmed 7,500mAh Glacier battery",
-            "description": "OnePlus confirmed over social media that its OnePlus 15T model will feature a huge battery, thanks to its Glacier tech.",
-            "url": "https://www.androidcentral.com/phones/oneplus/im-getting-chills-over-the-oneplus-15ts-confirmed-7-500mah-glacier-battery",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z8tfhGFd5FufCSsjmrMaNo-2048-80.jpg",
-            "publishedAt": "2026-03-05T18:34:22Z",
-            "content": "What you need to know\r\n<ul><li>OnePlus president, Li Jie Louis, confirms the OnePlus 15T will feature a huge 7,500mAh battery, powered by its Glacier technology.</li><li>The company also confirms tha\u2026 [+3285 chars]",
+            "author": "Dana Alomar",
+            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
+            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
+            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
+            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
+            "publishedAt": "2026-03-11T18:38:21Z",
+            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
@@ -549,16 +563,16 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Dana Alomar",
-            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
-            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
-            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
-            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
-            "publishedAt": "2026-03-11T18:38:21Z",
-            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
+            "author": "Terrence O\u2019Brien",
+            "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
+            "description": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes\u2026",
+            "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/2026-Guthman-Musical-Instrument-Competition.jpg?quality=90&strip=all&crop=0%2C7.8060612256323%2C100%2C84.387877548735&w=1200",
+            "publishedAt": "2026-02-14T16:42:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nby\r\nT\u2026 [+2623 chars]",
             "ai_score": 5
         },
         {
@@ -573,20 +587,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D_1b4bb5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-18T21:27:09Z",
             "content": "A set of bellwether cases alleging that social media platforms harmed teens safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answ\u2026 [+3507 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
-            "description": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes\u2026",
-            "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/2026-Guthman-Musical-Instrument-Competition.jpg?quality=90&strip=all&crop=0%2C7.8060612256323%2C100%2C84.387877548735&w=1200",
-            "publishedAt": "2026-02-14T16:42:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nEarly standouts include a henge made of fiddles and a chaotic evil triangle.\r\nby\r\nT\u2026 [+2623 chars]",
             "ai_score": 5
         },
         {
