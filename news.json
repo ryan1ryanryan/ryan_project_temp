@@ -1,132 +1,6 @@
 {
-    "last_updated": "2026-03-15 07:04",
+    "last_updated": "2026-03-15 07:54",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Billions of dollars later and still nobody knows what an Xbox is",
-            "description": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started \u2026",
-            "url": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-23T20:15:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres new leadership in charge at Xbox, but no clear sign of where the division is heading.\r\nTheres new leadership in charge at Xbox, but no clear sign of where\u2026 [+7946 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "PlayStation is reportedly moving away from PC ports",
-            "description": "It sounds like PlayStation is putting its focus back on console exclusives. According to a report in Bloomberg, Sony's gaming division is moving away from porting PS5 games to PC, which reportedly includes cancelling plans for a PC port of Ghost of Y\u014dtei. It'\u2026",
-            "url": "https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-04T14:03:35Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn't Offer Much Proof",
-            "description": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
-            "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
-            "urlToImage": "https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg",
-            "publishedAt": "2026-02-18T15:17:31Z",
-            "content": "But a lot of these claims, it turns out, have very littleif anyactual proof behind them.\r\nJoshi is the author of a new report, released Monday with support from several environmental organizations, t\u2026 [+3370 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Verge Staff",
-            "title": "Social media on trial: tech giants face lawsuits over addiction, safety, and mental health",
-            "description": "A set of bellwether cases alleging that social media platforms harmed teens\u2019 safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answer questions about what they\u2019ve done or not done to protect\u2026",
-            "url": "https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D_1b4bb5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-18T21:27:09Z",
-            "content": "A set of bellwether cases alleging that social media platforms harmed teens safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answ\u2026 [+3507 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
-            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
-            "url": "https://www.wired.com/story/best-budget-monitors/",
-            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
-            "publishedAt": "2026-02-21T12:00:00Z",
-            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
-            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
-            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
-            "publishedAt": "2026-02-14T15:26:50Z",
-            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
-            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
-            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-03-01T16:00:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia\u2019s spending $4 billion on photonics to stay ahead of the curve in AI",
-            "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds ove\u2026",
-            "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-02T16:56:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.\r\nOptical tech from Lumentum and Coherent could be key to conn\u2026 [+2743 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Anthropic is suing the Department of Defense",
-            "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-09T16:48:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump admin labeled Anthropics AI a supply-chain risk after the company wouldnt back down on acceptable uses for its tech.\r\nThe Trump admin labeled Anthropic\u2026 [+4413 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -328,20 +202,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
-            "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
-            "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-10T15:18:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "V-bucks are getting more X-pensive",
             "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
@@ -349,6 +209,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-10T14:02:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
+            "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
+            "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-10T15:18:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
             "ai_score": 5
         },
         {
@@ -577,6 +451,34 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Billions of dollars later and still nobody knows what an Xbox is",
+            "description": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started \u2026",
+            "url": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-23T20:15:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres new leadership in charge at Xbox, but no clear sign of where the division is heading.\r\nTheres new leadership in charge at Xbox, but no clear sign of where\u2026 [+7946 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "PlayStation is reportedly moving away from PC ports",
+            "description": "It sounds like PlayStation is putting its focus back on console exclusives. According to a report in Bloomberg, Sony's gaming division is moving away from porting PS5 games to PC, which reportedly includes cancelling plans for a PC port of Ghost of Y\u014dtei. It'\u2026",
+            "url": "https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-04T14:03:35Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -622,13 +524,13 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Julian Chokkattu",
-            "title": "6G Is Coming. Here\u2019s What to Expect From the Next Generation of Cellular Tech",
-            "description": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like \u201csensing\u201d of vehicles, devices, and people.",
-            "url": "https://www.wired.com/story/6g-is-coming/",
-            "urlToImage": "https://media.wired.com/photos/69a80d4351ceefbb4fe55330/191:100/w_1280,c_limit/GettyImages-2219660002.jpg",
-            "publishedAt": "2026-03-13T10:30:00Z",
-            "content": "5G came with many promises. Remote surgery, where surgeons operate thousands of miles away from patients; driverless cars talking to each other and autonomously navigating highways; new killer apps t\u2026 [+4181 chars]",
+            "author": "Molly Taft",
+            "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn't Offer Much Proof",
+            "description": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
+            "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
+            "urlToImage": "https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg",
+            "publishedAt": "2026-02-18T15:17:31Z",
+            "content": "But a lot of these claims, it turns out, have very littleif anyactual proof behind them.\r\nJoshi is the author of a new report, released Monday with support from several environmental organizations, t\u2026 [+3370 chars]",
             "ai_score": 5
         },
         {
@@ -643,6 +545,34 @@
             "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
             "publishedAt": "2026-03-11T18:38:21Z",
             "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julian Chokkattu",
+            "title": "6G Is Coming. Here\u2019s What to Expect From the Next Generation of Cellular Tech",
+            "description": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like \u201csensing\u201d of vehicles, devices, and people.",
+            "url": "https://www.wired.com/story/6g-is-coming/",
+            "urlToImage": "https://media.wired.com/photos/69a80d4351ceefbb4fe55330/191:100/w_1280,c_limit/GettyImages-2219660002.jpg",
+            "publishedAt": "2026-03-13T10:30:00Z",
+            "content": "5G came with many promises. Remote surgery, where surgeons operate thousands of miles away from patients; driverless cars talking to each other and autonomously navigating highways; new killer apps t\u2026 [+4181 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Verge Staff",
+            "title": "Social media on trial: tech giants face lawsuits over addiction, safety, and mental health",
+            "description": "A set of bellwether cases alleging that social media platforms harmed teens\u2019 safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answer questions about what they\u2019ve done or not done to protect\u2026",
+            "url": "https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D_1b4bb5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-18T21:27:09Z",
+            "content": "A set of bellwether cases alleging that social media platforms harmed teens safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answ\u2026 [+3507 chars]",
             "ai_score": 5
         },
         {
@@ -692,6 +622,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Luke Larsen",
+            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
+            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
+            "url": "https://www.wired.com/story/best-budget-monitors/",
+            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
+            "publishedAt": "2026-02-21T12:00:00Z",
+            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Brad Bourque",
             "title": "Our Favorite Budget TV Is On Sale",
             "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
@@ -717,16 +661,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Kotaku"
             },
-            "author": "Andrew Webster",
-            "title": "Here\u2019s your first look at Kratos in Amazon\u2019s God of War show",
-            "description": "Amazon has slowly been teasing out casting details for its live-action adaptation of God of War, and now we have our first look at the show. It's a single image but a notable one showing protagonist Kratos and his son Atreus. The characters are played by Ryan\u2026",
-            "url": "https://www.theverge.com/streaming/886008/amazon-god-of-war-kratos-image",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Start-of-Production-Image.jpg?quality=90&strip=all&crop=0%2C3.4666176674128%2C100%2C93.066764665174&w=1200",
-            "publishedAt": "2026-02-27T15:19:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nProduction is underway for the Prime Video adaptation.\r\nProduction is underway for the Prime Video adaptation.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment edi\u2026 [+3110 chars]",
+            "author": "Zack Kotzer",
+            "title": "Diablo 4 Gaming PC Cooled With \u2018Real Human Blood\u2019 Is Still Pumping \u2018Virtually Perfect\u2019 Over Two Years Later",
+            "description": "Blizzard's giveaway stunt turns out to be a pretty sturdy gaming rig",
+            "url": "https://kotaku.com/diablo-4-blood-gaming-pc-blizzard-cooled-2000668947",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/Blizz.jpg",
+            "publishedAt": "2026-02-14T15:26:50Z",
+            "content": "The glory days of gross-out video game PR stunts are long behind us, sadly. If and when we do get a Resident Evil 6 remake, its unlikely Capcom will serve it with a side of human-flavored sausages. P\u2026 [+2384 chars]",
             "ai_score": 5
         },
         {
@@ -741,6 +685,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
             "publishedAt": "2026-03-04T20:23:41Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Here\u2019s your first look at Kratos in Amazon\u2019s God of War show",
+            "description": "Amazon has slowly been teasing out casting details for its live-action adaptation of God of War, and now we have our first look at the show. It's a single image but a notable one showing protagonist Kratos and his son Atreus. The characters are played by Ryan\u2026",
+            "url": "https://www.theverge.com/streaming/886008/amazon-god-of-war-kratos-image",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Start-of-Production-Image.jpg?quality=90&strip=all&crop=0%2C3.4666176674128%2C100%2C93.066764665174&w=1200",
+            "publishedAt": "2026-02-27T15:19:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nProduction is underway for the Prime Video adaptation.\r\nProduction is underway for the Prime Video adaptation.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment edi\u2026 [+3110 chars]",
             "ai_score": 5
         },
         {
@@ -846,6 +804,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Cameron Faulkner",
+            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
+            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
+            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-03-01T16:00:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "David Morris",
             "title": "Jeffrey Epstein saw promise in Bitcoin \u2014 and its far-right supporters",
             "description": "The tranche of Jeffrey Epstein emails and files released on January 30th tie the infamous pedophile, sex trafficker, and influence peddler to elite figures across the tech industry. The world of cryptocurrency is no exception. Epstein's connections are intrig\u2026",
@@ -867,6 +839,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268385_The_Stepback-_Plug-in_hybrid_vehicles_arent_all_they_cracked_up_to_be_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-05T19:56:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe uncomfortable truth about hybrid vehicles\r\nPlug-in hybrid owners rarely actually plug in their vehicles, practically negating the climate advantages of the t\u2026 [+8975 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Nvidia\u2019s spending $4 billion on photonics to stay ahead of the curve in AI",
+            "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds ove\u2026",
+            "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-02T16:56:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.\r\nOptical tech from Lumentum and Coherent could be key to conn\u2026 [+2743 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Anthropic is suing the Department of Defense",
+            "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-09T16:48:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump admin labeled Anthropics AI a supply-chain risk after the company wouldnt back down on acceptable uses for its tech.\r\nThe Trump admin labeled Anthropic\u2026 [+4413 chars]",
             "ai_score": 5
         },
         {
