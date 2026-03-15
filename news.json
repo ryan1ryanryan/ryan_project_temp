@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-15 18:45",
+    "last_updated": "2026-03-15 19:33",
     "articles": [
         {
             "source": {
@@ -479,20 +479,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "PlayStation is reportedly moving away from PC ports",
-            "description": "It sounds like PlayStation is putting its focus back on console exclusives. According to a report in Bloomberg, Sony's gaming division is moving away from porting PS5 games to PC, which reportedly includes cancelling plans for a PC port of Ghost of Y\u014dtei. It'\u2026",
-            "url": "https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-04T14:03:35Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -503,6 +489,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/xena-bbn-rtx-x-ray-1200x675.jpg",
             "publishedAt": "2026-02-27T16:35:35Z",
             "content": "According to the National Institute of Standards and Technology (NIST), the U.S. government spends billions of dollars on X-ray imaging technology for security purposes. The latest project in this re\u2026 [+2759 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "PlayStation is reportedly moving away from PC ports",
+            "description": "It sounds like PlayStation is putting its focus back on console exclusives. According to a report in Bloomberg, Sony's gaming division is moving away from porting PS5 games to PC, which reportedly includes cancelling plans for a PC port of Ghost of Y\u014dtei. It'\u2026",
+            "url": "https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-04T14:03:35Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
             "ai_score": 5
         },
         {
