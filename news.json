@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-16 09:03",
+    "last_updated": "2026-03-16 10:16",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Inside Microsoft\u2019s big Xbox leadership shake-up",
+            "description": "Xbox fans had been anticipating the retirement of Microsoft Gaming CEO Phil Spencer for years, but what most hadn't expected was the departure of Xbox president Sarah Bond too. For many outside the company, Bond seemed like Spencer's natural successor, a depu\u2026",
+            "url": "https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276282/xbox_horizon.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-02-23T15:06:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nby\r\nTom\u2026 [+10577 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -111,20 +125,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Virtual-Boy-Switch-2-Acessory-Review-17-1200x675.jpg",
             "publishedAt": "2026-02-20T21:15:19Z",
             "content": "I imagine most gamers who approach Nintendo\u2019s new $100 Virtual Boy peripheral will be as skeptical as my brother. I loaded up the games for him, plugged the Switch 2 into the Virtual Boy\u2019s awaiting s\u2026 [+14189 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Inside Microsoft\u2019s big Xbox leadership shake-up",
-            "description": "Xbox fans had been anticipating the retirement of Microsoft Gaming CEO Phil Spencer for years, but what most hadn't expected was the departure of Xbox president Sarah Bond too. For many outside the company, Bond seemed like Spencer's natural successor, a depu\u2026",
-            "url": "https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276282/xbox_horizon.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-02-23T15:06:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nby\r\nTom\u2026 [+10577 chars]",
             "ai_score": 5
         },
         {
@@ -496,6 +496,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Molly Taft",
+            "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn't Offer Much Proof",
+            "description": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
+            "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
+            "urlToImage": "https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg",
+            "publishedAt": "2026-02-18T15:17:31Z",
+            "content": "But a lot of these claims, it turns out, have very littleif anyactual proof behind them.\r\nJoshi is the author of a new report, released Monday with support from several environmental organizations, t\u2026 [+3370 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Dana Alomar",
             "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
             "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
@@ -517,20 +531,6 @@
             "urlToImage": "https://media.wired.com/photos/69a80d4351ceefbb4fe55330/191:100/w_1280,c_limit/GettyImages-2219660002.jpg",
             "publishedAt": "2026-03-13T10:30:00Z",
             "content": "5G came with many promises. Remote surgery, where surgeons operate thousands of miles away from patients; driverless cars talking to each other and autonomously navigating highways; new killer apps t\u2026 [+4181 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn't Offer Much Proof",
-            "description": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
-            "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
-            "urlToImage": "https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg",
-            "publishedAt": "2026-02-18T15:17:31Z",
-            "content": "But a lot of these claims, it turns out, have very littleif anyactual proof behind them.\r\nJoshi is the author of a new report, released Monday with support from several environmental organizations, t\u2026 [+3370 chars]",
             "ai_score": 5
         },
         {
