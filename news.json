@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17 20:45",
+    "last_updated": "2026-03-17 21:43",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Henri Robbins",
-            "title": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
-            "description": "It is worth using motorsports materials in a gaming mouse? As long as it's the same price as plastic.",
-            "url": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
-            "urlToImage": "https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/191:100/w_1280,c_limit/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png",
-            "publishedAt": "2026-03-06T13:00:00Z",
-            "content": "While this assembly works well and allows for the mouse to be incredibly lightweight and rigid, I found a few concerns with repairability. With both shells, there is a risk of repeated disassembly br\u2026 [+2752 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -69,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268328_Lenovo_Legion_Go_Fold_Concept_MWC2026_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-01T23:04:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch display to an 11.6-inch and its also a laptop.\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch d\u2026 [+5365 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Henri Robbins",
+            "title": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
+            "description": "It is worth using motorsports materials in a gaming mouse? As long as it's the same price as plastic.",
+            "url": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
+            "urlToImage": "https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/191:100/w_1280,c_limit/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png",
+            "publishedAt": "2026-03-06T13:00:00Z",
+            "content": "While this assembly works well and allows for the mouse to be incredibly lightweight and rigid, I found a few concerns with repairability. With both shells, there is a risk of repeated disassembly br\u2026 [+2752 chars]",
             "ai_score": 5
         },
         {
