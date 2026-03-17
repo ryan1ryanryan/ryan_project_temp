@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-17 06:04",
+    "last_updated": "2026-03-17 07:22",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "Meta exec hopes VR teens will stick around",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
-            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-12T11:15:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-17T02:57:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,6 +27,132 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
             "publishedAt": "2026-02-26T20:25:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Valve\u2019s Steam Machine may not launch this year",
+            "description": "Valve still can't reveal details about the Steam Machine, Steam Frame, and Steam Controller launch dates, which were originally scheduled for early 2026. In a new post, the company now says \"we hope to ship in 2026\" due to the ongoing shortages of memory and \u2026",
+            "url": "https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/R6WsqDDQ.jpeg?quality=90&strip=all&crop=0%2C6.8753495455066%2C100%2C86.249300908987&w=1200",
+            "publishedAt": "2026-03-06T21:36:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company now says we hope to ship new Steam hardware in 2026.\r\nThe company now says we hope to ship new Steam hardware in 2026.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+1990 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters, Sean Hollister",
+            "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027",
+            "description": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codenamed Project Helix, will have a custom A\u2026",
+            "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
+            "publishedAt": "2026-03-11T17:36:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "Amazon Props Up Misleading, Junky Laptops No One Should Buy",
+            "description": "I review laptops for a living, and it kills me when I see the PCs that Amazon and other retailers filter to the top.",
+            "url": "https://www.wired.com/story/bad-amazon-laptops/",
+            "urlToImage": "https://media.wired.com/photos/6990e3e8876b755ff3162f1f/191:100/w_1280,c_limit/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png",
+            "publishedAt": "2026-02-16T12:00:00Z",
+            "content": "Beyond the outdated Acer Nitro, I also spotted this Samsung Galaxy Book4. This is not a terrible laptop on its own, but at $565, there are better options. There's the Asus Vivobook 14 (or 16), which \u2026 [+2977 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff",
+            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
+            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
+            "publishedAt": "2026-02-26T19:00:00Z",
+            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Zeyi Yang",
+            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
+            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
+            "publishedAt": "2026-03-13T12:00:00Z",
+            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "LOL What Is This Thing?",
+            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
+            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
+            "publishedAt": "2026-02-26T23:05:25Z",
+            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Billions of dollars later and still nobody knows what an Xbox is",
+            "description": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started \u2026",
+            "url": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-23T20:15:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres new leadership in charge at Xbox, but no clear sign of where the division is heading.\r\nTheres new leadership in charge at Xbox, but no clear sign of where\u2026 [+7946 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Our Favorite Budget TV Is On Sale",
+            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
+            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
+            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
+            "publishedAt": "2026-03-02T18:25:57Z",
+            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "Meta exec hopes VR teens will stick around",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
+            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-12T11:15:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
             "ai_score": 5
         },
         {
@@ -147,20 +259,6 @@
                 "name": "The Verge"
             },
             "author": "Jay Peters",
-            "title": "Valve\u2019s Steam Machine may not launch this year",
-            "description": "Valve still can't reveal details about the Steam Machine, Steam Frame, and Steam Controller launch dates, which were originally scheduled for early 2026. In a new post, the company now says \"we hope to ship in 2026\" due to the ongoing shortages of memory and \u2026",
-            "url": "https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/R6WsqDDQ.jpeg?quality=90&strip=all&crop=0%2C6.8753495455066%2C100%2C86.249300908987&w=1200",
-            "publishedAt": "2026-03-06T21:36:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company now says we hope to ship new Steam hardware in 2026.\r\nThe company now says we hope to ship new Steam hardware in 2026.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+1990 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
             "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
             "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
             "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
@@ -209,20 +307,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/abxylutehed.jpg?quality=90&strip=all&crop=0%2C10.741445188627%2C100%2C78.517109622746&w=1200",
             "publishedAt": "2026-02-19T13:09:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nJoy-Con alternatives typically provide improvements aplenty, but this prototype doesnt.\r\nJoy-Con alternatives typically provide improvements aplenty, but this pr\u2026 [+5964 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters, Sean Hollister",
-            "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027",
-            "description": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codenamed Project Helix, will have a custom A\u2026",
-            "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
-            "publishedAt": "2026-03-11T17:36:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
             "ai_score": 5
         },
         {
@@ -297,62 +381,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Amazon Props Up Misleading, Junky Laptops No One Should Buy",
-            "description": "I review laptops for a living, and it kills me when I see the PCs that Amazon and other retailers filter to the top.",
-            "url": "https://www.wired.com/story/bad-amazon-laptops/",
-            "urlToImage": "https://media.wired.com/photos/6990e3e8876b755ff3162f1f/191:100/w_1280,c_limit/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png",
-            "publishedAt": "2026-02-16T12:00:00Z",
-            "content": "Beyond the outdated Acer Nitro, I also spotted this Samsung Galaxy Book4. This is not a terrible laptop on its own, but at $565, there are better options. There's the Asus Vivobook 14 (or 16), which \u2026 [+2977 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
-            "description": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
-            "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
-            "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
-            "publishedAt": "2026-02-26T19:00:00Z",
-            "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Zeyi Yang",
-            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
-            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
-            "publishedAt": "2026-03-13T12:00:00Z",
-            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "LOL What Is This Thing?",
-            "description": "This odd-looking tech monstrosity could be announced next month, according to a new report",
-            "url": "https://kotaku.com/lol-what-is-this-thing-2000674147",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/02/whatlololl-1200x675.jpg",
-            "publishedAt": "2026-02-26T23:05:25Z",
-            "content": "In the ongoing war to make really big, weird, and cumbersome Steam Deck-like devices, a newly leaked foldable gaming handheld laptop combo from Lenovo might be the wildest to date.\r\nAs reported by Wi\u2026 [+822 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -423,20 +451,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Billions of dollars later and still nobody knows what an Xbox is",
-            "description": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started \u2026",
-            "url": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-23T20:15:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres new leadership in charge at Xbox, but no clear sign of where the division is heading.\r\nTheres new leadership in charge at Xbox, but no clear sign of where\u2026 [+7946 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -496,20 +510,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Molly Taft",
-            "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn't Offer Much Proof",
-            "description": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
-            "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
-            "urlToImage": "https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg",
-            "publishedAt": "2026-02-18T15:17:31Z",
-            "content": "But a lot of these claims, it turns out, have very littleif anyactual proof behind them.\r\nJoshi is the author of a new report, released Monday with support from several environmental organizations, t\u2026 [+3370 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Julian Chokkattu",
             "title": "6G Is Coming. Here\u2019s What to Expect From the Next Generation of Cellular Tech",
             "description": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like \u201csensing\u201d of vehicles, devices, and people.",
@@ -531,6 +531,20 @@
             "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
             "publishedAt": "2026-03-11T18:38:21Z",
             "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Molly Taft",
+            "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn't Offer Much Proof",
+            "description": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
+            "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
+            "urlToImage": "https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg",
+            "publishedAt": "2026-02-18T15:17:31Z",
+            "content": "But a lot of these claims, it turns out, have very littleif anyactual proof behind them.\r\nJoshi is the author of a new report, released Monday with support from several environmental organizations, t\u2026 [+3370 chars]",
             "ai_score": 5
         },
         {
@@ -577,20 +591,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
-            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
-            "url": "https://www.wired.com/story/best-budget-monitors/",
-            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
-            "publishedAt": "2026-02-21T12:00:00Z",
-            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -608,13 +608,13 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Brad Bourque",
-            "title": "Our Favorite Budget TV Is On Sale",
-            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
-            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
-            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
-            "publishedAt": "2026-03-02T18:25:57Z",
-            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
+            "author": "Luke Larsen",
+            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
+            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
+            "url": "https://www.wired.com/story/best-budget-monitors/",
+            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
+            "publishedAt": "2026-02-21T12:00:00Z",
+            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
             "ai_score": 5
         },
         {
