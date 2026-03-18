@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-18 05:02",
+    "last_updated": "2026-03-18 06:10",
     "articles": [
         {
             "source": {
@@ -13,20 +13,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Valve\u2019s Steam Deck OLED will be \u2018intermittently\u2019 out of stock because of the RAM crisis",
-            "description": "Valve has updated the Steam Deck OLED website to say that the PC gaming handheld may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The Steam Deck OLED has been out of stock in the US and other parts of the world for a f\u2026",
-            "url": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-17T02:57:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nThe PC gaming handheld has been out of stock in the US for a few days.\r\nby\r\nJay PetersClo\u2026 [+2209 chars]",
             "ai_score": 5
         },
         {
@@ -160,20 +146,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "V-bucks are getting more X-pensive",
-            "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
-            "url": "https://www.theverge.com/games/892074/fortnite-v-bucks-price-increase-march-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-10T14:02:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
             "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
@@ -181,6 +153,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-10T15:18:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "V-bucks are getting more X-pensive",
+            "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
+            "url": "https://www.theverge.com/games/892074/fortnite-v-bucks-price-increase-march-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-10T14:02:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
             "ai_score": 5
         },
         {
@@ -293,20 +279,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/HP-Origin-Neuron-PC-13-1200x675.jpg",
             "publishedAt": "2026-03-11T13:00:55Z",
             "content": "Two years ago, the Intel Core Ultra 200 series brought PC gamers to a state of existential crisis. The chipmakers desktop CPUs bore few performance gains and occasionally performed worse than Intels \u2026 [+3825 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Amazon Props Up Misleading, Junky Laptops No One Should Buy",
-            "description": "I review laptops for a living, and it kills me when I see the PCs that Amazon and other retailers filter to the top.",
-            "url": "https://www.wired.com/story/bad-amazon-laptops/",
-            "urlToImage": "https://media.wired.com/photos/6990e3e8876b755ff3162f1f/191:100/w_1280,c_limit/Don%E2%80%99t%20Buy%20One%20of%20These%20Junky%20Laptops%20That%20Amazon%20Is%20Pushing.png",
-            "publishedAt": "2026-02-16T12:00:00Z",
-            "content": "Beyond the outdated Acer Nitro, I also spotted this Samsung Galaxy Book4. This is not a terrible laptop on its own, but at $565, there are better options. There's the Asus Vivobook 14 (or 16), which \u2026 [+2977 chars]",
             "ai_score": 5
         },
         {
@@ -524,20 +496,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Dana Alomar",
-            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
-            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
-            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
-            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
-            "publishedAt": "2026-03-11T18:38:21Z",
-            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Julian Chokkattu",
             "title": "6G Is Coming. Here\u2019s What to Expect From the Next Generation of Cellular Tech",
             "description": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like \u201csensing\u201d of vehicles, devices, and people.",
@@ -545,6 +503,20 @@
             "urlToImage": "https://media.wired.com/photos/69a80d4351ceefbb4fe55330/191:100/w_1280,c_limit/GettyImages-2219660002.jpg",
             "publishedAt": "2026-03-13T10:30:00Z",
             "content": "5G came with many promises. Remote surgery, where surgeons operate thousands of miles away from patients; driverless cars talking to each other and autonomously navigating highways; new killer apps t\u2026 [+4181 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dana Alomar",
+            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
+            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
+            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
+            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
+            "publishedAt": "2026-03-11T18:38:21Z",
+            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
@@ -563,20 +535,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sheena Vasani",
-            "title": "Google\u2019s latest Pixel Watches have fallen to their lowest prices ever",
-            "description": "With longer days and warmer weather on the way, it\u2019s a good time to take your gym routine outside. Luckily, Google\u2019s Pixel Watch 4 can help you track all your outdoor fitness activities, and right now it\u2019s on sale at Amazon, Best Buy, and Target starting at $\u2026",
-            "url": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/googlepixelwatch4deals.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-09T16:45:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest mobile controller.\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest m\u2026 [+5428 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -591,16 +549,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": null,
-            "title": "The tech bros might show more humility in Delhi \u2013 but will they make AI any safer?",
-            "description": "As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.",
-            "url": "https://www.bbc.com/news/articles/cr5l6gnen72o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/00dd/live/384bffe0-0b75-11f1-87ad-1da650b598ae.jpg",
-            "publishedAt": "2026-02-17T00:12:58Z",
-            "content": "\"Without tech that understands and speaks these languages, millions are excluded from the digital revolution - especially in education, governance, healthcare, and banking,\" Professor Pushpak Bhattac\u2026 [+49 chars]",
+            "author": "Sheena Vasani",
+            "title": "Google\u2019s latest Pixel Watches have fallen to their lowest prices ever",
+            "description": "With longer days and warmer weather on the way, it\u2019s a good time to take your gym routine outside. Luckily, Google\u2019s Pixel Watch 4 can help you track all your outdoor fitness activities, and right now it\u2019s on sale at Amazon, Best Buy, and Target starting at $\u2026",
+            "url": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/googlepixelwatch4deals.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-09T16:45:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest mobile controller.\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest m\u2026 [+5428 chars]",
             "ai_score": 5
         },
         {
@@ -692,20 +650,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
-            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
-            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
-            "publishedAt": "2026-03-04T20:23:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Webster",
             "title": "Here\u2019s your first look at Kratos in Amazon\u2019s God of War show",
             "description": "Amazon has slowly been teasing out casting details for its live-action adaptation of God of War, and now we have our first look at the show. It's a single image but a notable one showing protagonist Kratos and his son Atreus. The characters are played by Ryan\u2026",
@@ -713,6 +657,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Start-of-Production-Image.jpg?quality=90&strip=all&crop=0%2C3.4666176674128%2C100%2C93.066764665174&w=1200",
             "publishedAt": "2026-02-27T15:19:14Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProduction is underway for the Prime Video adaptation.\r\nProduction is underway for the Prime Video adaptation.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment edi\u2026 [+3110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
+            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
+            "publishedAt": "2026-03-04T20:23:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
             "ai_score": 5
         },
         {
@@ -776,20 +734,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
-            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
-            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-03-01T16:00:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Morris",
             "title": "Jeffrey Epstein saw promise in Bitcoin \u2014 and its far-right supporters",
             "description": "The tranche of Jeffrey Epstein emails and files released on January 30th tie the infamous pedophile, sex trafficker, and influence peddler to elite figures across the tech industry. The world of cryptocurrency is no exception. Epstein's connections are intrig\u2026",
@@ -804,13 +748,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew J. Hawkins",
-            "title": "The uncomfortable truth about hybrid vehicles",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the EV struggle, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Ap\u2026",
-            "url": "https://www.theverge.com/column/890135/truth-hybrid-vehicles",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268385_The_Stepback-_Plug-in_hybrid_vehicles_arent_all_they_cracked_up_to_be_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-05T19:56:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe uncomfortable truth about hybrid vehicles\r\nPlug-in hybrid owners rarely actually plug in their vehicles, practically negating the climate advantages of the t\u2026 [+8975 chars]",
+            "author": "Cameron Faulkner",
+            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
+            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
+            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-03-01T16:00:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
             "ai_score": 5
         },
         {
@@ -839,6 +783,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-09T16:48:27Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump admin labeled Anthropics AI a supply-chain risk after the company wouldnt back down on acceptable uses for its tech.\r\nThe Trump admin labeled Anthropic\u2026 [+4413 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "The uncomfortable truth about hybrid vehicles",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the EV struggle, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Ap\u2026",
+            "url": "https://www.theverge.com/column/890135/truth-hybrid-vehicles",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268385_The_Stepback-_Plug-in_hybrid_vehicles_arent_all_they_cracked_up_to_be_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-05T19:56:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe uncomfortable truth about hybrid vehicles\r\nPlug-in hybrid owners rarely actually plug in their vehicles, practically negating the climate advantages of the t\u2026 [+8975 chars]",
             "ai_score": 5
         },
         {
@@ -1077,6 +1035,48 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/02/RAMchina-1200x675.jpg",
             "publishedAt": "2026-02-18T19:41:45Z",
             "content": "For a few months now, many gamers had seemingly pinned their hopes on a company in China to help alleviate rising prices on RAM resulting from the ongoing and worsening memory shortage fueled by AI h\u2026 [+2796 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Microsoft Confirms Next-Gen Xbox Is Still Happening, It\u2019s Called Project Helix, And It\u2019ll Play Your PC Games",
+            "description": "The news comes as a leadership shakeup has fans questioning the platform's future",
+            "url": "https://kotaku.com/xbox-project-helix-codename-next-gen-pc-games-2000676398",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
+            "publishedAt": "2026-03-05T20:40:20Z",
+            "content": "People have been speculating about Microisoft\u2019s plans for the next Xbox for over a year now and the company\u2019s new gaming CEO just went ahead and tweeted them out. Recently appointed Xbox boss Asha Sh\u2026 [+2363 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+            "title": "Nothing is the only brand taking the counterfeit tech problem seriously",
+            "description": "Counterfeit tech products are a major problem globally, and the knockoffs get better every year. One tech company is finally talking about the issue publicly.",
+            "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-is-the-only-brand-taking-the-counterfeit-tech-problem-seriously",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pctuFpho5MmEA2vPS77iVR-2560-80.jpg",
+            "publishedAt": "2026-02-19T13:12:00Z",
+            "content": "Fake tech products are nothing new, but they are getting harder and harder to spot. Certain product categories, like earbuds, are easier to fake than others. Scammers have figured out how to replicat\u2026 [+5246 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "Microsoft's Next Xbox Console Is for Real, and It'll Play PC Games, Too",
+            "description": "The gaming division's CEO, Asha Shar, confirms the \"return of Xbox\" with Project Helix.",
+            "url": "https://www.cnet.com/tech/gaming/microsoft-project-helix-next-xbox-console-pc-games-confirmation/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/df1c352b21c78e6e855cae63c81e7aed05aaceae/hub/2026/03/06/379062bf-dccb-4146-b1b2-40543b65175c/hcq-qmna4aanvrq.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-03-06T17:10:00Z",
+            "content": "Microsoft has confirmed what many have speculated: that its next-generation gaming console will be a hybrid piece of hardware that can play Xbox games as well as Windows PC games.\r\nThere aren't yet a\u2026 [+1979 chars]",
             "ai_score": 5
         }
     ]
