@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-18 15:08",
+    "last_updated": "2026-03-18 17:06",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Sony appears to be testing dynamic pricing on PlayStation games",
+            "description": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment iden\u2026",
+            "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986616/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-07T17:52:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople are seeing different prices for the same game.\r\nPeople are seeing different prices for the same game.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w\u2026 [+2500 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -27,6 +41,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
             "publishedAt": "2026-02-26T20:25:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops",
+            "description": "Intel has a pair of new flagship CPUs coming to a variety of pricey gaming laptops: the Core Ultra 9 290 HX Plus and Core Ultra 7 270HX Plus. The Arrow Lake Refresh chips sport 24 cores / 24 threads and 20 cores / 20 threads, respectively. Like Intel's recent\u2026",
+            "url": "https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/intel-core-ultra-200hx-plus-slide-crop.png?quality=90&strip=all&crop=0%2C10.72564329194%2C100%2C78.54871341612&w=1200",
+            "publishedAt": "2026-03-17T15:50:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new flagship Core Ultra 9 290HX Plus is accompanied by a Core Ultra 7 270HX Plus.\r\nThe new flagship Core Ultra 9 290HX Plus is accompanied by a Core Ultra 7 \u2026 [+3592 chars]",
             "ai_score": 5
         },
         {
@@ -101,20 +129,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Inside Microsoft\u2019s big Xbox leadership shake-up",
-            "description": "Xbox fans had been anticipating the retirement of Microsoft Gaming CEO Phil Spencer for years, but what most hadn't expected was the departure of Xbox president Sarah Bond too. For many outside the company, Bond seemed like Spencer's natural successor, a depu\u2026",
-            "url": "https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276282/xbox_horizon.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-02-23T15:06:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nby\r\nTom\u2026 [+10577 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -125,6 +139,20 @@
             "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
             "publishedAt": "2026-02-28T11:38:00Z",
             "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Inside Microsoft\u2019s big Xbox leadership shake-up",
+            "description": "Xbox fans had been anticipating the retirement of Microsoft Gaming CEO Phil Spencer for years, but what most hadn't expected was the departure of Xbox president Sarah Bond too. For many outside the company, Bond seemed like Spencer's natural successor, a depu\u2026",
+            "url": "https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276282/xbox_horizon.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-02-23T15:06:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nby\r\nTom\u2026 [+10577 chars]",
             "ai_score": 5
         },
         {
@@ -349,20 +377,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/mwc_lead.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-03-02T15:52:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nRobot phones, a folding smartphone you can dunk, and a modular laptop concept that lets you swap in ports as needed.\r\nRobot phones, a folding smartphone you can \u2026 [+5146 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Sony appears to be testing dynamic pricing on PlayStation games",
-            "description": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment iden\u2026",
-            "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986616/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-07T17:52:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople are seeing different prices for the same game.\r\nPeople are seeing different prices for the same game.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w\u2026 [+2500 chars]",
             "ai_score": 5
         },
         {
@@ -1077,20 +1091,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/df1c352b21c78e6e855cae63c81e7aed05aaceae/hub/2026/03/06/379062bf-dccb-4146-b1b2-40543b65175c/hcq-qmna4aanvrq.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-03-06T17:10:00Z",
             "content": "Microsoft has confirmed what many have speculated: that its next-generation gaming console will be a hybrid piece of hardware that can play Xbox games as well as Windows PC games.\r\nThere aren't yet a\u2026 [+1979 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "You Can \u2018Hack\u2019 ChatGPT to Become the World\u2019s Best Anything",
-            "description": "What's a little lie between 800 million users?",
-            "url": "https://gizmodo.com/you-can-hack-chatgpt-to-become-the-worlds-best-anything-2000723856",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/chatgpt-iran-linked-election-influence-openai.jpg",
-            "publishedAt": "2026-02-19T19:25:31Z",
-            "content": "Most people become an expert in something by putting in their 10,000 hours. But what a waste that is when you can just trick ChatGPT into telling everyone you are an expert in about 20 minutes. BBC r\u2026 [+5347 chars]",
             "ai_score": 5
         }
     ]
