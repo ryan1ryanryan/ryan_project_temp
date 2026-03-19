@@ -1,6 +1,104 @@
 {
-    "last_updated": "2026-03-19 06:03",
+    "last_updated": "2026-03-19 07:16",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "Meta exec hopes VR teens will stick around",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
+            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-12T11:15:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
+            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
+            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
+            "publishedAt": "2026-02-26T20:25:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "This Windows gaming handheld has a screen that folds in half",
+            "description": "Lenovo put a foldable display on a gaming handheld. The Legion Go Fold Concept is a Windows-based handheld with a flexible POLED display, detachable Joy-Con-like controllers, and a folio case to turn the whole thing into a mini laptop. You can use it as a sta\u2026",
+            "url": "https://www.theverge.com/tech/886848/lenovo-legion-go-fold-concept-windows-foldable-pc-gaming-handheld",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268328_Lenovo_Legion_Go_Fold_Concept_MWC2026_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-01T23:04:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch display to an 11.6-inch and its also a laptop.\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch d\u2026 [+5365 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Henri Robbins",
+            "title": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
+            "description": "It is worth using motorsports materials in a gaming mouse? As long as it's the same price as plastic.",
+            "url": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
+            "urlToImage": "https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/191:100/w_1280,c_limit/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png",
+            "publishedAt": "2026-03-06T13:00:00Z",
+            "content": "While this assembly works well and allows for the mouse to be incredibly lightweight and rigid, I found a few concerns with repairability. With both shells, there is a risk of repeated disassembly br\u2026 [+2752 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
+            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
+            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
+            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
+            "publishedAt": "2026-02-28T11:38:00Z",
+            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The MacBook Neo is a winner",
+            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
+            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-13T13:13:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "The Trump phone was a no-show at the world\u2019s biggest mobile show",
+            "description": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This time, we tried, and failed, to find it at the world's biggest mobile trade show. This week Barcelona was ta\u2026",
+            "url": "https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-05T18:17:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter missing CES, Trump Mobile skipped out on MWC too.\r\nAfter missing CES, Trump Mobile skipped out on MWC too.\r\nby\r\nDominic PrestonClose\r\nPosts from this autho\u2026 [+3968 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +111,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -34,34 +132,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "Meta exec hopes VR teens will stick around",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
-            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-12T11:15:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Qualcomm won\u2019t be announcing Windows gaming handhelds at GDC after all",
-            "description": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU\u2026",
-            "url": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
-            "publishedAt": "2026-02-26T20:25:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Antonio G. Di Benedetto",
             "title": "Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops",
             "description": "Intel has a pair of new flagship CPUs coming to a variety of pricey gaming laptops: the Core Ultra 9 290 HX Plus and Core Ultra 7 270HX Plus. The Arrow Lake Refresh chips sport 24 cores / 24 threads and 20 cores / 20 threads, respectively. Like Intel's recent\u2026",
@@ -69,34 +139,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/intel-core-ultra-200hx-plus-slide-crop.png?quality=90&strip=all&crop=0%2C10.72564329194%2C100%2C78.54871341612&w=1200",
             "publishedAt": "2026-03-17T15:50:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new flagship Core Ultra 9 290HX Plus is accompanied by a Core Ultra 7 270HX Plus.\r\nThe new flagship Core Ultra 9 290HX Plus is accompanied by a Core Ultra 7 \u2026 [+3592 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "This Windows gaming handheld has a screen that folds in half",
-            "description": "Lenovo put a foldable display on a gaming handheld. The Legion Go Fold Concept is a Windows-based handheld with a flexible POLED display, detachable Joy-Con-like controllers, and a folio case to turn the whole thing into a mini laptop. You can use it as a sta\u2026",
-            "url": "https://www.theverge.com/tech/886848/lenovo-legion-go-fold-concept-windows-foldable-pc-gaming-handheld",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268328_Lenovo_Legion_Go_Fold_Concept_MWC2026_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-01T23:04:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch display to an 11.6-inch and its also a laptop.\r\nThe Lenovo Legion Go Fold Concept opens from a 7.7-inch d\u2026 [+5365 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Henri Robbins",
-            "title": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
-            "description": "It is worth using motorsports materials in a gaming mouse? As long as it's the same price as plastic.",
-            "url": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
-            "urlToImage": "https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/191:100/w_1280,c_limit/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png",
-            "publishedAt": "2026-03-06T13:00:00Z",
-            "content": "While this assembly works well and allows for the mouse to be incredibly lightweight and rigid, I found a few concerns with repairability. With both shells, there is a risk of repeated disassembly br\u2026 [+2752 chars]",
             "ai_score": 5
         },
         {
@@ -153,20 +195,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276282/xbox_horizon.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-02-23T15:06:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nby\r\nTom\u2026 [+10577 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
-            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
-            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
-            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
-            "publishedAt": "2026-02-28T11:38:00Z",
-            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
             "ai_score": 5
         },
         {
@@ -293,20 +321,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268368_Asus_ROG_Flow_Z13-KJP_Edition_LE_tablet_ADiBenedetto_0031.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-24T13:59:19Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt turned me into Antonio Hikingman.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nby\r\nAntonio G. Di Bened\u2026 [+8138 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "The MacBook Neo is a winner",
-            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
-            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-13T13:13:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
             "ai_score": 5
         },
         {
@@ -675,20 +689,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Dominic Preston",
-            "title": "The Trump phone was a no-show at the world\u2019s biggest mobile show",
-            "description": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This time, we tried, and failed, to find it at the world's biggest mobile trade show. This week Barcelona was ta\u2026",
-            "url": "https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-05T18:17:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter missing CES, Trump Mobile skipped out on MWC too.\r\nAfter missing CES, Trump Mobile skipped out on MWC too.\r\nby\r\nDominic PrestonClose\r\nPosts from this autho\u2026 [+3968 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -699,34 +699,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb52/live/5b0b7900-1ed2-11f1-b8f6-b15aa2adfcf4.jpg",
             "publishedAt": "2026-03-16T00:32:50Z",
             "content": "Declarations like \"Proudly Human\", \"Human-made\", '\"No A.I\" and \"AI-free\" are appearing across films, marketing, books and websites.",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sheena Vasani",
-            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
-            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
-            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
-            "publishedAt": "2026-03-04T20:23:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Here\u2019s your first look at Kratos in Amazon\u2019s God of War show",
-            "description": "Amazon has slowly been teasing out casting details for its live-action adaptation of God of War, and now we have our first look at the show. It's a single image but a notable one showing protagonist Kratos and his son Atreus. The characters are played by Ryan\u2026",
-            "url": "https://www.theverge.com/streaming/886008/amazon-god-of-war-kratos-image",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Start-of-Production-Image.jpg?quality=90&strip=all&crop=0%2C3.4666176674128%2C100%2C93.066764665174&w=1200",
-            "publishedAt": "2026-02-27T15:19:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nProduction is underway for the Prime Video adaptation.\r\nProduction is underway for the Prime Video adaptation.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment edi\u2026 [+3110 chars]",
             "ai_score": 5
         },
         {
@@ -769,6 +741,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868498.jpg?quality=90&strip=all&crop=0%2C10.726456111031%2C100%2C78.547087777937&w=1200",
             "publishedAt": "2026-03-04T14:15:03Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nUntangling the Anthropic-PentagonOpenAI-Iran news cycle.\r\nUntangling the Anthropic-PentagonOpenAI-Iran news cycle.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Washin\u2026 [+11805 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
+            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
+            "publishedAt": "2026-03-04T20:23:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Here\u2019s your first look at Kratos in Amazon\u2019s God of War show",
+            "description": "Amazon has slowly been teasing out casting details for its live-action adaptation of God of War, and now we have our first look at the show. It's a single image but a notable one showing protagonist Kratos and his son Atreus. The characters are played by Ryan\u2026",
+            "url": "https://www.theverge.com/streaming/886008/amazon-god-of-war-kratos-image",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Start-of-Production-Image.jpg?quality=90&strip=all&crop=0%2C3.4666176674128%2C100%2C93.066764665174&w=1200",
+            "publishedAt": "2026-02-27T15:19:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nProduction is underway for the Prime Video adaptation.\r\nProduction is underway for the Prime Video adaptation.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment edi\u2026 [+3110 chars]",
             "ai_score": 5
         },
         {
