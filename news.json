@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-19 16:00",
+    "last_updated": "2026-03-19 17:04",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters, Sean Hollister",
+            "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027",
+            "description": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codenamed Project Helix, will have a custom A\u2026",
+            "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
+            "publishedAt": "2026-03-11T17:36:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -237,20 +251,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/abxylutehed.jpg?quality=90&strip=all&crop=0%2C10.741445188627%2C100%2C78.517109622746&w=1200",
             "publishedAt": "2026-02-19T13:09:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nJoy-Con alternatives typically provide improvements aplenty, but this prototype doesnt.\r\nJoy-Con alternatives typically provide improvements aplenty, but this pr\u2026 [+5964 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters, Sean Hollister",
-            "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027",
-            "description": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codenamed Project Helix, will have a custom A\u2026",
-            "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
-            "publishedAt": "2026-03-11T17:36:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
             "ai_score": 5
         },
         {
@@ -885,20 +885,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI",
-            "description": "Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
-            "url": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
-            "publishedAt": "2026-03-14T21:19:13Z",
-            "content": "Each year, GDC publishes a survey of game industry workers ahead of the week-long conference. The survey can serve as a bellwether to set the tone for the conference. On one hot-topic issue through t\u2026 [+1645 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -909,6 +895,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/P3020768.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-06T21:32:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe S10 Lite offers native Switch 2 support for easy wake-up and per-game rear paddle customization.\r\nThe S10 Lite offers native Switch 2 support for easy wake-u\u2026 [+4392 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI",
+            "description": "Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
+            "url": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
+            "publishedAt": "2026-03-14T21:19:13Z",
+            "content": "Each year, GDC publishes a survey of game industry workers ahead of the week-long conference. The survey can serve as a bellwether to set the tone for the conference. On one hot-topic issue through t\u2026 [+1645 chars]",
             "ai_score": 5
         },
         {
