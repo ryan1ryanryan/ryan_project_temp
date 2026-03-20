@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-20 04:52",
+    "last_updated": "2026-03-20 05:57",
     "articles": [
         {
             "source": {
@@ -13,20 +13,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
-            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
-            "url": "https://www.wired.com/story/best-budget-monitors/",
-            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
-            "publishedAt": "2026-02-21T12:00:00Z",
-            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
             "ai_score": 8
         },
         {
@@ -636,6 +622,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Luke Larsen",
+            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
+            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
+            "url": "https://www.wired.com/story/best-budget-monitors/",
+            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
+            "publishedAt": "2026-02-21T12:00:00Z",
+            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Brad Bourque",
             "title": "Our Favorite Budget TV Is On Sale",
             "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
@@ -899,20 +899,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The best Switch 2 controller just got better (and a little worse)",
-            "description": "Crowning the EasySMX S10 the best Switch 2 controller last fall was easy. The $60 wireless gamepad, which is often well below $50, mimics or improves on many of the $90 Switch 2 Pro controller's best features. The S10 has great-feeling rumble in games, TMR jo\u2026",
-            "url": "https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/P3020768.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-06T21:32:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe S10 Lite offers native Switch 2 support for easy wake-up and per-game rear paddle customization.\r\nThe S10 Lite offers native Switch 2 support for easy wake-u\u2026 [+4392 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -923,6 +909,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
             "publishedAt": "2026-03-14T21:19:13Z",
             "content": "Each year, GDC publishes a survey of game industry workers ahead of the week-long conference. The survey can serve as a bellwether to set the tone for the conference. On one hot-topic issue through t\u2026 [+1645 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The best Switch 2 controller just got better (and a little worse)",
+            "description": "Crowning the EasySMX S10 the best Switch 2 controller last fall was easy. The $60 wireless gamepad, which is often well below $50, mimics or improves on many of the $90 Switch 2 Pro controller's best features. The S10 has great-feeling rumble in games, TMR jo\u2026",
+            "url": "https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/P3020768.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-06T21:32:05Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe S10 Lite offers native Switch 2 support for easy wake-up and per-game rear paddle customization.\r\nThe S10 Lite offers native Switch 2 support for easy wake-u\u2026 [+4392 chars]",
             "ai_score": 5
         },
         {
