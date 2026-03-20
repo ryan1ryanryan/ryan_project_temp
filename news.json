@@ -1,76 +1,6 @@
 {
-    "last_updated": "2026-03-20 07:03",
+    "last_updated": "2026-03-20 07:54",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
-            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
-            "url": "https://www.wired.com/story/best-budget-monitors/",
-            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
-            "publishedAt": "2026-02-21T12:00:00Z",
-            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "We don\u2019t have to have unsupervised killer robots",
-            "description": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially l\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-27T16:18:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe dont have to have unsupervised killer robots\r\nAI companies could stand together to draw red lines on military AI why arent they?\r\nby\r\nHayden FieldClose\r\nPosts\u2026 [+12112 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "The next iTunes may be vibe-coded",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Wouldn't it be great if you could exchange music recommendations with your friends, no matter \u2026",
-            "url": "https://www.theverge.com/column/881256/parachord-vibe-coded-music-streaming-app",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-19T13:22:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new music app Parachord aims to unite Spotify, Apple Music, and Bandcamp with the help of AI.\r\nThe new music app Parachord aims to unite Spotify, Apple Music\u2026 [+7343 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI",
-            "description": "Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
-            "url": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
-            "publishedAt": "2026-03-14T21:19:13Z",
-            "content": "Each year, GDC publishes a survey of game industry workers ahead of the week-long conference. The survey can serve as a bellwether to set the tone for the conference. On one hot-topic issue through t\u2026 [+1645 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "EditorDavid",
-            "title": "Gaming Site Editor Jailbreaks an Amazon Echo Show",
-            "description": "\"A few developers found a way, for now, to turn a few of these increasingly mediocre Amazon Show devices into friendly, useful, open computers,\" writes the co-founder of the gaming/tech news site Aftermath. For under $50 each, he bought some used versions of \u2026",
-            "url": "https://news.slashdot.org/story/26/03/14/0458245/gaming-site-editor-jailbreaks-an-amazon-echo-show",
-            "urlToImage": "https://a.fsdn.com/sd/topics/opensource_64.png",
-            "publishedAt": "2026-03-14T20:34:00Z",
-            "content": "Customers who bought these devices and used them for several years were not used to them showing full screen ads, and now they do. People were justifiably pissed. So what do you do when an already ev\u2026 [+2043 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -692,6 +622,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Luke Larsen",
+            "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
+            "description": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
+            "url": "https://www.wired.com/story/best-budget-monitors/",
+            "urlToImage": "https://media.wired.com/photos/6998b79490ce1a01f1ba1ecf/191:100/w_1280,c_limit/These%20Cheap%20Monitors%20Legitimately%20Shocked%20Me%20By%20How%20Good%20They%20Are.png",
+            "publishedAt": "2026-02-21T12:00:00Z",
+            "content": "Ill be honest. Testing out the latest OLED gaming monitor or eye-popping 6K monitor is a lot more fun than the cheap stuff. But I'm not delusional. I know that when it comes to computer monitors, mos\u2026 [+3731 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Brad Bourque",
             "title": "Our Favorite Budget TV Is On Sale",
             "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
@@ -720,6 +664,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Hayden Field",
+            "title": "We don\u2019t have to have unsupervised killer robots",
+            "description": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially l\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-27T16:18:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe dont have to have unsupervised killer robots\r\nAI companies could stand together to draw red lines on military AI why arent they?\r\nby\r\nHayden FieldClose\r\nPosts\u2026 [+12112 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Dominic Preston",
             "title": "The Trump phone was a no-show at the world\u2019s biggest mobile show",
             "description": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This time, we tried, and failed, to find it at the world's biggest mobile trade show. This week Barcelona was ta\u2026",
@@ -741,6 +699,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb52/live/5b0b7900-1ed2-11f1-b8f6-b15aa2adfcf4.jpg",
             "publishedAt": "2026-03-16T00:32:50Z",
             "content": "Declarations like \"Proudly Human\", \"Human-made\", '\"No A.I\" and \"AI-free\" are appearing across films, marketing, books and websites.",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "The next iTunes may be vibe-coded",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Wouldn't it be great if you could exchange music recommendations with your friends, no matter \u2026",
+            "url": "https://www.theverge.com/column/881256/parachord-vibe-coded-music-streaming-app",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/BG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-19T13:22:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new music app Parachord aims to unite Spotify, Apple Music, and Bandcamp with the help of AI.\r\nThe new music app Parachord aims to unite Spotify, Apple Music\u2026 [+7343 chars]",
             "ai_score": 5
         },
         {
@@ -927,6 +899,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI",
+            "description": "Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
+            "url": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
+            "publishedAt": "2026-03-14T21:19:13Z",
+            "content": "Each year, GDC publishes a survey of game industry workers ahead of the week-long conference. The survey can serve as a bellwether to set the tone for the conference. On one hot-topic issue through t\u2026 [+1645 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1007,6 +993,20 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/EFPrx5XJwpgAUAevsfhqs6-2048-80.jpg",
             "publishedAt": "2026-03-13T12:26:13Z",
             "content": "What you need to know\r\n<ul><li>A new teardown reveals that the Galaxy S26 Ultra quietly packs meaningful hardware changes, especially to the camera and cooling system.</li><li>Samsung also increased \u2026 [+3970 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Gaming Site Editor Jailbreaks an Amazon Echo Show",
+            "description": "\"A few developers found a way, for now, to turn a few of these increasingly mediocre Amazon Show devices into friendly, useful, open computers,\" writes the co-founder of the gaming/tech news site Aftermath. For under $50 each, he bought some used versions of \u2026",
+            "url": "https://news.slashdot.org/story/26/03/14/0458245/gaming-site-editor-jailbreaks-an-amazon-echo-show",
+            "urlToImage": "https://a.fsdn.com/sd/topics/opensource_64.png",
+            "publishedAt": "2026-03-14T20:34:00Z",
+            "content": "Customers who bought these devices and used them for several years were not used to them showing full screen ads, and now they do. People were justifiably pissed. So what do you do when an already ev\u2026 [+2043 chars]",
             "ai_score": 5
         },
         {
