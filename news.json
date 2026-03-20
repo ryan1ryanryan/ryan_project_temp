@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-20 21:36",
+    "last_updated": "2026-03-20 22:35",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops",
-            "description": "Intel has a pair of new flagship CPUs coming to a variety of pricey gaming laptops: the Core Ultra 9 290 HX Plus and Core Ultra 7 270HX Plus. The Arrow Lake Refresh chips sport 24 cores / 24 threads and 20 cores / 20 threads, respectively. Like Intel's recent\u2026",
-            "url": "https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/intel-core-ultra-200hx-plus-slide-crop.png?quality=90&strip=all&crop=0%2C10.72564329194%2C100%2C78.54871341612&w=1200",
-            "publishedAt": "2026-03-17T15:50:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new flagship Core Ultra 9 290HX Plus is accompanied by a Core Ultra 7 270HX Plus.\r\nThe new flagship Core Ultra 9 290HX Plus is accompanied by a Core Ultra 7 \u2026 [+3592 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -69,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
             "publishedAt": "2026-02-26T20:25:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops",
+            "description": "Intel has a pair of new flagship CPUs coming to a variety of pricey gaming laptops: the Core Ultra 9 290 HX Plus and Core Ultra 7 270HX Plus. The Arrow Lake Refresh chips sport 24 cores / 24 threads and 20 cores / 20 threads, respectively. Like Intel's recent\u2026",
+            "url": "https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/intel-core-ultra-200hx-plus-slide-crop.png?quality=90&strip=all&crop=0%2C10.72564329194%2C100%2C78.54871341612&w=1200",
+            "publishedAt": "2026-03-17T15:50:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new flagship Core Ultra 9 290HX Plus is accompanied by a Core Ultra 7 270HX Plus.\r\nThe new flagship Core Ultra 9 290HX Plus is accompanied by a Core Ultra 7 \u2026 [+3592 chars]",
             "ai_score": 5
         },
         {
