@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-03-21 08:40",
+    "last_updated": "2026-03-21 09:38",
     "articles": [
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Janko Roettgers",
-            "title": "Meta exec hopes VR teens will stick around",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
-            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-12T11:15:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
+            "author": "Dana Alomar",
+            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
+            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
+            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
+            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
+            "publishedAt": "2026-03-11T18:38:21Z",
+            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
             "ai_score": 8
         },
         {
@@ -41,6 +41,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-17T23:13:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "Meta exec hopes VR teens will stick around",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
+            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-12T11:15:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
             "ai_score": 5
         },
         {
@@ -531,20 +545,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z8tfhGFd5FufCSsjmrMaNo-2048-80.jpg",
             "publishedAt": "2026-03-05T18:34:22Z",
             "content": "What you need to know\r\n<ul><li>OnePlus president, Li Jie Louis, confirms the OnePlus 15T will feature a huge 7,500mAh battery, powered by its Glacier technology.</li><li>The company also confirms tha\u2026 [+3285 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dana Alomar",
-            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
-            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
-            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
-            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
-            "publishedAt": "2026-03-11T18:38:21Z",
-            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
