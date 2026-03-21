@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-21 06:49",
+    "last_updated": "2026-03-21 07:39",
     "articles": [
         {
             "source": {
@@ -20,20 +20,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Nvidia has lost the plot with gamers",
-            "description": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot. Nvidia could've marketed its new DLSS 5 real-time lighting technology as a w\u2026",
-            "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-17T23:13:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Janko Roettgers",
             "title": "Meta exec hopes VR teens will stick around",
             "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
@@ -41,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,6 +41,48 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
             "publishedAt": "2026-02-26T20:25:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nWill Nvidias Arm gaming CPU come to handhelds first?\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+3826 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters, Sean Hollister",
+            "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027",
+            "description": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codenamed Project Helix, will have a custom A\u2026",
+            "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
+            "publishedAt": "2026-03-11T17:36:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "PlayStation is reportedly moving away from PC ports",
+            "description": "It sounds like PlayStation is putting its focus back on console exclusives. According to a report in Bloomberg, Sony's gaming division is moving away from porting PS5 games to PC, which reportedly includes cancelling plans for a PC port of Ghost of Y\u014dtei. It'\u2026",
+            "url": "https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-04T14:03:35Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Nvidia has lost the plot with gamers",
+            "description": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot. Nvidia could've marketed its new DLSS 5 real-time lighting technology as a w\u2026",
+            "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-17T23:13:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
             "ai_score": 5
         },
         {
@@ -223,20 +251,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/BackBone-Pro.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-13T17:52:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe handsome CMF Watch 3 Pro is also discounted, along with Govees color-changing garden lights and Hogwarts Legacy.\r\nThe handsome CMF Watch 3 Pro is also discou\u2026 [+4807 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters, Sean Hollister",
-            "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027",
-            "description": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codenamed Project Helix, will have a custom A\u2026",
-            "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
-            "publishedAt": "2026-03-11T17:36:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
             "ai_score": 5
         },
         {
@@ -461,20 +475,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
             "publishedAt": "2026-03-20T00:34:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSteam Deck hibernation mode, Bluetooth headset microphones, and lots of support for Xbox Ally, Legion Go 2, and more.\r\nSteam Deck hibernation mode, Bluetooth hea\u2026 [+3919 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "PlayStation is reportedly moving away from PC ports",
-            "description": "It sounds like PlayStation is putting its focus back on console exclusives. According to a report in Bloomberg, Sony's gaming division is moving away from porting PS5 games to PC, which reportedly includes cancelling plans for a PC port of Ghost of Y\u014dtei. It'\u2026",
-            "url": "https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-04T14:03:35Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
             "ai_score": 5
         },
         {
