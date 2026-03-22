@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-22 06:58",
+    "last_updated": "2026-03-22 07:44",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Nvidia\u2019s DLSS 5 is like motion smoothing for video games, but worse",
-            "description": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to \u2026",
-            "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
-            "publishedAt": "2026-03-17T17:58:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-17T23:13:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,6 +27,104 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters, Sean Hollister",
+            "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027",
+            "description": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codenamed Project Helix, will have a custom A\u2026",
+            "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
+            "publishedAt": "2026-03-11T17:36:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Zeyi Yang",
+            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
+            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
+            "publishedAt": "2026-03-13T12:00:00Z",
+            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "Lina Khan was right",
+            "description": "In 2021, the virtual world was the future of the internet. The pandemic had sequestered everyone indoors, heightening the appeal of digital communities. Facebook rebranded to Meta - a sign of the tech giant's investment in and commitment to the metaverse as t\u2026",
+            "url": "https://www.theverge.com/report/896820/lina-khan-ftc-meta-supernatural-antitrust",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Vrg_illo_lina_khan_was_right.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-19T15:19:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLina Khan was right\r\nKhans FTC tried to expand the scope of antitrust law. Metas floundering VR ambitions shows why that mattered. \r\nby\r\nVictoria SongClose\r\nSeni\u2026 [+10331 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "The best mobile tech announced at MWC 2026 so far",
+            "description": "Mobile World Congress 2026 opened its doors today in Barcelona, Spain, but some of the biggest announcements from the mobile-focused show were already made over the weekend. To make sure you don't miss the best new smartphones, laptops, concepts, and accessor\u2026",
+            "url": "https://www.theverge.com/tech/882992/mobile-world-congress-mwc-2026-smartphones-laptops-headphones",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/mwc_lead.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2026-03-02T15:52:37Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobot phones, a folding smartphone you can dunk, and a modular laptop concept that lets you swap in ports as needed.\r\nRobot phones, a folding smartphone you can \u2026 [+5146 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Sony appears to be testing dynamic pricing on PlayStation games",
+            "description": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment iden\u2026",
+            "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986616/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-07T17:52:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople are seeing different prices for the same game.\r\nPeople are seeing different prices for the same game.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w\u2026 [+2500 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "PlayStation is reportedly moving away from PC ports",
+            "description": "It sounds like PlayStation is putting its focus back on console exclusives. According to a report in Bloomberg, Sony's gaming division is moving away from porting PS5 games to PC, which reportedly includes cancelling plans for a PC port of Ghost of Y\u014dtei. It'\u2026",
+            "url": "https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-04T14:03:35Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Nvidia\u2019s DLSS 5 is like motion smoothing for video games, but worse",
+            "description": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to \u2026",
+            "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
+            "publishedAt": "2026-03-17T17:58:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
             "ai_score": 5
         },
         {
@@ -216,20 +300,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters, Sean Hollister",
-            "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027",
-            "description": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codenamed Project Helix, will have a custom A\u2026",
-            "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
-            "publishedAt": "2026-03-11T17:36:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "ChatGPT did not cure a dog\u2019s cancer",
             "description": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story couldn't help but spread. It's the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine an\u2026",
@@ -311,20 +381,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Zeyi Yang",
-            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
-            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
-            "publishedAt": "2026-03-13T12:00:00Z",
-            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -342,20 +398,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Victoria Song",
-            "title": "Lina Khan was right",
-            "description": "In 2021, the virtual world was the future of the internet. The pandemic had sequestered everyone indoors, heightening the appeal of digital communities. Facebook rebranded to Meta - a sign of the tech giant's investment in and commitment to the metaverse as t\u2026",
-            "url": "https://www.theverge.com/report/896820/lina-khan-ftc-meta-supernatural-antitrust",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Vrg_illo_lina_khan_was_right.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-19T15:19:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLina Khan was right\r\nKhans FTC tried to expand the scope of antitrust law. Metas floundering VR ambitions shows why that mattered. \r\nby\r\nVictoria SongClose\r\nSeni\u2026 [+10331 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Webster",
             "title": "Live-service games are a mess",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the slow-motion disaster of live-service games, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Step\u2026",
@@ -363,34 +405,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_ff3794d11f1ea74661271f5ae47b7b9e6aa5901b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T15:24:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLive-service games are a mess\r\nThese are not normal video games.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this author will be added to y\u2026 [+8696 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "The best mobile tech announced at MWC 2026 so far",
-            "description": "Mobile World Congress 2026 opened its doors today in Barcelona, Spain, but some of the biggest announcements from the mobile-focused show were already made over the weekend. To make sure you don't miss the best new smartphones, laptops, concepts, and accessor\u2026",
-            "url": "https://www.theverge.com/tech/882992/mobile-world-congress-mwc-2026-smartphones-laptops-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/mwc_lead.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-03-02T15:52:37Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobot phones, a folding smartphone you can dunk, and a modular laptop concept that lets you swap in ports as needed.\r\nRobot phones, a folding smartphone you can \u2026 [+5146 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Sony appears to be testing dynamic pricing on PlayStation games",
-            "description": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment iden\u2026",
-            "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986616/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-07T17:52:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople are seeing different prices for the same game.\r\nPeople are seeing different prices for the same game.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w\u2026 [+2500 chars]",
             "ai_score": 5
         },
         {
@@ -461,20 +475,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
             "publishedAt": "2026-03-20T00:34:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSteam Deck hibernation mode, Bluetooth headset microphones, and lots of support for Xbox Ally, Legion Go 2, and more.\r\nSteam Deck hibernation mode, Bluetooth hea\u2026 [+3919 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "PlayStation is reportedly moving away from PC ports",
-            "description": "It sounds like PlayStation is putting its focus back on console exclusives. According to a report in Bloomberg, Sony's gaming division is moving away from porting PS5 games to PC, which reportedly includes cancelling plans for a PC port of Ghost of Y\u014dtei. It'\u2026",
-            "url": "https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-04T14:03:35Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThat includes a PC version of Ghost of Ytei.\r\nThat includes a PC version of Ghost of Ytei.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this\u2026 [+2560 chars]",
             "ai_score": 5
         },
         {
