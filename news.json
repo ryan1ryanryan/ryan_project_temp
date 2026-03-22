@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-21 23:31",
+    "last_updated": "2026-03-22 02:27",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Nvidia has lost the plot with gamers",
-            "description": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot. Nvidia could've marketed its new DLSS 5 real-time lighting technology as a w\u2026",
-            "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-17T23:13:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Nvidia has lost the plot with gamers",
+            "description": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot. Nvidia could've marketed its new DLSS 5 real-time lighting technology as a w\u2026",
+            "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-17T23:13:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
             "ai_score": 5
         },
         {
@@ -129,20 +129,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
-            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
-            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
-            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
-            "publishedAt": "2026-02-28T11:38:00Z",
-            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -153,6 +139,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276282/xbox_horizon.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-02-23T15:06:05Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nby\r\nTom\u2026 [+10577 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
+            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
+            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
+            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
+            "publishedAt": "2026-02-28T11:38:00Z",
+            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
             "ai_score": 5
         },
         {
