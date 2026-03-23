@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-23 15:01",
+    "last_updated": "2026-03-23 16:06",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
-            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
-            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
-            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
-            "publishedAt": "2026-02-28T11:38:00Z",
-            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -139,6 +125,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0227_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-27T15:15:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Another what is a photo? apocalypse, the uncertain future of Xbox, and Claudes consciousness.\r\nOn The Vergecast: Another what is a photo? apoca\u2026 [+3149 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
+            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
+            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
+            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
+            "publishedAt": "2026-02-28T11:38:00Z",
+            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
             "ai_score": 5
         },
         {
@@ -283,20 +283,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Intel\u2019s Redemption Arc for PC Gaming Starts With Midrange Desktop CPUs",
-            "description": "Intel Core Ultra 200S Plus likely won\u2019t beat AMD\u2019s best X3D chips, but Intel promises its \"best gaming performance\" ever.",
-            "url": "https://gizmodo.com/intels-redemption-arc-for-pc-gaming-starts-with-midrange-desktop-cpus-2000732274",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/HP-Origin-Neuron-PC-13-1200x675.jpg",
-            "publishedAt": "2026-03-11T13:00:55Z",
-            "content": "Two years ago, the Intel Core Ultra 200 series brought PC gamers to a state of existential crisis. The chipmakers desktop CPUs bore few performance gains and occasionally performed worse than Intels \u2026 [+3825 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -321,6 +307,20 @@
             "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
             "publishedAt": "2026-03-13T12:00:00Z",
             "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Intel\u2019s Redemption Arc for PC Gaming Starts With Midrange Desktop CPUs",
+            "description": "Intel Core Ultra 200S Plus likely won\u2019t beat AMD\u2019s best X3D chips, but Intel promises its \"best gaming performance\" ever.",
+            "url": "https://gizmodo.com/intels-redemption-arc-for-pc-gaming-starts-with-midrange-desktop-cpus-2000732274",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/HP-Origin-Neuron-PC-13-1200x675.jpg",
+            "publishedAt": "2026-03-11T13:00:55Z",
+            "content": "Two years ago, the Intel Core Ultra 200 series brought PC gamers to a state of existential crisis. The chipmakers desktop CPUs bore few performance gains and occasionally performed worse than Intels \u2026 [+3825 chars]",
             "ai_score": 5
         },
         {
