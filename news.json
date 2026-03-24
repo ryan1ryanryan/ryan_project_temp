@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-24 08:59",
+    "last_updated": "2026-03-24 10:01",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-17T23:13:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -381,20 +381,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Sony appears to be testing dynamic pricing on PlayStation games",
-            "description": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment iden\u2026",
-            "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986616/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-07T17:52:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople are seeing different prices for the same game.\r\nPeople are seeing different prices for the same game.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w\u2026 [+2500 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -405,6 +391,20 @@
             "urlToImage": "https://media.wired.com/photos/69b983df93d7de0b35f1edaf/191:100/w_1280,c_limit/031726-meta-instagram-encryption-end-2.jpg",
             "publishedAt": "2026-03-20T10:00:00Z",
             "content": "As law enforcement agencies scramble to address threats of terrorism, child sexual abuse, and human traffickingand repressive governments around the world look to broadly expand their surveillance ca\u2026 [+3996 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Sony appears to be testing dynamic pricing on PlayStation games",
+            "description": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment iden\u2026",
+            "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986616/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-07T17:52:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople are seeing different prices for the same game.\r\nPeople are seeing different prices for the same game.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w\u2026 [+2500 chars]",
             "ai_score": 5
         },
         {
