@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-25 11:47",
+    "last_updated": "2026-03-25 13:17",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "Meta exec hopes VR teens will stick around",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
+            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-12T11:15:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,20 +41,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-17T23:13:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "Meta exec hopes VR teens will stick around",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
-            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-12T11:15:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
             "ai_score": 5
         },
         {
@@ -146,20 +146,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Inside Microsoft\u2019s big Xbox leadership shake-up",
-            "description": "Xbox fans had been anticipating the retirement of Microsoft Gaming CEO Phil Spencer for years, but what most hadn't expected was the departure of Xbox president Sarah Bond too. For many outside the company, Bond seemed like Spencer's natural successor, a depu\u2026",
-            "url": "https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276282/xbox_horizon.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-02-23T15:06:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nMicrosoft has a new gaming CEO who wants to bring Xbox back from the brink.\r\nby\r\nTom\u2026 [+10577 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Valve\u2019s Steam Machine may not launch this year",
             "description": "Valve still can't reveal details about the Steam Machine, Steam Frame, and Steam Controller launch dates, which were originally scheduled for early 2026. In a new post, the company now says \"we hope to ship in 2026\" due to the ongoing shortages of memory and \u2026",
@@ -195,6 +181,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-10T14:02:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Nintendo cuts Switch 2 production amid weakening console sales",
+            "description": "Nintendo will produce fewer Switch 2 units than it previously projected in response to weakening demand for the console in the US, Bloomberg reports. Four million units of Nintendo's flagship device are expected to be made this quarter instead of the six mill\u2026",
+            "url": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0403_3f603c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-24T11:45:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOutput is reportedly being reduced from six million to four million units, despite the consoles record debut.\r\nOutput is reportedly being reduced from six millio\u2026 [+2670 chars]",
             "ai_score": 5
         },
         {
@@ -482,20 +482,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Webster",
-            "title": "Billions of dollars later and still nobody knows what an Xbox is",
-            "description": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started \u2026",
-            "url": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-23T20:15:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres new leadership in charge at Xbox, but no clear sign of where the division is heading.\r\nTheres new leadership in charge at Xbox, but no clear sign of where\u2026 [+7946 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sean Hollister",
             "title": "Valve\u2019s huge SteamOS 3.8 update adds long-awaited features \u2014 and supports Steam Machine",
             "description": "Valve has just released SteamOS 3.8.0 in preview, and it's a doozy. Not only is it the first release to support the upcoming Steam Machine living room gaming PC, it comes with long-awaited features for Valve's handhelds and more support for other companies' h\u2026",
@@ -545,20 +531,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Alienware-Area-51-16-inch-18-inch-Gaming-Laptop-review-02-1200x675.jpg",
             "publishedAt": "2026-03-17T19:45:21Z",
             "content": "Intels new chips built for 2026\u2019s revised slate of gaming laptops promise a marginal boost in game performance. The new CPUs shouldn\u2019t be the only reason you buy a desktop replacement laptop this yea\u2026 [+4381 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Whitbrook",
-            "title": "Lego\u2019s Smart Play Bricks Sound Awful",
-            "description": "Lego's controversial wave of tech-enhanced 'Star Wars' sets are getting into people's hands, and showing the premium being paid isn't quite worth it.",
-            "url": "https://gizmodo.com/legos-smart-play-bricks-sound-awful-2000725514",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/lego-star-wars-smart-play-luke-vader-1200x675.jpg",
-            "publishedAt": "2026-02-23T23:00:01Z",
-            "content": "Ever since they were introduced at CES earlier this year, Lego has had to fight an uphill battle to convince increasingly skeptical audiences that its new \u201cSmart Play\u201d systemfeaturing electronic bric\u2026 [+4185 chars]",
             "ai_score": 5
         },
         {
@@ -1133,6 +1105,62 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/03/grace.jpg",
             "publishedAt": "2026-03-18T17:11:29Z",
             "content": "Nvidia is facing a firestorm of confusion, skepticism, and outrage over its recent DLSS 5 demo that shows generative AI being used to achieve more photorealistic lighting, and also yassifying the fac\u2026 [+4418 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility",
+            "description": "You are responsible for your agent, because they don't want to be.",
+            "url": "https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/openclaw_line-1200x675.jpg",
+            "publishedAt": "2026-03-17T19:20:07Z",
+            "content": "It\u2019s difficult to say just how many AI agents are up and running on the open web, but whatever the number is, it seems like it\u2019s encroaching on \u201ctoo many\u201d territory. The Wild West era of the space, b\u2026 [+3473 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
+            "description": "At GTC, Jensen Huang was on damage control for AI.",
+            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
+            "publishedAt": "2026-03-20T20:10:56Z",
+            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
+            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
+            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
+            "publishedAt": "2026-03-20T16:10:04Z",
+            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Jack Dorsey\u2019s Block Cut Half Its Staff, and He Says Other Tech Firms Will Follow Soon",
+            "description": "Dorsey claimed that AI made the layoffs inevitable but later admitted he over-hired during covid.",
+            "url": "https://gizmodo.com/jack-dorseys-block-cut-half-its-staff-and-he-says-other-tech-firms-will-follow-soon-2000727594",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/03/3418aad77e6e8af473506bf811fb8f76.jpg",
+            "publishedAt": "2026-02-27T16:15:15Z",
+            "content": "Block CEO Jack Dorsey announced Thursday that the company will make drastic cuts as intelligence tools create a new way to work. He also warned that other companies could make similar changes soon.\u00a0\r\u2026 [+2997 chars]",
             "ai_score": 5
         }
     ]
