@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-26 15:10",
+    "last_updated": "2026-03-26 17:08",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Zeyi Yang",
+            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
+            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
+            "publishedAt": "2026-03-13T12:00:00Z",
+            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -160,20 +174,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "V-bucks are getting more X-pensive",
-            "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
-            "url": "https://www.theverge.com/games/892074/fortnite-v-bucks-price-increase-march-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-10T14:02:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
             "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
@@ -181,6 +181,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-10T15:18:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "V-bucks are getting more X-pensive",
+            "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
+            "url": "https://www.theverge.com/games/892074/fortnite-v-bucks-price-increase-march-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-10T14:02:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
             "ai_score": 5
         },
         {
@@ -293,20 +307,6 @@
             "urlToImage": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
             "publishedAt": "2026-02-26T19:00:00Z",
             "content": "Silicon Valley has always prized high-agency individualspeople who impress their ideas upon the world by thinking for themselves and taking action without being told what to do. But as the performanc\u2026 [+3625 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Zeyi Yang",
-            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
-            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
-            "publishedAt": "2026-03-13T12:00:00Z",
-            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
             "ai_score": 5
         },
         {
@@ -517,6 +517,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Alienware-Area-51-16-inch-18-inch-Gaming-Laptop-review-02-1200x675.jpg",
             "publishedAt": "2026-03-17T19:45:21Z",
             "content": "Intels new chips built for 2026\u2019s revised slate of gaming laptops promise a marginal boost in game performance. The new CPUs shouldn\u2019t be the only reason you buy a desktop replacement laptop this yea\u2026 [+4381 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer\u2019s New Blade 16 Gaming Laptop May Have Good Battery life, for Once",
+            "description": "Razer's switching to Panther Lake and is trying to fix the worst pain points of the previous premium Blade.",
+            "url": "https://gizmodo.com/razer-blade-16-2026-gaming-laptop-may-have-good-battery-life-for-once-2000737934",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Razer-Blade-16-2026-3-1200x675.jpg",
+            "publishedAt": "2026-03-25T16:15:15Z",
+            "content": "We still dream of treating our gaming laptops as our one and only everyday device. The super-thin Razer Blade 16 from 2025 came close to that goal, but it just didnt have the staying power for a dail\u2026 [+3674 chars]",
             "ai_score": 5
         },
         {
@@ -790,20 +804,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
-            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
-            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-03-01T16:00:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Morris",
             "title": "Jeffrey Epstein saw promise in Bitcoin \u2014 and its far-right supporters",
             "description": "The tranche of Jeffrey Epstein emails and files released on January 30th tie the infamous pedophile, sex trafficker, and influence peddler to elite figures across the tech industry. The world of cryptocurrency is no exception. Epstein's connections are intrig\u2026",
@@ -811,34 +811,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268350_Did_Jeffrey_Epstein_shape_bitcoin_or_not_understand_it_at_all__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-02-26T22:59:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nJeffrey Epstein saw promise in Bitcoin and its far-right supporters\r\nEpstein may not have fully understood crypto, but he helped shape its culture anyway.\r\nby\r\nD\u2026 [+21731 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "The uncomfortable truth about hybrid vehicles",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the EV struggle, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Ap\u2026",
-            "url": "https://www.theverge.com/column/890135/truth-hybrid-vehicles",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268385_The_Stepback-_Plug-in_hybrid_vehicles_arent_all_they_cracked_up_to_be_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-05T19:56:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe uncomfortable truth about hybrid vehicles\r\nPlug-in hybrid owners rarely actually plug in their vehicles, practically negating the climate advantages of the t\u2026 [+8975 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia\u2019s spending $4 billion on photonics to stay ahead of the curve in AI",
-            "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds ove\u2026",
-            "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-02T16:56:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.\r\nOptical tech from Lumentum and Coherent could be key to conn\u2026 [+2743 chars]",
             "ai_score": 5
         },
         {
@@ -860,13 +832,41 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
-            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
-            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
-            "publishedAt": "2026-03-04T20:23:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
+            "author": "Andrew J. Hawkins",
+            "title": "The uncomfortable truth about hybrid vehicles",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the EV struggle, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Ap\u2026",
+            "url": "https://www.theverge.com/column/890135/truth-hybrid-vehicles",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268385_The_Stepback-_Plug-in_hybrid_vehicles_arent_all_they_cracked_up_to_be_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-05T19:56:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe uncomfortable truth about hybrid vehicles\r\nPlug-in hybrid owners rarely actually plug in their vehicles, practically negating the climate advantages of the t\u2026 [+8975 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
+            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
+            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-03-01T16:00:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Nvidia\u2019s spending $4 billion on photonics to stay ahead of the curve in AI",
+            "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds ove\u2026",
+            "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-02T16:56:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.\r\nOptical tech from Lumentum and Coherent could be key to conn\u2026 [+2743 chars]",
             "ai_score": 5
         },
         {
@@ -881,6 +881,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Start-of-Production-Image.jpg?quality=90&strip=all&crop=0%2C3.4666176674128%2C100%2C93.066764665174&w=1200",
             "publishedAt": "2026-02-27T15:19:14Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProduction is underway for the Prime Video adaptation.\r\nProduction is underway for the Prime Video adaptation.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment edi\u2026 [+3110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+            "description": "Powered by the new M5 chip, Apple\u2019s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor. Fortunately, though, we\u2019ve found a few ways to save. Best Buy is offering the new 13\u2026",
+            "url": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-MacBook-Air-lifestyle-03-260303_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.773011832141%2C100%2C78.453976335719&w=1200",
+            "publishedAt": "2026-03-04T20:23:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last years model.\r\nThe new MacBook Air now costs more, but you ca\u2026 [+3140 chars]",
             "ai_score": 5
         },
         {
@@ -1126,27 +1140,13 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
-            "description": "At GTC, Jensen Huang was on damage control for AI.",
-            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
-            "publishedAt": "2026-03-20T20:10:56Z",
-            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
-            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
-            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
-            "publishedAt": "2026-03-20T16:10:04Z",
-            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
+            "author": "AJ Dellinger",
+            "title": "Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility",
+            "description": "You are responsible for your agent, because they don't want to be.",
+            "url": "https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/openclaw_line-1200x675.jpg",
+            "publishedAt": "2026-03-17T19:20:07Z",
+            "content": "It\u2019s difficult to say just how many AI agents are up and running on the open web, but whatever the number is, it seems like it\u2019s encroaching on \u201ctoo many\u201d territory. The Wild West era of the space, b\u2026 [+3473 chars]",
             "ai_score": 5
         }
     ]
