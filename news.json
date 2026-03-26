@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-26 20:42",
+    "last_updated": "2026-03-26 21:38",
     "articles": [
         {
             "source": {
@@ -27,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-17T23:13:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Razer\u2019s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM",
+            "description": "Razer is giving its Blade 16 gaming laptop a speed and battery boost for 2026. The high-end gaming laptop keeps the same thin chassis and RTX 50-series GPU options as last year's model, but it's now making the switch from AMD to an Intel Core Ultra 9 386H \"Pa\u2026",
+            "url": "https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Blade-16-2026-3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-25T20:36:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThin is still in for the 2026 Blade, but Razer is promising more speed and efficiency.\r\nThin is still in for the 2026 Blade, but Razer is promising more speed an\u2026 [+3313 chars]",
             "ai_score": 5
         },
         {
@@ -1175,20 +1189,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/openclaw_line-1200x675.jpg",
             "publishedAt": "2026-03-17T19:20:07Z",
             "content": "It\u2019s difficult to say just how many AI agents are up and running on the open web, but whatever the number is, it seems like it\u2019s encroaching on \u201ctoo many\u201d territory. The Wild West era of the space, b\u2026 [+3473 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Jack Dorsey\u2019s Block Cut Half Its Staff, and He Says Other Tech Firms Will Follow Soon",
-            "description": "Dorsey claimed that AI made the layoffs inevitable but later admitted he over-hired during covid.",
-            "url": "https://gizmodo.com/jack-dorseys-block-cut-half-its-staff-and-he-says-other-tech-firms-will-follow-soon-2000727594",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/03/3418aad77e6e8af473506bf811fb8f76.jpg",
-            "publishedAt": "2026-02-27T16:15:15Z",
-            "content": "Block CEO Jack Dorsey announced Thursday that the company will make drastic cuts as intelligence tools create a new way to work. He also warned that other companies could make similar changes soon.\u00a0\r\u2026 [+2997 chars]",
             "ai_score": 5
         }
     ]
