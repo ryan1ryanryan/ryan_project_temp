@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-03-26 11:56",
+    "last_updated": "2026-03-26 13:22",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Future Sony PlayStation games will use AI to imagine new frames",
+            "description": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new frames between the ones it's actually \u2026",
+            "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717620/247361_PS5_Pro_VPavic_182.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+            "publishedAt": "2026-03-20T19:49:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nby\r\nSea\u2026 [+3082 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dana Alomar",
+            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
+            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
+            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
+            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
+            "publishedAt": "2026-03-11T18:38:21Z",
+            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,20 +69,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T11:15:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Future Sony PlayStation games will use AI to imagine new frames",
-            "description": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new frames between the ones it's actually \u2026",
-            "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717620/247361_PS5_Pro_VPavic_182.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
-            "publishedAt": "2026-03-20T19:49:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nby\r\nSea\u2026 [+3082 chars]",
             "ai_score": 5
         },
         {
@@ -587,20 +601,6 @@
             "urlToImage": "https://media.wired.com/photos/69a80d4351ceefbb4fe55330/191:100/w_1280,c_limit/GettyImages-2219660002.jpg",
             "publishedAt": "2026-03-13T10:30:00Z",
             "content": "5G came with many promises. Remote surgery, where surgeons operate thousands of miles away from patients; driverless cars talking to each other and autonomously navigating highways; new killer apps t\u2026 [+4181 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dana Alomar",
-            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
-            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
-            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
-            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
-            "publishedAt": "2026-03-11T18:38:21Z",
-            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
