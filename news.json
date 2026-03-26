@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-26 22:36",
+    "last_updated": "2026-03-26 23:39",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Nvidia has lost the plot with gamers",
-            "description": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot. Nvidia could've marketed its new DLSS 5 real-time lighting technology as a w\u2026",
-            "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-17T23:13:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "ChatGPT did not cure a dog\u2019s cancer",
+            "description": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story couldn't help but spread. It's the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine an\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-18T18:14:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nChatGPT did not cure a dogs cancer\r\nA sick dog, desperate owner, and a bunch of chatbots made for a great story. The actual science was much messier. \r\nby\r\nRober\u2026 [+8575 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Nvidia has lost the plot with gamers",
+            "description": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot. Nvidia could've marketed its new DLSS 5 real-time lighting technology as a w\u2026",
+            "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-17T23:13:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
             "ai_score": 5
         },
         {
@@ -161,20 +175,6 @@
                 "name": "The Verge"
             },
             "author": "Jay Peters",
-            "title": "Valve\u2019s Steam Machine may not launch this year",
-            "description": "Valve still can't reveal details about the Steam Machine, Steam Frame, and Steam Controller launch dates, which were originally scheduled for early 2026. In a new post, the company now says \"we hope to ship in 2026\" due to the ongoing shortages of memory and \u2026",
-            "url": "https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/R6WsqDDQ.jpeg?quality=90&strip=all&crop=0%2C6.8753495455066%2C100%2C86.249300908987&w=1200",
-            "publishedAt": "2026-03-06T21:36:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company now says we hope to ship new Steam hardware in 2026.\r\nThe company now says we hope to ship new Steam hardware in 2026.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+1990 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
             "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
             "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
             "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
@@ -195,6 +195,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-10T14:02:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Valve\u2019s Steam Machine may not launch this year",
+            "description": "Valve still can't reveal details about the Steam Machine, Steam Frame, and Steam Controller launch dates, which were originally scheduled for early 2026. In a new post, the company now says \"we hope to ship in 2026\" due to the ongoing shortages of memory and \u2026",
+            "url": "https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/R6WsqDDQ.jpeg?quality=90&strip=all&crop=0%2C6.8753495455066%2C100%2C86.249300908987&w=1200",
+            "publishedAt": "2026-03-06T21:36:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company now says we hope to ship new Steam hardware in 2026.\r\nThe company now says we hope to ship new Steam hardware in 2026.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+1990 chars]",
             "ai_score": 5
         },
         {
@@ -237,20 +251,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
             "publishedAt": "2026-03-11T17:36:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "ChatGPT did not cure a dog\u2019s cancer",
-            "description": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story couldn't help but spread. It's the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine an\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-18T18:14:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nChatGPT did not cure a dogs cancer\r\nA sick dog, desperate owner, and a bunch of chatbots made for a great story. The actual science was much messier. \r\nby\r\nRober\u2026 [+8575 chars]",
             "ai_score": 5
         },
         {
