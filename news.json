@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-29 19:38",
+    "last_updated": "2026-03-29 20:39",
     "articles": [
         {
             "source": {
@@ -440,20 +440,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Valve\u2019s huge SteamOS 3.8 update adds long-awaited features \u2014 and supports Steam Machine",
-            "description": "Valve has just released SteamOS 3.8.0 in preview, and it's a doozy. Not only is it the first release to support the upcoming Steam Machine living room gaming PC, it comes with long-awaited features for Valve's handhelds and more support for other companies' h\u2026",
-            "url": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
-            "publishedAt": "2026-03-20T00:34:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSteam Deck hibernation mode, Bluetooth headset microphones, and lots of support for Xbox Ally, Legion Go 2, and more.\r\nSteam Deck hibernation mode, Bluetooth hea\u2026 [+3919 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "AI was everywhere at gaming\u2019s big developer conference \u2014 except the games",
             "description": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantas\u2026",
@@ -461,6 +447,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/55146110863_3ec9504855_o.jpg?quality=90&strip=all&crop=0%2C10.757510848913%2C100%2C78.484978302174&w=1200",
             "publishedAt": "2026-03-21T02:25:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAI was everywhere at gamings big developer conference except the games\r\nOf the many developers I spoke to at GDC, nearly every one disavowed using AI in their pr\u2026 [+8041 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Valve\u2019s huge SteamOS 3.8 update adds long-awaited features \u2014 and supports Steam Machine",
+            "description": "Valve has just released SteamOS 3.8.0 in preview, and it's a doozy. Not only is it the first release to support the upcoming Steam Machine living room gaming PC, it comes with long-awaited features for Valve's handhelds and more support for other companies' h\u2026",
+            "url": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
+            "publishedAt": "2026-03-20T00:34:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSteam Deck hibernation mode, Bluetooth headset microphones, and lots of support for Xbox Ally, Legion Go 2, and more.\r\nSteam Deck hibernation mode, Bluetooth hea\u2026 [+3919 chars]",
             "ai_score": 5
         },
         {
