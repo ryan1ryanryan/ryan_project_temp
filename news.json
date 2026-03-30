@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-30 02:39",
+    "last_updated": "2026-03-30 05:31",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Nevada Bans Kalshi for at Least the Next Two Weeks",
+            "description": "The ban comes at a time when regulators and lawmakers are on high alert over prediction markets.",
+            "url": "https://gizmodo.com/nevada-bans-kalshi-for-at-least-the-next-two-weeks-2000736211",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Sports-Book-at-Caesars-Palace-1200x675.jpg",
+            "publishedAt": "2026-03-20T19:50:22Z",
+            "content": "A court in Nevada has issued a restraining order against Kalshi that prohibits the online prediction market from operating in the state, according to a new report from Wired. The order lasts 14 days \u2026 [+2376 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -601,20 +615,6 @@
             "urlToImage": "https://media.wired.com/photos/69c44c4c4ff31d9d83686fcc/191:100/w_1280,c_limit/Model-Behavior-Newsletter-Writers-Using-AI-to-Write-Their-Columns-Business.jpg",
             "publishedAt": "2026-03-26T18:00:00Z",
             "content": "When technology reporter Alex Heath has a scoop, he sits down at his computer and speaks into a microphone. Hes not talking to a human colleagueHeath went independent on Substack last yearhes talking\u2026 [+3641 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Nevada Bans Kalshi for at Least the Next Two Weeks",
-            "description": "The ban comes at a time when regulators and lawmakers are on high alert over prediction markets.",
-            "url": "https://gizmodo.com/nevada-bans-kalshi-for-at-least-the-next-two-weeks-2000736211",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Sports-Book-at-Caesars-Palace-1200x675.jpg",
-            "publishedAt": "2026-03-20T19:50:22Z",
-            "content": "A court in Nevada has issued a restraining order against Kalshi that prohibits the online prediction market from operating in the state, according to a new report from Wired. The order lasts 14 days \u2026 [+2376 chars]",
             "ai_score": 5
         },
         {
