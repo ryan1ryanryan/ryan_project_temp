@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-03-31 02:34",
+    "last_updated": "2026-03-31 05:15",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Nvidia\u2019s DLSS 5 is like motion smoothing for video games, but worse",
-            "description": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to \u2026",
-            "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
-            "publishedAt": "2026-03-17T17:58:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-17T23:13:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Nvidia\u2019s DLSS 5 is like motion smoothing for video games, but worse",
+            "description": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to \u2026",
+            "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
+            "publishedAt": "2026-03-17T17:58:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
             "ai_score": 5
         },
         {
@@ -409,20 +409,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Crimson Desert dev apologizes for use of AI art",
-            "description": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but\u2026",
-            "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/found-this-ai-painting-v0-otfba7ufh8qg1.webp?quality=90&strip=all&crop=0,3.4229797217454,100,93.154040556509",
-            "publishedAt": "2026-03-22T17:34:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts performing a comprehensive audit to remove any AI assets.\r\nIts performing a comprehensive audit to remove any AI assets.\r\nby\r\nTerrence O'BrienClose\r\nPosts fr\u2026 [+1946 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -433,6 +419,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/xena-bbn-rtx-x-ray-1200x675.jpg",
             "publishedAt": "2026-02-27T16:35:35Z",
             "content": "According to the National Institute of Standards and Technology (NIST), the U.S. government spends billions of dollars on X-ray imaging technology for security purposes. The latest project in this re\u2026 [+2759 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Crimson Desert dev apologizes for use of AI art",
+            "description": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but\u2026",
+            "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/found-this-ai-painting-v0-otfba7ufh8qg1.webp?quality=90&strip=all&crop=0,3.4229797217454,100,93.154040556509",
+            "publishedAt": "2026-03-22T17:34:34Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts performing a comprehensive audit to remove any AI assets.\r\nIts performing a comprehensive audit to remove any AI assets.\r\nby\r\nTerrence O'BrienClose\r\nPosts fr\u2026 [+1946 chars]",
             "ai_score": 5
         },
         {
