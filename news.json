@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-03-31 20:48",
+    "last_updated": "2026-03-31 21:45",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Louryn Strampe",
+            "title": "These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
+            "description": "Amazon\u2019s Spring Sale spans almost an entire week, and it\u2019s full of fake \u201cdeals.\u201d We hunted to find truly good prices on gear we\u2019ve tested.",
+            "url": "https://www.wired.com/story/the-amazon-spring-sale-2026/",
+            "urlToImage": "https://media.wired.com/photos/69c31871ea56e672b4eef17c/191:100/w_1280,c_limit/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg",
+            "publishedAt": "2026-03-25T07:01:00Z",
+            "content": "After a relatively quiet few months, Amazon is bringing back another of its famously invented shopping holidays. The Amazon Spring Sale is on its third year, and it's on now through March 31. Like du\u2026 [+1166 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -531,20 +545,6 @@
             "urlToImage": "https://media.wired.com/photos/69b46340abbbb99979b2e570/191:100/w_1280,c_limit/Nevada-Ban-Kalshi-Business-2263571512.jpg",
             "publishedAt": "2026-03-20T16:54:15Z",
             "content": "Kalshi has been temporarily banned in Nevada, marking the latest escalation in the widening regulatory war over prediction markets. The First Judicial District Court of Nevada has issued a 14 day res\u2026 [+3963 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Louryn Strampe",
-            "title": "These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
-            "description": "Amazon\u2019s Spring Sale spans almost an entire week, and it\u2019s full of fake \u201cdeals.\u201d We hunted to find truly good prices on gear we\u2019ve tested.",
-            "url": "https://www.wired.com/story/the-amazon-spring-sale-2026/",
-            "urlToImage": "https://media.wired.com/photos/69c31871ea56e672b4eef17c/191:100/w_1280,c_limit/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg",
-            "publishedAt": "2026-03-25T07:01:00Z",
-            "content": "After a relatively quiet few months, Amazon is bringing back another of its famously invented shopping holidays. The Amazon Spring Sale is on its third year, and it's on now through March 31. Like du\u2026 [+1166 chars]",
             "ai_score": 5
         },
         {
