@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-01 21:48",
+    "last_updated": "2026-04-01 22:43",
     "articles": [
         {
             "source": {
@@ -914,20 +914,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNET"
-            },
-            "author": "Ajay Kumar",
-            "title": "My Favorite Gaming Headphones From SteelSeries Cured My Battery Anxiety",
-            "description": "I've used a lot of great wireless gaming headsets, but this pair from SteelSeries helped me stop worrying about battery life, making them worth the high price.",
-            "url": "https://www.cnet.com/tech/mobile/my-favorite-gaming-headphones-from-steelseries-cured-my-battery-anxiety/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/fbbaaa9fa1de0658e9a79eb258a0c29fc590cc6f/hub/2026/03/10/7911e01a-9785-4763-a4b3-c576b7adba17/dsc05177.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-03-11T15:01:01Z",
-            "content": "Wireless PC gaming headsets are a necessity for me. Wired gaming headsets are just too restrictive, tethering you to your desk and limiting your movements during intense gaming sessions. However, the\u2026 [+8505 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Raymond Wong",
@@ -937,6 +923,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Best-Gadgets-March-2026-1200x675.png",
             "publishedAt": "2026-03-31T20:05:23Z",
             "content": "March madness is over. No, not college basketball. I\u2019m, of course, talking about Apple\u2019s own March bonanza headlined by the $600 MacBook Neo. The low-cost and colorful laptop easily stole the spotlig\u2026 [+9044 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ajay Kumar",
+            "title": "My Favorite Gaming Headphones From SteelSeries Cured My Battery Anxiety",
+            "description": "I've used a lot of great wireless gaming headsets, but this pair from SteelSeries helped me stop worrying about battery life, making them worth the high price.",
+            "url": "https://www.cnet.com/tech/mobile/my-favorite-gaming-headphones-from-steelseries-cured-my-battery-anxiety/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/fbbaaa9fa1de0658e9a79eb258a0c29fc590cc6f/hub/2026/03/10/7911e01a-9785-4763-a4b3-c576b7adba17/dsc05177.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-03-11T15:01:01Z",
+            "content": "Wireless PC gaming headsets are a necessity for me. Wired gaming headsets are just too restrictive, tethering you to your desk and limiting your movements during intense gaming sessions. However, the\u2026 [+8505 chars]",
             "ai_score": 5
         },
         {
