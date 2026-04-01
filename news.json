@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-04-01 17:58",
+    "last_updated": "2026-04-01 19:09",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Race on to establish globally recognised 'AI-free' logo",
+            "description": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.",
+            "url": "https://www.bbc.com/news/articles/cj0d6el50ppo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb52/live/5b0b7900-1ed2-11f1-b8f6-b15aa2adfcf4.jpg",
+            "publishedAt": "2026-03-16T00:32:50Z",
+            "content": "Declarations like \"Proudly Human\", \"Human-made\", '\"No A.I\" and \"AI-free\" are appearing across films, marketing, books and websites.",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -115,16 +129,16 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Luke Larsen",
-            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
-            "description": "Most laptop cooling pads are useless, but if you get the right one, it can make a huge impact on how long your gaming laptop lasts.",
-            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
-            "urlToImage": "https://media.wired.com/photos/69a252bf649b7677b3e2628d/191:100/w_1280,c_limit/IMG_3052.JPG",
-            "publishedAt": "2026-02-28T11:38:00Z",
-            "content": "The idea of using a laptop cooling pad feels antiquated. These days, laptop chips have become extremely efficient. The fans on MacBooks (if they even have them) are barely used, and both Intel and Qu\u2026 [+2779 chars]",
+            "author": "Jay Peters",
+            "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
+            "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
+            "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-10T15:18:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
             "ai_score": 5
         },
         {
@@ -139,20 +153,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-10T14:02:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
-            "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
-            "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-10T15:18:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
             "ai_score": 5
         },
         {
@@ -244,20 +244,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-23T19:42:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Justine Calma",
             "title": "Seven tech giants signed Trump\u2019s pledge to keep electricity costs from spiking around data centers",
             "description": "Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech compani\u2026",
@@ -265,6 +251,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2264235364.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
             "publishedAt": "2026-03-05T00:17:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe pledge is supposed to commit companies to paying for grid upgrades needed to meet soaring electricity demand from data centers. \r\nThe pledge is supposed to c\u2026 [+6484 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
+            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-23T19:42:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]",
             "ai_score": 5
         },
         {
@@ -731,20 +731,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Race on to establish globally recognised 'AI-free' logo",
-            "description": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.",
-            "url": "https://www.bbc.com/news/articles/cj0d6el50ppo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb52/live/5b0b7900-1ed2-11f1-b8f6-b15aa2adfcf4.jpg",
-            "publishedAt": "2026-03-16T00:32:50Z",
-            "content": "Declarations like \"Proudly Human\", \"Human-made\", '\"No A.I\" and \"AI-free\" are appearing across films, marketing, books and websites.",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -790,13 +776,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
-            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
-            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-03-01T16:00:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
+            "author": "Hayden Field",
+            "title": "Anthropic is suing the Department of Defense",
+            "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-09T16:48:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump admin labeled Anthropics AI a supply-chain risk after the company wouldnt back down on acceptable uses for its tech.\r\nThe Trump admin labeled Anthropic\u2026 [+4413 chars]",
             "ai_score": 5
         },
         {
@@ -818,13 +804,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Anthropic is suing the Department of Defense",
-            "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-09T16:48:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump admin labeled Anthropics AI a supply-chain risk after the company wouldnt back down on acceptable uses for its tech.\r\nThe Trump admin labeled Anthropic\u2026 [+4413 chars]",
+            "author": "Cameron Faulkner",
+            "title": "Lego\u2019s Smart Brick is here, and it transforms these new Star Wars sets",
+            "description": "Lego's new Smart Brick is a pretty big deal. It packs a miniature computer, a microphone, and NFC tech into a classic 2\u00d74 Lego brick, which can power all sorts of new experiences with select sets. It has so much promise that we awarded it \"best in show\" at CE\u2026",
+            "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego-star-wars-smart-play-yoda-luke-training-dagobah.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-03-01T16:00:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.\r\nThe Smart Brick comes with three of eight \u2026 [+2536 chars]",
             "ai_score": 5
         },
         {
@@ -1154,20 +1140,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
-            "description": "At GTC, Jensen Huang was on damage control for AI.",
-            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
-            "publishedAt": "2026-03-20T20:10:56Z",
-            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Bruce Gil",
             "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
             "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
@@ -1182,13 +1154,55 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Tulani Ngwenya, Benon Oluka, and Sam Schramski",
-            "title": "The War on Poaching Has Gone Full Tech Dystopia\u2014and It May Not Be Working",
-            "description": "Surveillance technology intended to protect endangered species is weaponized against locals, with repercussions that range from harassment to physical violence.",
-            "url": "https://gizmodo.com/the-war-on-poaching-has-gone-full-tech-dystopia-and-it-may-not-be-working-2000727598",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/03Murchision03-1200x675.jpg",
-            "publishedAt": "2026-02-28T11:00:01Z",
-            "content": "Forget khaki shorts and binoculars: Modern wildlife conservation has morphed into something that looks less like protecting elephants and more like a video game, although with more real-world consequ\u2026 [+32048 chars]",
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
+            "description": "At GTC, Jensen Huang was on damage control for AI.",
+            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
+            "publishedAt": "2026-03-20T20:10:56Z",
+            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "John.Higgins",
+            "title": "The Hisense U7SG is a great midrange TV you shouldn\u2019t buy yet",
+            "description": "With all of the focus on RGB LED technology, it seemed like more affordable mini-LED TVs had been shooed to the side. But with the Hisense U7SG, we're getting our first great midrange general-use TV of 2026. It gets bright, comes in a wide range of sizes, sup\u2026",
+            "url": "https://www.theverge.com/tech/899160/hisense-u7sg-tv-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268382_Hisense_U7SG_TV_JHiggins_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-23T23:10:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe U7SG has improved reflection and blooming control, but it will be cheaper in a few months.\r\nIf you buy something from a Verge link, Vox Media may earn a comm\u2026 [+9072 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "PC Gaming Hardware Maker Calls 2026 \u2018Most Challenging Year Ever\u2019 As It Hikes Prices Up To 30 Percent",
+            "description": "MSI is cutting back on how many low-end GPUs it makes to focus on mid-and high-range hardware",
+            "url": "https://kotaku.com/msi-2026-most-challenging-year-hikes-prices-up-to-30-percent-low-end-gpu-2000679237",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/03/badnewsgpu-1200x675.jpg",
+            "publishedAt": "2026-03-16T22:17:02Z",
+            "content": "I bring more bad news about the price of GPUs and other PC gaming hardware in 2026. MSI explained that due to continued shortages of DRAM, some of its gaming products could increase by as much as 30 \u2026 [+2160 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Gaby Del Valle",
+            "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
+            "description": "Last fall, President Donald Trump's executive order raising the fee for H-1B visas to $100,000 - like many of his immigration policies - led to near-immediate chaos. Thousands of workers who had flown overseas to renew their visas ended up stranded abroad. De\u2026",
+            "url": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268403_The_100000_fee_for_H-1Bs_six_months_later_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-13T19:50:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nUnlike Big Tech, rural schools and hospitals that rely on immigrant workers cant absorb the high cost of H-1B visas.\r\nUnlike Big Tech, rural schools and hospital\u2026 [+10582 chars]",
             "ai_score": 5
         }
     ]
