@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-02 09:03",
+    "last_updated": "2026-04-02 10:12",
     "articles": [
         {
             "source": {
@@ -265,6 +265,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-13T13:13:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Alana Hope Levinson",
+            "title": "Taylor Lorenz\u2019s Screen Time Is Almost 17 Hours a Day",
+            "description": "The extremely online journalist and content creator doesn\u2019t believe in tech hygiene and yearns for a world where \u201cinbox infinity\u201d is celebrated.",
+            "url": "https://www.wired.com/story/user-behavior-taylor-lorenz/",
+            "urlToImage": "https://media.wired.com/photos/69c6d89e354f3d7094620904/191:100/w_1280,c_limit/Taylor%20Lorenz-by%20Oscar%20Climent%20Ollet.jpg",
+            "publishedAt": "2026-04-01T10:00:00Z",
+            "content": "Taylor Lorenz doesnt want to touch grass. The technology and culture journalist wrote the bestselling book Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet, and she ha\u2026 [+10104 chars]",
             "ai_score": 5
         },
         {
@@ -745,20 +759,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brad Bourque",
-            "title": "Our Favorite Budget TV Is On Sale",
-            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
-            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
-            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
-            "publishedAt": "2026-03-02T18:25:57Z",
-            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -769,6 +769,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb52/live/5b0b7900-1ed2-11f1-b8f6-b15aa2adfcf4.jpg",
             "publishedAt": "2026-03-16T00:32:50Z",
             "content": "Declarations like \"Proudly Human\", \"Human-made\", '\"No A.I\" and \"AI-free\" are appearing across films, marketing, books and websites.",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Our Favorite Budget TV Is On Sale",
+            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
+            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
+            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
+            "publishedAt": "2026-03-02T18:25:57Z",
+            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
             "ai_score": 5
         },
         {
@@ -1189,20 +1203,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
             "publishedAt": "2026-03-20T20:10:56Z",
             "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
-            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
-            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
-            "publishedAt": "2026-03-20T16:10:04Z",
-            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
             "ai_score": 5
         }
     ]
