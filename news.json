@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-04-03 16:47",
+    "last_updated": "2026-04-03 17:40",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer\u2019s New Blade 16 Gaming Laptop May Have Good Battery life, for Once",
+            "description": "Razer's switching to Panther Lake and is trying to fix the worst pain points of the previous premium Blade.",
+            "url": "https://gizmodo.com/razer-blade-16-2026-gaming-laptop-may-have-good-battery-life-for-once-2000737934",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Razer-Blade-16-2026-3-1200x675.jpg",
+            "publishedAt": "2026-03-25T16:15:15Z",
+            "content": "We still dream of treating our gaming laptops as our one and only everyday device. The super-thin Razer Blade 16 from 2025 came close to that goal, but it just didnt have the staying power for a dail\u2026 [+3674 chars]",
+            "ai_score": 9
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -517,20 +531,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Alienware-Area-51-16-inch-18-inch-Gaming-Laptop-review-02-1200x675.jpg",
             "publishedAt": "2026-03-17T19:45:21Z",
             "content": "Intels new chips built for 2026\u2019s revised slate of gaming laptops promise a marginal boost in game performance. The new CPUs shouldn\u2019t be the only reason you buy a desktop replacement laptop this yea\u2026 [+4381 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer\u2019s New Blade 16 Gaming Laptop May Have Good Battery life, for Once",
-            "description": "Razer's switching to Panther Lake and is trying to fix the worst pain points of the previous premium Blade.",
-            "url": "https://gizmodo.com/razer-blade-16-2026-gaming-laptop-may-have-good-battery-life-for-once-2000737934",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Razer-Blade-16-2026-3-1200x675.jpg",
-            "publishedAt": "2026-03-25T16:15:15Z",
-            "content": "We still dream of treating our gaming laptops as our one and only everyday device. The super-thin Razer Blade 16 from 2025 came close to that goal, but it just didnt have the staying power for a dail\u2026 [+3674 chars]",
             "ai_score": 5
         },
         {
