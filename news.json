@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-03 02:32",
+    "last_updated": "2026-04-03 05:11",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -759,20 +759,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brad Bourque",
-            "title": "Our Favorite Budget TV Is On Sale",
-            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
-            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
-            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
-            "publishedAt": "2026-03-02T18:25:57Z",
-            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -783,6 +769,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb52/live/5b0b7900-1ed2-11f1-b8f6-b15aa2adfcf4.jpg",
             "publishedAt": "2026-03-16T00:32:50Z",
             "content": "Declarations like \"Proudly Human\", \"Human-made\", '\"No A.I\" and \"AI-free\" are appearing across films, marketing, books and websites.",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Our Favorite Budget TV Is On Sale",
+            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
+            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
+            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
+            "publishedAt": "2026-03-02T18:25:57Z",
+            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
             "ai_score": 5
         },
         {
