@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-03 17:40",
+    "last_updated": "2026-04-03 18:55",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer\u2019s New Blade 16 Gaming Laptop May Have Good Battery life, for Once",
-            "description": "Razer's switching to Panther Lake and is trying to fix the worst pain points of the previous premium Blade.",
-            "url": "https://gizmodo.com/razer-blade-16-2026-gaming-laptop-may-have-good-battery-life-for-once-2000737934",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Razer-Blade-16-2026-3-1200x675.jpg",
-            "publishedAt": "2026-03-25T16:15:15Z",
-            "content": "We still dream of treating our gaming laptops as our one and only everyday device. The super-thin Razer Blade 16 from 2025 came close to that goal, but it just didnt have the staying power for a dail\u2026 [+3674 chars]",
-            "ai_score": 9
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -465,6 +451,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boone Ashworth",
+            "title": "Your Art Can Go in This San Francisco Alley",
+            "description": "A trio of tech pranksters have launched a website where you can submit artwork and vote on which pieces belong in the final design. Of course, AI will scan for dick pics.",
+            "url": "https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/",
+            "urlToImage": "https://media.wired.com/photos/69ceadac87d75b5fc6be3f42/191:100/w_1280,c_limit/Tech-Pranksters-Turning-San-Franciscos-Dirt-Alley-Into-Art-Collage-Culture-IMG_20260402_100455.jpg",
+            "publishedAt": "2026-04-02T18:27:45Z",
+            "content": "Last year, a couple in San Francisco accidentally paid way too much money for a dirt road. On an auction bid starting at $1, they put down $25,000, thinking they were getting a screaming deal on a pa\u2026 [+2352 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -531,6 +531,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Alienware-Area-51-16-inch-18-inch-Gaming-Laptop-review-02-1200x675.jpg",
             "publishedAt": "2026-03-17T19:45:21Z",
             "content": "Intels new chips built for 2026\u2019s revised slate of gaming laptops promise a marginal boost in game performance. The new CPUs shouldn\u2019t be the only reason you buy a desktop replacement laptop this yea\u2026 [+4381 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer\u2019s New Blade 16 Gaming Laptop May Have Good Battery life, for Once",
+            "description": "Razer's switching to Panther Lake and is trying to fix the worst pain points of the previous premium Blade.",
+            "url": "https://gizmodo.com/razer-blade-16-2026-gaming-laptop-may-have-good-battery-life-for-once-2000737934",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Razer-Blade-16-2026-3-1200x675.jpg",
+            "publishedAt": "2026-03-25T16:15:15Z",
+            "content": "We still dream of treating our gaming laptops as our one and only everyday device. The super-thin Razer Blade 16 from 2025 came close to that goal, but it just didnt have the staying power for a dail\u2026 [+3674 chars]",
             "ai_score": 5
         },
         {
@@ -1025,6 +1039,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Molly Taft",
+            "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
+            "description": "Documents show that one of Google\u2019s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year\u2014an increasingly common trend in the industry.",
+            "url": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
+            "urlToImage": "https://media.wired.com/photos/69cda0ecca819c3b6fb66073/191:100/w_1280,c_limit/As-Google-Builds-Out-Renewables-Its-Also-Leaning-on-Fossil-Fuels-Science.jpg",
+            "publishedAt": "2026-04-02T18:27:29Z",
+            "content": "Grid growth can't match AI demand, so a pragmatic 'all-of-the-above' strategy is essentialwith gas as a critical bridge, Cully Cavness, the cofounder and president of Crusoe, told WIRED in a statemen\u2026 [+3555 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Android Central"
             },
@@ -1203,34 +1231,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
             "publishedAt": "2026-03-20T20:10:56Z",
             "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "John.Higgins",
-            "title": "The Hisense U7SG is a great midrange TV you shouldn\u2019t buy yet",
-            "description": "With all of the focus on RGB LED technology, it seemed like more affordable mini-LED TVs had been shooed to the side. But with the Hisense U7SG, we're getting our first great midrange general-use TV of 2026. It gets bright, comes in a wide range of sizes, sup\u2026",
-            "url": "https://www.theverge.com/tech/899160/hisense-u7sg-tv-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268382_Hisense_U7SG_TV_JHiggins_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-23T23:10:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe U7SG has improved reflection and blooming control, but it will be cheaper in a few months.\r\nIf you buy something from a Verge link, Vox Media may earn a comm\u2026 [+9072 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "PC Gaming Hardware Maker Calls 2026 \u2018Most Challenging Year Ever\u2019 As It Hikes Prices Up To 30 Percent",
-            "description": "MSI is cutting back on how many low-end GPUs it makes to focus on mid-and high-range hardware",
-            "url": "https://kotaku.com/msi-2026-most-challenging-year-hikes-prices-up-to-30-percent-low-end-gpu-2000679237",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/03/badnewsgpu-1200x675.jpg",
-            "publishedAt": "2026-03-16T22:17:02Z",
-            "content": "I bring more bad news about the price of GPUs and other PC gaming hardware in 2026. MSI explained that due to continued shortages of DRAM, some of its gaming products could increase by as much as 30 \u2026 [+2160 chars]",
             "ai_score": 5
         }
     ]
