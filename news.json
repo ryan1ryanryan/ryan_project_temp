@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-03 20:43",
+    "last_updated": "2026-04-03 21:40",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -465,6 +465,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs",
+            "title": "\u2018Uncanny Valley\u2019: Iran\u2019s Threats on US Tech, Trump\u2019s Plans for Midterms, and Polymarket\u2019s Pop-up Flop",
+            "description": "In this episode, we discuss Iran\u2019s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
+            "urlToImage": "https://media.wired.com/photos/69cda03bbbb99516b24f8b5f/191:100/w_1280,c_limit/Uncanny-Valley-Trump-Iran-Tech-Companies-Security-2268129741.jpg",
+            "publishedAt": "2026-04-02T21:04:22Z",
+            "content": "Kate Knibbs: So, you went twice?\r\nMakena Kelly: Yes, Kate. I went twice.\r\nKate Knibbs: I missed that.\r\nZo\u00eb Schiffer: Wait, is the Pentagon Pizza thing a joke about the pizza predicting the war?\r\nMake\u2026 [+3275 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -787,6 +801,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brad Bourque",
+            "title": "Our Favorite Budget TV Is On Sale",
+            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
+            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
+            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
+            "publishedAt": "2026-03-02T18:25:57Z",
+            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -811,20 +839,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868498.jpg?quality=90&strip=all&crop=0%2C10.726456111031%2C100%2C78.547087777937&w=1200",
             "publishedAt": "2026-03-04T14:15:03Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nUntangling the Anthropic-PentagonOpenAI-Iran news cycle.\r\nUntangling the Anthropic-PentagonOpenAI-Iran news cycle.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Washin\u2026 [+11805 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brad Bourque",
-            "title": "Our Favorite Budget TV Is On Sale",
-            "description": "This 55-inch Vizion isn't the fanciest, but you could do a lot worse for under $300.",
-            "url": "https://www.wired.com/story/vizio-tv-deal-226/",
-            "urlToImage": "https://media.wired.com/photos/69a5d56a896b60fea8247136/191:100/w_1280,c_limit/Our%20Favorite%20Budget%20TV%20Is%20$27%20Off.png",
-            "publishedAt": "2026-03-02T18:25:57Z",
-            "content": "Looking for a new television, but don't want to break the bank on fancy QD-OLED technology and features you may not need? This 55-inch screen from Vizio is marked down to $237 at Walmart, a ten perce\u2026 [+1770 chars]",
             "ai_score": 5
         },
         {
@@ -1217,20 +1231,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
             "publishedAt": "2026-03-20T16:10:04Z",
             "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
-            "description": "At GTC, Jensen Huang was on damage control for AI.",
-            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
-            "publishedAt": "2026-03-20T20:10:56Z",
-            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
             "ai_score": 5
         }
     ]
