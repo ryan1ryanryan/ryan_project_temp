@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-04 20:39",
+    "last_updated": "2026-04-04 21:37",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -874,6 +874,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Stevie Bonifield",
+            "title": "NASA did eventually solve Artemis II\u2019s Outlook glitch",
+            "description": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman\u2026",
+            "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2269451654.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-03T20:53:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue has been resolved.\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue\u2026 [+2955 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Andrew J. Hawkins",
             "title": "The uncomfortable truth about hybrid vehicles",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the EV struggle, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Ap\u2026",
@@ -1217,20 +1231,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/03/grace.jpg",
             "publishedAt": "2026-03-18T17:11:29Z",
             "content": "Nvidia is facing a firestorm of confusion, skepticism, and outrage over its recent DLSS 5 demo that shows generative AI being used to achieve more photorealistic lighting, and also yassifying the fac\u2026 [+4418 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility",
-            "description": "You are responsible for your agent, because they don't want to be.",
-            "url": "https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/openclaw_line-1200x675.jpg",
-            "publishedAt": "2026-03-17T19:20:07Z",
-            "content": "It\u2019s difficult to say just how many AI agents are up and running on the open web, but whatever the number is, it seems like it\u2019s encroaching on \u201ctoo many\u201d territory. The Wild West era of the space, b\u2026 [+3473 chars]",
             "ai_score": 5
         }
     ]
