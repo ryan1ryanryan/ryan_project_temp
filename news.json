@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-05 02:39",
+    "last_updated": "2026-04-05 05:18",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "EditorDavid",
-            "title": "Gaming Site Editor Jailbreaks an Amazon Echo Show",
-            "description": "\"A few developers found a way, for now, to turn a few of these increasingly mediocre Amazon Show devices into friendly, useful, open computers,\" writes the co-founder of the gaming/tech news site Aftermath. For under $50 each, he bought some used versions of \u2026",
-            "url": "https://news.slashdot.org/story/26/03/14/0458245/gaming-site-editor-jailbreaks-an-amazon-echo-show",
-            "urlToImage": "https://a.fsdn.com/sd/topics/opensource_64.png",
-            "publishedAt": "2026-03-14T20:34:00Z",
-            "content": "Customers who bought these devices and used them for several years were not used to them showing full screen ads, and now they do. People were justifiably pissed. So what do you do when an already ev\u2026 [+2043 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -1147,6 +1133,20 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/EFPrx5XJwpgAUAevsfhqs6-2048-80.jpg",
             "publishedAt": "2026-03-13T12:26:13Z",
             "content": "What you need to know\r\n<ul><li>A new teardown reveals that the Galaxy S26 Ultra quietly packs meaningful hardware changes, especially to the camera and cooling system.</li><li>Samsung also increased \u2026 [+3970 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Gaming Site Editor Jailbreaks an Amazon Echo Show",
+            "description": "\"A few developers found a way, for now, to turn a few of these increasingly mediocre Amazon Show devices into friendly, useful, open computers,\" writes the co-founder of the gaming/tech news site Aftermath. For under $50 each, he bought some used versions of \u2026",
+            "url": "https://news.slashdot.org/story/26/03/14/0458245/gaming-site-editor-jailbreaks-an-amazon-echo-show",
+            "urlToImage": "https://a.fsdn.com/sd/topics/opensource_64.png",
+            "publishedAt": "2026-03-14T20:34:00Z",
+            "content": "Customers who bought these devices and used them for several years were not used to them showing full screen ads, and now they do. People were justifiably pissed. So what do you do when an already ev\u2026 [+2043 chars]",
             "ai_score": 5
         },
         {
