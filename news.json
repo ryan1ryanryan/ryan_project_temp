@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-05 23:41",
+    "last_updated": "2026-04-06 02:40",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Nvidia has lost the plot with gamers",
-            "description": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot. Nvidia could've marketed its new DLSS 5 real-time lighting technology as a w\u2026",
-            "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-17T23:13:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Nvidia has lost the plot with gamers",
+            "description": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot. Nvidia could've marketed its new DLSS 5 real-time lighting technology as a w\u2026",
+            "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-17T23:13:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
             "ai_score": 5
         },
         {
@@ -629,6 +629,20 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/4TgxxmF8byK2ko6L5qKDDQ-1792-80.jpg",
             "publishedAt": "2026-03-16T18:38:03Z",
             "content": "What you need to know\r\n<ul><li>The RedMagic 11 Air Trace Edition swaps subtle colors for a white design with bold orange accents and a semi-transparent aesthetic.</li><li>It keeps the Snapdragon 8 El\u2026 [+3679 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
+            "description": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses",
+            "url": "https://www.bbc.com/news/articles/ckgxdn9lyd2o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9ee7/live/6a634ad0-2f4f-11f1-a79a-77e93010d956.jpg",
+            "publishedAt": "2026-04-04T23:56:55Z",
+            "content": "Ken Segall, Jobs's creative director for 12 years, told the BBC that Apple's current chief executive, Tim Cook, had done an \"amazing job\" at changing with the times and keeping the company profitable.",
             "ai_score": 5
         },
         {
@@ -1231,20 +1245,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
             "publishedAt": "2026-03-20T20:10:56Z",
             "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
-            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
-            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
-            "publishedAt": "2026-03-20T16:10:04Z",
-            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
             "ai_score": 5
         }
     ]
