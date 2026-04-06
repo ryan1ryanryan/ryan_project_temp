@@ -1,18 +1,88 @@
 {
-    "last_updated": "2026-04-06 05:31",
+    "last_updated": "2026-04-06 07:51",
     "articles": [
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Razer\u2019s first split ergonomic keyboard puts extra keys in reach of your thumbs",
-            "description": "Razer has announced its first keyboard with a split and curved ergonomic layout. The new Pro Type Ergo is available starting today, which at $189.99 is slightly more expensive than the more traditional $159.99 Pro Type Ultra that launched in 2021. Like its pr\u2026",
-            "url": "https://www.theverge.com/tech/903558/razer-pro-type-ergo-split-wireless-bluetooth-keyboard-productivity-availability-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/razer1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-31T14:01:23Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Pro Type Ergo is designed for productivity over gaming but still features Razers colorful RGB lighting.\r\nThe Pro Type Ergo is designed for productivity over \u2026 [+3337 chars]",
+            "author": "Janko Roettgers",
+            "title": "Meta exec hopes VR teens will stick around",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
+            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-12T11:15:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Future Sony PlayStation games will use AI to imagine new frames",
+            "description": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new frames between the ones it's actually \u2026",
+            "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717620/247361_PS5_Pro_VPavic_182.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+            "publishedAt": "2026-03-20T19:49:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nby\r\nSea\u2026 [+3082 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Nintendo cuts Switch 2 production amid weakening console sales",
+            "description": "Nintendo will produce fewer Switch 2 units than it previously projected in response to weakening demand for the console in the US, Bloomberg reports. Four million units of Nintendo's flagship device are expected to be made this quarter instead of the six mill\u2026",
+            "url": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0403_3f603c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-24T11:45:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOutput is reportedly being reduced from six million to four million units, despite the consoles record debut.\r\nOutput is reportedly being reduced from six millio\u2026 [+2670 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Alana Hope Levinson",
+            "title": "Taylor Lorenz\u2019s Screen Time Is Almost 17 Hours a Day",
+            "description": "The extremely online journalist and content creator doesn\u2019t believe in tech hygiene and yearns for a world where \u201cinbox infinity\u201d is celebrated.",
+            "url": "https://www.wired.com/story/user-behavior-taylor-lorenz/",
+            "urlToImage": "https://media.wired.com/photos/69c6d89e354f3d7094620904/191:100/w_1280,c_limit/Taylor%20Lorenz-by%20Oscar%20Climent%20Ollet.jpg",
+            "publishedAt": "2026-04-01T10:00:00Z",
+            "content": "Taylor Lorenz doesnt want to touch grass. The technology and culture journalist wrote the bestselling book Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet, and she ha\u2026 [+10104 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "My dream pair of AR gaming glasses needs to have these nine features",
+            "description": "I\u2019ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By \u201clab,\u201d I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can see through these glasses. Using AR glass\u2026",
+            "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4030918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-03T19:24:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNo available model has all nine, but the latest pairs from Xreal and Viture come pretty close.\r\nNo available model has all nine, but the latest pairs from Xreal \u2026 [+8105 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Meta Unfairly Targeted Older Workers During Layoffs Last Year, Lawsuit Claims",
+            "description": "A laid-off senior director is suing the tech company for wrongful termination and age discrimination.",
+            "url": "https://gizmodo.com/meta-unfairly-targeted-older-workers-during-layoffs-last-year-lawsuit-claims-2000737045",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/meta_sign-1200x675.jpg",
+            "publishedAt": "2026-03-23T20:45:56Z",
+            "content": "Meta is facing yet another lawsuit, this time for age discrimination.\r\nLayoffs at Meta last year allegedly targeted older workers at higher rates, according to a new lawsuit. Former Meta Senior Direc\u2026 [+2515 chars]",
             "ai_score": 8
         },
         {
@@ -55,34 +125,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Blade-16-2026-3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-25T20:36:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThin is still in for the 2026 Blade, but Razer is promising more speed and efficiency.\r\nThin is still in for the 2026 Blade, but Razer is promising more speed an\u2026 [+3313 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "Meta exec hopes VR teens will stick around",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris P\u2026",
-            "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/GorillaTag.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-12T11:15:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas director of VR games Chris Pruett believes that todays GorillaTag teens will still use VR when they grow up.\r\nMetas director of VR games Chris Pruett belie\u2026 [+5724 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Future Sony PlayStation games will use AI to imagine new frames",
-            "description": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new frames between the ones it's actually \u2026",
-            "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717620/247361_PS5_Pro_VPavic_182.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
-            "publishedAt": "2026-03-20T19:49:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nby\r\nSea\u2026 [+3082 chars]",
             "ai_score": 5
         },
         {
@@ -160,20 +202,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
-            "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
-            "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-10T15:18:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "V-bucks are getting more X-pensive",
             "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
@@ -188,13 +216,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Nintendo cuts Switch 2 production amid weakening console sales",
-            "description": "Nintendo will produce fewer Switch 2 units than it previously projected in response to weakening demand for the console in the US, Bloomberg reports. Four million units of Nintendo's flagship device are expected to be made this quarter instead of the six mill\u2026",
-            "url": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0403_3f603c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-24T11:45:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOutput is reportedly being reduced from six million to four million units, despite the consoles record debut.\r\nOutput is reportedly being reduced from six millio\u2026 [+2670 chars]",
+            "author": "Jay Peters",
+            "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
+            "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
+            "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-10T15:18:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
             "ai_score": 5
         },
         {
@@ -209,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/BackBone-Pro.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-13T17:52:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe handsome CMF Watch 3 Pro is also discounted, along with Govees color-changing garden lights and Hogwarts Legacy.\r\nThe handsome CMF Watch 3 Pro is also discou\u2026 [+4807 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Razer\u2019s first split ergonomic keyboard puts extra keys in reach of your thumbs",
+            "description": "Razer has announced its first keyboard with a split and curved ergonomic layout. The new Pro Type Ergo is available starting today, which at $189.99 is slightly more expensive than the more traditional $159.99 Pro Type Ultra that launched in 2021. Like its pr\u2026",
+            "url": "https://www.theverge.com/tech/903558/razer-pro-type-ergo-split-wireless-bluetooth-keyboard-productivity-availability-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/razer1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-31T14:01:23Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Pro Type Ergo is designed for productivity over gaming but still features Razers colorful RGB lighting.\r\nThe Pro Type Ergo is designed for productivity over \u2026 [+3337 chars]",
             "ai_score": 5
         },
         {
@@ -244,20 +286,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Justine Calma",
-            "title": "Seven tech giants signed Trump\u2019s pledge to keep electricity costs from spiking around data centers",
-            "description": "Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech compani\u2026",
-            "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2264235364.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-            "publishedAt": "2026-03-05T00:17:37Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe pledge is supposed to commit companies to paying for grid upgrades needed to meet soaring electricity demand from data centers. \r\nThe pledge is supposed to c\u2026 [+6484 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Hayden Field",
             "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
             "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
@@ -272,27 +300,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The MacBook Neo is a winner",
-            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
-            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-13T13:13:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Alana Hope Levinson",
-            "title": "Taylor Lorenz\u2019s Screen Time Is Almost 17 Hours a Day",
-            "description": "The extremely online journalist and content creator doesn\u2019t believe in tech hygiene and yearns for a world where \u201cinbox infinity\u201d is celebrated.",
-            "url": "https://www.wired.com/story/user-behavior-taylor-lorenz/",
-            "urlToImage": "https://media.wired.com/photos/69c6d89e354f3d7094620904/191:100/w_1280,c_limit/Taylor%20Lorenz-by%20Oscar%20Climent%20Ollet.jpg",
-            "publishedAt": "2026-04-01T10:00:00Z",
-            "content": "Taylor Lorenz doesnt want to touch grass. The technology and culture journalist wrote the bestselling book Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet, and she ha\u2026 [+10104 chars]",
+            "author": "Justine Calma",
+            "title": "Seven tech giants signed Trump\u2019s pledge to keep electricity costs from spiking around data centers",
+            "description": "Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech compani\u2026",
+            "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2264235364.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2026-03-05T00:17:37Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe pledge is supposed to commit companies to paying for grid upgrades needed to meet soaring electricity demand from data centers. \r\nThe pledge is supposed to c\u2026 [+6484 chars]",
             "ai_score": 5
         },
         {
@@ -300,13 +314,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "My dream pair of AR gaming glasses needs to have these nine features",
-            "description": "I\u2019ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By \u201clab,\u201d I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can see through these glasses. Using AR glass\u2026",
-            "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4030918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-03T19:24:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNo available model has all nine, but the latest pairs from Xreal and Viture come pretty close.\r\nNo available model has all nine, but the latest pairs from Xreal \u2026 [+8105 chars]",
+            "author": "David Pierce",
+            "title": "The MacBook Neo is a winner",
+            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
+            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-13T13:13:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
             "ai_score": 5
         },
         {
@@ -437,20 +451,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Meta Unfairly Targeted Older Workers During Layoffs Last Year, Lawsuit Claims",
-            "description": "A laid-off senior director is suing the tech company for wrongful termination and age discrimination.",
-            "url": "https://gizmodo.com/meta-unfairly-targeted-older-workers-during-layoffs-last-year-lawsuit-claims-2000737045",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/meta_sign-1200x675.jpg",
-            "publishedAt": "2026-03-23T20:45:56Z",
-            "content": "Meta is facing yet another lawsuit, this time for age discrimination.\r\nLayoffs at Meta last year allegedly targeted older workers at higher rates, according to a new lawsuit. Former Meta Senior Direc\u2026 [+2515 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -465,20 +465,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Sony appears to be testing dynamic pricing on PlayStation games",
-            "description": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment iden\u2026",
-            "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986616/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-07T17:52:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople are seeing different prices for the same game.\r\nPeople are seeing different prices for the same game.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w\u2026 [+2500 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -489,6 +475,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
             "publishedAt": "2026-04-01T21:30:46Z",
             "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Sony appears to be testing dynamic pricing on PlayStation games",
+            "description": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment iden\u2026",
+            "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986616/acastro_STK097_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-07T17:52:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople are seeing different prices for the same game.\r\nPeople are seeing different prices for the same game.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author w\u2026 [+2500 chars]",
             "ai_score": 5
         },
         {
@@ -874,20 +874,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Anthropic is suing the Department of Defense",
-            "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-09T16:48:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump admin labeled Anthropics AI a supply-chain risk after the company wouldnt back down on acceptable uses for its tech.\r\nThe Trump admin labeled Anthropic\u2026 [+4413 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew J. Hawkins",
             "title": "The uncomfortable truth about hybrid vehicles",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the EV struggle, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Ap\u2026",
@@ -895,6 +881,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268385_The_Stepback-_Plug-in_hybrid_vehicles_arent_all_they_cracked_up_to_be_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-05T19:56:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe uncomfortable truth about hybrid vehicles\r\nPlug-in hybrid owners rarely actually plug in their vehicles, practically negating the climate advantages of the t\u2026 [+8975 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Anthropic is suing the Department of Defense",
+            "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-09T16:48:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump admin labeled Anthropics AI a supply-chain risk after the company wouldnt back down on acceptable uses for its tech.\r\nThe Trump admin labeled Anthropic\u2026 [+4413 chars]",
             "ai_score": 5
         },
         {
@@ -1141,12 +1141,12 @@
                 "name": "BBC News"
             },
             "author": null,
-            "title": "Australians must prove they are over 18 to access porn under new laws",
-            "description": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
-            "url": "https://www.bbc.com/news/articles/cwy92qpv424o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
-            "publishedAt": "2026-03-09T03:02:04Z",
-            "content": "Under the new rules, search engines, app stores, social media and gaming platforms, porn sites and AI systems - including companion chatbots - must take \"meaningful steps\" to prevent children from be\u2026 [+28 chars]",
+            "title": "New EU border checks delayed again over tech issues",
+            "description": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
+            "url": "https://www.bbc.com/news/articles/c33l77k88vyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/651d/live/4f2924f0-2a9b-11f1-b120-218ca874ffa5.jpg",
+            "publishedAt": "2026-03-28T11:28:16Z",
+            "content": "Toby Howe, Kent and Medway Resilience Forum, says: \"For passengers who arrive at the Eurotunnel or the Port of Dover for the foreseeable future, they will have to add additional information at the Fr\u2026 [+17 chars]",
             "ai_score": 5
         },
         {
@@ -1155,12 +1155,12 @@
                 "name": "BBC News"
             },
             "author": null,
-            "title": "New EU border checks delayed again over tech issues",
-            "description": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
-            "url": "https://www.bbc.com/news/articles/c33l77k88vyo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/651d/live/4f2924f0-2a9b-11f1-b120-218ca874ffa5.jpg",
-            "publishedAt": "2026-03-28T11:28:16Z",
-            "content": "Toby Howe, Kent and Medway Resilience Forum, says: \"For passengers who arrive at the Eurotunnel or the Port of Dover for the foreseeable future, they will have to add additional information at the Fr\u2026 [+17 chars]",
+            "title": "Australians must prove they are over 18 to access porn under new laws",
+            "description": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
+            "url": "https://www.bbc.com/news/articles/cwy92qpv424o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
+            "publishedAt": "2026-03-09T03:02:04Z",
+            "content": "Under the new rules, search engines, app stores, social media and gaming platforms, porn sites and AI systems - including companion chatbots - must take \"meaningful steps\" to prevent children from be\u2026 [+28 chars]",
             "ai_score": 5
         },
         {
@@ -1238,13 +1238,13 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Bruce Gil",
-            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
-            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
-            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
-            "publishedAt": "2026-03-20T16:10:04Z",
-            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
+            "description": "At GTC, Jensen Huang was on damage control for AI.",
+            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
+            "publishedAt": "2026-03-20T20:10:56Z",
+            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
             "ai_score": 5
         }
     ]
