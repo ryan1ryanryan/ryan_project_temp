@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-06 22:43",
+    "last_updated": "2026-04-06 23:42",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Henri Robbins",
-            "title": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
-            "description": "It is worth using motorsports materials in a gaming mouse? As long as it's the same price as plastic.",
-            "url": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
-            "urlToImage": "https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/191:100/w_1280,c_limit/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png",
-            "publishedAt": "2026-03-06T13:00:00Z",
-            "content": "While this assembly works well and allows for the mouse to be incredibly lightweight and rigid, I found a few concerns with repairability. With both shells, there is a risk of repeated disassembly br\u2026 [+2752 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -125,6 +111,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/10/lenovo-legion-go-2-review-01-1200x675.jpg",
             "publishedAt": "2026-04-03T14:55:35Z",
             "content": "First, it was Trumps tariffs. Now, it is ballooning RAM prices. Small gaming devices are being ground down by economic forces outside of their control.\u00a0 Even Lenovo, the largest PC brand in the world\u2026 [+3763 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Henri Robbins",
+            "title": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
+            "description": "It is worth using motorsports materials in a gaming mouse? As long as it's the same price as plastic.",
+            "url": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
+            "urlToImage": "https://media.wired.com/photos/69aa71f4cb35fa25edf8f59e/191:100/w_1280,c_limit/Review-%20Corsair%20Sabre%20V2%20Carbon%20Fiber%20and%20Magnesium%20Gaming%20Mice.png",
+            "publishedAt": "2026-03-06T13:00:00Z",
+            "content": "While this assembly works well and allows for the mouse to be incredibly lightweight and rigid, I found a few concerns with repairability. With both shells, there is a risk of repeated disassembly br\u2026 [+2752 chars]",
             "ai_score": 5
         },
         {
