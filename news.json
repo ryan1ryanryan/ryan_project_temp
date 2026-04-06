@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-06 11:57",
+    "last_updated": "2026-04-06 13:18",
     "articles": [
         {
             "source": {
@@ -419,6 +419,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/RecRoom_Creator.png.webp?quality=90&strip=all&crop=0,3.4199101935869,100,93.160179612826",
             "publishedAt": "2026-03-31T00:29:33Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says it never quite figured out how to make Rec Room a sustainably profitable business.\r\nThe company says it never quite figured out how to make Rec \u2026 [+2294 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HP Omen Max 45L Review: 4K60 Gaming Has Never Been So Easy",
+            "description": "Thanks to the ongoing RAM crisis, this pre-built PC tower may be a cheaper way to upgrade your desktop gaming experience.",
+            "url": "https://gizmodo.com/hp-omen-max-45l-review-4k60-gaming-has-never-been-so-easy-2000742372",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-08-1200x675.jpg",
+            "publishedAt": "2026-04-05T13:00:32Z",
+            "content": "HPs Omen Max 45L desktop is an obsidian shard thrumming with energy and subtly shifting light. Theres one alien-seeming channel running through the top of the slab, a glass panel obscuring the front \u2026 [+10988 chars]",
             "ai_score": 5
         },
         {
@@ -1231,20 +1245,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/openclaw_line-1200x675.jpg",
             "publishedAt": "2026-03-17T19:20:07Z",
             "content": "It\u2019s difficult to say just how many AI agents are up and running on the open web, but whatever the number is, it seems like it\u2019s encroaching on \u201ctoo many\u201d territory. The Wild West era of the space, b\u2026 [+3473 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
-            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
-            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
-            "publishedAt": "2026-03-20T16:10:04Z",
-            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
             "ai_score": 5
         }
     ]
