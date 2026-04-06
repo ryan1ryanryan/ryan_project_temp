@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-04-06 09:15",
+    "last_updated": "2026-04-06 11:03",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "VR Just Took Another Massive Body Blow",
+            "description": "Rec Room, another popular virtual reality hangout, is shutting down\u2014further proof that the metaverse is dead.",
+            "url": "https://gizmodo.com/vr-just-took-another-massive-body-blow-rec-room-shuts-down-june-1-2000740256",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Untitled-design-4-1200x675.jpg",
+            "publishedAt": "2026-03-31T20:45:02Z",
+            "content": "There\u2019s no denying it: things are bad in the VR world right now. Between Meta shuttering several of the biggest VR game studios and gutting its own metaverse efforts, combined with the company\u2019s gene\u2026 [+2891 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -353,20 +367,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "VR Just Took Another Massive Body Blow",
-            "description": "Rec Room, another popular virtual reality hangout, is shutting down\u2014further proof that the metaverse is dead.",
-            "url": "https://gizmodo.com/vr-just-took-another-massive-body-blow-rec-room-shuts-down-june-1-2000740256",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Untitled-design-4-1200x675.jpg",
-            "publishedAt": "2026-03-31T20:45:02Z",
-            "content": "There\u2019s no denying it: things are bad in the VR world right now. Between Meta shuttering several of the biggest VR game studios and gutting its own metaverse efforts, combined with the company\u2019s gene\u2026 [+2891 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -620,20 +620,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Android Central"
-            },
-            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
-            "title": "RedMagic 11 Air Trace Edition is the same great gaming phone in a louder shirt",
-            "description": "RedMagic\u2019s latest gaming phone tries to make gaming hardware look a little less over-the-top.",
-            "url": "https://www.androidcentral.com/phones/redmagic/redmagic-11-air-trace-edition-is-the-same-great-gaming-phone-in-a-louder-shirt",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4TgxxmF8byK2ko6L5qKDDQ-1792-80.jpg",
-            "publishedAt": "2026-03-16T18:38:03Z",
-            "content": "What you need to know\r\n<ul><li>The RedMagic 11 Air Trace Edition swaps subtle colors for a white design with bold orange accents and a semi-transparent aesthetic.</li><li>It keeps the Snapdragon 8 El\u2026 [+3679 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -643,6 +629,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9ee7/live/6a634ad0-2f4f-11f1-a79a-77e93010d956.jpg",
             "publishedAt": "2026-04-04T23:56:55Z",
             "content": "Ken Segall, Jobs's creative director for 12 years, told the BBC that Apple's current chief executive, Tim Cook, had done an \"amazing job\" at changing with the times and keeping the company profitable.",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+            "title": "RedMagic 11 Air Trace Edition is the same great gaming phone in a louder shirt",
+            "description": "RedMagic\u2019s latest gaming phone tries to make gaming hardware look a little less over-the-top.",
+            "url": "https://www.androidcentral.com/phones/redmagic/redmagic-11-air-trace-edition-is-the-same-great-gaming-phone-in-a-louder-shirt",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4TgxxmF8byK2ko6L5qKDDQ-1792-80.jpg",
+            "publishedAt": "2026-03-16T18:38:03Z",
+            "content": "What you need to know\r\n<ul><li>The RedMagic 11 Air Trace Edition swaps subtle colors for a white design with bold orange accents and a semi-transparent aesthetic.</li><li>It keeps the Snapdragon 8 El\u2026 [+3679 chars]",
             "ai_score": 5
         },
         {
