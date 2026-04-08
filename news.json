@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-08 12:02",
+    "last_updated": "2026-04-08 13:47",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "The MacBook Neo is a winner",
-            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
-            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-13T13:13:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -237,6 +223,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-23T19:42:33Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The MacBook Neo is a winner",
+            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
+            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-13T13:13:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
             "ai_score": 5
         },
         {
@@ -958,6 +958,20 @@
                 "id": null,
                 "name": "Android Central"
             },
+            "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
+            "title": "6G is coming, and these are 3 things you'll be able to do with it",
+            "description": "6G will be here before you know it, and Qualcomm and Nvidia have already shared their plans for the new connectivity tech. Here's what you need to know.",
+            "url": "https://www.androidcentral.com/phones/carriers/6g-is-coming-and-these-are-3-things-youll-be-able-to-do-with-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4TnBMWEJ2cWez2hvDvcbRB-2560-80.jpg",
+            "publishedAt": "2026-03-12T20:07:36Z",
+            "content": "After a long 5G rollout, we're finally at the point where flagship phones and networks no longer need to advertise the current cellular technology as a feature \u2014 it's the standard. To that end, we're\u2026 [+5447 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
             "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
             "title": "REDMAGIC just teased another small gaming tablet that's got me hyped",
             "description": "Redmagic teases an upcoming compact gaming tablet that's coming soon.\"",
@@ -972,13 +986,13 @@
                 "id": null,
                 "name": "Android Central"
             },
-            "author": "bradypsnyder@gmail.com (Brady Snyder) , Brady Snyder",
-            "title": "6G is coming, and these are 3 things you'll be able to do with it",
-            "description": "6G will be here before you know it, and Qualcomm and Nvidia have already shared their plans for the new connectivity tech. Here's what you need to know.",
-            "url": "https://www.androidcentral.com/phones/carriers/6g-is-coming-and-these-are-3-things-youll-be-able-to-do-with-it",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4TnBMWEJ2cWez2hvDvcbRB-2560-80.jpg",
-            "publishedAt": "2026-03-12T20:07:36Z",
-            "content": "After a long 5G rollout, we're finally at the point where flagship phones and networks no longer need to advertise the current cellular technology as a feature \u2014 it's the standard. To that end, we're\u2026 [+5447 chars]",
+            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+            "title": "Samsung Galaxy S26 Ultra teardown reveals the clever camera tech Unpacked skipped",
+            "description": "A teardown shows the Galaxy S26 Ultra packs smarter hardware upgrades, including a brighter zoom camera, larger cooling system, and improved S Pen protection.",
+            "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-ultra-teardown-reveals-the-clever-camera-tech-unpacked-skipped",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EFPrx5XJwpgAUAevsfhqs6-2048-80.jpg",
+            "publishedAt": "2026-03-13T12:26:13Z",
+            "content": "What you need to know\r\n<ul><li>A new teardown reveals that the Galaxy S26 Ultra quietly packs meaningful hardware changes, especially to the camera and cooling system.</li><li>Samsung also increased \u2026 [+3970 chars]",
             "ai_score": 5
         },
         {
@@ -993,20 +1007,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ff9/live/4e0a5300-31e4-11f1-b044-9f47bdd1018a.jpg",
             "publishedAt": "2026-04-06T23:05:52Z",
             "content": "Online privacy includes children's name, age and address as well as photos, browsing history, voice notes, and social media and gaming activity, the ICO said.",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
-            "title": "Samsung Galaxy S26 Ultra teardown reveals the clever camera tech Unpacked skipped",
-            "description": "A teardown shows the Galaxy S26 Ultra packs smarter hardware upgrades, including a brighter zoom camera, larger cooling system, and improved S Pen protection.",
-            "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-ultra-teardown-reveals-the-clever-camera-tech-unpacked-skipped",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/EFPrx5XJwpgAUAevsfhqs6-2048-80.jpg",
-            "publishedAt": "2026-03-13T12:26:13Z",
-            "content": "What you need to know\r\n<ul><li>A new teardown reveals that the Galaxy S26 Ultra quietly packs meaningful hardware changes, especially to the camera and cooling system.</li><li>Samsung also increased \u2026 [+3970 chars]",
             "ai_score": 5
         },
         {
