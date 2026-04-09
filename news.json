@@ -1,48 +1,6 @@
 {
-    "last_updated": "2026-04-09 07:30",
+    "last_updated": "2026-04-09 09:14",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Nintendo cuts Switch 2 production amid weakening console sales",
-            "description": "Nintendo will produce fewer Switch 2 units than it previously projected in response to weakening demand for the console in the US, Bloomberg reports. Four million units of Nintendo's flagship device are expected to be made this quarter instead of the six mill\u2026",
-            "url": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0403_3f603c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-24T11:45:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOutput is reportedly being reduced from six million to four million units, despite the consoles record debut.\r\nOutput is reportedly being reduced from six millio\u2026 [+2670 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "VR Just Took Another Massive Body Blow",
-            "description": "Rec Room, another popular virtual reality hangout, is shutting down\u2014further proof that the metaverse is dead.",
-            "url": "https://gizmodo.com/vr-just-took-another-massive-body-blow-rec-room-shuts-down-june-1-2000740256",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Untitled-design-4-1200x675.jpg",
-            "publishedAt": "2026-03-31T20:45:02Z",
-            "content": "There\u2019s no denying it: things are bad in the VR world right now. Between Meta shuttering several of the biggest VR game studios and gutting its own metaverse efforts, combined with the company\u2019s gene\u2026 [+2891 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "150 million users later, Roblox competitor Rec Room is shutting down",
-            "description": "Rec Room, a Roblox-like social gaming platform that lets users create games and experiences for others to play, is shutting down on June 1st. Despite reaching more than 150 million players and creators and, at one point, being valued at $3.5 billion, the comp\u2026",
-            "url": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/RecRoom_Creator.png.webp?quality=90&strip=all&crop=0,3.4199101935869,100,93.160179612826",
-            "publishedAt": "2026-03-31T00:29:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says it never quite figured out how to make Rec Room a sustainably profitable business.\r\nThe company says it never quite figured out how to make Rec \u2026 [+2294 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -160,6 +118,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Jay Peters",
+            "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
+            "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
+            "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-10T15:18:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Stevie Bonifield",
             "title": "V-bucks are getting more X-pensive",
             "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
@@ -174,13 +146,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
-            "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
-            "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-10T15:18:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
+            "author": "Jess Weatherbed",
+            "title": "Nintendo cuts Switch 2 production amid weakening console sales",
+            "description": "Nintendo will produce fewer Switch 2 units than it previously projected in response to weakening demand for the console in the US, Bloomberg reports. Four million units of Nintendo's flagship device are expected to be made this quarter instead of the six mill\u2026",
+            "url": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0403_3f603c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-24T11:45:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOutput is reportedly being reduced from six million to four million units, despite the consoles record debut.\r\nOutput is reportedly being reduced from six millio\u2026 [+2670 chars]",
             "ai_score": 5
         },
         {
@@ -339,6 +311,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "VR Just Took Another Massive Body Blow",
+            "description": "Rec Room, another popular virtual reality hangout, is shutting down\u2014further proof that the metaverse is dead.",
+            "url": "https://gizmodo.com/vr-just-took-another-massive-body-blow-rec-room-shuts-down-june-1-2000740256",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Untitled-design-4-1200x675.jpg",
+            "publishedAt": "2026-03-31T20:45:02Z",
+            "content": "There\u2019s no denying it: things are bad in the VR world right now. Between Meta shuttering several of the biggest VR game studios and gutting its own metaverse efforts, combined with the company\u2019s gene\u2026 [+2891 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -377,6 +363,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015306/vpavic_4278_20201030_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-27T12:34:01Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nby\r\nEmma RothClose\r\nPosts from this author will be adde\u2026 [+3041 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "150 million users later, Roblox competitor Rec Room is shutting down",
+            "description": "Rec Room, a Roblox-like social gaming platform that lets users create games and experiences for others to play, is shutting down on June 1st. Despite reaching more than 150 million players and creators and, at one point, being valued at $3.5 billion, the comp\u2026",
+            "url": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/RecRoom_Creator.png.webp?quality=90&strip=all&crop=0,3.4199101935869,100,93.160179612826",
+            "publishedAt": "2026-03-31T00:29:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says it never quite figured out how to make Rec Room a sustainably profitable business.\r\nThe company says it never quite figured out how to make Rec \u2026 [+2294 chars]",
             "ai_score": 5
         },
         {
@@ -1056,20 +1056,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
-            "description": "At GTC, Jensen Huang was on damage control for AI.",
-            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
-            "publishedAt": "2026-03-20T20:10:56Z",
-            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Bruce Gil",
             "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
             "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
@@ -1077,6 +1063,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
             "publishedAt": "2026-03-20T16:10:04Z",
             "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
+            "description": "At GTC, Jensen Huang was on damage control for AI.",
+            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
+            "publishedAt": "2026-03-20T20:10:56Z",
+            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
             "ai_score": 5
         },
         {
