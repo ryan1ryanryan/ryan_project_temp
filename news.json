@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-09 09:14",
+    "last_updated": "2026-04-09 11:04",
     "articles": [
         {
             "source": {
@@ -886,20 +886,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI",
-            "description": "Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
-            "url": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
-            "publishedAt": "2026-03-14T21:19:13Z",
-            "content": "Each year, GDC publishes a survey of game industry workers ahead of the week-long conference. The survey can serve as a bellwether to set the tone for the conference. On one hot-topic issue through t\u2026 [+1645 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -909,6 +895,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e71a/live/a254d370-005e-11f1-9653-b9d6c7314345.jpg",
             "publishedAt": "2026-03-09T06:00:05Z",
             "content": "\"It uses, effectively, laser beams and very clever maths,\" she explains. The system spots patterns of movement and only goes in for a closer look if, based on what it knows about how threatening beha\u2026 [+40 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI",
+            "description": "Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
+            "url": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
+            "publishedAt": "2026-03-14T21:19:13Z",
+            "content": "Each year, GDC publishes a survey of game industry workers ahead of the week-long conference. The survey can serve as a bellwether to set the tone for the conference. On one hot-topic issue through t\u2026 [+1645 chars]",
             "ai_score": 5
         },
         {
@@ -1001,12 +1001,12 @@
                 "name": "BBC News"
             },
             "author": null,
-            "title": "Australians must prove they are over 18 to access porn under new laws",
-            "description": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
-            "url": "https://www.bbc.com/news/articles/cwy92qpv424o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
-            "publishedAt": "2026-03-09T03:02:04Z",
-            "content": "Under the new rules, search engines, app stores, social media and gaming platforms, porn sites and AI systems - including companion chatbots - must take \"meaningful steps\" to prevent children from be\u2026 [+28 chars]",
+            "title": "New EU border checks delayed again over tech issues",
+            "description": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
+            "url": "https://www.bbc.com/news/articles/c33l77k88vyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/651d/live/4f2924f0-2a9b-11f1-b120-218ca874ffa5.jpg",
+            "publishedAt": "2026-03-28T11:28:16Z",
+            "content": "Toby Howe, Kent and Medway Resilience Forum, says: \"For passengers who arrive at the Eurotunnel or the Port of Dover for the foreseeable future, they will have to add additional information at the Fr\u2026 [+17 chars]",
             "ai_score": 5
         },
         {
@@ -1015,12 +1015,12 @@
                 "name": "BBC News"
             },
             "author": null,
-            "title": "New EU border checks delayed again over tech issues",
-            "description": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
-            "url": "https://www.bbc.com/news/articles/c33l77k88vyo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/651d/live/4f2924f0-2a9b-11f1-b120-218ca874ffa5.jpg",
-            "publishedAt": "2026-03-28T11:28:16Z",
-            "content": "Toby Howe, Kent and Medway Resilience Forum, says: \"For passengers who arrive at the Eurotunnel or the Port of Dover for the foreseeable future, they will have to add additional information at the Fr\u2026 [+17 chars]",
+            "title": "Australians must prove they are over 18 to access porn under new laws",
+            "description": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
+            "url": "https://www.bbc.com/news/articles/cwy92qpv424o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
+            "publishedAt": "2026-03-09T03:02:04Z",
+            "content": "Under the new rules, search engines, app stores, social media and gaming platforms, porn sites and AI systems - including companion chatbots - must take \"meaningful steps\" to prevent children from be\u2026 [+28 chars]",
             "ai_score": 5
         },
         {
