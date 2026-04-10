@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-10 16:58",
+    "last_updated": "2026-04-10 17:55",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-17T23:13:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -609,6 +609,20 @@
                 "name": "BBC News"
             },
             "author": null,
+            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
+            "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
+            "url": "https://www.bbc.com/news/articles/clyd032ej70o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
+            "publishedAt": "2026-04-09T17:04:50Z",
+            "content": "Its project, dubbed Stargate UK, included a large data centre in Northumberland and making thousands of powerful chips for AI development available as part of a partnership with tech firms Nvidia and\u2026 [+7 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
             "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
             "description": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses",
             "url": "https://www.bbc.com/news/articles/ckgxdn9lyd2o",
@@ -1147,20 +1161,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Nvidia-DLSS5-resident-evil-requiem-leon-1200x675.jpg",
             "publishedAt": "2026-03-20T15:40:47Z",
             "content": "Nvidias newfangled AI-based neural rendering technology, DLSS 5, dramatically modifies (aka \u201cslop-ifies\u201d) game visuals with the help of AI. Nvidia promised this technology would revolutionize in-game\u2026 [+9510 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Blake Stimac",
-            "title": "3 Things From Nvidia GTC 2026 Keynote: NemoClaw, DLSS 5 and Vera CPU",
-            "description": "From AI gaming enhancements to easier ways to create AI agents, here's what Nvidia announced during the GTC keynote.",
-            "url": "https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/814978e664b35cd1d0f8c47895edbaf5a35cddea/hub/2026/03/16/764ad879-9ec9-428f-9e71-ec8e7072b6cb/img-3525.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-03-16T22:45:34Z",
-            "content": "Nvidia's GTC conference on Monday gave the world the latest from the AI chip behemoth, including a new AI-powered upscaling software for gaming and a new Vera CPU to supercharge the future of AI agen\u2026 [+2780 chars]",
             "ai_score": 5
         }
     ]
