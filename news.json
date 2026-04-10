@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-10 02:41",
+    "last_updated": "2026-04-10 05:31",
     "articles": [
         {
             "source": {
@@ -1026,20 +1026,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Australians must prove they are over 18 to access porn under new laws",
-            "description": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
-            "url": "https://www.bbc.com/news/articles/cwy92qpv424o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
-            "publishedAt": "2026-03-09T03:02:04Z",
-            "content": "Under the new rules, search engines, app stores, social media and gaming platforms, porn sites and AI systems - including companion chatbots - must take \"meaningful steps\" to prevent children from be\u2026 [+28 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Ethan Gach",
@@ -1161,6 +1147,20 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/814978e664b35cd1d0f8c47895edbaf5a35cddea/hub/2026/03/16/764ad879-9ec9-428f-9e71-ec8e7072b6cb/img-3525.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-03-16T22:45:34Z",
             "content": "Nvidia's GTC conference on Monday gave the world the latest from the AI chip behemoth, including a new AI-powered upscaling software for gaming and a new Vera CPU to supercharge the future of AI agen\u2026 [+2780 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Sony and Honda Cancel Their Big PlayStation-Integrated EV",
+            "description": "Another electric vehicle bites the dust.",
+            "url": "https://gizmodo.com/sony-and-honda-cancel-their-big-playstation-integrated-ev-2000737997",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Sony-CES-2026-1200x675.jpeg",
+            "publishedAt": "2026-03-25T17:10:51Z",
+            "content": "Sony and Honda\u2019s PlayStation-integrated electric vehicle collab felt too good to be true. Turns out it was.\r\nSony Honda Mobility, the joint venture between the two companies, announced on Wednesday t\u2026 [+2789 chars]",
             "ai_score": 5
         }
     ]
