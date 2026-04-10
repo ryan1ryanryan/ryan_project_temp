@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-04-10 05:31",
+    "last_updated": "2026-04-10 07:48",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The MacBook Neo is a winner",
+            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
+            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-13T13:13:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -223,20 +237,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-23T19:42:33Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "The MacBook Neo is a winner",
-            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
-            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-13T13:13:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
             "ai_score": 5
         },
         {
@@ -636,20 +636,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Kate Knibbs",
-            "title": "Kalshi Has Been Temporarily Banned in Nevada",
-            "description": "A judge ordered Kalshi to immediately halt sports and election contracts in the state, intensifying a growing regulatory battle over prediction markets.",
-            "url": "https://www.wired.com/story/nevada-bans-kalshi-prediction-market/",
-            "urlToImage": "https://media.wired.com/photos/69b46340abbbb99979b2e570/191:100/w_1280,c_limit/Nevada-Ban-Kalshi-Business-2263571512.jpg",
-            "publishedAt": "2026-03-20T16:54:15Z",
-            "content": "Kalshi has been temporarily banned in Nevada, marking the latest escalation in the widening regulatory war over prediction markets. The First Judicial District Court of Nevada has issued a 14 day res\u2026 [+3963 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Louryn Strampe",
             "title": "These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
             "description": "Amazon\u2019s Spring Sale spans almost an entire week, and it\u2019s full of fake \u201cdeals.\u201d We hunted to find truly good prices on gear we\u2019ve tested.",
@@ -657,6 +643,20 @@
             "urlToImage": "https://media.wired.com/photos/69c31871ea56e672b4eef17c/191:100/w_1280,c_limit/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg",
             "publishedAt": "2026-03-25T07:01:00Z",
             "content": "After a relatively quiet few months, Amazon is bringing back another of its famously invented shopping holidays. The Amazon Spring Sale is on its third year, and it's on now through March 31. Like du\u2026 [+1166 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Kate Knibbs",
+            "title": "Kalshi Has Been Temporarily Banned in Nevada",
+            "description": "A judge ordered Kalshi to immediately halt sports and election contracts in the state, intensifying a growing regulatory battle over prediction markets.",
+            "url": "https://www.wired.com/story/nevada-bans-kalshi-prediction-market/",
+            "urlToImage": "https://media.wired.com/photos/69b46340abbbb99979b2e570/191:100/w_1280,c_limit/Nevada-Ban-Kalshi-Business-2263571512.jpg",
+            "publishedAt": "2026-03-20T16:54:15Z",
+            "content": "Kalshi has been temporarily banned in Nevada, marking the latest escalation in the widening regulatory war over prediction markets. The First Judicial District Court of Nevada has issued a 14 day res\u2026 [+3963 chars]",
             "ai_score": 5
         },
         {
