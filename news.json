@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-10 09:16",
+    "last_updated": "2026-04-10 11:00",
     "articles": [
         {
             "source": {
@@ -900,20 +900,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "The predator-spotting laser tech trying to keep women safe",
-            "description": "Rosie Richardson wants to shift the onus to self protect away from women and on to the authorities.",
-            "url": "https://www.bbc.com/news/articles/c0jvy4xn0l4o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e71a/live/a254d370-005e-11f1-9653-b9d6c7314345.jpg",
-            "publishedAt": "2026-03-09T06:00:05Z",
-            "content": "\"It uses, effectively, laser beams and very clever maths,\" she explains. The system spots patterns of movement and only goes in for a closer look if, based on what it knows about how threatening beha\u2026 [+40 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Zack Kotzer",
@@ -1119,6 +1105,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268403_The_100000_fee_for_H-1Bs_six_months_later_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-13T19:50:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nUnlike Big Tech, rural schools and hospitals that rely on immigrant workers cant absorb the high cost of H-1B visas.\r\nUnlike Big Tech, rural schools and hospital\u2026 [+10582 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+            "title": "The latest Pixel update tackles Android 16's early stability woes",
+            "description": "Google\u2019s April Pixel update fixes app crashes, missing features, and gaming issues, making Android 16 more stable.",
+            "url": "https://www.androidcentral.com/phones/google-pixel/the-latest-pixel-update-tackles-android-16s-early-stability-woes",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
+            "publishedAt": "2026-04-09T10:04:00Z",
+            "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
             "ai_score": 5
         },
         {
