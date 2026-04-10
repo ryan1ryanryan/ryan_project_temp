@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-10 14:54",
+    "last_updated": "2026-04-10 15:59",
     "articles": [
         {
             "source": {
@@ -118,20 +118,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "V-bucks are getting more X-pensive",
-            "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
-            "url": "https://www.theverge.com/games/892074/fortnite-v-bucks-price-increase-march-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-10T14:02:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
             "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
@@ -139,6 +125,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-10T15:18:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "V-bucks are getting more X-pensive",
+            "description": "Everything is more expensive now, even Fortnite's in-game currency. Starting on March 19th, V-bucks packs will include less of the premium currency at the same prices. For instance, players can currently get 1,000 V-bucks for $8.99, but after the price increa\u2026",
+            "url": "https://www.theverge.com/games/892074/fortnite-v-bucks-price-increase-march-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/fortnite-blitz-royale.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-03-10T14:02:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money.\r\nStarting on March 19th, Fortnite players will get fewer V-bucks for their money\u2026 [+2416 chars]",
             "ai_score": 5
         },
         {
@@ -1042,6 +1042,20 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
+            "author": "Bruce Gil",
+            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
+            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
+            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
+            "publishedAt": "2026-03-20T16:10:04Z",
+            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
             "author": "Ece Yildirim",
             "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
             "description": "At GTC, Jensen Huang was on damage control for AI.",
@@ -1056,13 +1070,13 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Bruce Gil",
-            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
-            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
-            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
-            "publishedAt": "2026-03-20T16:10:04Z",
-            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
+            "author": "Ece Yildirim",
+            "title": "Gen Z\u2019s Use of AI Is Plateauing and It\u2019s Feeling Less Hopeful About the Tech",
+            "description": "Adoption by the rising generation in the workforce could have big implications for the economy.",
+            "url": "https://gizmodo.com/gen-zs-use-of-ai-is-plateauing-and-its-feeling-less-hopeful-about-the-tech-2000744463",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/shutterstock_2751351053-1200x675.jpg",
+            "publishedAt": "2026-04-09T14:55:20Z",
+            "content": "Young people have grown increasingly skeptical of artificial intelligence, even those who use it daily, according to a new Gallup poll of more than 1,500 people aged 14 to 29.\r\nThere is no decline in\u2026 [+4542 chars]",
             "ai_score": 5
         },
         {
@@ -1147,20 +1161,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/814978e664b35cd1d0f8c47895edbaf5a35cddea/hub/2026/03/16/764ad879-9ec9-428f-9e71-ec8e7072b6cb/img-3525.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-03-16T22:45:34Z",
             "content": "Nvidia's GTC conference on Monday gave the world the latest from the AI chip behemoth, including a new AI-powered upscaling software for gaming and a new Vera CPU to supercharge the future of AI agen\u2026 [+2780 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Sony and Honda Cancel Their Big PlayStation-Integrated EV",
-            "description": "Another electric vehicle bites the dust.",
-            "url": "https://gizmodo.com/sony-and-honda-cancel-their-big-playstation-integrated-ev-2000737997",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Sony-CES-2026-1200x675.jpeg",
-            "publishedAt": "2026-03-25T17:10:51Z",
-            "content": "Sony and Honda\u2019s PlayStation-integrated electric vehicle collab felt too good to be true. Turns out it was.\r\nSony Honda Mobility, the joint venture between the two companies, announced on Wednesday t\u2026 [+2789 chars]",
             "ai_score": 5
         }
     ]
