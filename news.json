@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-11 18:51",
+    "last_updated": "2026-04-11 19:40",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -269,20 +269,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Razer\u2019s Wireless Gaming Earbuds Are Back With Upgraded ANC",
-            "description": "The new Hammerhead V3 HyperSpeed look like a solid upgrade over the last generation.",
-            "url": "https://gizmodo.com/razer-wireless-gaming-earbuds-are-back-with-upgraded-anc-2000744632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
-            "publishedAt": "2026-04-09T19:25:56Z",
-            "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -293,6 +279,20 @@
             "urlToImage": "https://media.wired.com/photos/69cbf5d389cbdc32deb6bcdf/191:100/w_1280,c_limit/Trump_Iran_Biz_GettyImages-2267975852.jpg",
             "publishedAt": "2026-03-31T21:25:12Z",
             "content": "Irans Islamic Revolutionary Guard Corps warned Tuesday that it plans to begin attacking more than a dozen American companies across the Middle East on Wednesday in retaliation for the killing of Iran\u2026 [+3382 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Razer\u2019s Wireless Gaming Earbuds Are Back With Upgraded ANC",
+            "description": "The new Hammerhead V3 HyperSpeed look like a solid upgrade over the last generation.",
+            "url": "https://gizmodo.com/razer-wireless-gaming-earbuds-are-back-with-upgraded-anc-2000744632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
+            "publishedAt": "2026-04-09T19:25:56Z",
+            "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
             "ai_score": 5
         },
         {
