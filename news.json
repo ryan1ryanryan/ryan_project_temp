@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-11 10:40",
+    "last_updated": "2026-04-11 11:36",
     "articles": [
         {
             "source": {
@@ -13,7 +13,35 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The MacBook Neo is a winner",
+            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
+            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-13T13:13:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Roya Shahidi",
+            "title": "AI anxiety is driving Gen Z to CDs, DVDs, and Nintendo DS games \u2014 I went to see what old tech costs now",
+            "description": "Young people are returning to obsolete tech for nostalgia and connection. I visited UK shops to see what it costs and why it's back.",
+            "url": "https://www.businessinsider.com/ai-anxiety-pushing-gen-z-alpha-to-old-tech-analog-2026-3",
+            "urlToImage": "https://i.insider.com/69ca5d81f573a637a756758d?width=1200&format=jpeg",
+            "publishedAt": "2026-03-30T14:03:22Z",
+            "content": "Vib-Ribbon is a 1999 PlayStation game with a cult following.Roya Shahidi/Business Insider\r\n<ul><li>I went to a bunch of thrift stores and a retro game store to see how much old tech costs nowadays.</\u2026 [+4534 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -237,20 +265,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-23T19:42:33Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "The MacBook Neo is a winner",
-            "description": "It was a little surprising to see Apple decide to leap fully into the affordable laptop market, to try and compete with devices the company typically prefers to just look down its nose at. It was also a little surprising to see Apple basically nail it on the \u2026",
-            "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0313_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-13T13:13:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples newest and next gadgets, the next Xbox is a PC, and the Big Tech space race.\r\nOn The Vergecast: Apples newest and next gadgets, the next\u2026 [+3114 chars]",
             "ai_score": 5
         },
         {
@@ -619,20 +633,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Roya Shahidi",
-            "title": "AI anxiety is driving Gen Z to CDs, DVDs, and Nintendo DS games \u2014 I went to see what old tech costs now",
-            "description": "Young people are returning to obsolete tech for nostalgia and connection. I visited UK shops to see what it costs and why it's back.",
-            "url": "https://www.businessinsider.com/ai-anxiety-pushing-gen-z-alpha-to-old-tech-analog-2026-3",
-            "urlToImage": "https://i.insider.com/69ca5d81f573a637a756758d?width=1200&format=jpeg",
-            "publishedAt": "2026-03-30T14:03:22Z",
-            "content": "Vib-Ribbon is a 1999 PlayStation game with a cult following.Roya Shahidi/Business Insider\r\n<ul><li>I went to a bunch of thrift stores and a retro game store to see how much old tech costs nowadays.</\u2026 [+4534 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -790,20 +790,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "Google\u2019s latest Pixel Watches have fallen to their lowest prices ever",
-            "description": "With longer days and warmer weather on the way, it\u2019s a good time to take your gym routine outside. Luckily, Google\u2019s Pixel Watch 4 can help you track all your outdoor fitness activities, and right now it\u2019s on sale at Amazon, Best Buy, and Target starting at $\u2026",
-            "url": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/googlepixelwatch4deals.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-09T16:45:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest mobile controller.\r\nSonys XM5 headphones are also steeply discounted, as is Razers latest m\u2026 [+5428 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "Online age checks came first \u2014 a VPN crackdown could be next",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about online age verification and your privacy, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepbac\u2026",
@@ -853,20 +839,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2269451654.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-03T20:53:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue has been resolved.\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue\u2026 [+2955 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Anthropic is suing the Department of Defense",
-            "description": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-09T16:48:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump admin labeled Anthropics AI a supply-chain risk after the company wouldnt back down on acceptable uses for its tech.\r\nThe Trump admin labeled Anthropic\u2026 [+4413 chars]",
             "ai_score": 5
         },
         {
@@ -1175,6 +1147,34 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
             "publishedAt": "2026-04-09T10:04:00Z",
             "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Does Nvidia\u2019s Slop-ified DLSS 5 Game Lighting Make Any Sense?",
+            "description": "Nvidia finally reveals what's actually going on with its upscaler, and it's much less impressive than it first seemed.",
+            "url": "https://gizmodo.com/does-nvidias-slop-ified-dlss-5-game-lighting-make-any-sense-2000736018",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Nvidia-DLSS5-resident-evil-requiem-leon-1200x675.jpg",
+            "publishedAt": "2026-03-20T15:40:47Z",
+            "content": "Nvidias newfangled AI-based neural rendering technology, DLSS 5, dramatically modifies (aka \u201cslop-ifies\u201d) game visuals with the help of AI. Nvidia promised this technology would revolutionize in-game\u2026 [+9510 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Blake Stimac",
+            "title": "3 Things From Nvidia GTC 2026 Keynote: NemoClaw, DLSS 5 and Vera CPU",
+            "description": "From AI gaming enhancements to easier ways to create AI agents, here's what Nvidia announced during the GTC keynote.",
+            "url": "https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/814978e664b35cd1d0f8c47895edbaf5a35cddea/hub/2026/03/16/764ad879-9ec9-428f-9e71-ec8e7072b6cb/img-3525.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-03-16T22:45:34Z",
+            "content": "Nvidia's GTC conference on Monday gave the world the latest from the AI chip behemoth, including a new AI-powered upscaling software for gaming and a new Vera CPU to supercharge the future of AI agen\u2026 [+2780 chars]",
             "ai_score": 5
         }
     ]
