@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-04-11 21:39",
+    "last_updated": "2026-04-11 22:39",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Zeyi Yang",
+            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
+            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
+            "publishedAt": "2026-03-13T12:00:00Z",
+            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -307,20 +321,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
             "publishedAt": "2026-04-09T19:25:56Z",
             "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Zeyi Yang",
-            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
-            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
-            "publishedAt": "2026-03-13T12:00:00Z",
-            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
             "ai_score": 5
         },
         {
