@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-11 22:39",
+    "last_updated": "2026-04-11 23:41",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Zeyi Yang",
-            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
-            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
-            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
-            "publishedAt": "2026-03-13T12:00:00Z",
-            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -321,6 +307,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
             "publishedAt": "2026-04-09T19:25:56Z",
             "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Zeyi Yang",
+            "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
+            "description": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+            "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+            "urlToImage": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
+            "publishedAt": "2026-03-13T12:00:00Z",
+            "content": "George Zhang thought OpenClaw could make him rich, even though he didnt really understand how the viral AI agent software worked. But he saw a video of a Chinese social media influencer demonstrating\u2026 [+4045 chars]",
             "ai_score": 5
         },
         {
@@ -1095,6 +1095,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Now the FAA says gamers are the answer to its air traffic controller shortage",
+            "description": "The Federal Aviation Administration (FAA) has struggled for years to have enough air traffic controllers to address shortages, with the US Government Accountability Office (GAO) saying in January that the number of people in the job in the US has declined by \u2026",
+            "url": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2265481258.jpg?quality=90&strip=all&crop=0%2C10.728895256881%2C100%2C78.542209486237&w=1200",
+            "publishedAt": "2026-04-10T20:50:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBut getting qualified individuals through training and into the role may still be a challenge. \r\nBut getting qualified individuals through training and into the \u2026 [+3703 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2024/05/6cf97f343e1160980d5d586eaa5eb671.jpg",
             "publishedAt": "2026-04-10T20:10:59Z",
             "content": "There is an ocean between the United States and Europe, but the latter would really like to put even more distance between the two. In the latest instance of a European nation trying to rid itself of\u2026 [+2777 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Now the FAA says gamers are the answer to its air traffic controller shortage",
-            "description": "The Federal Aviation Administration (FAA) has struggled for years to have enough air traffic controllers to address shortages, with the US Government Accountability Office (GAO) saying in January that the number of people in the job in the US has declined by \u2026",
-            "url": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2265481258.jpg?quality=90&strip=all&crop=0%2C10.728895256881%2C100%2C78.542209486237&w=1200",
-            "publishedAt": "2026-04-10T20:50:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBut getting qualified individuals through training and into the role may still be a challenge. \r\nBut getting qualified individuals through training and into the \u2026 [+3703 chars]",
             "ai_score": 5
         },
         {
@@ -1175,20 +1175,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268403_The_100000_fee_for_H-1Bs_six_months_later_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-13T19:50:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nUnlike Big Tech, rural schools and hospitals that rely on immigrant workers cant absorb the high cost of H-1B visas.\r\nUnlike Big Tech, rural schools and hospital\u2026 [+10582 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
-            "title": "The latest Pixel update tackles Android 16's early stability woes",
-            "description": "Google\u2019s April Pixel update fixes app crashes, missing features, and gaming issues, making Android 16 more stable.",
-            "url": "https://www.androidcentral.com/phones/google-pixel/the-latest-pixel-update-tackles-android-16s-early-stability-woes",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
-            "publishedAt": "2026-04-09T10:04:00Z",
-            "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
             "ai_score": 5
         }
     ]
