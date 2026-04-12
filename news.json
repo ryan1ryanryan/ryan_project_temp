@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-12 19:45",
+    "last_updated": "2026-04-12 20:42",
     "articles": [
         {
             "source": {
@@ -181,20 +181,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/razer1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-31T14:01:23Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Pro Type Ergo is designed for productivity over gaming but still features Razers colorful RGB lighting.\r\nThe Pro Type Ergo is designed for productivity over \u2026 [+3337 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters, Sean Hollister",
-            "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027",
-            "description": "We're here at the 2026 Game Developers Conference, where Microsoft \"VP of Next Generation\" Jason Ronald is talking about a topic near and dear to many gamers' hearts: the future of Xbox. Ronald says the next Xbox, codenamed Project Helix, will have a custom A\u2026",
-            "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
-            "publishedAt": "2026-03-11T17:36:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming.\r\nMicrosoft announced new details about the console at the GDC Festival of Gaming\u2026 [+4242 chars]",
             "ai_score": 5
         },
         {
@@ -678,20 +664,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Dana Alomar",
-            "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
-            "description": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
-            "url": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
-            "urlToImage": "https://media.wired.com/photos/69b191adfc8d6f2d9f4732fe/191:100/w_1280,c_limit/BugTech_LEAD2.jpg",
-            "publishedAt": "2026-03-11T18:38:21Z",
-            "content": "Major US technology companies have been named as potential targets as the war between Iran, Israel, and the United States begins to spill into the digital infrastructure that powers modern economies.\u2026 [+3086 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Julian Chokkattu",
             "title": "6G Is Coming. Here\u2019s What to Expect From the Next Generation of Cellular Tech",
             "description": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like \u201csensing\u201d of vehicles, devices, and people.",
@@ -1161,6 +1133,20 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
             "publishedAt": "2026-04-09T10:04:00Z",
             "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Does Nvidia\u2019s Slop-ified DLSS 5 Game Lighting Make Any Sense?",
+            "description": "Nvidia finally reveals what's actually going on with its upscaler, and it's much less impressive than it first seemed.",
+            "url": "https://gizmodo.com/does-nvidias-slop-ified-dlss-5-game-lighting-make-any-sense-2000736018",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Nvidia-DLSS5-resident-evil-requiem-leon-1200x675.jpg",
+            "publishedAt": "2026-03-20T15:40:47Z",
+            "content": "Nvidias newfangled AI-based neural rendering technology, DLSS 5, dramatically modifies (aka \u201cslop-ifies\u201d) game visuals with the help of AI. Nvidia promised this technology would revolutionize in-game\u2026 [+9510 chars]",
             "ai_score": 5
         }
     ]
