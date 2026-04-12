@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-04-12 14:45",
+    "last_updated": "2026-04-12 15:42",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Sony is raising PS5 prices by $100 in April",
+            "description": "Sony is raising the price of its PlayStation 5 consoles globally starting April 2nd. In an announcement on Friday, Sony says that the standard PS5 will now cost $649.99, up from $549.99. Meanwhile, the PS5 Digital Edition now costs $599.99 instead of $499.99,\u2026",
+            "url": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015306/vpavic_4278_20201030_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-27T12:34:01Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nby\r\nEmma RothClose\r\nPosts from this author will be adde\u2026 [+3041 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -125,20 +139,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-123.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-10T20:29:24Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: Artemis II photos, new Star Wars and Pok\u00e9mon stuff, and much more.\r\nPlus, in this weeks Installer: Artemis II photos, new Star War\u2026 [+11260 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Nvidia\u2019s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March",
-            "description": "Nvidia's DLSS 4.5 with 6x Multi Frame Generation will be available starting March 31st for users with RTX 50-series GPUs, the company announced on Tuesday. With 6x Multi Frame Generation, Nvidia claims that DLSS 4.5 can generate \"five additional frames for ev\u2026",
-            "url": "https://www.theverge.com/tech/892111/nvidia-dlss-4-5-6x-frame-generation-dynamic-frame-generation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK083_NVIDIA_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-10T15:18:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\n6x Frame Generation and Dynamic Frame Generation will be available starting March 31st.\r\n6x Frame Generation and Dynamic Frame Generation will be available start\u2026 [+2487 chars]",
             "ai_score": 5
         },
         {
@@ -328,20 +328,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Kyle Barr",
-            "title": "Intel\u2019s Redemption Arc for PC Gaming Starts With Midrange Desktop CPUs",
-            "description": "Intel Core Ultra 200S Plus likely won\u2019t beat AMD\u2019s best X3D chips, but Intel promises its \"best gaming performance\" ever.",
-            "url": "https://gizmodo.com/intels-redemption-arc-for-pc-gaming-starts-with-midrange-desktop-cpus-2000732274",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/HP-Origin-Neuron-PC-13-1200x675.jpg",
-            "publishedAt": "2026-03-11T13:00:55Z",
-            "content": "Two years ago, the Intel Core Ultra 200 series brought PC gamers to a state of existential crisis. The chipmakers desktop CPUs bore few performance gains and occasionally performed worse than Intels \u2026 [+3825 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "James Pero",
             "title": "VR Just Took Another Massive Body Blow",
             "description": "Rec Room, another popular virtual reality hangout, is shutting down\u2014further proof that the metaverse is dead.",
@@ -377,20 +363,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_ff3794d11f1ea74661271f5ae47b7b9e6aa5901b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T15:24:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLive-service games are a mess\r\nThese are not normal video games.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this author will be added to y\u2026 [+8696 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Sony is raising PS5 prices by $100 in April",
-            "description": "Sony is raising the price of its PlayStation 5 consoles globally starting April 2nd. In an announcement on Friday, Sony says that the standard PS5 will now cost $649.99, up from $549.99. Meanwhile, the PS5 Digital Edition now costs $599.99 instead of $499.99,\u2026",
-            "url": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015306/vpavic_4278_20201030_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-27T12:34:01Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nby\r\nEmma RothClose\r\nPosts from this author will be adde\u2026 [+3041 chars]",
             "ai_score": 5
         },
         {
@@ -900,20 +872,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNET"
-            },
-            "author": "Ajay Kumar",
-            "title": "My Favorite Gaming Headphones From SteelSeries Cured My Battery Anxiety",
-            "description": "I've used a lot of great wireless gaming headsets, but this pair from SteelSeries helped me stop worrying about battery life, making them worth the high price.",
-            "url": "https://www.cnet.com/tech/mobile/my-favorite-gaming-headphones-from-steelseries-cured-my-battery-anxiety/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/fbbaaa9fa1de0658e9a79eb258a0c29fc590cc6f/hub/2026/03/10/7911e01a-9785-4763-a4b3-c576b7adba17/dsc05177.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-03-11T15:01:01Z",
-            "content": "Wireless PC gaming headsets are a necessity for me. Wired gaming headsets are just too restrictive, tethering you to your desk and limiting your movements during intense gaming sessions. However, the\u2026 [+8505 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Raymond Wong",
@@ -1084,20 +1042,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Bruce Gil",
-            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
-            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
-            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
-            "publishedAt": "2026-03-20T16:10:04Z",
-            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Ece Yildirim",
             "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
             "description": "At GTC, Jensen Huang was on damage control for AI.",
@@ -1105,6 +1049,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
             "publishedAt": "2026-03-20T20:10:56Z",
             "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
+            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
+            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
+            "publishedAt": "2026-03-20T16:10:04Z",
+            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
             "ai_score": 5
         },
         {
@@ -1189,6 +1147,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268403_The_100000_fee_for_H-1Bs_six_months_later_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-13T19:50:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nUnlike Big Tech, rural schools and hospitals that rely on immigrant workers cant absorb the high cost of H-1B visas.\r\nUnlike Big Tech, rural schools and hospital\u2026 [+10582 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+            "title": "The latest Pixel update tackles Android 16's early stability woes",
+            "description": "Google\u2019s April Pixel update fixes app crashes, missing features, and gaming issues, making Android 16 more stable.",
+            "url": "https://www.androidcentral.com/phones/google-pixel/the-latest-pixel-update-tackles-android-16s-early-stability-woes",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
+            "publishedAt": "2026-04-09T10:04:00Z",
+            "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
             "ai_score": 5
         }
     ]
