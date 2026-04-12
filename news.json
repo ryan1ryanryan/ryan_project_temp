@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-12 21:40",
+    "last_updated": "2026-04-12 22:41",
     "articles": [
         {
             "source": {
@@ -255,20 +255,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dell Cameron, Louise Matsakis",
-            "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
-            "description": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran\u2019s Islamic Revolutionary Guard Corps.",
-            "url": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
-            "urlToImage": "https://media.wired.com/photos/69cbf5d389cbdc32deb6bcdf/191:100/w_1280,c_limit/Trump_Iran_Biz_GettyImages-2267975852.jpg",
-            "publishedAt": "2026-03-31T21:25:12Z",
-            "content": "Irans Islamic Revolutionary Guard Corps warned Tuesday that it plans to begin attacking more than a dozen American companies across the Middle East on Wednesday in retaliation for the killing of Iran\u2026 [+3382 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -279,6 +265,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
             "publishedAt": "2026-04-09T19:25:56Z",
             "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dell Cameron, Louise Matsakis",
+            "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
+            "description": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran\u2019s Islamic Revolutionary Guard Corps.",
+            "url": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
+            "urlToImage": "https://media.wired.com/photos/69cbf5d389cbdc32deb6bcdf/191:100/w_1280,c_limit/Trump_Iran_Biz_GettyImages-2267975852.jpg",
+            "publishedAt": "2026-03-31T21:25:12Z",
+            "content": "Irans Islamic Revolutionary Guard Corps warned Tuesday that it plans to begin attacking more than a dozen American companies across the Middle East on Wednesday in retaliation for the killing of Iran\u2026 [+3382 chars]",
             "ai_score": 5
         },
         {
@@ -1014,20 +1014,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
-            "description": "At GTC, Jensen Huang was on damage control for AI.",
-            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
-            "publishedAt": "2026-03-20T20:10:56Z",
-            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Bruce Gil",
             "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
             "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
@@ -1035,6 +1021,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
             "publishedAt": "2026-03-20T16:10:04Z",
             "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
+            "description": "At GTC, Jensen Huang was on damage control for AI.",
+            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
+            "publishedAt": "2026-03-20T20:10:56Z",
+            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
             "ai_score": 5
         },
         {
