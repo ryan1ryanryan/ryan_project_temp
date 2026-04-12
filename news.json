@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-04-12 15:42",
+    "last_updated": "2026-04-12 16:45",
     "articles": [
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Emma Roth",
-            "title": "Sony is raising PS5 prices by $100 in April",
-            "description": "Sony is raising the price of its PlayStation 5 consoles globally starting April 2nd. In an announcement on Friday, Sony says that the standard PS5 will now cost $649.99, up from $549.99. Meanwhile, the PS5 Digital Edition now costs $599.99 instead of $499.99,\u2026",
-            "url": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015306/vpavic_4278_20201030_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-27T12:34:01Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nby\r\nEmma RothClose\r\nPosts from this author will be adde\u2026 [+3041 chars]",
+            "author": null,
+            "title": "PS5 price hiked by \u00a390 due to global 'pressures'",
+            "description": "The changes will see the recommended retail price of the PS5 rise from \u00a3479.99 to \u00a3569.99 in the UK.",
+            "url": "https://www.bbc.com/news/articles/czx9852nkexo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d201/live/6d2be880-29f0-11f1-81d4-f1e3c77fafb4.jpg",
+            "publishedAt": "2026-03-27T16:07:08Z",
+            "content": "The gaming giant said the changes, taking effect from 2 April, would see the recommended price for retailers of its PS5, PS5 Pro and PlayStation Portal handheld device rise around the world.",
             "ai_score": 8
         },
         {
@@ -363,6 +363,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_ff3794d11f1ea74661271f5ae47b7b9e6aa5901b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-03-12T15:24:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLive-service games are a mess\r\nThese are not normal video games.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from this author will be added to y\u2026 [+8696 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Sony is raising PS5 prices by $100 in April",
+            "description": "Sony is raising the price of its PlayStation 5 consoles globally starting April 2nd. In an announcement on Friday, Sony says that the standard PS5 will now cost $649.99, up from $549.99. Meanwhile, the PS5 Digital Edition now costs $599.99 instead of $499.99,\u2026",
+            "url": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015306/vpavic_4278_20201030_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-27T12:34:01Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nby\r\nEmma RothClose\r\nPosts from this author will be adde\u2026 [+3041 chars]",
             "ai_score": 5
         },
         {
@@ -909,20 +923,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
             "publishedAt": "2026-03-14T21:19:13Z",
             "content": "Each year, GDC publishes a survey of game industry workers ahead of the week-long conference. The survey can serve as a bellwether to set the tone for the conference. On one hot-topic issue through t\u2026 [+1645 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "PS5 price hiked by \u00a390 due to global 'pressures'",
-            "description": "The changes will see the recommended retail price of the PS5 rise from \u00a3479.99 to \u00a3569.99 in the UK.",
-            "url": "https://www.bbc.com/news/articles/czx9852nkexo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d201/live/6d2be880-29f0-11f1-81d4-f1e3c77fafb4.jpg",
-            "publishedAt": "2026-03-27T16:07:08Z",
-            "content": "The gaming giant said the changes, taking effect from 2 April, would see the recommended price for retailers of its PS5, PS5 Pro and PlayStation Portal handheld device rise around the world.",
             "ai_score": 5
         },
         {
