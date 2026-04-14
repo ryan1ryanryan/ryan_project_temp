@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-13 23:48",
+    "last_updated": "2026-04-14 02:42",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -846,20 +846,6 @@
                 "id": null,
                 "name": "Kotaku"
             },
-            "author": "Ethan Gach",
-            "title": "Xbox Is Marching Forward With AI Features But Says It Wants To Protect Content Creators",
-            "description": "The company outlined its ongoing ambitions around gaming copilot",
-            "url": "https://kotaku.com/xbox-copilot-rog-ally-ai-microsoft-2000678483",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/09/xboxaly-1200x675.jpg",
-            "publishedAt": "2026-03-13T01:37:30Z",
-            "content": "The backlash against AI is real and you can feel it in the way Microsoft talks about gaming copilot at GDC 2026. The company is moving forward with integrating AI tech directly into Xbox at the platf\u2026 [+4919 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
             "author": "Zack Kotzer",
             "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI",
             "description": "Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
@@ -1147,6 +1133,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Sony-CES-2026-1200x675.jpeg",
             "publishedAt": "2026-03-25T17:10:51Z",
             "content": "Sony and Honda\u2019s PlayStation-integrated electric vehicle collab felt too good to be true. Turns out it was.\r\nSony Honda Mobility, the joint venture between the two companies, announced on Wednesday t\u2026 [+2789 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Saudi Arabia Buys Another 5 Percent Of Capcom As Resident Evil Requiem Sells 6 Million Copies",
+            "description": "The country continues snatching up gaming assets",
+            "url": "https://kotaku.com/resident-evil-requiem-sales-capcom-saudi-arabia-iran-war-2000679089",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/03/saudi.jpg",
+            "publishedAt": "2026-03-16T15:20:50Z",
+            "content": "Resident Evil Requiem has shown that Capcom\u2019s gaming domination isn\u2019t slowing anytime soon. The game just became the fastest-selling entry in the horror franchise\u2019s history, a year after Monster Hunt\u2026 [+3084 chars]",
             "ai_score": 5
         }
     ]
