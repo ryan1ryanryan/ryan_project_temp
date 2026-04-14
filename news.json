@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-14 17:14",
+    "last_updated": "2026-04-14 19:22",
     "articles": [
         {
             "source": {
@@ -20,20 +20,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Future Sony PlayStation games will use AI to imagine new frames",
-            "description": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new frames between the ones it's actually \u2026",
-            "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717620/247361_PS5_Pro_VPavic_182.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
-            "publishedAt": "2026-03-20T19:49:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nby\r\nSea\u2026 [+3082 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Webster",
             "title": "Nvidia\u2019s DLSS 5 is like motion smoothing for video games, but worse",
             "description": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to \u2026",
@@ -41,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-17-at-1.29.30%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.5437993279675%2C100%2C92.912401344065&w=1200",
             "publishedAt": "2026-03-17T17:58:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nThe generic, homogenized AI face has come for gaming, and it doesnt look good.\r\nb\u2026 [+6478 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Alienware\u2019s new gaming monitor offers a 240Hz QD-OLED panel for just $350",
+            "description": "Alienware has announced a new budget-friendlier QD-OLED monitor, the AW2726DM. As some of the numbers in the convoluted product name hint, it's a 27-inch QHD panel, with 2560 x 1440 resolution, HDR support, and a high refresh rate of 240Hz. But what really ma\u2026",
+            "url": "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268447_Alienware_AW2726DM_27-inch_QD-OLED_monitor_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-13T17:09:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nby\r\nAntonio G. Di\u2026 [+2906 chars]",
             "ai_score": 5
         },
         {
@@ -76,6 +76,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Sean Hollister",
+            "title": "Future Sony PlayStation games will use AI to imagine new frames",
+            "description": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new frames between the ones it's actually \u2026",
+            "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717620/247361_PS5_Pro_VPavic_182.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+            "publishedAt": "2026-03-20T19:49:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nby\r\nSea\u2026 [+3082 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Antonio G. Di Benedetto",
             "title": "Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops",
             "description": "Intel has a pair of new flagship CPUs coming to a variety of pricey gaming laptops: the Core Ultra 9 290 HX Plus and Core Ultra 7 270HX Plus. The Arrow Lake Refresh chips sport 24 cores / 24 threads and 20 cores / 20 threads, respectively. Like Intel's recent\u2026",
@@ -97,6 +111,20 @@
             "urlToImage": "https://media.wired.com/photos/69cf2644509ecd3ce9a7b4ec/191:100/w_1280,c_limit/Everything-You-Need-to-Know-About-Samsung's-2026-OLED-and-Frame-TV-Models.jpg",
             "publishedAt": "2026-04-03T10:00:00Z",
             "content": "Samsung has pulled the wrapping off some of its most anticipated TVs for 2026, including its latest art-forward TVs, The Frame and The Frame Pro, and its premium OLED TVs, which include three series \u2026 [+2318 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox Game Pass \u2018has become too expensive,\u2019 says Microsoft\u2019s new gaming chief in leaked memo",
+            "description": "Microsoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricing is about to change. In an internal memo to Xbox employees, obtained by The Verge, Sharma admits that \"Game Pass has become too expensive for players\" and that Microsoft needs \"a\u2026",
+            "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-13T17:50:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nby\r\nTom WarrenClose\r\nPosts \u2026 [+3348 chars]",
             "ai_score": 5
         },
         {
@@ -1001,6 +1029,20 @@
                 "name": "Kotaku"
             },
             "author": "Ethan Gach",
+            "title": "Xbox Boss Thinks Game Pass Is Too Expensive And Needs To Evolve",
+            "description": "The price rose to $30 last fall ahead of Call of Duty: Black Ops 7",
+            "url": "https://kotaku.com/xbox-boss-thinks-game-pass-is-too-expensive-and-needs-to-evolve-2000687169",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
+            "publishedAt": "2026-04-13T18:16:22Z",
+            "content": "The price of Game Pass has more than doubled since the subscription gaming service was first announced, but it might not stay that way. According to The Verge, the new Microsoft Gaming CEO, Asha Shar\u2026 [+2097 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
             "title": "Digital Foundry Addresses DLSS 5 Blowback: \u2018We Should Have Taken More Time\u2019",
             "description": "The tech analysis team called out people who sent death threats over their recent Nvidia video",
             "url": "https://kotaku.com/digital-foundry-dlss5-nvidia-genai-response-video-2000680002",
@@ -1133,20 +1175,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268403_The_100000_fee_for_H-1Bs_six_months_later_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-13T19:50:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nUnlike Big Tech, rural schools and hospitals that rely on immigrant workers cant absorb the high cost of H-1B visas.\r\nUnlike Big Tech, rural schools and hospital\u2026 [+10582 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
-            "title": "The latest Pixel update tackles Android 16's early stability woes",
-            "description": "Google\u2019s April Pixel update fixes app crashes, missing features, and gaming issues, making Android 16 more stable.",
-            "url": "https://www.androidcentral.com/phones/google-pixel/the-latest-pixel-update-tackles-android-16s-early-stability-woes",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
-            "publishedAt": "2026-04-09T10:04:00Z",
-            "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
             "ai_score": 5
         }
     ]
