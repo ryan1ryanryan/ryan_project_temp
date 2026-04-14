@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-14 15:19",
+    "last_updated": "2026-04-14 17:14",
     "articles": [
         {
             "source": {
@@ -13,6 +13,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Future Sony PlayStation games will use AI to imagine new frames",
+            "description": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new frames between the ones it's actually \u2026",
+            "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717620/247361_PS5_Pro_VPavic_182.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+            "publishedAt": "2026-03-20T19:49:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nby\r\nSea\u2026 [+3082 chars]",
             "ai_score": 8
         },
         {
@@ -55,20 +69,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Blade-16-2026-3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-25T20:36:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThin is still in for the 2026 Blade, but Razer is promising more speed and efficiency.\r\nThin is still in for the 2026 Blade, but Razer is promising more speed an\u2026 [+3313 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Future Sony PlayStation games will use AI to imagine new frames",
-            "description": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new frames between the ones it's actually \u2026",
-            "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717620/247361_PS5_Pro_VPavic_182.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
-            "publishedAt": "2026-03-20T19:49:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nDoes this mean the PS6 is getting AI frame gen? Or will it come to PS5 Pro?\r\nby\r\nSea\u2026 [+3082 chars]",
             "ai_score": 5
         },
         {
@@ -482,20 +482,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "AI was everywhere at gaming\u2019s big developer conference \u2014 except the games",
-            "description": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantas\u2026",
-            "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/55146110863_3ec9504855_o.jpg?quality=90&strip=all&crop=0%2C10.757510848913%2C100%2C78.484978302174&w=1200",
-            "publishedAt": "2026-03-21T02:25:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI was everywhere at gamings big developer conference except the games\r\nOf the many developers I spoke to at GDC, nearly every one disavowed using AI in their pr\u2026 [+8041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sean Hollister",
             "title": "Valve\u2019s huge SteamOS 3.8 update adds long-awaited features \u2014 and supports Steam Machine",
             "description": "Valve has just released SteamOS 3.8.0 in preview, and it's a doozy. Not only is it the first release to support the upcoming Steam Machine living room gaming PC, it comes with long-awaited features for Valve's handhelds and more support for other companies' h\u2026",
@@ -510,6 +496,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Jay Peters",
+            "title": "AI was everywhere at gaming\u2019s big developer conference \u2014 except the games",
+            "description": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantas\u2026",
+            "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/55146110863_3ec9504855_o.jpg?quality=90&strip=all&crop=0%2C10.757510848913%2C100%2C78.484978302174&w=1200",
+            "publishedAt": "2026-03-21T02:25:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI was everywhere at gamings big developer conference except the games\r\nOf the many developers I spoke to at GDC, nearly every one disavowed using AI in their pr\u2026 [+8041 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Andrew Webster",
             "title": "Netflix is launching a new app for kids games",
             "description": "Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app. Called Netflix Playground, the app is focused on games aimed at kids aged eight and under, and, like the rest \u2026",
@@ -517,6 +517,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/WorldOfPeppaPigbillboard_dark_rtl_01_zxx.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-04-06T17:01:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts called Netflix Playground, and its out now.\r\nIts called Netflix Playground, and its out now.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts fro\u2026 [+2988 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Intel May Have an Answer to AMD\u2019s Most Powerful Gaming CPUs",
+            "description": "The Intel and AMD CPU rivalry is getting exciting again.",
+            "url": "https://gizmodo.com/intel-may-have-an-answer-to-amds-most-powerful-gaming-cpus-2000745665",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-05-1200x675.jpg",
+            "publishedAt": "2026-04-13T15:15:02Z",
+            "content": "Theres essentially no competition for AMDs best gaming CPU, the Ryzen 7 9850X3D. That may finally change. New leaks of Intels Nova Lake desktop CPUs may hold the key to better future gaming PCs. Or, \u2026 [+2602 chars]",
             "ai_score": 5
         },
         {
@@ -1133,20 +1147,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
             "publishedAt": "2026-04-09T10:04:00Z",
             "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Does Nvidia\u2019s Slop-ified DLSS 5 Game Lighting Make Any Sense?",
-            "description": "Nvidia finally reveals what's actually going on with its upscaler, and it's much less impressive than it first seemed.",
-            "url": "https://gizmodo.com/does-nvidias-slop-ified-dlss-5-game-lighting-make-any-sense-2000736018",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Nvidia-DLSS5-resident-evil-requiem-leon-1200x675.jpg",
-            "publishedAt": "2026-03-20T15:40:47Z",
-            "content": "Nvidias newfangled AI-based neural rendering technology, DLSS 5, dramatically modifies (aka \u201cslop-ifies\u201d) game visuals with the help of AI. Nvidia promised this technology would revolutionize in-game\u2026 [+9510 chars]",
             "ai_score": 5
         }
     ]
