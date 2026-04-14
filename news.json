@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-14 22:51",
+    "last_updated": "2026-04-14 23:47",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -678,20 +678,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Kate Knibbs",
-            "title": "Kalshi Has Been Temporarily Banned in Nevada",
-            "description": "A judge ordered Kalshi to immediately halt sports and election contracts in the state, intensifying a growing regulatory battle over prediction markets.",
-            "url": "https://www.wired.com/story/nevada-bans-kalshi-prediction-market/",
-            "urlToImage": "https://media.wired.com/photos/69b46340abbbb99979b2e570/191:100/w_1280,c_limit/Nevada-Ban-Kalshi-Business-2263571512.jpg",
-            "publishedAt": "2026-03-20T16:54:15Z",
-            "content": "Kalshi has been temporarily banned in Nevada, marking the latest escalation in the widening regulatory war over prediction markets. The First Judicial District Court of Nevada has issued a 14 day res\u2026 [+3963 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Julian Chokkattu",
             "title": "6G Is Coming. Here\u2019s What to Expect From the Next Generation of Cellular Tech",
             "description": "When it succeeds 5G in 2030, the next-gen mobile network will focus on upload speeds, AI, and radar-like \u201csensing\u201d of vehicles, devices, and people.",
@@ -713,6 +699,20 @@
             "urlToImage": "https://media.wired.com/photos/69c44c4c4ff31d9d83686fcc/191:100/w_1280,c_limit/Model-Behavior-Newsletter-Writers-Using-AI-to-Write-Their-Columns-Business.jpg",
             "publishedAt": "2026-03-26T18:00:00Z",
             "content": "When technology reporter Alex Heath has a scoop, he sits down at his computer and speaks into a microphone. Hes not talking to a human colleagueHeath went independent on Substack last yearhes talking\u2026 [+3641 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Kate Knibbs",
+            "title": "Kalshi Has Been Temporarily Banned in Nevada",
+            "description": "A judge ordered Kalshi to immediately halt sports and election contracts in the state, intensifying a growing regulatory battle over prediction markets.",
+            "url": "https://www.wired.com/story/nevada-bans-kalshi-prediction-market/",
+            "urlToImage": "https://media.wired.com/photos/69b46340abbbb99979b2e570/191:100/w_1280,c_limit/Nevada-Ban-Kalshi-Business-2263571512.jpg",
+            "publishedAt": "2026-03-20T16:54:15Z",
+            "content": "Kalshi has been temporarily banned in Nevada, marking the latest escalation in the widening regulatory war over prediction markets. The First Judicial District Court of Nevada has issued a 14 day res\u2026 [+3963 chars]",
             "ai_score": 5
         },
         {
@@ -1070,20 +1070,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
-            "description": "At GTC, Jensen Huang was on damage control for AI.",
-            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
-            "publishedAt": "2026-03-20T20:10:56Z",
-            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Bruce Gil",
             "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
             "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
@@ -1091,6 +1077,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
             "publishedAt": "2026-03-20T16:10:04Z",
             "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
+            "description": "At GTC, Jensen Huang was on damage control for AI.",
+            "url": "https://gizmodo.com/nvidia-ceo-wants-tech-execs-to-stop-laying-off-workers-and-scaring-people-2000736053",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
+            "publishedAt": "2026-03-20T20:10:56Z",
+            "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
             "ai_score": 5
         },
         {
