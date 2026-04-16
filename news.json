@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-16 02:47",
+    "last_updated": "2026-04-16 05:36",
     "articles": [
         {
             "source": {
@@ -13,20 +13,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "New EU border checks delayed again over tech issues",
-            "description": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
-            "url": "https://www.bbc.com/news/articles/c33l77k88vyo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/651d/live/4f2924f0-2a9b-11f1-b120-218ca874ffa5.jpg",
-            "publishedAt": "2026-03-28T11:28:16Z",
-            "content": "Toby Howe, Kent and Medway Resilience Forum, says: \"For passengers who arrive at the Eurotunnel or the Port of Dover for the foreseeable future, they will have to add additional information at the Fr\u2026 [+17 chars]",
             "ai_score": 8
         },
         {
@@ -1007,6 +993,20 @@
             "urlToImage": "https://a.fsdn.com/sd/topics/opensource_64.png",
             "publishedAt": "2026-03-14T20:34:00Z",
             "content": "Customers who bought these devices and used them for several years were not used to them showing full screen ads, and now they do. People were justifiably pissed. So what do you do when an already ev\u2026 [+2043 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "New EU border checks delayed again over tech issues",
+            "description": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
+            "url": "https://www.bbc.com/news/articles/c33l77k88vyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/651d/live/4f2924f0-2a9b-11f1-b120-218ca874ffa5.jpg",
+            "publishedAt": "2026-03-28T11:28:16Z",
+            "content": "Toby Howe, Kent and Medway Resilience Forum, says: \"For passengers who arrive at the Eurotunnel or the Port of Dover for the foreseeable future, they will have to add additional information at the Fr\u2026 [+17 chars]",
             "ai_score": 5
         },
         {
