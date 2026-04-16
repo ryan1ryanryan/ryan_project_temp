@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-16 17:20",
+    "last_updated": "2026-04-16 19:21",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -451,6 +451,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andrew Cunningham, Ars Technica",
+            "title": "Microsoft Surface PCs Are Getting Big Price Hikes, and the Cheaper Models Are Going Away",
+            "description": "The price increases range from $200 to $300, and Microsoft doesn\u2019t sell a sub-$1,000 Surface anymore. The rising cost of consumer tech is a common theme in 2026.",
+            "url": "https://www.wired.com/story/microsoft-surface-price-hikes-cheaper-models-going-away/",
+            "urlToImage": "https://media.wired.com/photos/69dfbe4967d3fd19de3c0dce/191:100/w_1280,c_limit/GettyImages-1227921954.jpg",
+            "publishedAt": "2026-04-15T17:28:30Z",
+            "content": "If youve been waiting for Microsoft to update its Surface PC lineupperhaps with Qualcomms new Snapdragon X2 Elite processorsIve got bad news for you.\r\nMicrosoft\u00a0is shaking up its PC lineup, but its d\u2026 [+2088 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -601,6 +615,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Razer-Blade-16-2026-3-1200x675.jpg",
             "publishedAt": "2026-03-25T16:15:15Z",
             "content": "We still dream of treating our gaming laptops as our one and only everyday device. The super-thin Razer Blade 16 from 2025 came close to that goal, but it just didnt have the staying power for a dail\u2026 [+3674 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Alienware\u2019s $350 QD-OLED Gaming Monitor Nixes Everything for a Pretty Screen",
+            "description": "So long as you don't expect any bells and whistles, the barebones 27-inch AW2726DM won't disappoint.",
+            "url": "https://gizmodo.com/alienwares-350-qd-oled-gaming-monitor-nixes-everything-for-a-pretty-screen-2000746922",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Alienware-AW2726DM-QD-OLED-gaming-monitor-review-1-1200x675.jpg",
+            "publishedAt": "2026-04-15T19:15:21Z",
+            "content": "Out of all the companies to drop a good deal in gaming gear, I never expected it to be Alienware.\r\nHeres the long and short of Alienwares new AW2726DM gaming monitor: 27-inch QD-OLED with 1440p resol\u2026 [+9897 chars]",
             "ai_score": 5
         },
         {
