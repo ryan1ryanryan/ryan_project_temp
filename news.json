@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-15 23:47",
+    "last_updated": "2026-04-16 02:47",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "New EU border checks delayed again over tech issues",
+            "description": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
+            "url": "https://www.bbc.com/news/articles/c33l77k88vyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/651d/live/4f2924f0-2a9b-11f1-b120-218ca874ffa5.jpg",
+            "publishedAt": "2026-03-28T11:28:16Z",
+            "content": "Toby Howe, Kent and Medway Resilience Forum, says: \"For passengers who arrive at the Eurotunnel or the Port of Dover for the foreseeable future, they will have to add additional information at the Fr\u2026 [+17 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -998,20 +1012,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "New EU border checks delayed again over tech issues",
-            "description": "The new system was due to be fully implemented at the Eurotunnel and Port of Dover on 10 April.",
-            "url": "https://www.bbc.com/news/articles/c33l77k88vyo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/651d/live/4f2924f0-2a9b-11f1-b120-218ca874ffa5.jpg",
-            "publishedAt": "2026-03-28T11:28:16Z",
-            "content": "Toby Howe, Kent and Medway Resilience Forum, says: \"For passengers who arrive at the Eurotunnel or the Port of Dover for the foreseeable future, they will have to add additional information at the Fr\u2026 [+17 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Ethan Gach",
@@ -1105,6 +1105,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/shutterstock_2751351053-1200x675.jpg",
             "publishedAt": "2026-04-09T14:55:20Z",
             "content": "Young people have grown increasingly skeptical of artificial intelligence, even those who use it daily, according to a new Gallup poll of more than 1,500 people aged 14 to 29.\r\nThere is no decline in\u2026 [+4542 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Trump\u2019s Fed Pick Is Knee Deep in Tech and Crypto Investments",
+            "description": "Kevin Warsh's financial disclosures show at least $130 million in holdings.",
+            "url": "https://gizmodo.com/trumps-fed-pick-is-knee-deep-in-tech-and-crypto-investments-2000746508",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/kevin-warsh-2024-1200x675.jpg",
+            "publishedAt": "2026-04-15T00:02:15Z",
+            "content": "Kevin Warsh, President Donald Trump\u2019s pick to be the next head of the Federal Reserve, disclosed his financial holdings in a filing made public Tuesday, showing he has at least $130 million in assets\u2026 [+2784 chars]",
             "ai_score": 5
         },
         {
