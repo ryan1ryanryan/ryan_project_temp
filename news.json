@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-17 21:47",
+    "last_updated": "2026-04-17 22:45",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Nevada Bans Kalshi for at Least the Next Two Weeks",
-            "description": "The ban comes at a time when regulators and lawmakers are on high alert over prediction markets.",
-            "url": "https://gizmodo.com/nevada-bans-kalshi-for-at-least-the-next-two-weeks-2000736211",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Sports-Book-at-Caesars-Palace-1200x675.jpg",
-            "publishedAt": "2026-03-20T19:50:22Z",
-            "content": "A court in Nevada has issued a restraining order against Kalshi that prohibits the online prediction market from operating in the state, according to a new report from Wired. The order lasts 14 days \u2026 [+2376 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": null,
@@ -27,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -755,6 +741,20 @@
             "urlToImage": "https://media.wired.com/photos/69b46340abbbb99979b2e570/191:100/w_1280,c_limit/Nevada-Ban-Kalshi-Business-2263571512.jpg",
             "publishedAt": "2026-03-20T16:54:15Z",
             "content": "Kalshi has been temporarily banned in Nevada, marking the latest escalation in the widening regulatory war over prediction markets. The First Judicial District Court of Nevada has issued a 14 day res\u2026 [+3963 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Nevada Bans Kalshi for at Least the Next Two Weeks",
+            "description": "The ban comes at a time when regulators and lawmakers are on high alert over prediction markets.",
+            "url": "https://gizmodo.com/nevada-bans-kalshi-for-at-least-the-next-two-weeks-2000736211",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Sports-Book-at-Caesars-Palace-1200x675.jpg",
+            "publishedAt": "2026-03-20T19:50:22Z",
+            "content": "A court in Nevada has issued a restraining order against Kalshi that prohibits the online prediction market from operating in the state, according to a new report from Wired. The order lasts 14 days \u2026 [+2376 chars]",
             "ai_score": 5
         },
         {
