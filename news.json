@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-17 07:54",
+    "last_updated": "2026-04-17 09:24",
     "articles": [
         {
             "source": {
@@ -13,62 +13,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Sony Inzone H6 Air Review: A Perfect Case for Open-Back Gaming Headsets",
-            "description": "Sony's new open-back wired gaming headset is lighter in weight and on the wallet.",
-            "url": "https://gizmodo.com/sony-inzone-h6-air-review-a-perfect-case-for-open-back-gaming-headsets-2000745815",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-H5-Air-review-14-1200x675.jpg",
-            "publishedAt": "2026-04-14T16:00:45Z",
-            "content": "Gaming headsets keep getting more premium these days. There\u2019s the $600 SteelSeries Arctis Nova Elite that comes with its own gaming hub that lets you switch between different devices. There\u2019s the $35\u2026 [+9513 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-23T19:42:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "European Cyber Agencies Feel Left Out of Anthropic\u2019s Spooky AI Party",
-            "description": "European tech regulators would like a Claude Mythos Preview preview.",
-            "url": "https://gizmodo.com/european-cyber-agencies-feel-left-out-of-anthropics-spooky-ai-party-2000745373",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/spooky-dario-amodei-1200x675.jpg",
-            "publishedAt": "2026-04-14T10:30:46Z",
-            "content": "If Anthropic is kind of like a kid at a Halloween party with a bowl full of spaghetti, telling its blindfolded friends the spaghetti is brains, European cyber agency leaders are like kids who are mad\u2026 [+1750 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "HP Omen Max 45L Review: 4K60 Gaming Has Never Been So Easy",
-            "description": "Thanks to the ongoing RAM crisis, this pre-built PC tower may be a cheaper way to upgrade your desktop gaming experience.",
-            "url": "https://gizmodo.com/hp-omen-max-45l-review-4k60-gaming-has-never-been-so-easy-2000742372",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-08-1200x675.jpg",
-            "publishedAt": "2026-04-05T13:00:32Z",
-            "content": "HPs Omen Max 45L desktop is an obsidian shard thrumming with energy and subtly shifting light. Theres one alien-seeming channel running through the top of the slab, a glass panel obscuring the front \u2026 [+10988 chars]",
             "ai_score": 8
         },
         {
@@ -283,6 +227,34 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Sony Inzone H6 Air Review: A Perfect Case for Open-Back Gaming Headsets",
+            "description": "Sony's new open-back wired gaming headset is lighter in weight and on the wallet.",
+            "url": "https://gizmodo.com/sony-inzone-h6-air-review-a-perfect-case-for-open-back-gaming-headsets-2000745815",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-H5-Air-review-14-1200x675.jpg",
+            "publishedAt": "2026-04-14T16:00:45Z",
+            "content": "Gaming headsets keep getting more premium these days. There\u2019s the $600 SteelSeries Arctis Nova Elite that comes with its own gaming hub that lets you switch between different devices. There\u2019s the $35\u2026 [+9513 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
+            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-23T19:42:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -395,6 +367,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "European Cyber Agencies Feel Left Out of Anthropic\u2019s Spooky AI Party",
+            "description": "European tech regulators would like a Claude Mythos Preview preview.",
+            "url": "https://gizmodo.com/european-cyber-agencies-feel-left-out-of-anthropics-spooky-ai-party-2000745373",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/spooky-dario-amodei-1200x675.jpg",
+            "publishedAt": "2026-04-14T10:30:46Z",
+            "content": "If Anthropic is kind of like a kid at a Halloween party with a bowl full of spaghetti, telling its blindfolded friends the spaghetti is brains, European cyber agency leaders are like kids who are mad\u2026 [+1750 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -405,6 +391,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/RecRoom_Creator.png.webp?quality=90&strip=all&crop=0,3.4199101935869,100,93.160179612826",
             "publishedAt": "2026-03-31T00:29:33Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says it never quite figured out how to make Rec Room a sustainably profitable business.\r\nThe company says it never quite figured out how to make Rec \u2026 [+2294 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HP Omen Max 45L Review: 4K60 Gaming Has Never Been So Easy",
+            "description": "Thanks to the ongoing RAM crisis, this pre-built PC tower may be a cheaper way to upgrade your desktop gaming experience.",
+            "url": "https://gizmodo.com/hp-omen-max-45l-review-4k60-gaming-has-never-been-so-easy-2000742372",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-08-1200x675.jpg",
+            "publishedAt": "2026-04-05T13:00:32Z",
+            "content": "HPs Omen Max 45L desktop is an obsidian shard thrumming with energy and subtly shifting light. Theres one alien-seeming channel running through the top of the slab, a glass panel obscuring the front \u2026 [+10988 chars]",
             "ai_score": 5
         },
         {
@@ -804,20 +804,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Adi Robertson",
-            "title": "Meta\u2019s legal defeat could be a victory for children, or a loss for everyone",
-            "description": "Is social media not just bad, but illegally bad? Should tech companies pay for making it that way? According to two US juries - and no shortage of outside commentary - the answer to both questions is \"yes.\" Earlier this week, two juries - one in New Mexico, o\u2026",
-            "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-28T11:23:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA jury said Instagram and YouTube are defective now what?\r\nA jury said Instagram and YouTube are defective now what?\r\nby\r\nAdi RobertsonClose\r\nSenior Editor, Tech\u2026 [+7964 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "Online age checks came first \u2014 a VPN crackdown could be next",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about online age verification and your privacy, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepbac\u2026",
@@ -825,6 +811,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268409_Online_ID_checks_came_first_%E2%80%94_your_VPN_could_be_next_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-20T17:33:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOnline age checks came first a VPN crackdown could be next\r\nLawmakers dont want VPNs to stand in the way of online age verification.\r\nby\r\nEmma RothClose\r\nPosts f\u2026 [+7662 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Adi Robertson",
+            "title": "Meta\u2019s legal defeat could be a victory for children, or a loss for everyone",
+            "description": "Is social media not just bad, but illegally bad? Should tech companies pay for making it that way? According to two US juries - and no shortage of outside commentary - the answer to both questions is \"yes.\" Earlier this week, two juries - one in New Mexico, o\u2026",
+            "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-28T11:23:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA jury said Instagram and YouTube are defective now what?\r\nA jury said Instagram and YouTube are defective now what?\r\nby\r\nAdi RobertsonClose\r\nSenior Editor, Tech\u2026 [+7964 chars]",
             "ai_score": 5
         },
         {
@@ -1070,20 +1070,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Bruce Gil",
-            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
-            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
-            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
-            "publishedAt": "2026-03-20T16:10:04Z",
-            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Ece Yildirim",
             "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
             "description": "At GTC, Jensen Huang was on damage control for AI.",
@@ -1091,6 +1077,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
             "publishedAt": "2026-03-20T20:10:56Z",
             "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
+            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
+            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
+            "publishedAt": "2026-03-20T16:10:04Z",
+            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
             "ai_score": 5
         },
         {
