@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-17 11:02",
+    "last_updated": "2026-04-17 11:59",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox Game Pass \u2018has become too expensive,\u2019 says Microsoft\u2019s new gaming chief in leaked memo",
-            "description": "Microsoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricing is about to change. In an internal memo to Xbox employees, obtained by The Verge, Sharma admits that \"Game Pass has become too expensive for players\" and that Microsoft needs \"a\u2026",
-            "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-13T17:50:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nby\r\nTom WarrenClose\r\nPosts \u2026 [+3348 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": null,
@@ -146,6 +132,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Tom Warren",
+            "title": "Xbox Game Pass \u2018has become too expensive,\u2019 says Microsoft\u2019s new gaming chief in leaked memo",
+            "description": "Microsoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricing is about to change. In an internal memo to Xbox employees, obtained by The Verge, Sharma admits that \"Game Pass has become too expensive for players\" and that Microsoft needs \"a\u2026",
+            "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-13T17:50:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nby\r\nTom WarrenClose\r\nPosts \u2026 [+3348 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "David Pierce",
             "title": "The new show making fun of tech bros",
             "description": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) This wee\u2026",
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Sony Inzone H6 Air Review: A Perfect Case for Open-Back Gaming Headsets",
-            "description": "Sony's new open-back wired gaming headset is lighter in weight and on the wallet.",
-            "url": "https://gizmodo.com/sony-inzone-h6-air-review-a-perfect-case-for-open-back-gaming-headsets-2000745815",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-H5-Air-review-14-1200x675.jpg",
-            "publishedAt": "2026-04-14T16:00:45Z",
-            "content": "Gaming headsets keep getting more premium these days. There\u2019s the $600 SteelSeries Arctis Nova Elite that comes with its own gaming hub that lets you switch between different devices. There\u2019s the $35\u2026 [+9513 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -251,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-23T19:42:33Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Sony Inzone H6 Air Review: A Perfect Case for Open-Back Gaming Headsets",
+            "description": "Sony's new open-back wired gaming headset is lighter in weight and on the wallet.",
+            "url": "https://gizmodo.com/sony-inzone-h6-air-review-a-perfect-case-for-open-back-gaming-headsets-2000745815",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-H5-Air-review-14-1200x675.jpg",
+            "publishedAt": "2026-04-14T16:00:45Z",
+            "content": "Gaming headsets keep getting more premium these days. There\u2019s the $600 SteelSeries Arctis Nova Elite that comes with its own gaming hub that lets you switch between different devices. There\u2019s the $35\u2026 [+9513 chars]",
             "ai_score": 5
         },
         {
@@ -829,20 +829,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Race on to establish globally recognised 'AI-free' logo",
-            "description": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally.",
-            "url": "https://www.bbc.com/news/articles/cj0d6el50ppo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bb52/live/5b0b7900-1ed2-11f1-b8f6-b15aa2adfcf4.jpg",
-            "publishedAt": "2026-03-16T00:32:50Z",
-            "content": "Declarations like \"Proudly Human\", \"Human-made\", '\"No A.I\" and \"AI-free\" are appearing across films, marketing, books and websites.",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1147,6 +1133,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2265481258.jpg?quality=90&strip=all&crop=0%2C10.728895256881%2C100%2C78.542209486237&w=1200",
             "publishedAt": "2026-04-10T20:50:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBut getting qualified individuals through training and into the role may still be a challenge. \r\nBut getting qualified individuals through training and into the \u2026 [+3703 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "John.Higgins",
+            "title": "The Hisense U7SG is a great midrange TV you shouldn\u2019t buy yet",
+            "description": "With all of the focus on RGB LED technology, it seemed like more affordable mini-LED TVs had been shooed to the side. But with the Hisense U7SG, we're getting our first great midrange general-use TV of 2026. It gets bright, comes in a wide range of sizes, sup\u2026",
+            "url": "https://www.theverge.com/tech/899160/hisense-u7sg-tv-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268382_Hisense_U7SG_TV_JHiggins_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-23T23:10:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe U7SG has improved reflection and blooming control, but it will be cheaper in a few months.\r\nIf you buy something from a Verge link, Vox Media may earn a comm\u2026 [+9072 chars]",
             "ai_score": 5
         }
     ]
