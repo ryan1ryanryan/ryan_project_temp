@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-19 20:44",
+    "last_updated": "2026-04-19 21:43",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Framework is teasing a lot of Linux for its April 21st event",
+            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
+            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-09T18:24:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -27,20 +41,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268447_Alienware_AW2726DM_27-inch_QD-OLED_monitor_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-13T17:09:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nby\r\nAntonio G. Di\u2026 [+2906 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Nvidia has lost the plot with gamers",
-            "description": "Nvidia surely thought it was doing a good thing for gamers by \"upgrading\" the faces of our favorite video game characters. But that just shows how much the company has lost the plot. Nvidia could've marketed its new DLSS 5 real-time lighting technology as a w\u2026",
-            "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nvidia-dlss-5-geforce-rtx-resident-evil-requiem-comparison-001-on.jpeg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-03-17T23:13:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company at the center of AI and gaming should have known better.\r\nThe company at the center of AI and gaming should have known better.\r\nby\r\nSean HollisterClo\u2026 [+6931 chars]",
             "ai_score": 5
         },
         {
@@ -146,20 +146,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "Framework is teasing a lot of Linux for its April 21st event",
-            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
-            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-09T18:24:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "Nintendo cuts Switch 2 production amid weakening console sales",
             "description": "Nintendo will produce fewer Switch 2 units than it previously projected in response to weakening demand for the console in the US, Bloomberg reports. Four million units of Nintendo's flagship device are expected to be made this quarter instead of the six mill\u2026",
@@ -195,20 +181,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/razer1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-03-31T14:01:23Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Pro Type Ergo is designed for productivity over gaming but still features Razers colorful RGB lighting.\r\nThe Pro Type Ergo is designed for productivity over \u2026 [+3337 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "ChatGPT did not cure a dog\u2019s cancer",
-            "description": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story couldn't help but spread. It's the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine an\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-18T18:14:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nChatGPT did not cure a dogs cancer\r\nA sick dog, desperate owner, and a bunch of chatbots made for a great story. The actual science was much messier. \r\nby\r\nRober\u2026 [+8575 chars]",
             "ai_score": 5
         },
         {
@@ -998,20 +970,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Digital Foundry Addresses DLSS 5 Blowback: \u2018We Should Have Taken More Time\u2019",
-            "description": "The tech analysis team called out people who sent death threats over their recent Nvidia video",
-            "url": "https://kotaku.com/digital-foundry-dlss5-nvidia-genai-response-video-2000680002",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/03/grace.jpg",
-            "publishedAt": "2026-03-18T17:11:29Z",
-            "content": "Nvidia is facing a firestorm of confusion, skepticism, and outrage over its recent DLSS 5 demo that shows generative AI being used to achieve more photorealistic lighting, and also yassifying the fac\u2026 [+4418 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Ece Yildirim",
@@ -1161,6 +1119,62 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
             "publishedAt": "2026-04-09T10:04:00Z",
             "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Does Nvidia\u2019s Slop-ified DLSS 5 Game Lighting Make Any Sense?",
+            "description": "Nvidia finally reveals what's actually going on with its upscaler, and it's much less impressive than it first seemed.",
+            "url": "https://gizmodo.com/does-nvidias-slop-ified-dlss-5-game-lighting-make-any-sense-2000736018",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Nvidia-DLSS5-resident-evil-requiem-leon-1200x675.jpg",
+            "publishedAt": "2026-03-20T15:40:47Z",
+            "content": "Nvidias newfangled AI-based neural rendering technology, DLSS 5, dramatically modifies (aka \u201cslop-ifies\u201d) game visuals with the help of AI. Nvidia promised this technology would revolutionize in-game\u2026 [+9510 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Sony and Honda Cancel Their Big PlayStation-Integrated EV",
+            "description": "Another electric vehicle bites the dust.",
+            "url": "https://gizmodo.com/sony-and-honda-cancel-their-big-playstation-integrated-ev-2000737997",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Sony-CES-2026-1200x675.jpeg",
+            "publishedAt": "2026-03-25T17:10:51Z",
+            "content": "Sony and Honda\u2019s PlayStation-integrated electric vehicle collab felt too good to be true. Turns out it was.\r\nSony Honda Mobility, the joint venture between the two companies, announced on Wednesday t\u2026 [+2789 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "One Chart Shows Buying An Old PlayStation Has Never Been This Expensive Before",
+            "description": "Aggressive price drops kept console gaming affordable",
+            "url": "https://kotaku.com/one-chart-shows-buying-an-old-playstation-has-never-been-this-expensive-before-2000683668",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/08/PS5-grid.jpg",
+            "publishedAt": "2026-03-31T21:53:11Z",
+            "content": "Later this week, the launch of the PlayStation 5 with a disc drive will start selling for $650. Make no mistake, that\u2019s a lot of money. It might not be the most Sony has ever charged for a base conso\u2026 [+3170 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "Why your Whoop might tell you to up your testosterone",
+            "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last week, our editor-in-chief\u2026",
+            "url": "https://www.theverge.com/column/909736/optimizer-whoop-oura-wearable-hype-cycle",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-10T13:46:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy your Whoop might tell you to up your testosterone\r\nWhoop and Oura are health tech trendsetters. But hurtling toward innovation can have some unintended rippl\u2026 [+10585 chars]",
             "ai_score": 5
         }
     ]
