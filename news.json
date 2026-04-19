@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-04-19 18:58",
+    "last_updated": "2026-04-19 19:47",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Steve Jobs and the greatest run of products in tech history",
+            "description": "\"I'm pleased to report to you that Apple's back on track.\" It was May of 1998, and Steve Jobs was about 10 months into his second stint leading the company he'd cofounded more than two decades earlier. (It was also a bit more than a decade after that company \u2026",
+            "url": "https://www.theverge.com/tech/900655/steve-jobs-imac-ibook-ipod",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_STEVE_JOBS_RETURN_CVirginia_88b9c9.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-29T17:15:36Z",
+            "content": "<ul><li></li><li></li></ul>\r\niMacs. iBooks. iPods. For 10 years after Steve Jobs came back, Apple couldnt miss.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest\u2026 [+10213 chars]",
+            "ai_score": 9
+        },
         {
             "source": {
                 "id": null,
@@ -13,20 +27,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "GTA-maker Rockstar Games hacked again but downplays impact",
-            "description": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
-            "url": "https://www.bbc.com/news/articles/cx2dg5g1le7o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3c29/live/fbde8390-3719-11f1-a6bd-75d9eff58887.jpg",
-            "publishedAt": "2026-04-13T10:20:54Z",
-            "content": "But Rockstar, confirming the hack to gaming publication Kotaku, downplayed the breach - saying \"this has no impact on our organisation or our players\".",
             "ai_score": 8
         },
         {
@@ -745,20 +745,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "Steve Jobs and the greatest run of products in tech history",
-            "description": "\"I'm pleased to report to you that Apple's back on track.\" It was May of 1998, and Steve Jobs was about 10 months into his second stint leading the company he'd cofounded more than two decades earlier. (It was also a bit more than a decade after that company \u2026",
-            "url": "https://www.theverge.com/tech/900655/steve-jobs-imac-ibook-ipod",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_STEVE_JOBS_RETURN_CVirginia_88b9c9.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-29T17:15:36Z",
-            "content": "<ul><li></li><li></li></ul>\r\niMacs. iBooks. iPods. For 10 years after Steve Jobs came back, Apple couldnt miss.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest\u2026 [+10213 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -867,6 +853,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-13T10:29:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThis new Xbox mode feature is ideal for apps that arent designed for a controller.\r\nThis new Xbox mode feature is ideal for apps that arent designed for a contro\u2026 [+2487 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "GTA-maker Rockstar Games hacked again but downplays impact",
+            "description": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
+            "url": "https://www.bbc.com/news/articles/cx2dg5g1le7o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3c29/live/fbde8390-3719-11f1-a6bd-75d9eff58887.jpg",
+            "publishedAt": "2026-04-13T10:20:54Z",
+            "content": "But Rockstar, confirming the hack to gaming publication Kotaku, downplayed the breach - saying \"this has no impact on our organisation or our players\".",
             "ai_score": 5
         },
         {
