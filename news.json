@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-21 22:44",
+    "last_updated": "2026-04-21 23:41",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -689,6 +689,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "The Lenovo Legion Go S is RAMageddon\u2019s latest victim",
+            "description": "You can still find the Asus Xbox Ally X and the MSI Claw 8 AI Plus for $999 and $1,049 respectively, but Lenovo's Legion Go S has seemingly given up the fight. The best version of Lenovo's 8-inch handheld now costs nearly double what it did at launch - origin\u2026",
+            "url": "https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-20T22:49:42Z",
+            "content": "<ul><li></li><li></li></ul>\r\nThe best version nearly doubled in price overnight.\r\nThe best version nearly doubled in price overnight.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to\u2026 [+2772 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -699,20 +713,6 @@
             "urlToImage": "https://media.wired.com/photos/69d92ac7d7f2e496da19531f/191:100/w_1280,c_limit/Motorola's-Souped-Up-Folding-Phone-Is-Almost-Half-Off.jpg",
             "publishedAt": "2026-04-10T18:14:38Z",
             "content": "For a limited time, you can grab the Motorola Razr Ultra with 16 GB of memory and 512 GB of storage for just $700, a $600 discount from its usual price. It's our favorite folding smartphone, with exc\u2026 [+1822 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Adi Robertson",
-            "title": "Meta\u2019s legal defeat could be a victory for children, or a loss for everyone",
-            "description": "Is social media not just bad, but illegally bad? Should tech companies pay for making it that way? According to two US juries - and no shortage of outside commentary - the answer to both questions is \"yes.\" Earlier this week, two juries - one in New Mexico, o\u2026",
-            "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-28T11:23:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA jury said Instagram and YouTube are defective now what?\r\nA jury said Instagram and YouTube are defective now what?\r\nby\r\nAdi RobertsonClose\r\nSenior Editor, Tech\u2026 [+7964 chars]",
             "ai_score": 5
         },
         {
@@ -734,6 +734,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Adi Robertson",
+            "title": "Meta\u2019s legal defeat could be a victory for children, or a loss for everyone",
+            "description": "Is social media not just bad, but illegally bad? Should tech companies pay for making it that way? According to two US juries - and no shortage of outside commentary - the answer to both questions is \"yes.\" Earlier this week, two juries - one in New Mexico, o\u2026",
+            "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-28T11:23:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA jury said Instagram and YouTube are defective now what?\r\nA jury said Instagram and YouTube are defective now what?\r\nby\r\nAdi RobertsonClose\r\nSenior Editor, Tech\u2026 [+7964 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Stevie Bonifield",
             "title": "NASA did eventually solve Artemis II\u2019s Outlook glitch",
             "description": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman\u2026",
@@ -748,20 +762,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The AI code wars are heating up",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. Ho\u2026",
-            "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T17:45:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI, Google, and Anthropic are eating the software world alive.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest and yo\u2026 [+11750 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tina Nguyen",
             "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
             "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
@@ -769,6 +769,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
             "publishedAt": "2026-04-15T19:53:53Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The AI code wars are heating up",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. Ho\u2026",
+            "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-10T17:45:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI, Google, and Anthropic are eating the software world alive.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest and yo\u2026 [+11750 chars]",
             "ai_score": 5
         },
         {
@@ -986,20 +1000,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Bruce Gil",
-            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
-            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
-            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
-            "publishedAt": "2026-03-20T16:10:04Z",
-            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Ece Yildirim",
             "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People",
             "description": "At GTC, Jensen Huang was on damage control for AI.",
@@ -1007,6 +1007,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/GettyImages-2266457818-1200x675.jpg",
             "publishedAt": "2026-03-20T20:10:56Z",
             "content": "AI is having a major PR crisis, and Nvidia CEO Jensen Huang is really worried about it.\r\nAs AI technology improves and leverages the underregulated space it inhabits to creep further into modern soci\u2026 [+4041 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Super Micro Co-Founder Charged With Smuggling $2.5 Billion of AI Tech Into China",
+            "description": "Co-Founder and Vice President Yih-Shyan Liaw could face up to 30 years in prison.",
+            "url": "https://gizmodo.com/super-micro-co-founder-charged-with-smuggling-2-5-billion-of-ai-tech-into-china-2000736075",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/Does-CyberGhost-Work-in-China-1200x675.jpg",
+            "publishedAt": "2026-03-20T16:10:04Z",
+            "content": "An executive at Super Micro Computer was arrested Thursday for allegedly smuggling servers with advanced AI chips into China.\r\nThe U.S. Department of Justice unsealed an indictment revealing that thr\u2026 [+3446 chars]",
             "ai_score": 5
         },
         {
@@ -1161,20 +1175,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Nvidia-DLSS5-resident-evil-requiem-leon-1200x675.jpg",
             "publishedAt": "2026-03-20T15:40:47Z",
             "content": "Nvidias newfangled AI-based neural rendering technology, DLSS 5, dramatically modifies (aka \u201cslop-ifies\u201d) game visuals with the help of AI. Nvidia promised this technology would revolutionize in-game\u2026 [+9510 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Sony and Honda Cancel Their Big PlayStation-Integrated EV",
-            "description": "Another electric vehicle bites the dust.",
-            "url": "https://gizmodo.com/sony-and-honda-cancel-their-big-playstation-integrated-ev-2000737997",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Afeela-Sony-CES-2026-1200x675.jpeg",
-            "publishedAt": "2026-03-25T17:10:51Z",
-            "content": "Sony and Honda\u2019s PlayStation-integrated electric vehicle collab felt too good to be true. Turns out it was.\r\nSony Honda Mobility, the joint venture between the two companies, announced on Wednesday t\u2026 [+2789 chars]",
             "ai_score": 5
         }
     ]
