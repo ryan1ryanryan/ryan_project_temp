@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-22 02:42",
+    "last_updated": "2026-04-22 05:32",
     "articles": [
         {
             "source": {
@@ -241,20 +241,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dell Cameron, Louise Matsakis",
-            "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
-            "description": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran\u2019s Islamic Revolutionary Guard Corps.",
-            "url": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
-            "urlToImage": "https://media.wired.com/photos/69cbf5d389cbdc32deb6bcdf/191:100/w_1280,c_limit/Trump_Iran_Biz_GettyImages-2267975852.jpg",
-            "publishedAt": "2026-03-31T21:25:12Z",
-            "content": "Irans Islamic Revolutionary Guard Corps warned Tuesday that it plans to begin attacking more than a dozen American companies across the Middle East on Wednesday in retaliation for the killing of Iran\u2026 [+3382 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -265,6 +251,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
             "publishedAt": "2026-04-09T19:25:56Z",
             "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dell Cameron, Louise Matsakis",
+            "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
+            "description": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran\u2019s Islamic Revolutionary Guard Corps.",
+            "url": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
+            "urlToImage": "https://media.wired.com/photos/69cbf5d389cbdc32deb6bcdf/191:100/w_1280,c_limit/Trump_Iran_Biz_GettyImages-2267975852.jpg",
+            "publishedAt": "2026-03-31T21:25:12Z",
+            "content": "Irans Islamic Revolutionary Guard Corps warned Tuesday that it plans to begin attacking more than a dozen American companies across the Middle East on Wednesday in retaliation for the killing of Iran\u2026 [+3382 chars]",
             "ai_score": 5
         },
         {
