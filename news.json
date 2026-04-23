@@ -1,6 +1,118 @@
 {
-    "last_updated": "2026-04-23 05:36",
+    "last_updated": "2026-04-23 08:01",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox Game Pass \u2018has become too expensive,\u2019 says Microsoft\u2019s new gaming chief in leaked memo",
+            "description": "Microsoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricing is about to change. In an internal memo to Xbox employees, obtained by The Verge, Sharma admits that \"Game Pass has become too expensive for players\" and that Microsoft needs \"a\u2026",
+            "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-13T17:50:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nby\r\nTom WarrenClose\r\nPosts \u2026 [+3348 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Alana Hope Levinson",
+            "title": "Taylor Lorenz\u2019s Screen Time Is Almost 17 Hours a Day",
+            "description": "The extremely online journalist and content creator doesn\u2019t believe in tech hygiene and yearns for a world where \u201cinbox infinity\u201d is celebrated.",
+            "url": "https://www.wired.com/story/user-behavior-taylor-lorenz/",
+            "urlToImage": "https://media.wired.com/photos/69c6d89e354f3d7094620904/191:100/w_1280,c_limit/Taylor%20Lorenz-by%20Oscar%20Climent%20Ollet.jpg",
+            "publishedAt": "2026-04-01T10:00:00Z",
+            "content": "Taylor Lorenz doesnt want to touch grass. The technology and culture journalist wrote the bestselling book Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet, and she ha\u2026 [+10104 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Razer\u2019s Wireless Gaming Earbuds Are Back With Upgraded ANC",
+            "description": "The new Hammerhead V3 HyperSpeed look like a solid upgrade over the last generation.",
+            "url": "https://gizmodo.com/razer-wireless-gaming-earbuds-are-back-with-upgraded-anc-2000744632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
+            "publishedAt": "2026-04-09T19:25:56Z",
+            "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "European Cyber Agencies Feel Left Out of Anthropic\u2019s Spooky AI Party",
+            "description": "European tech regulators would like a Claude Mythos Preview preview.",
+            "url": "https://gizmodo.com/european-cyber-agencies-feel-left-out-of-anthropics-spooky-ai-party-2000745373",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/spooky-dario-amodei-1200x675.jpg",
+            "publishedAt": "2026-04-14T10:30:46Z",
+            "content": "If Anthropic is kind of like a kid at a Halloween party with a bowl full of spaghetti, telling its blindfolded friends the spaghetti is brains, European cyber agency leaders are like kids who are mad\u2026 [+1750 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "150 million users later, Roblox competitor Rec Room is shutting down",
+            "description": "Rec Room, a Roblox-like social gaming platform that lets users create games and experiences for others to play, is shutting down on June 1st. Despite reaching more than 150 million players and creators and, at one point, being valued at $3.5 billion, the comp\u2026",
+            "url": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/RecRoom_Creator.png.webp?quality=90&strip=all&crop=0,3.4199101935869,100,93.160179612826",
+            "publishedAt": "2026-03-31T00:29:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says it never quite figured out how to make Rec Room a sustainably profitable business.\r\nThe company says it never quite figured out how to make Rec \u2026 [+2294 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boone Ashworth",
+            "title": "Your Art Can Go in This San Francisco Alley",
+            "description": "A trio of tech pranksters have launched a website where you can submit artwork and vote on which pieces belong in the final design. Of course, AI will scan for dick pics.",
+            "url": "https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/",
+            "urlToImage": "https://media.wired.com/photos/69ceadac87d75b5fc6be3f42/191:100/w_1280,c_limit/Tech-Pranksters-Turning-San-Franciscos-Dirt-Alley-Into-Art-Collage-Culture-IMG_20260402_100455.jpg",
+            "publishedAt": "2026-04-02T18:27:45Z",
+            "content": "Last year, a couple in San Francisco accidentally paid way too much money for a dirt road. On an auction bid starting at $1, they put down $25,000, thinking they were getting a screaming deal on a pa\u2026 [+2352 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs",
+            "title": "\u2018Uncanny Valley\u2019: Iran\u2019s Threats on US Tech, Trump\u2019s Plans for Midterms, and Polymarket\u2019s Pop-up Flop",
+            "description": "In this episode, we discuss Iran\u2019s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
+            "urlToImage": "https://media.wired.com/photos/69cda03bbbb99516b24f8b5f/191:100/w_1280,c_limit/Uncanny-Valley-Trump-Iran-Tech-Companies-Security-2268129741.jpg",
+            "publishedAt": "2026-04-02T21:04:22Z",
+            "content": "Kate Knibbs: So, you went twice?\r\nMakena Kelly: Yes, Kate. I went twice.\r\nKate Knibbs: I missed that.\r\nZo\u00eb Schiffer: Wait, is the Pentagon Pizza thing a joke about the pizza predicting the war?\r\nMake\u2026 [+3275 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Crimson Desert dev apologizes for use of AI art",
+            "description": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but\u2026",
+            "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/found-this-ai-painting-v0-otfba7ufh8qg1.webp?quality=90&strip=all&crop=0,3.4229797217454,100,93.154040556509",
+            "publishedAt": "2026-03-22T17:34:34Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts performing a comprehensive audit to remove any AI assets.\r\nIts performing a comprehensive audit to remove any AI assets.\r\nby\r\nTerrence O'BrienClose\r\nPosts fr\u2026 [+1946 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": null,
@@ -55,20 +167,6 @@
             "urlToImage": "https://media.wired.com/photos/69cf2644509ecd3ce9a7b4ec/191:100/w_1280,c_limit/Everything-You-Need-to-Know-About-Samsung's-2026-OLED-and-Frame-TV-Models.jpg",
             "publishedAt": "2026-04-03T10:00:00Z",
             "content": "Samsung has pulled the wrapping off some of its most anticipated TVs for 2026, including its latest art-forward TVs, The Frame and The Frame Pro, and its premium OLED TVs, which include three series \u2026 [+2318 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox Game Pass \u2018has become too expensive,\u2019 says Microsoft\u2019s new gaming chief in leaked memo",
-            "description": "Microsoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricing is about to change. In an internal memo to Xbox employees, obtained by The Verge, Sharma admits that \"Game Pass has become too expensive for players\" and that Microsoft needs \"a\u2026",
-            "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-13T17:50:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nby\r\nTom WarrenClose\r\nPosts \u2026 [+3348 chars]",
             "ai_score": 5
         },
         {
@@ -216,34 +314,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Alana Hope Levinson",
-            "title": "Taylor Lorenz\u2019s Screen Time Is Almost 17 Hours a Day",
-            "description": "The extremely online journalist and content creator doesn\u2019t believe in tech hygiene and yearns for a world where \u201cinbox infinity\u201d is celebrated.",
-            "url": "https://www.wired.com/story/user-behavior-taylor-lorenz/",
-            "urlToImage": "https://media.wired.com/photos/69c6d89e354f3d7094620904/191:100/w_1280,c_limit/Taylor%20Lorenz-by%20Oscar%20Climent%20Ollet.jpg",
-            "publishedAt": "2026-04-01T10:00:00Z",
-            "content": "Taylor Lorenz doesnt want to touch grass. The technology and culture journalist wrote the bestselling book Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet, and she ha\u2026 [+10104 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Razer\u2019s Wireless Gaming Earbuds Are Back With Upgraded ANC",
-            "description": "The new Hammerhead V3 HyperSpeed look like a solid upgrade over the last generation.",
-            "url": "https://gizmodo.com/razer-wireless-gaming-earbuds-are-back-with-upgraded-anc-2000744632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
-            "publishedAt": "2026-04-09T19:25:56Z",
-            "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Dell Cameron, Louise Matsakis",
             "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
             "description": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran\u2019s Islamic Revolutionary Guard Corps.",
@@ -307,34 +377,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/lg-b5-oled-cyber-monday-lead.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-04-14T17:38:23Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLGs B5 OLED delivers excellent picture quality with deep blacks and a good feature set for the price.\r\nLGs B5 OLED delivers excellent picture quality with deep b\u2026 [+2607 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "European Cyber Agencies Feel Left Out of Anthropic\u2019s Spooky AI Party",
-            "description": "European tech regulators would like a Claude Mythos Preview preview.",
-            "url": "https://gizmodo.com/european-cyber-agencies-feel-left-out-of-anthropics-spooky-ai-party-2000745373",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/spooky-dario-amodei-1200x675.jpg",
-            "publishedAt": "2026-04-14T10:30:46Z",
-            "content": "If Anthropic is kind of like a kid at a Halloween party with a bowl full of spaghetti, telling its blindfolded friends the spaghetti is brains, European cyber agency leaders are like kids who are mad\u2026 [+1750 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "150 million users later, Roblox competitor Rec Room is shutting down",
-            "description": "Rec Room, a Roblox-like social gaming platform that lets users create games and experiences for others to play, is shutting down on June 1st. Despite reaching more than 150 million players and creators and, at one point, being valued at $3.5 billion, the comp\u2026",
-            "url": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/RecRoom_Creator.png.webp?quality=90&strip=all&crop=0,3.4199101935869,100,93.160179612826",
-            "publishedAt": "2026-03-31T00:29:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says it never quite figured out how to make Rec Room a sustainably profitable business.\r\nThe company says it never quite figured out how to make Rec \u2026 [+2294 chars]",
             "ai_score": 5
         },
         {
@@ -433,48 +475,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lead-bullets-solar-panels--1200x675.jpg",
             "publishedAt": "2026-04-06T16:30:48Z",
             "content": "Materials scientists say theyve taken nearly 300-year-old toxic wastea stockpile of spherical lead bullets from the 16th and 17th centuries, tainted with carbon residue, metal impurities, and the dul\u2026 [+4957 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Boone Ashworth",
-            "title": "Your Art Can Go in This San Francisco Alley",
-            "description": "A trio of tech pranksters have launched a website where you can submit artwork and vote on which pieces belong in the final design. Of course, AI will scan for dick pics.",
-            "url": "https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/",
-            "urlToImage": "https://media.wired.com/photos/69ceadac87d75b5fc6be3f42/191:100/w_1280,c_limit/Tech-Pranksters-Turning-San-Franciscos-Dirt-Alley-Into-Art-Collage-Culture-IMG_20260402_100455.jpg",
-            "publishedAt": "2026-04-02T18:27:45Z",
-            "content": "Last year, a couple in San Francisco accidentally paid way too much money for a dirt road. On an auction bid starting at $1, they put down $25,000, thinking they were getting a screaming deal on a pa\u2026 [+2352 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs",
-            "title": "\u2018Uncanny Valley\u2019: Iran\u2019s Threats on US Tech, Trump\u2019s Plans for Midterms, and Polymarket\u2019s Pop-up Flop",
-            "description": "In this episode, we discuss Iran\u2019s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
-            "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
-            "urlToImage": "https://media.wired.com/photos/69cda03bbbb99516b24f8b5f/191:100/w_1280,c_limit/Uncanny-Valley-Trump-Iran-Tech-Companies-Security-2268129741.jpg",
-            "publishedAt": "2026-04-02T21:04:22Z",
-            "content": "Kate Knibbs: So, you went twice?\r\nMakena Kelly: Yes, Kate. I went twice.\r\nKate Knibbs: I missed that.\r\nZo\u00eb Schiffer: Wait, is the Pentagon Pizza thing a joke about the pizza predicting the war?\r\nMake\u2026 [+3275 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Crimson Desert dev apologizes for use of AI art",
-            "description": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but\u2026",
-            "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/found-this-ai-painting-v0-otfba7ufh8qg1.webp?quality=90&strip=all&crop=0,3.4229797217454,100,93.154040556509",
-            "publishedAt": "2026-03-22T17:34:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts performing a comprehensive audit to remove any AI assets.\r\nIts performing a comprehensive audit to remove any AI assets.\r\nby\r\nTerrence O'BrienClose\r\nPosts fr\u2026 [+1946 chars]",
             "ai_score": 5
         },
         {
