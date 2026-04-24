@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-24 19:58",
+    "last_updated": "2026-04-24 20:56",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
-            "description": "With 144m daily users, the gaming company is extending its tech to introduce two age\u2011specific accounts.",
-            "url": "https://www.bbc.com/news/articles/cj94y9r0p10o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
-            "publishedAt": "2026-04-13T12:19:13Z",
-            "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268447_Alienware_AW2726DM_27-inch_QD-OLED_monitor_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-13T17:09:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nby\r\nAntonio G. Di\u2026 [+2906 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
+            "description": "With 144m daily users, the gaming company is extending its tech to introduce two age\u2011specific accounts.",
+            "url": "https://www.bbc.com/news/articles/cj94y9r0p10o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
+            "publishedAt": "2026-04-13T12:19:13Z",
+            "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
             "ai_score": 5
         },
         {
