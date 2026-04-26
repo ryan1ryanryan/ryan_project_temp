@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-26 19:01",
+    "last_updated": "2026-04-26 19:54",
     "articles": [
         {
             "source": {
@@ -13,35 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "ISS astronauts are in the middle of a tech overhaul",
-            "description": "Even astronauts need to level up their laptops once in a while - including the crew of Expedition 74 on board the ISS, which NASA announced last week is in the process of some computer upgrades. In a statement to The Verge, NASA spokesperson Joshua Finch conf\u2026",
-            "url": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/1137145/408082main_fd10_full.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
-            "publishedAt": "2026-04-21T20:12:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nby\r\nSte\u2026 [+2647 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "HP Omen Max 45L Review: 4K60 Gaming Has Never Been So Easy",
-            "description": "Thanks to the ongoing RAM crisis, this pre-built PC tower may be a cheaper way to upgrade your desktop gaming experience.",
-            "url": "https://gizmodo.com/hp-omen-max-45l-review-4k60-gaming-has-never-been-so-easy-2000742372",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-08-1200x675.jpg",
-            "publishedAt": "2026-04-05T13:00:32Z",
-            "content": "HPs Omen Max 45L desktop is an obsidian shard thrumming with energy and subtly shifting light. Theres one alien-seeming channel running through the top of the slab, a glass panel obscuring the front \u2026 [+10988 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -419,6 +391,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/RecRoom_Creator.png.webp?quality=90&strip=all&crop=0,3.4199101935869,100,93.160179612826",
             "publishedAt": "2026-03-31T00:29:33Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says it never quite figured out how to make Rec Room a sustainably profitable business.\r\nThe company says it never quite figured out how to make Rec \u2026 [+2294 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "ISS astronauts are in the middle of a tech overhaul",
+            "description": "Even astronauts need to level up their laptops once in a while - including the crew of Expedition 74 on board the ISS, which NASA announced last week is in the process of some computer upgrades. In a statement to The Verge, NASA spokesperson Joshua Finch conf\u2026",
+            "url": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/1137145/408082main_fd10_full.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
+            "publishedAt": "2026-04-21T20:12:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nby\r\nSte\u2026 [+2647 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HP Omen Max 45L Review: 4K60 Gaming Has Never Been So Easy",
+            "description": "Thanks to the ongoing RAM crisis, this pre-built PC tower may be a cheaper way to upgrade your desktop gaming experience.",
+            "url": "https://gizmodo.com/hp-omen-max-45l-review-4k60-gaming-has-never-been-so-easy-2000742372",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-08-1200x675.jpg",
+            "publishedAt": "2026-04-05T13:00:32Z",
+            "content": "HPs Omen Max 45L desktop is an obsidian shard thrumming with energy and subtly shifting light. Theres one alien-seeming channel running through the top of the slab, a glass panel obscuring the front \u2026 [+10988 chars]",
             "ai_score": 5
         },
         {
