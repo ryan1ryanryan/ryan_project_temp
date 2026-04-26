@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-26 17:45",
+    "last_updated": "2026-04-26 19:01",
     "articles": [
         {
             "source": {
@@ -13,7 +13,35 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "ISS astronauts are in the middle of a tech overhaul",
+            "description": "Even astronauts need to level up their laptops once in a while - including the crew of Expedition 74 on board the ISS, which NASA announced last week is in the process of some computer upgrades. In a statement to The Verge, NASA spokesperson Joshua Finch conf\u2026",
+            "url": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/1137145/408082main_fd10_full.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
+            "publishedAt": "2026-04-21T20:12:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nby\r\nSte\u2026 [+2647 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HP Omen Max 45L Review: 4K60 Gaming Has Never Been So Easy",
+            "description": "Thanks to the ongoing RAM crisis, this pre-built PC tower may be a cheaper way to upgrade your desktop gaming experience.",
+            "url": "https://gizmodo.com/hp-omen-max-45l-review-4k60-gaming-has-never-been-so-easy-2000742372",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-08-1200x675.jpg",
+            "publishedAt": "2026-04-05T13:00:32Z",
+            "content": "HPs Omen Max 45L desktop is an obsidian shard thrumming with energy and subtly shifting light. Theres one alien-seeming channel running through the top of the slab, a glass panel obscuring the front \u2026 [+10988 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -398,34 +426,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "ISS astronauts are in the middle of a tech overhaul",
-            "description": "Even astronauts need to level up their laptops once in a while - including the crew of Expedition 74 on board the ISS, which NASA announced last week is in the process of some computer upgrades. In a statement to The Verge, NASA spokesperson Joshua Finch conf\u2026",
-            "url": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/1137145/408082main_fd10_full.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
-            "publishedAt": "2026-04-21T20:12:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nby\r\nSte\u2026 [+2647 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "HP Omen Max 45L Review: 4K60 Gaming Has Never Been So Easy",
-            "description": "Thanks to the ongoing RAM crisis, this pre-built PC tower may be a cheaper way to upgrade your desktop gaming experience.",
-            "url": "https://gizmodo.com/hp-omen-max-45l-review-4k60-gaming-has-never-been-so-easy-2000742372",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-08-1200x675.jpg",
-            "publishedAt": "2026-04-05T13:00:32Z",
-            "content": "HPs Omen Max 45L desktop is an obsidian shard thrumming with energy and subtly shifting light. Theres one alien-seeming channel running through the top of the slab, a glass panel obscuring the front \u2026 [+10988 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Victoria Song",
             "title": "How the Apple Watch defined modern health tech",
             "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. You can trace the state of hea\u2026",
@@ -454,20 +454,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Amazon Facilities in Bahrain Hit Again as Iran Follows Through on Threat, Report Says",
-            "description": "Iran had promised to hit American tech companies on April 1st.",
-            "url": "https://gizmodo.com/amazon-facilities-in-bahrain-hit-again-as-iran-follows-through-on-threat-report-says-2000741089",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
-            "publishedAt": "2026-04-01T21:30:46Z",
-            "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Matthew Phelan",
             "title": "Scientists Are Recycling Centuries-Old Bullets for a Badly Needed Toxic Compound",
             "description": "Researchers want to recycle more lead waste for high-tech solar panels via a new method.",
@@ -475,6 +461,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lead-bullets-solar-panels--1200x675.jpg",
             "publishedAt": "2026-04-06T16:30:48Z",
             "content": "Materials scientists say theyve taken nearly 300-year-old toxic wastea stockpile of spherical lead bullets from the 16th and 17th centuries, tainted with carbon residue, metal impurities, and the dul\u2026 [+4957 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Amazon Facilities in Bahrain Hit Again as Iran Follows Through on Threat, Report Says",
+            "description": "Iran had promised to hit American tech companies on April 1st.",
+            "url": "https://gizmodo.com/amazon-facilities-in-bahrain-hit-again-as-iran-follows-through-on-threat-report-says-2000741089",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
+            "publishedAt": "2026-04-01T21:30:46Z",
+            "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
             "ai_score": 5
         },
         {
@@ -539,12 +539,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Razer\u2019s New Blade 16 Gaming Laptop May Have Good Battery life, for Once",
-            "description": "Razer's switching to Panther Lake and is trying to fix the worst pain points of the previous premium Blade.",
-            "url": "https://gizmodo.com/razer-blade-16-2026-gaming-laptop-may-have-good-battery-life-for-once-2000737934",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Razer-Blade-16-2026-3-1200x675.jpg",
-            "publishedAt": "2026-03-25T16:15:15Z",
-            "content": "We still dream of treating our gaming laptops as our one and only everyday device. The super-thin Razer Blade 16 from 2025 came close to that goal, but it just didnt have the staying power for a dail\u2026 [+3674 chars]",
+            "title": "Alienware\u2019s $350 QD-OLED Gaming Monitor Nixes Everything for a Pretty Screen",
+            "description": "So long as you don't expect any bells and whistles, the barebones 27-inch AW2726DM won't disappoint.",
+            "url": "https://gizmodo.com/alienwares-350-qd-oled-gaming-monitor-nixes-everything-for-a-pretty-screen-2000746922",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Alienware-AW2726DM-QD-OLED-gaming-monitor-review-1-1200x675.jpg",
+            "publishedAt": "2026-04-15T19:15:21Z",
+            "content": "Out of all the companies to drop a good deal in gaming gear, I never expected it to be Alienware.\r\nHeres the long and short of Alienwares new AW2726DM gaming monitor: 27-inch QD-OLED with 1440p resol\u2026 [+9897 chars]",
             "ai_score": 5
         },
         {
@@ -553,12 +553,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Alienware\u2019s $350 QD-OLED Gaming Monitor Nixes Everything for a Pretty Screen",
-            "description": "So long as you don't expect any bells and whistles, the barebones 27-inch AW2726DM won't disappoint.",
-            "url": "https://gizmodo.com/alienwares-350-qd-oled-gaming-monitor-nixes-everything-for-a-pretty-screen-2000746922",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Alienware-AW2726DM-QD-OLED-gaming-monitor-review-1-1200x675.jpg",
-            "publishedAt": "2026-04-15T19:15:21Z",
-            "content": "Out of all the companies to drop a good deal in gaming gear, I never expected it to be Alienware.\r\nHeres the long and short of Alienwares new AW2726DM gaming monitor: 27-inch QD-OLED with 1440p resol\u2026 [+9897 chars]",
+            "title": "Razer\u2019s New Blade 16 Gaming Laptop May Have Good Battery life, for Once",
+            "description": "Razer's switching to Panther Lake and is trying to fix the worst pain points of the previous premium Blade.",
+            "url": "https://gizmodo.com/razer-blade-16-2026-gaming-laptop-may-have-good-battery-life-for-once-2000737934",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Razer-Blade-16-2026-3-1200x675.jpg",
+            "publishedAt": "2026-03-25T16:15:15Z",
+            "content": "We still dream of treating our gaming laptops as our one and only everyday device. The super-thin Razer Blade 16 from 2025 came close to that goal, but it just didnt have the staying power for a dail\u2026 [+3674 chars]",
             "ai_score": 5
         },
         {
@@ -790,13 +790,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Richard Lawler",
-            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
-            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
-            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-04-20T21:51:05Z",
-            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
+            "author": "Tina Nguyen",
+            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
+            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
+            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
+            "publishedAt": "2026-04-15T19:53:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
             "ai_score": 5
         },
         {
@@ -818,13 +818,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tina Nguyen",
-            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
-            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
-            "publishedAt": "2026-04-15T19:53:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
+            "author": "Richard Lawler",
+            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
+            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
+            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-04-20T21:51:05Z",
+            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
             "ai_score": 5
         },
         {
