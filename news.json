@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27 17:28",
+    "last_updated": "2026-04-27 19:28",
     "articles": [
         {
             "source": {
@@ -703,20 +703,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "NASA did eventually solve Artemis II\u2019s Outlook glitch",
-            "description": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman\u2026",
-            "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2269451654.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-03T20:53:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue has been resolved.\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue\u2026 [+2955 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -727,6 +713,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/DB1_4108-1200x675.jpg",
             "publishedAt": "2026-04-22T20:30:41Z",
             "content": "BMW just unveiled the latest version of its flagship luxury sedan, and its packed with screens.\r\nThe German automaker introduced the 2027 BMW 7 Series this morning at concurrent events in Beijing and\u2026 [+3462 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "NASA did eventually solve Artemis II\u2019s Outlook glitch",
+            "description": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman\u2026",
+            "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2269451654.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-03T20:53:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue has been resolved.\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue\u2026 [+2955 chars]",
             "ai_score": 5
         },
         {
