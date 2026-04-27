@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-26 23:44",
+    "last_updated": "2026-04-27 02:55",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -27,20 +27,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268447_Alienware_AW2726DM_27-inch_QD-OLED_monitor_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-13T17:09:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nby\r\nAntonio G. Di\u2026 [+2906 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Razer\u2019s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM",
-            "description": "Razer is giving its Blade 16 gaming laptop a speed and battery boost for 2026. The high-end gaming laptop keeps the same thin chassis and RTX 50-series GPU options as last year's model, but it's now making the switch from AMD to an Intel Core Ultra 9 386H \"Pa\u2026",
-            "url": "https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Blade-16-2026-3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-25T20:36:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThin is still in for the 2026 Blade, but Razer is promising more speed and efficiency.\r\nThin is still in for the 2026 Blade, but Razer is promising more speed an\u2026 [+3313 chars]",
             "ai_score": 5
         },
         {
@@ -454,20 +440,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Amazon Facilities in Bahrain Hit Again as Iran Follows Through on Threat, Report Says",
-            "description": "Iran had promised to hit American tech companies on April 1st.",
-            "url": "https://gizmodo.com/amazon-facilities-in-bahrain-hit-again-as-iran-follows-through-on-threat-report-says-2000741089",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
-            "publishedAt": "2026-04-01T21:30:46Z",
-            "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Matthew Phelan",
             "title": "Scientists Are Recycling Centuries-Old Bullets for a Badly Needed Toxic Compound",
             "description": "Researchers want to recycle more lead waste for high-tech solar panels via a new method.",
@@ -475,6 +447,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lead-bullets-solar-panels--1200x675.jpg",
             "publishedAt": "2026-04-06T16:30:48Z",
             "content": "Materials scientists say theyve taken nearly 300-year-old toxic wastea stockpile of spherical lead bullets from the 16th and 17th centuries, tainted with carbon residue, metal impurities, and the dul\u2026 [+4957 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Amazon Facilities in Bahrain Hit Again as Iran Follows Through on Threat, Report Says",
+            "description": "Iran had promised to hit American tech companies on April 1st.",
+            "url": "https://gizmodo.com/amazon-facilities-in-bahrain-hit-again-as-iran-follows-through-on-threat-report-says-2000741089",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
+            "publishedAt": "2026-04-01T21:30:46Z",
+            "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
             "ai_score": 5
         },
         {
@@ -531,20 +517,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-05-1200x675.jpg",
             "publishedAt": "2026-04-13T15:15:02Z",
             "content": "Theres essentially no competition for AMDs best gaming CPU, the Ryzen 7 9850X3D. That may finally change. New leaks of Intels Nova Lake desktop CPUs may hold the key to better future gaming PCs. Or, \u2026 [+2602 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer\u2019s New Blade 16 Gaming Laptop May Have Good Battery life, for Once",
-            "description": "Razer's switching to Panther Lake and is trying to fix the worst pain points of the previous premium Blade.",
-            "url": "https://gizmodo.com/razer-blade-16-2026-gaming-laptop-may-have-good-battery-life-for-once-2000737934",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Razer-Blade-16-2026-3-1200x675.jpg",
-            "publishedAt": "2026-03-25T16:15:15Z",
-            "content": "We still dream of treating our gaming laptops as our one and only everyday device. The super-thin Razer Blade 16 from 2025 came close to that goal, but it just didnt have the staying power for a dail\u2026 [+3674 chars]",
             "ai_score": 5
         },
         {
@@ -636,20 +608,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Louryn Strampe",
-            "title": "These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
-            "description": "Amazon\u2019s Spring Sale spans almost an entire week, and it\u2019s full of fake \u201cdeals.\u201d We hunted to find truly good prices on gear we\u2019ve tested.",
-            "url": "https://www.wired.com/story/the-amazon-spring-sale-2026/",
-            "urlToImage": "https://media.wired.com/photos/69c31871ea56e672b4eef17c/191:100/w_1280,c_limit/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg",
-            "publishedAt": "2026-03-25T07:01:00Z",
-            "content": "After a relatively quiet few months, Amazon is bringing back another of its famously invented shopping holidays. The Amazon Spring Sale is on its third year, and it's on now through March 31. Like du\u2026 [+1166 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Maxwell Zeff",
             "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
             "description": "Independent writers are using AI agents all throughout their reporting process. What\u2019s the value of a human journalist, anyway?",
@@ -657,20 +615,6 @@
             "urlToImage": "https://media.wired.com/photos/69c44c4c4ff31d9d83686fcc/191:100/w_1280,c_limit/Model-Behavior-Newsletter-Writers-Using-AI-to-Write-Their-Columns-Business.jpg",
             "publishedAt": "2026-03-26T18:00:00Z",
             "content": "When technology reporter Alex Heath has a scoop, he sits down at his computer and speaks into a microphone. Hes not talking to a human colleagueHeath went independent on Substack last yearhes talking\u2026 [+3641 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Mark Zuckerberg and Jensen Huang are part of Trump\u2019s new \u2018tech panel\u2019",
-            "description": "Meta CEO Mark Zuckerberg, Oracle CEO Larry Ellison, Nvidia CEO Jensen Huang, and Google co-founder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Technology (PCAST), according to the Wall Street Journal. The p\u2026",
-            "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-25T14:41:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe council will advise Trump on AI, the economy, education, and national and homeland security.\r\nThe council will advise Trump on AI, the economy, education, an\u2026 [+2872 chars]",
             "ai_score": 5
         },
         {
@@ -790,13 +734,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Richard Lawler",
-            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
-            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
-            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-04-20T21:51:05Z",
-            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
+            "author": "Tina Nguyen",
+            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
+            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
+            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
+            "publishedAt": "2026-04-15T19:53:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
             "ai_score": 5
         },
         {
@@ -818,13 +762,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tina Nguyen",
-            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
-            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
-            "publishedAt": "2026-04-15T19:53:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
+            "author": "Richard Lawler",
+            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
+            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
+            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-04-20T21:51:05Z",
+            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
             "ai_score": 5
         },
         {
@@ -1203,6 +1147,34 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q8dcYRCT3duqMga8aznANL-2560-80.jpg",
             "publishedAt": "2026-04-14T10:29:27Z",
             "content": "My monitor is the screen that gets the most amount of usage in the house, so I do my best to reduce eye strain while using it. I've been using Flex for well over a decade, and the software does an ad\u2026 [+2956 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
+            "title": "I tested NVIDIA's GeForce Now in India \u2014 here's why it is the best cloud gaming service",
+            "description": "NVIDIA just launched GeForce Now in India, and I got early access to the cloud gaming platform. After a week of testing, I can state with some confidence that this is the cloud gaming service we've all been waiting for, and the pricing is astonishingly good.",
+            "url": "https://www.androidcentral.com/gaming/i-tested-nvidia-geforce-now-in-india-it-is-the-best-cloud-gaming-service",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/9zmi7W8fuJPC9Y49jwHkWD-2560-80.jpg",
+            "publishedAt": "2026-04-16T02:00:00Z",
+            "content": "It was after another round of interminable wait that I understood the biggest issue with cloud gaming. You see, I gave Xbox Cloud Gaming a try after it launched in India at the end of last year, and \u2026 [+7172 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+            "title": "The latest Pixel update tackles Android 16's early stability woes",
+            "description": "Google\u2019s April Pixel update fixes app crashes, missing features, and gaming issues, making Android 16 more stable.",
+            "url": "https://www.androidcentral.com/phones/google-pixel/the-latest-pixel-update-tackles-android-16s-early-stability-woes",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
+            "publishedAt": "2026-04-09T10:04:00Z",
+            "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
             "ai_score": 5
         }
     ]
