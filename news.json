@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27 15:54",
+    "last_updated": "2026-04-27 17:28",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Alana Hope Levinson",
-            "title": "Taylor Lorenz\u2019s Screen Time Is Almost 17 Hours a Day",
-            "description": "The extremely online journalist and content creator doesn\u2019t believe in tech hygiene and yearns for a world where \u201cinbox infinity\u201d is celebrated.",
-            "url": "https://www.wired.com/story/user-behavior-taylor-lorenz/",
-            "urlToImage": "https://media.wired.com/photos/69c6d89e354f3d7094620904/191:100/w_1280,c_limit/Taylor%20Lorenz-by%20Oscar%20Climent%20Ollet.jpg",
-            "publishedAt": "2026-04-01T10:00:00Z",
-            "content": "Taylor Lorenz doesnt want to touch grass. The technology and culture journalist wrote the bestselling book Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet, and she ha\u2026 [+10104 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -251,6 +237,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
             "publishedAt": "2026-04-09T19:25:56Z",
             "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Alana Hope Levinson",
+            "title": "Taylor Lorenz\u2019s Screen Time Is Almost 17 Hours a Day",
+            "description": "The extremely online journalist and content creator doesn\u2019t believe in tech hygiene and yearns for a world where \u201cinbox infinity\u201d is celebrated.",
+            "url": "https://www.wired.com/story/user-behavior-taylor-lorenz/",
+            "urlToImage": "https://media.wired.com/photos/69c6d89e354f3d7094620904/191:100/w_1280,c_limit/Taylor%20Lorenz-by%20Oscar%20Climent%20Ollet.jpg",
+            "publishedAt": "2026-04-01T10:00:00Z",
+            "content": "Taylor Lorenz doesnt want to touch grass. The technology and culture journalist wrote the bestselling book Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet, and she ha\u2026 [+10104 chars]",
             "ai_score": 5
         },
         {
