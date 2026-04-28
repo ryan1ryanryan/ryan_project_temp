@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-04-28 16:57",
+    "last_updated": "2026-04-28 18:23",
     "articles": [
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The new show making fun of tech bros",
-            "description": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) This wee\u2026",
-            "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-123.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T20:29:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: Artemis II photos, new Star Wars and Pok\u00e9mon stuff, and much more.\r\nPlus, in this weeks Installer: Artemis II photos, new Star War\u2026 [+11260 chars]",
+            "author": "Tom Warren",
+            "title": "Microsoft teases mysterious Discord and Xbox Game Pass partnership",
+            "description": "Microsoft has started teasing a new Discord and Xbox Game Pass partnership, just a day after lowering prices of its Game Pass Ultimate and PC Game Pass subscriptions. Microsoft Gaming CEO Asha Sharma says the company is partnering with Discord again \"as we co\u2026",
+            "url": "https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24763499/xboxlogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-22T16:41:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\u2026 [+2698 chars]",
             "ai_score": 8
         },
         {
@@ -104,6 +104,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "David Pierce",
+            "title": "The new show making fun of tech bros",
+            "description": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) This wee\u2026",
+            "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-123.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-10T20:29:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: Artemis II photos, new Star Wars and Pok\u00e9mon stuff, and much more.\r\nPlus, in this weeks Installer: Artemis II photos, new Star War\u2026 [+11260 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jay Peters",
             "title": "The heist of iOS 26",
             "description": "The most consequential YouTube video of Jon Prosser's career opens on Prosser himself, in a black hoodie and transparent glasses. The backdrop is familiar to viewers of his tech news channel, Front Page Tech, with warm, hanging lights and a bright white \"fpt\"\u2026",
@@ -125,20 +139,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,3.4801106327551,100,93.03977873449",
             "publishedAt": "2026-04-22T16:28:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has been trying to launch an Xbox mobile store for years, but it has been counting on app stores opening up.\r\nMicrosoft has been trying to launch an Xb\u2026 [+3071 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft teases mysterious Discord and Xbox Game Pass partnership",
-            "description": "Microsoft has started teasing a new Discord and Xbox Game Pass partnership, just a day after lowering prices of its Game Pass Ultimate and PC Game Pass subscriptions. Microsoft Gaming CEO Asha Sharma says the company is partnering with Discord again \"as we co\u2026",
-            "url": "https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24763499/xboxlogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-22T16:41:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\u2026 [+2698 chars]",
             "ai_score": 5
         },
         {
@@ -675,20 +675,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "NASA did eventually solve Artemis II\u2019s Outlook glitch",
-            "description": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman\u2026",
-            "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2269451654.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-03T20:53:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue has been resolved.\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue\u2026 [+2955 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -699,6 +685,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/DB1_4108-1200x675.jpg",
             "publishedAt": "2026-04-22T20:30:41Z",
             "content": "BMW just unveiled the latest version of its flagship luxury sedan, and its packed with screens.\r\nThe German automaker introduced the 2027 BMW 7 Series this morning at concurrent events in Beijing and\u2026 [+3462 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "NASA did eventually solve Artemis II\u2019s Outlook glitch",
+            "description": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman\u2026",
+            "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2269451654.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-03T20:53:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue has been resolved.\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue\u2026 [+2955 chars]",
             "ai_score": 5
         },
         {
