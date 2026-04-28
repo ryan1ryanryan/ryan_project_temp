@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-04-28 11:50",
+    "last_updated": "2026-04-28 16:57",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The new show making fun of tech bros",
+            "description": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) This wee\u2026",
+            "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-123.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-10T20:29:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: Artemis II photos, new Star Wars and Pok\u00e9mon stuff, and much more.\r\nPlus, in this weeks Installer: Artemis II photos, new Star War\u2026 [+11260 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": null,
@@ -13,7 +27,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -83,20 +97,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-23T18:51:14Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAsha Sharma has a new strategy for her return of Xbox.\r\nAsha Sharma has a new strategy for her return of Xbox.\r\nby\r\nTom WarrenClose\r\nPosts from this author will \u2026 [+2380 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "The new show making fun of tech bros",
-            "description": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) This wee\u2026",
-            "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-123.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T20:29:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: Artemis II photos, new Star Wars and Pok\u00e9mon stuff, and much more.\r\nPlus, in this weeks Installer: Artemis II photos, new Star War\u2026 [+11260 chars]",
             "ai_score": 5
         },
         {
@@ -300,20 +300,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "Sony is raising PS5 prices by $100 in April",
-            "description": "Sony is raising the price of its PlayStation 5 consoles globally starting April 2nd. In an announcement on Friday, Sony says that the standard PS5 will now cost $649.99, up from $549.99. Meanwhile, the PS5 Digital Edition now costs $599.99 instead of $499.99,\u2026",
-            "url": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015306/vpavic_4278_20201030_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-27T12:34:01Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nThe PS5 Pro will be a $900 console as of April 2nd.\r\nby\r\nEmma RothClose\r\nPosts from this author will be adde\u2026 [+3041 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tom Warren",
             "title": "Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games",
             "description": "After Xbox CEO Asha Sharma admitted last week that \"Game Pass has become too expensive for players,\" Microsoft is dropping the price of Xbox Game Pass Ultimate and PC Game Pass. Starting today, Xbox Game Pass Ultimate drops from $29.99 to $22.99 a month, and \u2026",
@@ -440,20 +426,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Amazon Facilities in Bahrain Hit Again as Iran Follows Through on Threat, Report Says",
-            "description": "Iran had promised to hit American tech companies on April 1st.",
-            "url": "https://gizmodo.com/amazon-facilities-in-bahrain-hit-again-as-iran-follows-through-on-threat-report-says-2000741089",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
-            "publishedAt": "2026-04-01T21:30:46Z",
-            "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Matthew Phelan",
             "title": "Scientists Are Recycling Centuries-Old Bullets for a Badly Needed Toxic Compound",
             "description": "Researchers want to recycle more lead waste for high-tech solar panels via a new method.",
@@ -461,6 +433,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lead-bullets-solar-panels--1200x675.jpg",
             "publishedAt": "2026-04-06T16:30:48Z",
             "content": "Materials scientists say theyve taken nearly 300-year-old toxic wastea stockpile of spherical lead bullets from the 16th and 17th centuries, tainted with carbon residue, metal impurities, and the dul\u2026 [+4957 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Amazon Facilities in Bahrain Hit Again as Iran Follows Through on Threat, Report Says",
+            "description": "Iran had promised to hit American tech companies on April 1st.",
+            "url": "https://gizmodo.com/amazon-facilities-in-bahrain-hit-again-as-iran-follows-through-on-threat-report-says-2000741089",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
+            "publishedAt": "2026-04-01T21:30:46Z",
+            "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
             "ai_score": 5
         },
         {
@@ -720,13 +706,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Richard Lawler",
-            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
-            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
-            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-04-20T21:51:05Z",
-            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
+            "author": "Tina Nguyen",
+            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
+            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
+            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
+            "publishedAt": "2026-04-15T19:53:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
             "ai_score": 5
         },
         {
@@ -748,27 +734,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tina Nguyen",
-            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
-            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
-            "publishedAt": "2026-04-15T19:53:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sheena Vasani",
-            "title": "The Govee smart lamp brightened up my room, and then my life",
-            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
-            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
-            "publishedAt": "2026-04-24T18:38:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
+            "author": "Richard Lawler",
+            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
+            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
+            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-04-20T21:51:05Z",
+            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
             "ai_score": 5
         },
         {
@@ -783,6 +755,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268488_Coyote_v_Acme_backfired_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-24T19:49:55Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSwift public outcry gave the movie a chance to speak for itself.\r\nby\r\nCharles Pulliam-MooreClose\r\nPosts from this author will be added to your daily email digest\u2026 [+9103 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "The Govee smart lamp brightened up my room, and then my life",
+            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
+            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
+            "publishedAt": "2026-04-24T18:38:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
             "ai_score": 5
         },
         {
@@ -830,20 +816,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Android Central"
-            },
-            "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
-            "title": "These are my tech EDC essentials \u2014 and they're discounted right now",
-            "description": "I use a lot of tech on a daily basis, and this is what I take when I'm out and about.",
-            "url": "https://www.androidcentral.com/accessories/these-are-my-tech-edc-essentials",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/a8XPMWNKSpUxYm43ALRyuG-2560-80.jpg",
-            "publishedAt": "2026-03-27T11:42:26Z",
-            "content": "As someone who tests gadgets, I have plenty of tech gear on hand. That list includes latest foldables like the Find N6, the innovative Huawei Mate XT tri-fold, or just interesting accessories like an\u2026 [+7821 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -881,20 +853,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Best-Gadgets-March-2026-1200x675.png",
             "publishedAt": "2026-03-31T20:05:23Z",
             "content": "March madness is over. No, not college basketball. I\u2019m, of course, talking about Apple\u2019s own March bonanza headlined by the $600 MacBook Neo. The low-cost and colorful laptop easily stole the spotlig\u2026 [+9044 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "PS5 price hiked by \u00a390 due to global 'pressures'",
-            "description": "The changes will see the recommended retail price of the PS5 rise from \u00a3479.99 to \u00a3569.99 in the UK.",
-            "url": "https://www.bbc.com/news/articles/czx9852nkexo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d201/live/6d2be880-29f0-11f1-81d4-f1e3c77fafb4.jpg",
-            "publishedAt": "2026-03-27T16:07:08Z",
-            "content": "The gaming giant said the changes, taking effect from 2 April, would see the recommended price for retailers of its PS5, PS5 Pro and PlayStation Portal handheld device rise around the world.",
             "ai_score": 5
         },
         {
@@ -1175,6 +1133,34 @@
             "urlToImage": "https://media.wired.com/photos/69e7bb297bc055b07603a318/191:100/w_1280,c_limit/livestream_q&a_MuskVSAltman-Business.jpg",
             "publishedAt": "2026-04-22T10:00:00Z",
             "content": "Two of Big Techs most influential billionaires, Sam Altman and Elon Musk, will go head-to-head in a highly anticipated trial beginning April 27. In Musk v. Altman, a judge, advised by a jury, will ul\u2026 [+1607 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "Why your Whoop might tell you to up your testosterone",
+            "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last week, our editor-in-chief\u2026",
+            "url": "https://www.theverge.com/column/909736/optimizer-whoop-oura-wearable-hype-cycle",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-10T13:46:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy your Whoop might tell you to up your testosterone\r\nWhoop and Oura are health tech trendsetters. But hurtling toward innovation can have some unintended rippl\u2026 [+10585 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "One Chart Shows Buying An Old PlayStation Has Never Been This Expensive Before",
+            "description": "Aggressive price drops kept console gaming affordable",
+            "url": "https://kotaku.com/one-chart-shows-buying-an-old-playstation-has-never-been-this-expensive-before-2000683668",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/08/PS5-grid.jpg",
+            "publishedAt": "2026-03-31T21:53:11Z",
+            "content": "Later this week, the launch of the PlayStation 5 with a disc drive will start selling for $650. Make no mistake, that\u2019s a lot of money. It might not be the most Sony has ever charged for a base conso\u2026 [+3170 chars]",
             "ai_score": 5
         }
     ]
