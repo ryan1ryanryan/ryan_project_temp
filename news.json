@@ -1,76 +1,6 @@
 {
-    "last_updated": "2026-04-28 09:28",
+    "last_updated": "2026-04-28 11:50",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Ryan Waniata",
-            "title": "Samsung Frame Pro and OLED TV News: What You Need To Know in 2026",
-            "description": "Samsung leans into its artistic side with its newest TVs.",
-            "url": "https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/",
-            "urlToImage": "https://media.wired.com/photos/69cf2644509ecd3ce9a7b4ec/191:100/w_1280,c_limit/Everything-You-Need-to-Know-About-Samsung's-2026-OLED-and-Frame-TV-Models.jpg",
-            "publishedAt": "2026-04-03T10:00:00Z",
-            "content": "Samsung has pulled the wrapping off some of its most anticipated TVs for 2026, including its latest art-forward TVs, The Frame and The Frame Pro, and its premium OLED TVs, which include three series \u2026 [+2318 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "RAM Prices Are Killing Small Gaming Devices",
-            "description": "Lenovo's gaming handhelds and tablets, and several smaller handheld devices, are all suffering, and AI is to blame.",
-            "url": "https://gizmodo.com/ram-prices-are-killing-small-gaming-devices-2000742064",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/lenovo-legion-go-2-review-01-1200x675.jpg",
-            "publishedAt": "2026-04-03T14:55:35Z",
-            "content": "First, it was Trumps tariffs. Now, it is ballooning RAM prices. Small gaming devices are being ground down by economic forces outside of their control.\u00a0 Even Lenovo, the largest PC brand in the world\u2026 [+3763 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Sony\u2019s New Gaming Monitor Can Hit 720Hz, but There\u2019s a Catch",
-            "description": "The Inzone M10S II offers a lot for FPS gamers, even if it means sacrificing QHD resolution.",
-            "url": "https://gizmodo.com/sonys-new-gaming-monitor-can-hit-720hz-but-theres-a-small-catch-2000747890",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-M10S-II-Monitor-2-1200x675.jpg",
-            "publishedAt": "2026-04-17T16:30:41Z",
-            "content": "While we still wait on that PlayStation Gaming Moonitor with a controller hook, Sony is coming into this spring with a screen built explicitly for the most hardcore PC players. The new 27-inch Inzone\u2026 [+2801 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "My dream pair of AR gaming glasses needs to have these nine features",
-            "description": "I\u2019ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By \u201clab,\u201d I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can see through these glasses. Using AR glass\u2026",
-            "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4030918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-03T19:24:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNo available model has all nine, but the latest pairs from Xreal and Viture come pretty close.\r\nNo available model has all nine, but the latest pairs from Xreal \u2026 [+8105 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Razer\u2019s Wireless Gaming Earbuds Are Back With Upgraded ANC",
-            "description": "The new Hammerhead V3 HyperSpeed look like a solid upgrade over the last generation.",
-            "url": "https://gizmodo.com/razer-wireless-gaming-earbuds-are-back-with-upgraded-anc-2000744632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
-            "publishedAt": "2026-04-09T19:25:56Z",
-            "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": null,
@@ -83,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -101,6 +31,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Ryan Waniata",
+            "title": "Samsung Frame Pro and OLED TV News: What You Need To Know in 2026",
+            "description": "Samsung leans into its artistic side with its newest TVs.",
+            "url": "https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/",
+            "urlToImage": "https://media.wired.com/photos/69cf2644509ecd3ce9a7b4ec/191:100/w_1280,c_limit/Everything-You-Need-to-Know-About-Samsung's-2026-OLED-and-Frame-TV-Models.jpg",
+            "publishedAt": "2026-04-03T10:00:00Z",
+            "content": "Samsung has pulled the wrapping off some of its most anticipated TVs for 2026, including its latest art-forward TVs, The Frame and The Frame Pro, and its premium OLED TVs, which include three series \u2026 [+2318 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -111,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-13T17:50:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nMicrosoft is getting ready to address Game Pass pricing concerns.\r\nby\r\nTom WarrenClose\r\nPosts \u2026 [+3348 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "RAM Prices Are Killing Small Gaming Devices",
+            "description": "Lenovo's gaming handhelds and tablets, and several smaller handheld devices, are all suffering, and AI is to blame.",
+            "url": "https://gizmodo.com/ram-prices-are-killing-small-gaming-devices-2000742064",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/lenovo-legion-go-2-review-01-1200x675.jpg",
+            "publishedAt": "2026-04-03T14:55:35Z",
+            "content": "First, it was Trumps tariffs. Now, it is ballooning RAM prices. Small gaming devices are being ground down by economic forces outside of their control.\u00a0 Even Lenovo, the largest PC brand in the world\u2026 [+3763 chars]",
             "ai_score": 5
         },
         {
@@ -199,6 +157,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Sony\u2019s New Gaming Monitor Can Hit 720Hz, but There\u2019s a Catch",
+            "description": "The Inzone M10S II offers a lot for FPS gamers, even if it means sacrificing QHD resolution.",
+            "url": "https://gizmodo.com/sonys-new-gaming-monitor-can-hit-720hz-but-theres-a-small-catch-2000747890",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-M10S-II-Monitor-2-1200x675.jpg",
+            "publishedAt": "2026-04-17T16:30:41Z",
+            "content": "While we still wait on that PlayStation Gaming Moonitor with a controller hook, Sony is coming into this spring with a screen built explicitly for the most hardcore PC players. The new 27-inch Inzone\u2026 [+2801 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -237,6 +209,34 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-H5-Air-review-14-1200x675.jpg",
             "publishedAt": "2026-04-14T16:00:45Z",
             "content": "Gaming headsets keep getting more premium these days. There\u2019s the $600 SteelSeries Arctis Nova Elite that comes with its own gaming hub that lets you switch between different devices. There\u2019s the $35\u2026 [+9513 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "My dream pair of AR gaming glasses needs to have these nine features",
+            "description": "I\u2019ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By \u201clab,\u201d I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can see through these glasses. Using AR glass\u2026",
+            "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4030918.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-03T19:24:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNo available model has all nine, but the latest pairs from Xreal and Viture come pretty close.\r\nNo available model has all nine, but the latest pairs from Xreal \u2026 [+8105 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Razer\u2019s Wireless Gaming Earbuds Are Back With Upgraded ANC",
+            "description": "The new Hammerhead V3 HyperSpeed look like a solid upgrade over the last generation.",
+            "url": "https://gizmodo.com/razer-wireless-gaming-earbuds-are-back-with-upgraded-anc-2000744632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
+            "publishedAt": "2026-04-09T19:25:56Z",
+            "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
             "ai_score": 5
         },
         {
@@ -440,20 +440,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Matthew Phelan",
-            "title": "Scientists Are Recycling Centuries-Old Bullets for a Badly Needed Toxic Compound",
-            "description": "Researchers want to recycle more lead waste for high-tech solar panels via a new method.",
-            "url": "https://gizmodo.com/scientists-are-recycling-centuries-old-bullets-for-a-badly-needed-toxic-compound-2000742666",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lead-bullets-solar-panels--1200x675.jpg",
-            "publishedAt": "2026-04-06T16:30:48Z",
-            "content": "Materials scientists say theyve taken nearly 300-year-old toxic wastea stockpile of spherical lead bullets from the 16th and 17th centuries, tainted with carbon residue, metal impurities, and the dul\u2026 [+4957 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Ece Yildirim",
             "title": "Amazon Facilities in Bahrain Hit Again as Iran Follows Through on Threat, Report Says",
             "description": "Iran had promised to hit American tech companies on April 1st.",
@@ -461,6 +447,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
             "publishedAt": "2026-04-01T21:30:46Z",
             "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matthew Phelan",
+            "title": "Scientists Are Recycling Centuries-Old Bullets for a Badly Needed Toxic Compound",
+            "description": "Researchers want to recycle more lead waste for high-tech solar panels via a new method.",
+            "url": "https://gizmodo.com/scientists-are-recycling-centuries-old-bullets-for-a-badly-needed-toxic-compound-2000742666",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lead-bullets-solar-panels--1200x675.jpg",
+            "publishedAt": "2026-04-06T16:30:48Z",
+            "content": "Materials scientists say theyve taken nearly 300-year-old toxic wastea stockpile of spherical lead bullets from the 16th and 17th centuries, tainted with carbon residue, metal impurities, and the dul\u2026 [+4957 chars]",
             "ai_score": 5
         },
         {
@@ -511,12 +511,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Intel May Have an Answer to AMD\u2019s Most Powerful Gaming CPUs",
-            "description": "The Intel and AMD CPU rivalry is getting exciting again.",
-            "url": "https://gizmodo.com/intel-may-have-an-answer-to-amds-most-powerful-gaming-cpus-2000745665",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-05-1200x675.jpg",
-            "publishedAt": "2026-04-13T15:15:02Z",
-            "content": "Theres essentially no competition for AMDs best gaming CPU, the Ryzen 7 9850X3D. That may finally change. New leaks of Intels Nova Lake desktop CPUs may hold the key to better future gaming PCs. Or, \u2026 [+2602 chars]",
+            "title": "Alienware\u2019s $350 QD-OLED Gaming Monitor Nixes Everything for a Pretty Screen",
+            "description": "So long as you don't expect any bells and whistles, the barebones 27-inch AW2726DM won't disappoint.",
+            "url": "https://gizmodo.com/alienwares-350-qd-oled-gaming-monitor-nixes-everything-for-a-pretty-screen-2000746922",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Alienware-AW2726DM-QD-OLED-gaming-monitor-review-1-1200x675.jpg",
+            "publishedAt": "2026-04-15T19:15:21Z",
+            "content": "Out of all the companies to drop a good deal in gaming gear, I never expected it to be Alienware.\r\nHeres the long and short of Alienwares new AW2726DM gaming monitor: 27-inch QD-OLED with 1440p resol\u2026 [+9897 chars]",
             "ai_score": 5
         },
         {
@@ -525,12 +525,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Alienware\u2019s $350 QD-OLED Gaming Monitor Nixes Everything for a Pretty Screen",
-            "description": "So long as you don't expect any bells and whistles, the barebones 27-inch AW2726DM won't disappoint.",
-            "url": "https://gizmodo.com/alienwares-350-qd-oled-gaming-monitor-nixes-everything-for-a-pretty-screen-2000746922",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Alienware-AW2726DM-QD-OLED-gaming-monitor-review-1-1200x675.jpg",
-            "publishedAt": "2026-04-15T19:15:21Z",
-            "content": "Out of all the companies to drop a good deal in gaming gear, I never expected it to be Alienware.\r\nHeres the long and short of Alienwares new AW2726DM gaming monitor: 27-inch QD-OLED with 1440p resol\u2026 [+9897 chars]",
+            "title": "Intel May Have an Answer to AMD\u2019s Most Powerful Gaming CPUs",
+            "description": "The Intel and AMD CPU rivalry is getting exciting again.",
+            "url": "https://gizmodo.com/intel-may-have-an-answer-to-amds-most-powerful-gaming-cpus-2000745665",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/HP-Omen-Max-45L-desktop-PC-review-05-1200x675.jpg",
+            "publishedAt": "2026-04-13T15:15:02Z",
+            "content": "Theres essentially no competition for AMDs best gaming CPU, the Ryzen 7 9850X3D. That may finally change. New leaks of Intels Nova Lake desktop CPUs may hold the key to better future gaming PCs. Or, \u2026 [+2602 chars]",
             "ai_score": 5
         },
         {
@@ -720,13 +720,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tina Nguyen",
-            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
-            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
-            "publishedAt": "2026-04-15T19:53:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
+            "author": "Richard Lawler",
+            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
+            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
+            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-04-20T21:51:05Z",
+            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
             "ai_score": 5
         },
         {
@@ -748,13 +748,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Richard Lawler",
-            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
-            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
-            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-04-20T21:51:05Z",
-            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
+            "author": "Tina Nguyen",
+            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
+            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
+            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
+            "publishedAt": "2026-04-15T19:53:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
             "ai_score": 5
         },
         {
