@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-29 19:32",
+    "last_updated": "2026-04-29 21:11",
     "articles": [
         {
             "source": {
@@ -661,6 +661,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "In the New BMW 7 Series, Even the Windshield Is Part Screen",
+            "description": "BMW\u2019s flagship sedan packs the cabin with displays including a panoramic projection across the bottom of the windshield.",
+            "url": "https://gizmodo.com/in-the-new-bmw-7-series-even-the-windshield-is-part-screen-2000749691",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/DB1_4108-1200x675.jpg",
+            "publishedAt": "2026-04-22T20:30:41Z",
+            "content": "BMW just unveiled the latest version of its flagship luxury sedan, and its packed with screens.\r\nThe German automaker introduced the 2027 BMW 7 Series this morning at concurrent events in Beijing and\u2026 [+3462 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -685,20 +699,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Lots-of-headphones-screen-central-fix-01.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
             "publishedAt": "2026-04-23T13:09:02Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAmid smartphone and subscription fatigue, hardware startups like Sleevenote smell an opportunity.\r\nAmid smartphone and subscription fatigue, hardware startups li\u2026 [+6747 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "In the New BMW 7 Series, Even the Windshield Is Part Screen",
-            "description": "BMW\u2019s flagship sedan packs the cabin with displays including a panoramic projection across the bottom of the windshield.",
-            "url": "https://gizmodo.com/in-the-new-bmw-7-series-even-the-windshield-is-part-screen-2000749691",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/DB1_4108-1200x675.jpg",
-            "publishedAt": "2026-04-22T20:30:41Z",
-            "content": "BMW just unveiled the latest version of its flagship luxury sedan, and its packed with screens.\r\nThe German automaker introduced the 2027 BMW 7 Series this morning at concurrent events in Beijing and\u2026 [+3462 chars]",
             "ai_score": 5
         },
         {
