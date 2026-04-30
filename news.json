@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-30 19:28",
+    "last_updated": "2026-04-30 21:07",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -636,20 +636,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Steve Jobs and the greatest run of products in tech history",
-            "description": "\"I'm pleased to report to you that Apple's back on track.\" It was May of 1998, and Steve Jobs was about 10 months into his second stint leading the company he'd cofounded more than two decades earlier. (It was also a bit more than a decade after that company \u2026",
-            "url": "https://www.theverge.com/tech/900655/steve-jobs-imac-ibook-ipod",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_STEVE_JOBS_RETURN_CVirginia_88b9c9.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-29T17:15:36Z",
-            "content": "<ul><li></li><li></li></ul>\r\niMacs. iBooks. iPods. For 10 years after Steve Jobs came back, Apple couldnt miss.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest\u2026 [+10213 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sean Hollister",
             "title": "The Lenovo Legion Go S is RAMageddon\u2019s latest victim",
             "description": "You can still find the Asus Xbox Ally X and the MSI Claw 8 AI Plus for $999 and $1,049 respectively, but Lenovo's Legion Go S has seemingly given up the fight. The best version of Lenovo's 8-inch handheld now costs nearly double what it did at launch - origin\u2026",
@@ -1161,6 +1147,20 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
             "publishedAt": "2026-04-09T10:04:00Z",
             "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "WIRED",
+            "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+            "description": "On May 8, we\u2019re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+            "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+            "urlToImage": "https://media.wired.com/photos/69e7bb297bc055b07603a318/191:100/w_1280,c_limit/livestream_q&a_MuskVSAltman-Business.jpg",
+            "publishedAt": "2026-04-22T10:00:00Z",
+            "content": "Two of Big Techs most influential billionaires, Sam Altman and Elon Musk, will go head-to-head in a highly anticipated trial beginning April 27. In Musk v. Altman, a judge, advised by a jury, will ul\u2026 [+1607 chars]",
             "ai_score": 5
         }
     ]
