@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-30 17:27",
+    "last_updated": "2026-04-30 19:28",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Framework is teasing a lot of Linux for its April 21st event",
-            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
-            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-09T18:24:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": null,
@@ -27,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -181,6 +167,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24763499/xboxlogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-22T16:41:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\u2026 [+2698 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Framework is teasing a lot of Linux for its April 21st event",
+            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
+            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-09T18:24:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
             "ai_score": 5
         },
         {
