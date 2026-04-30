@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-04-30 15:53",
+    "last_updated": "2026-04-30 17:27",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Framework is teasing a lot of Linux for its April 21st event",
+            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
+            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-09T18:24:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": null,
@@ -167,20 +181,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24763499/xboxlogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-22T16:41:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\u2026 [+2698 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Framework is teasing a lot of Linux for its April 21st event",
-            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
-            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-09T18:24:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
             "ai_score": 5
         },
         {
@@ -717,6 +717,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janus Rose",
+            "title": "The more young people use AI, the more they hate it",
+            "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-29T16:58:51Z",
+            "content": "<ul><li></li><li></li></ul>\r\nThe more young people use AI, the more they hate it\r\nCaught between fears of job loss and social stigma, Gen Zs opinions of AI are hitting new lows.\r\nby\r\nJanus RoseClose\r\u2026 [+13594 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1147,20 +1161,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/YEnPY9DCMC497wB4KXTqQ4-2560-80.jpg",
             "publishedAt": "2026-04-09T10:04:00Z",
             "content": "What you need to know\r\n<ul><li>Google's April 2026 patch stops frustrating crashes for banking and third-party apps across the entire lineup, from the Pixel 6 to the Pixel 10a.</li><li>Users of the P\u2026 [+3034 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "WIRED",
-            "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-            "description": "On May 8, we\u2019re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
-            "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
-            "urlToImage": "https://media.wired.com/photos/69e7bb297bc055b07603a318/191:100/w_1280,c_limit/livestream_q&a_MuskVSAltman-Business.jpg",
-            "publishedAt": "2026-04-22T10:00:00Z",
-            "content": "Two of Big Techs most influential billionaires, Sam Altman and Elon Musk, will go head-to-head in a highly anticipated trial beginning April 27. In Musk v. Altman, a judge, advised by a jury, will ul\u2026 [+1607 chars]",
             "ai_score": 5
         }
     ]
