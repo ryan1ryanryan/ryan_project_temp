@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-04-30 09:18",
+    "last_updated": "2026-04-30 11:33",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Sony\u2019s New Gaming Monitor Can Hit 720Hz, but There\u2019s a Catch",
-            "description": "The Inzone M10S II offers a lot for FPS gamers, even if it means sacrificing QHD resolution.",
-            "url": "https://gizmodo.com/sonys-new-gaming-monitor-can-hit-720hz-but-theres-a-small-catch-2000747890",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-M10S-II-Monitor-2-1200x675.jpg",
-            "publishedAt": "2026-04-17T16:30:41Z",
-            "content": "While we still wait on that PlayStation Gaming Moonitor with a controller hook, Sony is coming into this spring with a screen built explicitly for the most hardcore PC players. The new 27-inch Inzone\u2026 [+2801 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": null,
@@ -181,6 +167,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-09T18:24:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Sony\u2019s New Gaming Monitor Can Hit 720Hz, but There\u2019s a Catch",
+            "description": "The Inzone M10S II offers a lot for FPS gamers, even if it means sacrificing QHD resolution.",
+            "url": "https://gizmodo.com/sonys-new-gaming-monitor-can-hit-720hz-but-theres-a-small-catch-2000747890",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-M10S-II-Monitor-2-1200x675.jpg",
+            "publishedAt": "2026-04-17T16:30:41Z",
+            "content": "While we still wait on that PlayStation Gaming Moonitor with a controller hook, Sony is coming into this spring with a screen built explicitly for the most hardcore PC players. The new 27-inch Inzone\u2026 [+2801 chars]",
             "ai_score": 5
         },
         {
@@ -689,6 +689,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "China freezes new robotaxi licenses after Baidu chaos",
+            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-04-29T10:39:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1147,20 +1161,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Steam-Controller-review-05-1200x675.jpg",
             "publishedAt": "2026-04-28T16:00:29Z",
             "content": "If were going to throw out the entire script of console gaming, we cant leave any game or control scheme off the table. Xboxs next-gen console, dubbed Project Helix, is likely going to be a PC in all\u2026 [+4317 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Victoria Song",
-            "title": "Why your Whoop might tell you to up your testosterone",
-            "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last week, our editor-in-chief\u2026",
-            "url": "https://www.theverge.com/column/909736/optimizer-whoop-oura-wearable-hype-cycle",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T13:46:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy your Whoop might tell you to up your testosterone\r\nWhoop and Oura are health tech trendsetters. But hurtling toward innovation can have some unintended rippl\u2026 [+10585 chars]",
             "ai_score": 5
         }
     ]
