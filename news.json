@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-01 21:59",
+    "last_updated": "2026-05-01 22:56",
     "articles": [
         {
             "source": {
@@ -13,34 +13,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "China freezes new robotaxi licenses after Baidu chaos",
-            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-04-29T10:39:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "derrek.lee@futurenet.com (Derrek Lee) , Derrek Lee",
-            "title": "Prices on tech are going up everywhere... are you less likely to buy a new phone this year?",
-            "description": "RAM shortages are driving up smartphone prices and already causing a decline in smartphone shipments. In our latest poll, we want to know if the rising prices are affecting your willingness to buy a new smartphone this year.",
-            "url": "https://www.androidcentral.com/phones/poll-are-you-less-likely-to-buy-a-new-phone-this-year",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ai7RGH3H8LNuUXSunmZXKE-2560-80.jpg",
-            "publishedAt": "2026-04-19T10:05:00Z",
-            "content": "We were warned about the RAM shortage at the tail end of 2025, but now it's becoming a major problem throughout the tech industry. Tech companies are beginning to increase the prices of their devices\u2026 [+2310 chars]",
             "ai_score": 8
         },
         {
@@ -804,6 +776,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Robert Hart",
+            "title": "China freezes new robotaxi licenses after Baidu chaos",
+            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-04-29T10:39:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Janus Rose",
             "title": "The more young people use AI, the more they hate it",
             "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many\u2026",
@@ -1133,6 +1119,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/kevin-warsh-2024-1200x675.jpg",
             "publishedAt": "2026-04-15T00:02:15Z",
             "content": "Kevin Warsh, President Donald Trump\u2019s pick to be the next head of the Federal Reserve, disclosed his financial holdings in a filing made public Tuesday, showing he has at least $130 million in assets\u2026 [+2784 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "derrek.lee@futurenet.com (Derrek Lee) , Derrek Lee",
+            "title": "Prices on tech are going up everywhere... are you less likely to buy a new phone this year?",
+            "description": "RAM shortages are driving up smartphone prices and already causing a decline in smartphone shipments. In our latest poll, we want to know if the rising prices are affecting your willingness to buy a new smartphone this year.",
+            "url": "https://www.androidcentral.com/phones/poll-are-you-less-likely-to-buy-a-new-phone-this-year",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ai7RGH3H8LNuUXSunmZXKE-2560-80.jpg",
+            "publishedAt": "2026-04-19T10:05:00Z",
+            "content": "We were warned about the RAM shortage at the tail end of 2025, but now it's becoming a major problem throughout the tech industry. Tech companies are beginning to increase the prices of their devices\u2026 [+2310 chars]",
             "ai_score": 5
         },
         {
