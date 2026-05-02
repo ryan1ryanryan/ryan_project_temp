@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-02 09:12",
+    "last_updated": "2026-05-02 10:58",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -608,6 +608,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Jay Peters",
+            "title": "This accessory can snap a Steam Controller to your phone \u2014 or almost anything else",
+            "description": "Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism's lineup of accesso\u2026",
+            "url": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ee894412-0635-489e-a7ab-1e9540385a61.jpeg?quality=90&strip=all&crop=0,23.790026146047,100,52.419947707906",
+            "publishedAt": "2026-05-01T09:25:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe same day you buy your Steam Controller, you can get a useful accessory.\r\nThe same day you buy your Steam Controller, you can get a useful accessory.\r\nby\r\nJay\u2026 [+2994 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Sean Hollister",
             "title": "The Lenovo Legion Go S is RAMageddon\u2019s latest victim",
             "description": "You can still find the Asus Xbox Ally X and the MSI Claw 8 AI Plus for $999 and $1,049 respectively, but Lenovo's Legion Go S has seemingly given up the fight. The best version of Lenovo's 8-inch handheld now costs nearly double what it did at launch - origin\u2026",
@@ -1175,20 +1189,6 @@
             "urlToImage": "https://i.insider.com/69cecc4dc02a678bd7e4782a?width=1200&format=jpeg",
             "publishedAt": "2026-04-02T20:39:17Z",
             "content": "OpenAI CEO Sam Altman went on TBPN less than two months before buying the tech livestream.YouTube\r\n<ul><li>OpenAI shocked many in Silicon Valley by buying tech talk show TBPN.</li><li>Cohost John Coo\u2026 [+4260 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Lucia Moses",
-            "title": "Tech creators are getting the star treatment at a new talent management firm",
-            "description": "Reign Maker Group is teaming with YouTuber Tech with Tim to launch a new management agency for tech, coding, and AI creators amid the AI boom.",
-            "url": "https://www.businessinsider.com/reign-maker-launches-tech-creator-management-firm-kernel-ai-boom-2026-4",
-            "urlToImage": "https://i.insider.com/69cb26028e5f53c45ea2db36?width=1200&format=jpeg",
-            "publishedAt": "2026-04-01T10:50:01Z",
-            "content": "Tim Ruscica, a YouTube creator known as Tech with Tim, says tech educators are underserved by traditional talent agencies.Reign Maker Group\r\n<ul><li>Reign Maker Group is launching a new talent manage\u2026 [+4554 chars]",
             "ai_score": 5
         }
     ]
