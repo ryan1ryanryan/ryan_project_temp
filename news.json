@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-02 22:47",
+    "last_updated": "2026-05-02 23:49",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -426,20 +426,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Amazon Facilities in Bahrain Hit Again as Iran Follows Through on Threat, Report Says",
-            "description": "Iran had promised to hit American tech companies on April 1st.",
-            "url": "https://gizmodo.com/amazon-facilities-in-bahrain-hit-again-as-iran-follows-through-on-threat-report-says-2000741089",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
-            "publishedAt": "2026-04-01T21:30:46Z",
-            "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Matthew Phelan",
             "title": "Scientists Are Recycling Centuries-Old Bullets for a Badly Needed Toxic Compound",
             "description": "Researchers want to recycle more lead waste for high-tech solar panels via a new method.",
@@ -447,6 +433,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lead-bullets-solar-panels--1200x675.jpg",
             "publishedAt": "2026-04-06T16:30:48Z",
             "content": "Materials scientists say theyve taken nearly 300-year-old toxic wastea stockpile of spherical lead bullets from the 16th and 17th centuries, tainted with carbon residue, metal impurities, and the dul\u2026 [+4957 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Amazon Facilities in Bahrain Hit Again as Iran Follows Through on Threat, Report Says",
+            "description": "Iran had promised to hit American tech companies on April 1st.",
+            "url": "https://gizmodo.com/amazon-facilities-in-bahrain-hit-again-as-iran-follows-through-on-threat-report-says-2000741089",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265509883-1200x675.jpg",
+            "publishedAt": "2026-04-01T21:30:46Z",
+            "content": "Amazon\u2019s cloud business in Bahrain was damaged yet again on Wednesday due to an Iranian strike, the Financial Times reported, citing a person familiar with the matter. The strike comes only a day aft\u2026 [+4001 chars]",
             "ai_score": 5
         },
         {
@@ -706,13 +706,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "New leaks reveal pricing and performance specs for DJI\u2019s next beginner drones",
-            "description": "DJI plans to debut two new drones later this week according to a recent teaser. But ahead of the official announcement, Italian electronics retailer Dino Galiano has shared listings for both the DJI Lito 1 and Lito X1 drones that include full tech specs and p\u2026",
-            "url": "https://www.theverge.com/tech/915877/dji-leak-lito-1-x1-drones-amateur-beginner-pricing",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/djilito1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-            "publishedAt": "2026-04-21T15:36:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAn Italian retailer has listed details of DJIs new Lito 1 and Lito X1 entry-level drones. They start at around $400.\r\nAn Italian retailer has listed details of D\u2026 [+2914 chars]",
+            "author": "Robert Hart",
+            "title": "China freezes new robotaxi licenses after Baidu chaos",
+            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-04-29T10:39:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
             "ai_score": 5
         },
         {
@@ -748,13 +748,41 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "China freezes new robotaxi licenses after Baidu chaos",
-            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-04-29T10:39:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
+            "author": "Andrew Liszewski",
+            "title": "New leaks reveal pricing and performance specs for DJI\u2019s next beginner drones",
+            "description": "DJI plans to debut two new drones later this week according to a recent teaser. But ahead of the official announcement, Italian electronics retailer Dino Galiano has shared listings for both the DJI Lito 1 and Lito X1 drones that include full tech specs and p\u2026",
+            "url": "https://www.theverge.com/tech/915877/dji-leak-lito-1-x1-drones-amateur-beginner-pricing",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/djilito1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2026-04-21T15:36:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAn Italian retailer has listed details of DJIs new Lito 1 and Lito X1 entry-level drones. They start at around $400.\r\nAn Italian retailer has listed details of D\u2026 [+2914 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tina Nguyen",
+            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
+            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
+            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
+            "publishedAt": "2026-04-15T19:53:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The AI code wars are heating up",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. Ho\u2026",
+            "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-10T17:45:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI, Google, and Anthropic are eating the software world alive.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest and yo\u2026 [+11750 chars]",
             "ai_score": 5
         },
         {
@@ -777,40 +805,12 @@
                 "name": "The Verge"
             },
             "author": "David Pierce",
-            "title": "The AI code wars are heating up",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. Ho\u2026",
-            "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T17:45:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI, Google, and Anthropic are eating the software world alive.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest and yo\u2026 [+11750 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tina Nguyen",
-            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
-            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
-            "publishedAt": "2026-04-15T19:53:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sheena Vasani",
-            "title": "The Govee smart lamp brightened up my room, and then my life",
-            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
-            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
-            "publishedAt": "2026-04-24T18:38:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
+            "title": "Elon Musk had a bad week in court",
+            "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case agains\u2026",
+            "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-01T13:33:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\u2026 [+2930 chars]",
             "ai_score": 5
         },
         {
@@ -832,13 +832,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Elon Musk had a bad week in court",
-            "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case agains\u2026",
-            "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-01T13:33:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\u2026 [+2930 chars]",
+            "author": "Sheena Vasani",
+            "title": "The Govee smart lamp brightened up my room, and then my life",
+            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
+            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
+            "publishedAt": "2026-04-24T18:38:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
             "ai_score": 5
         },
         {
