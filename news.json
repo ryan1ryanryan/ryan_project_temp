@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-03 19:06",
+    "last_updated": "2026-05-03 20:02",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is giving its Xbox employees an Xbox email address",
+            "description": "Xbox CEO Asha Sharma wants everyone to know: \"We are Xbox.\" Just last week, she scrapped Microsoft Gaming as the name of Microsoft's gaming division in favor of simply Xbox. Now, to reinforce that message, sources at Xbox tell me that all Xbox employees are g\u2026",
+            "url": "https://www.theverge.com/report/920525/microsoft-xbox-email-address-change",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-29T15:46:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effort.\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effo\u2026 [+3017 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,20 +55,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268447_Alienware_AW2726DM_27-inch_QD-OLED_monitor_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-13T17:09:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nby\r\nAntonio G. Di\u2026 [+2906 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft is giving its Xbox employees an Xbox email address",
-            "description": "Xbox CEO Asha Sharma wants everyone to know: \"We are Xbox.\" Just last week, she scrapped Microsoft Gaming as the name of Microsoft's gaming division in favor of simply Xbox. Now, to reinforce that message, sources at Xbox tell me that all Xbox employees are g\u2026",
-            "url": "https://www.theverge.com/report/920525/microsoft-xbox-email-address-change",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-29T15:46:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effort.\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effo\u2026 [+3017 chars]",
             "ai_score": 5
         },
         {
