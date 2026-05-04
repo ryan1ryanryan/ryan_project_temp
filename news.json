@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-05-04 06:20",
+    "last_updated": "2026-05-04 09:26",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
-            "description": "With 144m daily users, the gaming company is extending its tech to introduce two age\u2011specific accounts.",
-            "url": "https://www.bbc.com/news/articles/cj94y9r0p10o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
-            "publishedAt": "2026-04-13T12:19:13Z",
-            "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "wired",
@@ -27,7 +13,7 @@
             "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
             "publishedAt": "2026-04-28T13:00:00Z",
             "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,6 +27,76 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268447_Alienware_AW2726DM_27-inch_QD-OLED_monitor_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-13T17:09:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nThe 27-inch AW2726DM brings OLED tech down to a more affordable price.\r\nby\r\nAntonio G. Di\u2026 [+2906 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The new show making fun of tech bros",
+            "description": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) This wee\u2026",
+            "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-123.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-10T20:29:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: Artemis II photos, new Star Wars and Pok\u00e9mon stuff, and much more.\r\nPlus, in this weeks Installer: Artemis II photos, new Star War\u2026 [+11260 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft says the \u2018idea\u2019 of an Xbox mobile store \u2018is not dead\u2019",
+            "description": "Microsoft first revealed it was building an Xbox mobile gaming store to take on Apple and Google all the way back in 2022. Former Xbox president Sarah Bond even went on stage at a Bloomberg event nearly two years ago and promised the store would launch in Jul\u2026",
+            "url": "https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,3.4801106327551,100,93.03977873449",
+            "publishedAt": "2026-04-22T16:28:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has been trying to launch an Xbox mobile store for years, but it has been counting on app stores opening up.\r\nMicrosoft has been trying to launch an Xb\u2026 [+3071 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Framework is teasing a lot of Linux for its April 21st event",
+            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
+            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-09T18:24:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield, Jay Peters",
+            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
+            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
+            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-30T21:25:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
+            "description": "With 144m daily users, the gaming company is extending its tech to introduce two age\u2011specific accounts.",
+            "url": "https://www.bbc.com/news/articles/cj94y9r0p10o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
+            "publishedAt": "2026-04-13T12:19:13Z",
+            "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
             "ai_score": 5
         },
         {
@@ -132,20 +188,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The new show making fun of tech bros",
-            "description": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) This wee\u2026",
-            "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-123.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T20:29:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, in this weeks Installer: Artemis II photos, new Star Wars and Pok\u00e9mon stuff, and much more.\r\nPlus, in this weeks Installer: Artemis II photos, new Star War\u2026 [+11260 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "The heist of iOS 26",
             "description": "The most consequential YouTube video of Jon Prosser's career opens on Prosser himself, in a black hoodie and transparent glasses. The backdrop is familiar to viewers of his tech news channel, Front Page Tech, with warm, hanging lights and a bright white \"fpt\"\u2026",
@@ -161,40 +203,12 @@
                 "name": "The Verge"
             },
             "author": "Tom Warren",
-            "title": "Microsoft says the \u2018idea\u2019 of an Xbox mobile store \u2018is not dead\u2019",
-            "description": "Microsoft first revealed it was building an Xbox mobile gaming store to take on Apple and Google all the way back in 2022. Former Xbox president Sarah Bond even went on stage at a Bloomberg event nearly two years ago and promised the store would launch in Jul\u2026",
-            "url": "https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,3.4801106327551,100,93.03977873449",
-            "publishedAt": "2026-04-22T16:28:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has been trying to launch an Xbox mobile store for years, but it has been counting on app stores opening up.\r\nMicrosoft has been trying to launch an Xb\u2026 [+3071 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
             "title": "Microsoft teases mysterious Discord and Xbox Game Pass partnership",
             "description": "Microsoft has started teasing a new Discord and Xbox Game Pass partnership, just a day after lowering prices of its Game Pass Ultimate and PC Game Pass subscriptions. Microsoft Gaming CEO Asha Sharma says the company is partnering with Discord again \"as we co\u2026",
             "url": "https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24763499/xboxlogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-22T16:41:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\u2026 [+2698 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Framework is teasing a lot of Linux for its April 21st event",
-            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
-            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-09T18:24:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
             "ai_score": 5
         },
         {
@@ -325,20 +339,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield, Jay Peters",
-            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
-            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
-            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-30T21:25:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -419,34 +419,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lead-bullets-solar-panels--1200x675.jpg",
             "publishedAt": "2026-04-06T16:30:48Z",
             "content": "Materials scientists say theyve taken nearly 300-year-old toxic wastea stockpile of spherical lead bullets from the 16th and 17th centuries, tainted with carbon residue, metal impurities, and the dul\u2026 [+4957 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Boone Ashworth",
-            "title": "Your Art Can Go in This San Francisco Alley",
-            "description": "A trio of tech pranksters have launched a website where you can submit artwork and vote on which pieces belong in the final design. Of course, AI will scan for dick pics.",
-            "url": "https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/",
-            "urlToImage": "https://media.wired.com/photos/69ceadac87d75b5fc6be3f42/191:100/w_1280,c_limit/Tech-Pranksters-Turning-San-Franciscos-Dirt-Alley-Into-Art-Collage-Culture-IMG_20260402_100455.jpg",
-            "publishedAt": "2026-04-02T18:27:45Z",
-            "content": "Last year, a couple in San Francisco accidentally paid way too much money for a dirt road. On an auction bid starting at $1, they put down $25,000, thinking they were getting a screaming deal on a pa\u2026 [+2352 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger, Makena Kelly, Kate Knibbs",
-            "title": "\u2018Uncanny Valley\u2019: Iran\u2019s Threats on US Tech, Trump\u2019s Plans for Midterms, and Polymarket\u2019s Pop-up Flop",
-            "description": "In this episode, we discuss Iran\u2019s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
-            "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
-            "urlToImage": "https://media.wired.com/photos/69cda03bbbb99516b24f8b5f/191:100/w_1280,c_limit/Uncanny-Valley-Trump-Iran-Tech-Companies-Security-2268129741.jpg",
-            "publishedAt": "2026-04-02T21:04:22Z",
-            "content": "Kate Knibbs: So, you went twice?\r\nMakena Kelly: Yes, Kate. I went twice.\r\nKate Knibbs: I missed that.\r\nZo\u00eb Schiffer: Wait, is the Pentagon Pizza thing a joke about the pizza predicting the war?\r\nMake\u2026 [+3275 chars]",
             "ai_score": 5
         },
         {
@@ -650,13 +622,41 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "New leaks reveal pricing and performance specs for DJI\u2019s next beginner drones",
-            "description": "DJI plans to debut two new drones later this week according to a recent teaser. But ahead of the official announcement, Italian electronics retailer Dino Galiano has shared listings for both the DJI Lito 1 and Lito X1 drones that include full tech specs and p\u2026",
-            "url": "https://www.theverge.com/tech/915877/dji-leak-lito-1-x1-drones-amateur-beginner-pricing",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/djilito1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-            "publishedAt": "2026-04-21T15:36:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAn Italian retailer has listed details of DJIs new Lito 1 and Lito X1 entry-level drones. They start at around $400.\r\nAn Italian retailer has listed details of D\u2026 [+2914 chars]",
+            "author": "Stevie Bonifield",
+            "title": "NASA did eventually solve Artemis II\u2019s Outlook glitch",
+            "description": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman\u2026",
+            "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2269451654.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-03T20:53:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue has been resolved.\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue\u2026 [+2955 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "After working on the Vision Pro, this AR veteran is going back to phones",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Mark Drummond was working on the Vision Pro at Apple, he had a bit of an epiphany that di\u2026",
+            "url": "https://www.theverge.com/column/921101/ar-mobile-pixi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258038_M5_Vision_Pro_AKrales_0401.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-30T12:04:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPixi CEO Mark Drummond thinks headsets are not worth the hassle for AR developers.\r\nPixi CEO Mark Drummond thinks headsets are not worth the hassle for AR develo\u2026 [+7619 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "China freezes new robotaxi licenses after Baidu chaos",
+            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-04-29T10:39:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
             "ai_score": 5
         },
         {
@@ -692,13 +692,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "China freezes new robotaxi licenses after Baidu chaos",
-            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-04-29T10:39:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
+            "author": "Andrew Liszewski",
+            "title": "New leaks reveal pricing and performance specs for DJI\u2019s next beginner drones",
+            "description": "DJI plans to debut two new drones later this week according to a recent teaser. But ahead of the official announcement, Italian electronics retailer Dino Galiano has shared listings for both the DJI Lito 1 and Lito X1 drones that include full tech specs and p\u2026",
+            "url": "https://www.theverge.com/tech/915877/dji-leak-lito-1-x1-drones-amateur-beginner-pricing",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/djilito1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2026-04-21T15:36:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAn Italian retailer has listed details of DJIs new Lito 1 and Lito X1 entry-level drones. They start at around $400.\r\nAn Italian retailer has listed details of D\u2026 [+2914 chars]",
             "ai_score": 5
         },
         {
@@ -706,13 +706,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "NASA did eventually solve Artemis II\u2019s Outlook glitch",
-            "description": "On Thursday, during Artemis II's journey to the Moon, commander Reid Wiseman ran into a tech issue some of us back on Earth can relate to: Microsoft Outlook wasn't working. In a conversation captured in NASA's Artemis livestream and shared on Bluesky, Wiseman\u2026",
-            "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2269451654.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-03T20:53:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue has been resolved.\r\nArtemis flight director Judd Frieling says the Microsoft Outlook issue\u2026 [+2955 chars]",
+            "author": "Tina Nguyen",
+            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
+            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
+            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
+            "publishedAt": "2026-04-15T19:53:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
             "ai_score": 5
         },
         {
@@ -720,13 +720,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "After working on the Vision Pro, this AR veteran is going back to phones",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Mark Drummond was working on the Vision Pro at Apple, he had a bit of an epiphany that di\u2026",
-            "url": "https://www.theverge.com/column/921101/ar-mobile-pixi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258038_M5_Vision_Pro_AKrales_0401.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-30T12:04:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPixi CEO Mark Drummond thinks headsets are not worth the hassle for AR developers.\r\nPixi CEO Mark Drummond thinks headsets are not worth the hassle for AR develo\u2026 [+7619 chars]",
+            "author": "David Pierce",
+            "title": "The AI code wars are heating up",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. Ho\u2026",
+            "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-10T17:45:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI, Google, and Anthropic are eating the software world alive.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest and yo\u2026 [+11750 chars]",
             "ai_score": 5
         },
         {
@@ -749,40 +749,12 @@
                 "name": "The Verge"
             },
             "author": "David Pierce",
-            "title": "The AI code wars are heating up",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. Ho\u2026",
-            "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T17:45:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI, Google, and Anthropic are eating the software world alive.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest and yo\u2026 [+11750 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tina Nguyen",
-            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
-            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
-            "publishedAt": "2026-04-15T19:53:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sheena Vasani",
-            "title": "The Govee smart lamp brightened up my room, and then my life",
-            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
-            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
-            "publishedAt": "2026-04-24T18:38:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
+            "title": "Elon Musk had a bad week in court",
+            "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case agains\u2026",
+            "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-01T13:33:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\u2026 [+2930 chars]",
             "ai_score": 5
         },
         {
@@ -804,13 +776,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Elon Musk had a bad week in court",
-            "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case agains\u2026",
-            "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-01T13:33:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\u2026 [+2930 chars]",
+            "author": "Sheena Vasani",
+            "title": "The Govee smart lamp brightened up my room, and then my life",
+            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
+            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
+            "publishedAt": "2026-04-24T18:38:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
             "ai_score": 5
         },
         {
@@ -895,20 +867,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0376/live/02ea6b90-3cc4-11f1-8606-05fe34b06e1b.jpg",
             "publishedAt": "2026-04-20T14:55:51Z",
             "content": "A skydiver crashed into the massive scoreboard at Virginia Tech's stadium, dangling from a parachute before first responders carried out a rescue without injury. \r\nFootage from inside Virginia Tech's\u2026 [+324 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
-            "description": "Documents show that one of Google\u2019s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year\u2014an increasingly common trend in the industry.",
-            "url": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
-            "urlToImage": "https://media.wired.com/photos/69cda0ecca819c3b6fb66073/191:100/w_1280,c_limit/As-Google-Builds-Out-Renewables-Its-Also-Leaning-on-Fossil-Fuels-Science.jpg",
-            "publishedAt": "2026-04-02T18:27:29Z",
-            "content": "Grid growth can't match AI demand, so a pragmatic 'all-of-the-above' strategy is essentialwith gas as a critical bridge, Cully Cavness, the cofounder and president of Crusoe, told WIRED in a statemen\u2026 [+3555 chars]",
             "ai_score": 5
         },
         {
@@ -1203,6 +1161,48 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-10T13:46:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy your Whoop might tell you to up your testosterone\r\nWhoop and Oura are health tech trendsetters. But hurtling toward innovation can have some unintended rippl\u2026 [+10585 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Musk v Altman: The most toxic row in tech goes on trial",
+            "description": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+            "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
+            "publishedAt": "2026-04-28T10:10:54Z",
+            "content": "\"Musk and Altman are so big, so larger than life, and so unrelatable,\" says University of San Diego professor Sarah Federman, who specialises in conflict resolution. \"That's what makes them so delici\u2026 [+27 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+            "description": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
+            "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
+            "publishedAt": "2026-05-02T23:17:17Z",
+            "content": "The executive director for the Abdorrahman Boroumand Centre for Human Rights, Roya Boroumand, says that an information vacuum in Iran \"allows the state to broadcast its narrative, ie portray proteste\u2026 [+129 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Allbirds' Move To AI Has Echoes of the Dot-Com Frenzy",
+            "description": "An anonymous reader quotes a report from Bloomberg, written by writer Austin Carr: Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that \u2026",
+            "url": "https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy",
+            "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+            "publishedAt": "2026-04-20T17:00:00Z",
+            "content": "Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that it was expanding into A\u2026 [+1750 chars]",
             "ai_score": 5
         }
     ]
