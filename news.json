@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-05-04 16:51",
+    "last_updated": "2026-05-04 18:20",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Framework is teasing a lot of Linux for its April 21st event",
+            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
+            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-09T18:24:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": null,
@@ -13,7 +27,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -167,20 +181,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24763499/xboxlogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-22T16:41:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\u2026 [+2698 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Framework is teasing a lot of Linux for its April 21st event",
-            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
-            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-09T18:24:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
             "ai_score": 5
         },
         {
@@ -1175,20 +1175,6 @@
             "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
             "publishedAt": "2026-04-20T17:00:00Z",
             "content": "Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that it was expanding into A\u2026 [+1750 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "YouTuber Says He\u2019s Not Making The Bloodborne Anime Movie To Make Money",
-            "description": "Also: Japanese entertainment powerhouse Toei gets into gaming",
-            "url": "https://kotaku.com/youtuber-says-hes-not-making-the-bloodborne-anime-movie-to-make-money-2000689324",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/04/game-awards-1200x675.jpg",
-            "publishedAt": "2026-04-21T15:30:40Z",
-            "content": "RAMageddon doesn\u2019t seem to be stopping more companies from releasing very cool and wildly expensive PC gaming handhelds. The creator of sci-fi mecha anime classic Macross talks about the nice coincid\u2026 [+3316 chars]",
             "ai_score": 5
         }
     ]
