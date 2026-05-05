@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-05-05 23:01",
+    "last_updated": "2026-05-05 23:54",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
-            "description": "With 144m daily users, the gaming company is extending its tech to introduce two age\u2011specific accounts.",
-            "url": "https://www.bbc.com/news/articles/cj94y9r0p10o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
-            "publishedAt": "2026-04-13T12:19:13Z",
-            "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "wired",
@@ -27,6 +13,20 @@
             "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
             "publishedAt": "2026-04-28T13:00:00Z",
             "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
+            "description": "With 144m daily users, the gaming company is extending its tech to introduce two age\u2011specific accounts.",
+            "url": "https://www.bbc.com/news/articles/cj94y9r0p10o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
+            "publishedAt": "2026-04-13T12:19:13Z",
+            "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
             "ai_score": 5
         },
         {
