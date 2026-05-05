@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-05 19:26",
+    "last_updated": "2026-05-05 21:08",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -633,6 +633,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Tyler August",
+            "title": "Pushing as Many Pixels as Possible to a CRT: Interlaced 4K",
+            "description": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play vide\u2026",
+            "url": "https://hackaday.com/2026/05/02/pushing-as-many-pixels-as-possible-to-a-crt-interlaced-4k/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/04/4K-crt1-e1777323654905.jpg",
+            "publishedAt": "2026-05-02T20:00:32Z",
+            "content": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play video games.\u2026 [+1866 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -713,20 +727,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-01T13:33:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\u2026 [+2930 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hackaday"
-            },
-            "author": "Tyler August",
-            "title": "Pushing as Many Pixels as Possible to a CRT: Interlaced 4K",
-            "description": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play vide\u2026",
-            "url": "https://hackaday.com/2026/05/02/pushing-as-many-pixels-as-possible-to-a-crt-interlaced-4k/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/04/4K-crt1-e1777323654905.jpg",
-            "publishedAt": "2026-05-02T20:00:32Z",
-            "content": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play video games.\u2026 [+1866 chars]",
             "ai_score": 5
         },
         {
