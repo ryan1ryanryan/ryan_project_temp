@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-05-05 10:52",
+    "last_updated": "2026-05-05 12:08",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ellyn Lapointe",
-            "title": "NASA Breaks Silence on Deaths and Disappearances of Scientists With Ties to Space Tech",
-            "description": "Eleven missing or dead scientists are now at the center of a federal investigation, and three had direct ties to NASA.",
-            "url": "https://gizmodo.com/nasa-breaks-silence-on-deaths-and-disappearances-of-scientists-with-ties-to-space-tech-2000749047",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/NASA-JPL-sign-1200x675.jpg",
-            "publishedAt": "2026-04-21T16:10:42Z",
-            "content": "The Trump administration has launched an investigation into the disappearances and deaths of 11 American scientists, the vast majority of whom were associated with federal nuclear or space research p\u2026 [+3629 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": null,
@@ -937,6 +923,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
             "publishedAt": "2026-04-13T18:16:22Z",
             "content": "The price of Game Pass has more than doubled since the subscription gaming service was first announced, but it might not stay that way. According to The Verge, the new Microsoft Gaming CEO, Asha Shar\u2026 [+2097 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ellyn Lapointe",
+            "title": "NASA Breaks Silence on Deaths and Disappearances of Scientists With Ties to Space Tech",
+            "description": "Eleven missing or dead scientists are now at the center of a federal investigation, and three had direct ties to NASA.",
+            "url": "https://gizmodo.com/nasa-breaks-silence-on-deaths-and-disappearances-of-scientists-with-ties-to-space-tech-2000749047",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/NASA-JPL-sign-1200x675.jpg",
+            "publishedAt": "2026-04-21T16:10:42Z",
+            "content": "The Trump administration has launched an investigation into the disappearances and deaths of 11 American scientists, the vast majority of whom were associated with federal nuclear or space research p\u2026 [+3629 chars]",
             "ai_score": 5
         },
         {
