@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-05-05 23:54",
+    "last_updated": "2026-05-06 02:58",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Julian Chokkattu",
-            "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
-            "description": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a \u201cflood\u201d of new third-party hardware this year and next.",
-            "url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
-            "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
-            "publishedAt": "2026-04-28T13:00:00Z",
-            "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": null,
@@ -27,6 +13,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julian Chokkattu",
+            "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
+            "description": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a \u201cflood\u201d of new third-party hardware this year and next.",
+            "url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
+            "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
+            "publishedAt": "2026-04-28T13:00:00Z",
+            "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
             "ai_score": 5
         },
         {
@@ -633,20 +633,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Hackaday"
-            },
-            "author": "Tyler August",
-            "title": "Pushing as Many Pixels as Possible to a CRT: Interlaced 4K",
-            "description": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play vide\u2026",
-            "url": "https://hackaday.com/2026/05/02/pushing-as-many-pixels-as-possible-to-a-crt-interlaced-4k/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/04/4K-crt1-e1777323654905.jpg",
-            "publishedAt": "2026-05-02T20:00:32Z",
-            "content": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play video games.\u2026 [+1866 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -727,6 +713,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
             "publishedAt": "2026-04-24T18:38:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Tyler August",
+            "title": "Pushing as Many Pixels as Possible to a CRT: Interlaced 4K",
+            "description": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play vide\u2026",
+            "url": "https://hackaday.com/2026/05/02/pushing-as-many-pixels-as-possible-to-a-crt-interlaced-4k/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/04/4K-crt1-e1777323654905.jpg",
+            "publishedAt": "2026-05-02T20:00:32Z",
+            "content": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play video games.\u2026 [+1866 chars]",
             "ai_score": 5
         },
         {
@@ -937,6 +937,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/kevin-warsh-2024-1200x675.jpg",
             "publishedAt": "2026-04-15T00:02:15Z",
             "content": "Kevin Warsh, President Donald Trump\u2019s pick to be the next head of the Federal Reserve, disclosed his financial holdings in a filing made public Tuesday, showing he has at least $130 million in assets\u2026 [+2784 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Valve just imported 50 tons of game consoles in two days",
+            "description": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and April 30th, according to import records\u2026",
+            "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+            "publishedAt": "2026-05-05T00:03:57Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to believe they could be the Steam Machine.\r\nTheres reason to believe they could be the Steam Machine.\r\nby\r\nSean HollisterClose\r\nPosts from this au\u2026 [+4144 chars]",
             "ai_score": 5
         },
         {
@@ -1161,20 +1175,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2023/09/0384fb4272165c0da6021f664c52b14a-1200x675.jpg",
             "publishedAt": "2026-04-30T12:49:58Z",
             "content": "New Xbox boss Asha Sharma has been working quickly to fix the broken vibes around the platform. That\u2019s included new messaging, but also substantive changes like making Game Pass cheaper. It\u2019s a long \u2026 [+2314 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "A new Republican privacy bill could be \u2018worse than no standard at all\u2019",
-            "description": "Congress is once again attempting to pass a national data privacy law. But while it would introduce new protections in some states, it would weaken privacy rights in others - and it's missing several elements that privacy advocates deem necessary. The SECURE \u2026",
-            "url": "https://www.theverge.com/policy/917828/data-privacy-bill-secure-act-house-state-laws",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-24T03:09:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt would add protections for many states, but also likely strip some from others.\r\nIt would add protections for many states, but also likely strip some from othe\u2026 [+7902 chars]",
             "ai_score": 5
         }
     ]
