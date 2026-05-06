@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-06 16:33",
+    "last_updated": "2026-05-06 18:22",
     "articles": [
         {
             "source": {
@@ -181,6 +181,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-M10S-II-Monitor-2-1200x675.jpg",
             "publishedAt": "2026-04-17T16:30:41Z",
             "content": "While we still wait on that PlayStation Gaming Moonitor with a controller hook, Sony is coming into this spring with a screen built explicitly for the most hardcore PC players. The new 27-inch Inzone\u2026 [+2801 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
+            "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
+            "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-05-05T16:51:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox platform team.\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox p\u2026 [+4920 chars]",
             "ai_score": 5
         },
         {
@@ -647,6 +661,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Tyler August",
+            "title": "Pushing as Many Pixels as Possible to a CRT: Interlaced 4K",
+            "description": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play vide\u2026",
+            "url": "https://hackaday.com/2026/05/02/pushing-as-many-pixels-as-possible-to-a-crt-interlaced-4k/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/04/4K-crt1-e1777323654905.jpg",
+            "publishedAt": "2026-05-02T20:00:32Z",
+            "content": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play video games.\u2026 [+1866 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -727,20 +755,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
             "publishedAt": "2026-04-24T18:38:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hackaday"
-            },
-            "author": "Tyler August",
-            "title": "Pushing as Many Pixels as Possible to a CRT: Interlaced 4K",
-            "description": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play vide\u2026",
-            "url": "https://hackaday.com/2026/05/02/pushing-as-many-pixels-as-possible-to-a-crt-interlaced-4k/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/04/4K-crt1-e1777323654905.jpg",
-            "publishedAt": "2026-05-02T20:00:32Z",
-            "content": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play video games.\u2026 [+1866 chars]",
             "ai_score": 5
         },
         {
@@ -1161,20 +1175,6 @@
             "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
             "publishedAt": "2026-04-20T17:00:00Z",
             "content": "Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that it was expanding into A\u2026 [+1750 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "YouTuber Says He\u2019s Not Making The Bloodborne Anime Movie To Make Money",
-            "description": "Also: Japanese entertainment powerhouse Toei gets into gaming",
-            "url": "https://kotaku.com/youtuber-says-hes-not-making-the-bloodborne-anime-movie-to-make-money-2000689324",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/04/game-awards-1200x675.jpg",
-            "publishedAt": "2026-04-21T15:30:40Z",
-            "content": "RAMageddon doesn\u2019t seem to be stopping more companies from releasing very cool and wildly expensive PC gaming handhelds. The creator of sci-fi mecha anime classic Macross talks about the nice coincid\u2026 [+3316 chars]",
             "ai_score": 5
         }
     ]
