@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-05-06 09:29",
+    "last_updated": "2026-05-06 11:53",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Andrew Cunningham, Ars Technica",
-            "title": "Microsoft Surface PCs Are Getting Big Price Hikes, and the Cheaper Models Are Going Away",
-            "description": "The price increases range from $200 to $300, and Microsoft doesn\u2019t sell a sub-$1,000 Surface anymore. The rising cost of consumer tech is a common theme in 2026.",
-            "url": "https://www.wired.com/story/microsoft-surface-price-hikes-cheaper-models-going-away/",
-            "urlToImage": "https://media.wired.com/photos/69dfbe4967d3fd19de3c0dce/191:100/w_1280,c_limit/GettyImages-1227921954.jpg",
-            "publishedAt": "2026-04-15T17:28:30Z",
-            "content": "If youve been waiting for Microsoft to update its Surface PC lineupperhaps with Qualcomms new Snapdragon X2 Elite processorsIve got bad news for you.\r\nMicrosoft\u00a0is shaking up its PC lineup, but its d\u2026 [+2088 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-            "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
-            "url": "https://www.bbc.com/news/articles/clyd032ej70o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
-            "publishedAt": "2026-04-09T17:04:50Z",
-            "content": "Its project, dubbed Stargate UK, included a large data centre in Northumberland and making thousands of powerful chips for AI development available as part of a partnership with tech firms Nvidia and\u2026 [+7 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": null,
@@ -367,6 +339,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andrew Cunningham, Ars Technica",
+            "title": "Microsoft Surface PCs Are Getting Big Price Hikes, and the Cheaper Models Are Going Away",
+            "description": "The price increases range from $200 to $300, and Microsoft doesn\u2019t sell a sub-$1,000 Surface anymore. The rising cost of consumer tech is a common theme in 2026.",
+            "url": "https://www.wired.com/story/microsoft-surface-price-hikes-cheaper-models-going-away/",
+            "urlToImage": "https://media.wired.com/photos/69dfbe4967d3fd19de3c0dce/191:100/w_1280,c_limit/GettyImages-1227921954.jpg",
+            "publishedAt": "2026-04-15T17:28:30Z",
+            "content": "If youve been waiting for Microsoft to update its Surface PC lineupperhaps with Qualcomms new Snapdragon X2 Elite processorsIve got bad news for you.\r\nMicrosoft\u00a0is shaking up its PC lineup, but its d\u2026 [+2088 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -503,6 +489,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9ee7/live/6a634ad0-2f4f-11f1-a79a-77e93010d956.jpg",
             "publishedAt": "2026-04-04T23:56:55Z",
             "content": "Ken Segall, Jobs's creative director for 12 years, told the BBC that Apple's current chief executive, Tim Cook, had done an \"amazing job\" at changing with the times and keeping the company profitable.",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
+            "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
+            "url": "https://www.bbc.com/news/articles/clyd032ej70o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
+            "publishedAt": "2026-04-09T17:04:50Z",
+            "content": "Its project, dubbed Stargate UK, included a large data centre in Northumberland and making thousands of powerful chips for AI development available as part of a partnership with tech firms Nvidia and\u2026 [+7 chars]",
             "ai_score": 5
         },
         {
