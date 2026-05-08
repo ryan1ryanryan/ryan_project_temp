@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-08 15:28",
+    "last_updated": "2026-05-08 17:23",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -349,6 +349,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/spooky-dario-amodei-1200x675.jpg",
             "publishedAt": "2026-04-14T10:30:46Z",
             "content": "If Anthropic is kind of like a kid at a Halloween party with a bowl full of spaghetti, telling its blindfolded friends the spaghetti is brains, European cyber agency leaders are like kids who are mad\u2026 [+1750 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Vittoria Elliott",
+            "title": "DOGE's Ethan Shaotran Is Now Running a Defense Tech Startup",
+            "description": "In an email viewed by WIRED, Shaotran describes Blitz Industries as \u201ca defense company backed by big names.\u201d",
+            "url": "https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/",
+            "urlToImage": "https://media.wired.com/photos/69fbf925cd2dcdab157e8e64/191:100/w_1280,c_limit/pol_DOGE_GettyImages-2202116482.jpg",
+            "publishedAt": "2026-05-07T16:21:08Z",
+            "content": "One of the earliest members of the so-called Department of Government Efficiencys (DOGE) is in the process of pivoting into his second act as a defense tech startup founder. Ethan Shaotran, one of th\u2026 [+3612 chars]",
             "ai_score": 5
         },
         {
@@ -1161,20 +1175,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
             "publishedAt": "2026-05-02T23:17:17Z",
             "content": "The executive director for the Abdorrahman Boroumand Centre for Human Rights, Roya Boroumand, says that an information vacuum in Iran \"allows the state to broadcast its narrative, ie portray proteste\u2026 [+129 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "BeauHD",
-            "title": "Allbirds' Move To AI Has Echoes of the Dot-Com Frenzy",
-            "description": "An anonymous reader quotes a report from Bloomberg, written by writer Austin Carr: Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that \u2026",
-            "url": "https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy",
-            "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
-            "publishedAt": "2026-04-20T17:00:00Z",
-            "content": "Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that it was expanding into A\u2026 [+1750 chars]",
             "ai_score": 5
         }
     ]
