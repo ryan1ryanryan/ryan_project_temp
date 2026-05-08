@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-05-07 23:10",
+    "last_updated": "2026-05-08 03:01",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
-            "description": "With 144m daily users, the gaming company is extending its tech to introduce two age\u2011specific accounts.",
-            "url": "https://www.bbc.com/news/articles/cj94y9r0p10o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
-            "publishedAt": "2026-04-13T12:19:13Z",
-            "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "wired",
@@ -27,6 +13,20 @@
             "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
             "publishedAt": "2026-04-28T13:00:00Z",
             "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
+            "description": "With 144m daily users, the gaming company is extending its tech to introduce two age\u2011specific accounts.",
+            "url": "https://www.bbc.com/news/articles/cj94y9r0p10o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
+            "publishedAt": "2026-04-13T12:19:13Z",
+            "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
             "ai_score": 5
         },
         {
@@ -381,20 +381,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Phelan",
-            "title": "Scientists Are Recycling Centuries-Old Bullets for a Badly Needed Toxic Compound",
-            "description": "Researchers want to recycle more lead waste for high-tech solar panels via a new method.",
-            "url": "https://gizmodo.com/scientists-are-recycling-centuries-old-bullets-for-a-badly-needed-toxic-compound-2000742666",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/lead-bullets-solar-panels--1200x675.jpg",
-            "publishedAt": "2026-04-06T16:30:48Z",
-            "content": "Materials scientists say theyve taken nearly 300-year-old toxic wastea stockpile of spherical lead bullets from the 16th and 17th centuries, tainted with carbon residue, metal impurities, and the dul\u2026 [+4957 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -451,16 +437,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Andrew Webster",
-            "title": "Netflix is launching a new app for kids games",
-            "description": "Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app. Called Netflix Playground, the app is focused on games aimed at kids aged eight and under, and, like the rest \u2026",
-            "url": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/WorldOfPeppaPigbillboard_dark_rtl_01_zxx.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-04-06T17:01:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts called Netflix Playground, and its out now.\r\nIts called Netflix Playground, and its out now.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts fro\u2026 [+2988 chars]",
+            "author": null,
+            "title": "In 'Musk v Altman', this judge will make the final call",
+            "description": "The feud has fuelled a costly showdown between two tech titans.",
+            "url": "https://www.bbc.com/news/articles/cx214rnlpn7o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a81d/live/b32b0210-4969-11f1-b55d-0f258dce1735.jpg",
+            "publishedAt": "2026-05-06T23:52:48Z",
+            "content": "\"There are certain judges who, if they're on the case, you kind of stand up a little bit straighter,\" said Edelson. \"You want to make sure everything's right, that your tie's on straight, and that yo\u2026 [+24 chars]",
             "ai_score": 5
         },
         {
@@ -858,20 +844,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Call for parents to teach online privacy like road safety",
-            "description": "Three in four parents fear their child cannot make safe choices about personal data online, the data watchdog finds.",
-            "url": "https://www.bbc.com/news/articles/c070v00xzl5o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ff9/live/4e0a5300-31e4-11f1-b044-9f47bdd1018a.jpg",
-            "publishedAt": "2026-04-06T23:05:52Z",
-            "content": "Online privacy includes children's name, age and address as well as photos, browsing history, voice notes, and social media and gaming activity, the ICO said.",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "Mike Sorrentino",
@@ -1161,6 +1133,62 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-10T13:46:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy your Whoop might tell you to up your testosterone\r\nWhoop and Oura are health tech trendsetters. But hurtling toward innovation can have some unintended rippl\u2026 [+10585 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Musk v Altman: The most toxic row in tech goes on trial",
+            "description": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+            "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
+            "publishedAt": "2026-04-28T10:10:54Z",
+            "content": "\"Musk and Altman are so big, so larger than life, and so unrelatable,\" says University of San Diego professor Sarah Federman, who specialises in conflict resolution. \"That's what makes them so delici\u2026 [+27 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+            "description": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
+            "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
+            "publishedAt": "2026-05-02T23:17:17Z",
+            "content": "The executive director for the Abdorrahman Boroumand Centre for Human Rights, Roya Boroumand, says that an information vacuum in Iran \"allows the state to broadcast its narrative, ie portray proteste\u2026 [+129 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Allbirds' Move To AI Has Echoes of the Dot-Com Frenzy",
+            "description": "An anonymous reader quotes a report from Bloomberg, written by writer Austin Carr: Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that \u2026",
+            "url": "https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy",
+            "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+            "publishedAt": "2026-04-20T17:00:00Z",
+            "content": "Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that it was expanding into A\u2026 [+1750 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "YouTuber Says He\u2019s Not Making The Bloodborne Anime Movie To Make Money",
+            "description": "Also: Japanese entertainment powerhouse Toei gets into gaming",
+            "url": "https://kotaku.com/youtuber-says-hes-not-making-the-bloodborne-anime-movie-to-make-money-2000689324",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/04/game-awards-1200x675.jpg",
+            "publishedAt": "2026-04-21T15:30:40Z",
+            "content": "RAMageddon doesn\u2019t seem to be stopping more companies from releasing very cool and wildly expensive PC gaming handhelds. The creator of sci-fi mecha anime classic Macross talks about the nice coincid\u2026 [+3316 chars]",
             "ai_score": 5
         }
     ]
