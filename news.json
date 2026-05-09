@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-09 00:02",
+    "last_updated": "2026-05-09 03:30",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-29T15:46:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effort.\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effo\u2026 [+3017 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff, Paresh Dave",
+            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+            "description": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+            "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+            "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
+            "publishedAt": "2026-05-08T01:42:14Z",
+            "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
             "ai_score": 5
         },
         {
@@ -1147,20 +1161,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/05/FrTa17eWAAA5HqB.jpg",
             "publishedAt": "2026-05-02T18:00:18Z",
             "content": "In a slate of newly announced rules, the Oscars are making themselves clear: only human beings can win awards. In the past this may have settled the eligibility of Rin Tin Tin, but in the 21st centur\u2026 [+5090 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Xbox\u2019s \u2018Project Helix\u2019 Console Should Copy the Steam Controller\u2019s Trackpads",
-            "description": "Valve staff told us they don't actually care who copies their controller.",
-            "url": "https://gizmodo.com/xbox-project-helix-console-should-copy-the-steam-controllers-trackpads-2000751709",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Steam-Controller-review-05-1200x675.jpg",
-            "publishedAt": "2026-04-28T16:00:29Z",
-            "content": "If were going to throw out the entire script of console gaming, we cant leave any game or control scheme off the table. Xboxs next-gen console, dubbed Project Helix, is likely going to be a PC in all\u2026 [+4317 chars]",
             "ai_score": 5
         }
     ]
