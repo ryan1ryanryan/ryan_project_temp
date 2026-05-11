@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11 17:31",
+    "last_updated": "2026-05-11 19:53",
     "articles": [
         {
             "source": {
@@ -633,16 +633,30 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Brad Bourque",
-            "title": "Motorola's Souped Up Folding Phone Is Almost Half Off",
-            "description": "Amazon has the Razr Ultra marked down by $600 for a limited time.",
-            "url": "https://www.wired.com/story/motorola-razr-ultra-deal-426/",
-            "urlToImage": "https://media.wired.com/photos/69d92ac7d7f2e496da19531f/191:100/w_1280,c_limit/Motorola's-Souped-Up-Folding-Phone-Is-Almost-Half-Off.jpg",
-            "publishedAt": "2026-04-10T18:14:38Z",
-            "content": "For a limited time, you can grab the Motorola Razr Ultra with 16 GB of memory and 512 GB of storage for just $700, a $600 discount from its usual price. It's our favorite folding smartphone, with exc\u2026 [+1822 chars]",
+            "author": "Robert Hart",
+            "title": "China freezes new robotaxi licenses after Baidu chaos",
+            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-04-29T10:39:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "25 years later, is it time for a new iPod?",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. This year marks the 25th anniversary of the original iPod. With its monochrome display, mechan\u2026",
+            "url": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Lots-of-headphones-screen-central-fix-01.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+            "publishedAt": "2026-04-23T13:09:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmid smartphone and subscription fatigue, hardware startups like Sleevenote smell an opportunity.\r\nAmid smartphone and subscription fatigue, hardware startups li\u2026 [+6747 chars]",
             "ai_score": 5
         },
         {
@@ -664,20 +678,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "China freezes new robotaxi licenses after Baidu chaos",
-            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-04-29T10:39:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "New leaks reveal pricing and performance specs for DJI\u2019s next beginner drones",
             "description": "DJI plans to debut two new drones later this week according to a recent teaser. But ahead of the official announcement, Italian electronics retailer Dino Galiano has shared listings for both the DJI Lito 1 and Lito X1 drones that include full tech specs and p\u2026",
@@ -685,20 +685,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/djilito1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-04-21T15:36:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAn Italian retailer has listed details of DJIs new Lito 1 and Lito X1 entry-level drones. They start at around $400.\r\nAn Italian retailer has listed details of D\u2026 [+2914 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "25 years later, is it time for a new iPod?",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. This year marks the 25th anniversary of the original iPod. With its monochrome display, mechan\u2026",
-            "url": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Lots-of-headphones-screen-central-fix-01.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-            "publishedAt": "2026-04-23T13:09:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmid smartphone and subscription fatigue, hardware startups like Sleevenote smell an opportunity.\r\nAmid smartphone and subscription fatigue, hardware startups li\u2026 [+6747 chars]",
             "ai_score": 5
         },
         {
@@ -755,20 +741,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-04-20T21:51:05Z",
             "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "The AI code wars are heating up",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. Ho\u2026",
-            "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268441_AI_CODING_RACE_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T17:45:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI, Google, and Anthropic are eating the software world alive.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added to your daily email digest and yo\u2026 [+11750 chars]",
             "ai_score": 5
         },
         {
@@ -1203,6 +1175,34 @@
             "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
             "publishedAt": "2026-04-20T17:00:00Z",
             "content": "Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that it was expanding into A\u2026 [+1750 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Grant St. Clair",
+            "title": "Another day, another gaming price hike",
+            "description": "Hey, do you remember when the Switch 2 first launched and all anyone could talk about was how expensive it was? Don't worry, because Nintendo heard you loud and clear: the price of their hardware is going up once again. \u2014 Read the rest \nThe post Another day, \u2026",
+            "url": "https://boingboing.net/2026/05/09/another-day-another-gaming-price-hike.html",
+            "urlToImage": "https://boingboing.net/wp-content/uploads/2025/04/Nintendo_Switch_2.jpeg",
+            "publishedAt": "2026-05-09T23:08:20Z",
+            "content": "Hey, do you remember when the Switch 2 first launched and all anyone could talk about was how expensive it was? Don't worry, because Nintendo heard you loud and clear: the price of their hardware is \u2026 [+1351 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "YouTuber Says He\u2019s Not Making The Bloodborne Anime Movie To Make Money",
+            "description": "Also: Japanese entertainment powerhouse Toei gets into gaming",
+            "url": "https://kotaku.com/youtuber-says-hes-not-making-the-bloodborne-anime-movie-to-make-money-2000689324",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/04/game-awards-1200x675.jpg",
+            "publishedAt": "2026-04-21T15:30:40Z",
+            "content": "RAMageddon doesn\u2019t seem to be stopping more companies from releasing very cool and wildly expensive PC gaming handhelds. The creator of sci-fi mecha anime classic Macross talks about the nice coincid\u2026 [+3316 chars]",
             "ai_score": 5
         }
     ]
