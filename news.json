@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-05-11 19:53",
+    "last_updated": "2026-05-11 21:23",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield, Jay Peters",
+            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
+            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
+            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-30T21:25:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": null,
@@ -13,7 +27,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -349,20 +363,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717622/247361_PS5_Pro_VPavic_256.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
             "publishedAt": "2026-05-08T09:23:23Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPS5 sales dropped by 46 percent year over year.\r\nPS5 sales dropped by 46 percent year over year.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added to yo\u2026 [+3315 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield, Jay Peters",
-            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
-            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
-            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-30T21:25:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
             "ai_score": 5
         },
         {
@@ -734,20 +734,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Richard Lawler",
-            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
-            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
-            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-04-20T21:51:05Z",
-            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tina Nguyen",
             "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
             "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
@@ -762,13 +748,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "The Govee smart lamp brightened up my room, and then my life",
-            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
-            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
-            "publishedAt": "2026-04-24T18:38:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
+            "author": "Richard Lawler",
+            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
+            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
+            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-04-20T21:51:05Z",
+            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Elon Musk had a bad week in court",
+            "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case agains\u2026",
+            "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-01T13:33:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\u2026 [+2930 chars]",
             "ai_score": 5
         },
         {
@@ -790,13 +790,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Elon Musk had a bad week in court",
-            "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case agains\u2026",
-            "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-01T13:33:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\u2026 [+2930 chars]",
+            "author": "Sheena Vasani",
+            "title": "The Govee smart lamp brightened up my room, and then my life",
+            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
+            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
+            "publishedAt": "2026-04-24T18:38:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
             "ai_score": 5
         },
         {
