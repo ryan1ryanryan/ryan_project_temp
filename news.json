@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11 14:58",
+    "last_updated": "2026-05-11 17:31",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg",
             "publishedAt": "2026-04-13T12:19:13Z",
             "content": "In an interview with BBC News, Matt Kaufman, Roblox's chief safety officer, said the company's ageestimation system, which includes facial analysis, is now used by more than half of its daily users, \u2026 [+49 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Framework is teasing a lot of Linux for its April 21st event",
-            "description": "Modular PC maker Framework is hosting a \"Next Gen\" event on April 21st at 1:30PM ET, and it looks like it might have something to do with Linux. Alongside a newsletter announcing the event, Framework posted a video on Thursday titled \"Follow the white penguin\u2026",
-            "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257702_Framework_Laptop_13_AMD_2025_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-09T18:24:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrameworks penguin-themed video announcing its Next Gen event is sprinkled with mysterious Linux references.\r\nFrameworks penguin-themed video announcing its Next\u2026 [+3611 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -293,20 +279,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-H5-Air-review-14-1200x675.jpg",
             "publishedAt": "2026-04-14T16:00:45Z",
             "content": "Gaming headsets keep getting more premium these days. There\u2019s the $600 SteelSeries Arctis Nova Elite that comes with its own gaming hub that lets you switch between different devices. There\u2019s the $35\u2026 [+9513 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Razer\u2019s Wireless Gaming Earbuds Are Back With Upgraded ANC",
-            "description": "The new Hammerhead V3 HyperSpeed look like a solid upgrade over the last generation.",
-            "url": "https://gizmodo.com/razer-wireless-gaming-earbuds-are-back-with-upgraded-anc-2000744632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Hammerhead-V3-HyperSpeed-1-1200x675.jpg",
-            "publishedAt": "2026-04-09T19:25:56Z",
-            "content": "Razer is back with another pair of wireless gaming earbuds that bring some welcome improvements over the last generation.\r\nAccording to Razer, the newly released Razer Hammerhead V3 HyperSpeed improv\u2026 [+2044 chars]",
             "ai_score": 5
         },
         {
@@ -605,20 +577,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-            "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
-            "url": "https://www.bbc.com/news/articles/clyd032ej70o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
-            "publishedAt": "2026-04-09T17:04:50Z",
-            "content": "Its project, dubbed Stargate UK, included a large data centre in Northumberland and making thousands of powerful chips for AI development available as part of a partnership with tech firms Nvidia and\u2026 [+7 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -692,34 +650,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "China freezes new robotaxi licenses after Baidu chaos",
-            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-04-29T10:39:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "25 years later, is it time for a new iPod?",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. This year marks the 25th anniversary of the original iPod. With its monochrome display, mechan\u2026",
-            "url": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Lots-of-headphones-screen-central-fix-01.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-            "publishedAt": "2026-04-23T13:09:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmid smartphone and subscription fatigue, hardware startups like Sleevenote smell an opportunity.\r\nAmid smartphone and subscription fatigue, hardware startups li\u2026 [+6747 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Janus Rose",
             "title": "The more young people use AI, the more they hate it",
             "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many\u2026",
@@ -734,6 +664,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Robert Hart",
+            "title": "China freezes new robotaxi licenses after Baidu chaos",
+            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-04-29T10:39:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Andrew Liszewski",
             "title": "New leaks reveal pricing and performance specs for DJI\u2019s next beginner drones",
             "description": "DJI plans to debut two new drones later this week according to a recent teaser. But ahead of the official announcement, Italian electronics retailer Dino Galiano has shared listings for both the DJI Lito 1 and Lito X1 drones that include full tech specs and p\u2026",
@@ -741,6 +685,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/djilito1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-04-21T15:36:52Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAn Italian retailer has listed details of DJIs new Lito 1 and Lito X1 entry-level drones. They start at around $400.\r\nAn Italian retailer has listed details of D\u2026 [+2914 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "25 years later, is it time for a new iPod?",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. This year marks the 25th anniversary of the original iPod. With its monochrome display, mechan\u2026",
+            "url": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Lots-of-headphones-screen-central-fix-01.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+            "publishedAt": "2026-04-23T13:09:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmid smartphone and subscription fatigue, hardware startups like Sleevenote smell an opportunity.\r\nAmid smartphone and subscription fatigue, hardware startups li\u2026 [+6747 chars]",
             "ai_score": 5
         },
         {
@@ -790,13 +748,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tina Nguyen",
-            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
-            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
-            "publishedAt": "2026-04-15T19:53:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
+            "author": "Richard Lawler",
+            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
+            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
+            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-04-20T21:51:05Z",
+            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
             "ai_score": 5
         },
         {
@@ -818,13 +776,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Richard Lawler",
-            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
-            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
-            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-04-20T21:51:05Z",
-            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
+            "author": "Tina Nguyen",
+            "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fanart",
+            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual sub\u2026",
+            "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-jesus-altered.png?quality=90&strip=all&crop=0,31.744282171397,100,36.511435657206",
+            "publishedAt": "2026-04-15T19:53:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nPlus: what Werner Herzog thinks of the Trump penguin meme.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, Wa\u2026 [+11519 chars]",
             "ai_score": 5
         },
         {
@@ -832,13 +790,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Elon Musk had a bad week in court",
-            "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case agains\u2026",
-            "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-01T13:33:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\u2026 [+2930 chars]",
+            "author": "Sheena Vasani",
+            "title": "The Govee smart lamp brightened up my room, and then my life",
+            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
+            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
+            "publishedAt": "2026-04-24T18:38:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
             "ai_score": 5
         },
         {
@@ -860,13 +818,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "The Govee smart lamp brightened up my room, and then my life",
-            "description": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [\u2026]",
-            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
-            "publishedAt": "2026-04-24T18:38:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts not perfect, but this smart lamp helped me reclaim a space that had quietly fallen apart.\r\nIts not perfect, but this smart lamp helped me reclaim a space tha\u2026 [+6168 chars]",
+            "author": "David Pierce",
+            "title": "Elon Musk had a bad week in court",
+            "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case agains\u2026",
+            "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0501_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-01T13:33:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\nOn The Vergecast: Musk v. OpenAI, Steam Controllers, and Jimmy Kimmel part two.\r\u2026 [+2930 chars]",
             "ai_score": 5
         },
         {
@@ -1056,20 +1014,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Gen Z\u2019s Use of AI Is Plateauing and It\u2019s Feeling Less Hopeful About the Tech",
-            "description": "Adoption by the rising generation in the workforce could have big implications for the economy.",
-            "url": "https://gizmodo.com/gen-zs-use-of-ai-is-plateauing-and-its-feeling-less-hopeful-about-the-tech-2000744463",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/shutterstock_2751351053-1200x675.jpg",
-            "publishedAt": "2026-04-09T14:55:20Z",
-            "content": "Young people have grown increasingly skeptical of artificial intelligence, even those who use it daily, according to a new Gallup poll of more than 1,500 people aged 14 to 29.\r\nThere is no decline in\u2026 [+4542 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Matt Novak",
             "title": "Trump\u2019s Fed Pick Is Knee Deep in Tech and Crypto Investments",
             "description": "Kevin Warsh's financial disclosures show at least $130 million in holdings.",
@@ -1175,6 +1119,90 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/9zmi7W8fuJPC9Y49jwHkWD-2560-80.jpg",
             "publishedAt": "2026-04-16T02:00:00Z",
             "content": "It was after another round of interminable wait that I understood the biggest issue with cloud gaming. You see, I gave Xbox Cloud Gaming a try after it launched in India at the end of last year, and \u2026 [+7172 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "WIRED",
+            "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+            "description": "On May 8, we\u2019re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+            "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+            "urlToImage": "https://media.wired.com/photos/69e7bb297bc055b07603a318/191:100/w_1280,c_limit/livestream_q&a_MuskVSAltman-Business.jpg",
+            "publishedAt": "2026-04-22T10:00:00Z",
+            "content": "Two of Big Techs most influential billionaires, Sam Altman and Elon Musk, will go head-to-head in a highly anticipated trial beginning April 27. In Musk v. Altman, a judge, advised by a jury, will ul\u2026 [+1607 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "The Oscars Are Barring AI Generated Films, Gaming Awards Should Do The Same",
+            "description": "Many major gaming awards are fuzzy at best as the entertainment industry at large grapples with where AI generated material fits in",
+            "url": "https://kotaku.com/the-oscars-are-barring-ai-generated-films-gaming-awards-should-do-the-same-2000692691",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/05/FrTa17eWAAA5HqB.jpg",
+            "publishedAt": "2026-05-02T18:00:18Z",
+            "content": "In a slate of newly announced rules, the Oscars are making themselves clear: only human beings can win awards. In the past this may have settled the eligibility of Rin Tin Tin, but in the 21st centur\u2026 [+5090 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Xbox\u2019s \u2018Project Helix\u2019 Console Should Copy the Steam Controller\u2019s Trackpads",
+            "description": "Valve staff told us they don't actually care who copies their controller.",
+            "url": "https://gizmodo.com/xbox-project-helix-console-should-copy-the-steam-controllers-trackpads-2000751709",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Steam-Controller-review-05-1200x675.jpg",
+            "publishedAt": "2026-04-28T16:00:29Z",
+            "content": "If were going to throw out the entire script of console gaming, we cant leave any game or control scheme off the table. Xboxs next-gen console, dubbed Project Helix, is likely going to be a PC in all\u2026 [+4317 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Musk v Altman: The most toxic row in tech goes on trial",
+            "description": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+            "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
+            "publishedAt": "2026-04-28T10:10:54Z",
+            "content": "\"Musk and Altman are so big, so larger than life, and so unrelatable,\" says University of San Diego professor Sarah Federman, who specialises in conflict resolution. \"That's what makes them so delici\u2026 [+27 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+            "description": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
+            "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
+            "publishedAt": "2026-05-02T23:17:17Z",
+            "content": "The executive director for the Abdorrahman Boroumand Centre for Human Rights, Roya Boroumand, says that an information vacuum in Iran \"allows the state to broadcast its narrative, ie portray proteste\u2026 [+129 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Allbirds' Move To AI Has Echoes of the Dot-Com Frenzy",
+            "description": "An anonymous reader quotes a report from Bloomberg, written by writer Austin Carr: Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that \u2026",
+            "url": "https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy",
+            "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+            "publishedAt": "2026-04-20T17:00:00Z",
+            "content": "Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that it was expanding into A\u2026 [+1750 chars]",
             "ai_score": 5
         }
     ]
