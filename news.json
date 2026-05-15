@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-15 15:18",
+    "last_updated": "2026-05-15 17:33",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -27,6 +27,20 @@
             "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
             "publishedAt": "2026-04-28T13:00:00Z",
             "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Leaked images show Microsoft\u2019s new Xbox Cloud Gaming controller",
+            "description": "I revealed earlier this year that Microsoft was working on a new Xbox controller that includes Wi-Fi to connect direct to Xbox Cloud Gaming servers. It now looks like that controller has leaked, thanks to some new images from Brazil's Anatel regulator. Tecnob\u2026",
+            "url": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2026-05-14T15:49:47Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nby\r\nT\u2026 [+2506 chars]",
             "ai_score": 5
         },
         {
@@ -1161,34 +1175,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-24T03:09:40Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt would add protections for many states, but also likely strip some from others.\r\nIt would add protections for many states, but also likely strip some from othe\u2026 [+7902 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
-            "title": "Yeah, the OnePlus Ace 6 Ultra is a phone, but it's mimicking handheld consoles",
-            "description": "OnePlus has its eyes on mobile gamers with its Ace 6 Ultra, as new teasers showed off its handheld gaming console-like add-on.",
-            "url": "https://www.androidcentral.com/phones/oneplus/yeah-the-oneplus-ace-6-ultra-is-a-phone-but-its-mimicking-handheld-consoles",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TXyWZQMx7Fk9udBpEePaA3-1659-80.jpg",
-            "publishedAt": "2026-04-20T18:19:30Z",
-            "content": "What you need to know\r\n<ul><li>OnePlus wants mobile gamers to feel right at home with the Ace 6 Ultra, as its teasers showcase a handheld console-like case.</li><li>The case features four buttons on \u2026 [+3325 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Katie Matthews",
-            "title": "I didn't like that my son was spending his allowance on gaming purchases. Turns out, he was learning financial responsibility.",
-            "description": "I resisted my son's gaming purchases, but they ended up teaching him budgeting, planning, and financial responsibility.",
-            "url": "https://www.businessinsider.com/kids-in-game-purchases-financial-lessons-parenting-2026-4",
-            "urlToImage": "https://i.insider.com/69d7e95696ef6a4c9d12155d?width=1200&format=jpeg",
-            "publishedAt": "2026-04-26T18:02:01Z",
-            "content": "Courtesy of the author\r\n<ul><li>At first, in-game purchases felt like such a waste of money to me.</li><li>Letting my son spend his money was an effective and safe way to help him make financial deci\u2026 [+4079 chars]",
             "ai_score": 5
         }
     ]
