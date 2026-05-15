@@ -1,104 +1,6 @@
 {
-    "last_updated": "2026-05-15 10:30",
+    "last_updated": "2026-05-15 12:59",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
-            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
-            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-05-13T20:38:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Asus chases Elgato with its own secondary touchscreen display",
-            "description": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14.1-inch secondary display in the 2020 A\u2026",
-            "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-05-08T20:34:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little smaller than its competition from Corsair.\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little s\u2026 [+2232 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft says the \u2018idea\u2019 of an Xbox mobile store \u2018is not dead\u2019",
-            "description": "Microsoft first revealed it was building an Xbox mobile gaming store to take on Apple and Google all the way back in 2022. Former Xbox president Sarah Bond even went on stage at a Bloomberg event nearly two years ago and promised the store would launch in Jul\u2026",
-            "url": "https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,3.4801106327551,100,93.03977873449",
-            "publishedAt": "2026-04-22T16:28:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has been trying to launch an Xbox mobile store for years, but it has been counting on app stores opening up.\r\nMicrosoft has been trying to launch an Xb\u2026 [+3071 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox changes continue with new console boot animation",
-            "description": "It feels like not a day goes by at the moment without some Xbox news, and today is no different. Xbox CEO Asha Sharma just announced that Xbox owners will get a new boot up sound and animation on May 13th. The console boot animation is the new Xbox logo, comp\u2026",
-            "url": "https://www.theverge.com/tech/925110/new-xbox-logo-boot-animation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-06T15:38:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Xbox CEO continues to make changes that are designed to please fans.\r\nMicrosofts new Xbox CEO continues to make changes that are designed to pleas\u2026 [+2437 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
-            "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
-            "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-05-05T16:51:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox platform team.\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox p\u2026 [+4920 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Dell and RAMageddon are watering down the Alienware brand",
-            "description": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. Th\u2026",
-            "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T08:56:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+4114 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "Relax, Xbox Owners: Copilot's Not Invading Your Game Console",
-            "description": "Microsoft is shelving the idea of bringing Copilot AI to all its gaming platforms.",
-            "url": "https://www.cnet.com/tech/services-and-software/microsoft-xbox-cancels-copilot-game-consoles/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/81e74f7583d5e215128d3fa3b40458b2cacb93c1/hub/2025/09/22/386b71aa-df96-4fdb-b9fc-c8d83c17f06b/gaming-copilot.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-05-06T18:37:31Z",
-            "content": "If you play games on an Xbox console and you don't like Microsoft's AI, you can breathe a little easier: Asha Sharma, CEO of Xbox, announced Tuesday that\u00a0Copilot is no longer coming to the company's \u2026 [+1893 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "wired",
@@ -111,6 +13,20 @@
             "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
             "publishedAt": "2026-04-28T13:00:00Z",
             "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
+            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
+            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2026-05-13T20:38:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
             "ai_score": 5
         },
         {
@@ -160,6 +76,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Stevie Bonifield",
+            "title": "Asus chases Elgato with its own secondary touchscreen display",
+            "description": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14.1-inch secondary display in the 2020 A\u2026",
+            "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-05-08T20:34:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little smaller than its competition from Corsair.\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little s\u2026 [+2232 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Tom Warren",
             "title": "Did Microsoft just tease a new Xbox UI?",
             "description": "Microsoft showed off a \"consistent\" Xbox UI across handhelds, consoles, and cloud gaming during its Xbox keynote at the Game Developers Conference in March. At the time it was difficult to see if there was anything new about the UI from the videos and photos \u2026",
@@ -202,13 +132,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "The heist of iOS 26",
-            "description": "The most consequential YouTube video of Jon Prosser's career opens on Prosser himself, in a black hoodie and transparent glasses. The backdrop is familiar to viewers of his tech news channel, Front Page Tech, with warm, hanging lights and a bright white \"fpt\"\u2026",
-            "url": "https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268343_Prosser_CVirginia6-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-14T12:50:43Z",
-            "content": "<ul><li></li><li></li></ul>\r\nHow YouTuber Jon Prosser broke Liquid Glass and what happened in the fallout.\r\nby\r\nJay PetersClose\r\nPosts from this author will be added to your daily email digest and yo\u2026 [+15178 chars]",
+            "author": "Tom Warren",
+            "title": "Microsoft says the \u2018idea\u2019 of an Xbox mobile store \u2018is not dead\u2019",
+            "description": "Microsoft first revealed it was building an Xbox mobile gaming store to take on Apple and Google all the way back in 2022. Former Xbox president Sarah Bond even went on stage at a Bloomberg event nearly two years ago and promised the store would launch in Jul\u2026",
+            "url": "https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,3.4801106327551,100,93.03977873449",
+            "publishedAt": "2026-04-22T16:28:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has been trying to launch an Xbox mobile store for years, but it has been counting on app stores opening up.\r\nMicrosoft has been trying to launch an Xb\u2026 [+3071 chars]",
             "ai_score": 5
         },
         {
@@ -227,6 +157,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox changes continue with new console boot animation",
+            "description": "It feels like not a day goes by at the moment without some Xbox news, and today is no different. Xbox CEO Asha Sharma just announced that Xbox owners will get a new boot up sound and animation on May 13th. The console boot animation is the new Xbox logo, comp\u2026",
+            "url": "https://www.theverge.com/tech/925110/new-xbox-logo-boot-animation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-06T15:38:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Xbox CEO continues to make changes that are designed to please fans.\r\nMicrosofts new Xbox CEO continues to make changes that are designed to pleas\u2026 [+2437 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -237,6 +181,34 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Sony-Inzone-M10S-II-Monitor-2-1200x675.jpg",
             "publishedAt": "2026-04-17T16:30:41Z",
             "content": "While we still wait on that PlayStation Gaming Moonitor with a controller hook, Sony is coming into this spring with a screen built explicitly for the most hardcore PC players. The new 27-inch Inzone\u2026 [+2801 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
+            "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
+            "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-05-05T16:51:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox platform team.\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox p\u2026 [+4920 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Dell and RAMageddon are watering down the Alienware brand",
+            "description": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. Th\u2026",
+            "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T08:56:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+4114 chars]",
             "ai_score": 5
         },
         {
@@ -353,20 +325,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "European Cyber Agencies Feel Left Out of Anthropic\u2019s Spooky AI Party",
-            "description": "European tech regulators would like a Claude Mythos Preview preview.",
-            "url": "https://gizmodo.com/european-cyber-agencies-feel-left-out-of-anthropics-spooky-ai-party-2000745373",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/spooky-dario-amodei-1200x675.jpg",
-            "publishedAt": "2026-04-14T10:30:46Z",
-            "content": "If Anthropic is kind of like a kid at a Halloween party with a bowl full of spaghetti, telling its blindfolded friends the spaghetti is brains, European cyber agency leaders are like kids who are mad\u2026 [+1750 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -437,6 +395,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Partner Content With Hisense",
+            "title": "Hisense Commits to Bringing MiniLED to More Users with U6SF & U6SF Pro, Delivering Premium Viewing Experiences",
+            "description": "Hisense's U6SF & U6SF Pro redefine what mainstream MiniLED can deliver.",
+            "url": "https://gizmodo.com/hisense-commits-to-bringing-miniled-to-more-users-with-u6sf-u6sf-pro-delivering-premium-viewing-experiences-2000752072",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/cover-1200x675.jpg",
+            "publishedAt": "2026-05-14T10:50:25Z",
+            "content": "Hisense has new televisions to show off, building on decades of experience in the display technology and the U6SF and U6SF Pro\u00a0both bring stunning picture quality and cinema-style features to your ho\u2026 [+7125 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -447,6 +419,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/litterrobot.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-06T14:47:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also have the scoop on other deals, including discounts on Fujifilms X Half camera and a great wireless gaming mouse.\r\nWe also have the scoop on other deals, \u2026 [+4552 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "Relax, Xbox Owners: Copilot's Not Invading Your Game Console",
+            "description": "Microsoft is shelving the idea of bringing Copilot AI to all its gaming platforms.",
+            "url": "https://www.cnet.com/tech/services-and-software/microsoft-xbox-cancels-copilot-game-consoles/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/81e74f7583d5e215128d3fa3b40458b2cacb93c1/hub/2025/09/22/386b71aa-df96-4fdb-b9fc-c8d83c17f06b/gaming-copilot.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-05-06T18:37:31Z",
+            "content": "If you play games on an Xbox console and you don't like Microsoft's AI, you can breathe a little easier: Asha Sharma, CEO of Xbox, announced Tuesday that\u00a0Copilot is no longer coming to the company's \u2026 [+1893 chars]",
             "ai_score": 5
         },
         {
@@ -987,20 +973,6 @@
                 "name": "Android Central"
             },
             "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
-            "title": "These Fallout glasses banish blue light \u2014 and they look pretty cool",
-            "description": "They may not protect you from a nuclear winter, but Gunnar's Vault 33-styled glasses make it easier to work at your monitor.",
-            "url": "https://www.androidcentral.com/accessories/these-gunnar-fallout-vault-33-glasses-banish-blue-light-and-they-look-pretty-cool",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q8dcYRCT3duqMga8aznANL-2560-80.jpg",
-            "publishedAt": "2026-04-14T10:29:27Z",
-            "content": "My monitor is the screen that gets the most amount of usage in the house, so I do my best to reduce eye strain while using it. I've been using Flex for well over a decade, and the software does an ad\u2026 [+2956 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
             "title": "I tested NVIDIA's GeForce Now in India \u2014 here's why it is the best cloud gaming service",
             "description": "NVIDIA just launched GeForce Now in India, and I got early access to the cloud gaming platform. After a week of testing, I can state with some confidence that this is the cloud gaming service we've all been waiting for, and the pricing is astonishingly good.",
             "url": "https://www.androidcentral.com/gaming/i-tested-nvidia-geforce-now-in-india-it-is-the-best-cloud-gaming-service",
@@ -1217,6 +1189,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268494_smart_glasses_overview_AKrales_0381.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-30T13:59:01Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThis crop of smart glasses is the most stylish, affordable, comfortable, and capable yet. They still dont make sense.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, W\u2026 [+13062 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Facebook and Instagram are using AI bone structure analysis to identify photos of kids",
+            "description": "Facebook and Instagram have a new way to detect and remove users under 13: AI bone structure analysis. In a blog post on Tuesday, Meta - Facebook and Instagram's parent company - says its AI system will scan photos and videos posted to its platforms for \"gene\u2026",
+            "url": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-04T21:52:52Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe want to be clear: this is not facial recognition, Facebook says.\r\nWe want to be clear: this is not facial recognition, Facebook says.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+3295 chars]",
             "ai_score": 5
         }
     ]
