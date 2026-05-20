@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-05-20 03:41",
+    "last_updated": "2026-05-20 07:50",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
-            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
-            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-05-13T20:38:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "wired",
@@ -27,6 +13,118 @@
             "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
             "publishedAt": "2026-04-28T13:00:00Z",
             "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft says the \u2018idea\u2019 of an Xbox mobile store \u2018is not dead\u2019",
+            "description": "Microsoft first revealed it was building an Xbox mobile gaming store to take on Apple and Google all the way back in 2022. Former Xbox president Sarah Bond even went on stage at a Bloomberg event nearly two years ago and promised the store would launch in Jul\u2026",
+            "url": "https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,3.4801106327551,100,93.03977873449",
+            "publishedAt": "2026-04-22T16:28:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has been trying to launch an Xbox mobile store for years, but it has been counting on app stores opening up.\r\nMicrosoft has been trying to launch an Xb\u2026 [+3071 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Leaked images reveal Xbox Elite 3 controller",
+            "description": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the\u2026",
+            "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxelite3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T20:52:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Elite 3 controller appears to have new scroll wheel buttons, a removable battery, and a cloud mode button.\r\nThe Elite 3 controller appears to have new scroll\u2026 [+2588 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
+            "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
+            "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DSC_9281_R1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T14:44:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nby\r\nAntonio G. Di BenedettoClose\r\nPosts\u2026 [+3107 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft teases mysterious Discord and Xbox Game Pass partnership",
+            "description": "Microsoft has started teasing a new Discord and Xbox Game Pass partnership, just a day after lowering prices of its Game Pass Ultimate and PC Game Pass subscriptions. Microsoft Gaming CEO Asha Sharma says the company is partnering with Discord again \"as we co\u2026",
+            "url": "https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24763499/xboxlogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-22T16:41:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\u2026 [+2698 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox changes continue with new console boot animation",
+            "description": "It feels like not a day goes by at the moment without some Xbox news, and today is no different. Xbox CEO Asha Sharma just announced that Xbox owners will get a new boot up sound and animation on May 13th. The console boot animation is the new Xbox logo, comp\u2026",
+            "url": "https://www.theverge.com/tech/925110/new-xbox-logo-boot-animation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-06T15:38:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Xbox CEO continues to make changes that are designed to please fans.\r\nMicrosofts new Xbox CEO continues to make changes that are designed to pleas\u2026 [+2437 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games",
+            "description": "After Xbox CEO Asha Sharma admitted last week that \"Game Pass has become too expensive for players,\" Microsoft is dropping the price of Xbox Game Pass Ultimate and PC Game Pass. Starting today, Xbox Game Pass Ultimate drops from $29.99 to $22.99 a month, and \u2026",
+            "url": "https://www.theverge.com/news/915928/microsoft-xbox-game-pass-ultimate-price-drop",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-04-21T16:05:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft realizes selling Call of Duty games is a good business\r\nMicrosoft realizes selling Call of Duty games is a good business\r\nby\r\nTom WarrenClose\r\nPosts fr\u2026 [+2923 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "Relax, Xbox Owners: Copilot's Not Invading Your Game Console",
+            "description": "Microsoft is shelving the idea of bringing Copilot AI to all its gaming platforms.",
+            "url": "https://www.cnet.com/tech/services-and-software/microsoft-xbox-cancels-copilot-game-consoles/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/81e74f7583d5e215128d3fa3b40458b2cacb93c1/hub/2025/09/22/386b71aa-df96-4fdb-b9fc-c8d83c17f06b/gaming-copilot.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-05-06T18:37:31Z",
+            "content": "If you play games on an Xbox console and you don't like Microsoft's AI, you can breathe a little easier: Asha Sharma, CEO of Xbox, announced Tuesday that\u00a0Copilot is no longer coming to the company's \u2026 [+1893 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
+            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
+            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2026-05-13T20:38:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
             "ai_score": 5
         },
         {
@@ -175,76 +273,6 @@
                 "name": "The Verge"
             },
             "author": "Tom Warren",
-            "title": "Microsoft says the \u2018idea\u2019 of an Xbox mobile store \u2018is not dead\u2019",
-            "description": "Microsoft first revealed it was building an Xbox mobile gaming store to take on Apple and Google all the way back in 2022. Former Xbox president Sarah Bond even went on stage at a Bloomberg event nearly two years ago and promised the store would launch in Jul\u2026",
-            "url": "https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,3.4801106327551,100,93.03977873449",
-            "publishedAt": "2026-04-22T16:28:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft has been trying to launch an Xbox mobile store for years, but it has been counting on app stores opening up.\r\nMicrosoft has been trying to launch an Xb\u2026 [+3071 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Leaked images reveal Xbox Elite 3 controller",
-            "description": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the\u2026",
-            "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxelite3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T20:52:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Elite 3 controller appears to have new scroll wheel buttons, a removable battery, and a cloud mode button.\r\nThe Elite 3 controller appears to have new scroll\u2026 [+2588 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
-            "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
-            "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DSC_9281_R1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T14:44:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nby\r\nAntonio G. Di BenedettoClose\r\nPosts\u2026 [+3107 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft teases mysterious Discord and Xbox Game Pass partnership",
-            "description": "Microsoft has started teasing a new Discord and Xbox Game Pass partnership, just a day after lowering prices of its Game Pass Ultimate and PC Game Pass subscriptions. Microsoft Gaming CEO Asha Sharma says the company is partnering with Discord again \"as we co\u2026",
-            "url": "https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24763499/xboxlogo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-22T16:41:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\nMicrosoft is looking at new ways to bundle third-party services into Game Pass.\r\u2026 [+2698 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox changes continue with new console boot animation",
-            "description": "It feels like not a day goes by at the moment without some Xbox news, and today is no different. Xbox CEO Asha Sharma just announced that Xbox owners will get a new boot up sound and animation on May 13th. The console boot animation is the new Xbox logo, comp\u2026",
-            "url": "https://www.theverge.com/tech/925110/new-xbox-logo-boot-animation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-06T15:38:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Xbox CEO continues to make changes that are designed to please fans.\r\nMicrosofts new Xbox CEO continues to make changes that are designed to pleas\u2026 [+2437 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
             "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
             "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
             "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
@@ -329,12 +357,12 @@
                 "name": "The Verge"
             },
             "author": "Tom Warren",
-            "title": "Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games",
-            "description": "After Xbox CEO Asha Sharma admitted last week that \"Game Pass has become too expensive for players,\" Microsoft is dropping the price of Xbox Game Pass Ultimate and PC Game Pass. Starting today, Xbox Game Pass Ultimate drops from $29.99 to $22.99 a month, and \u2026",
-            "url": "https://www.theverge.com/news/915928/microsoft-xbox-game-pass-ultimate-price-drop",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-04-21T16:05:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft realizes selling Call of Duty games is a good business\r\nMicrosoft realizes selling Call of Duty games is a good business\r\nby\r\nTom WarrenClose\r\nPosts fr\u2026 [+2923 chars]",
+            "title": "Leak reveals new Xbox Game Pass \u2018Starter Edition\u2019 that\u2019s part of Discord Nitro",
+            "description": "Microsoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming. Discord Previews has uncovered a new Xbox Game Pass \"Starter Edition\" that is bundled with Discord Nitro. T\u2026",
+            "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/discordxboxgamepass_bacddd.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-23T22:36:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDiscord Nitro subscribers are about to get a more limited version of Xbox Game Pass.\r\nDiscord Nitro subscribers are about to get a more limited version of Xbox G\u2026 [+2515 chars]",
             "ai_score": 5
         },
         {
@@ -349,20 +377,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717622/247361_PS5_Pro_VPavic_256.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
             "publishedAt": "2026-05-08T09:23:23Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPS5 sales dropped by 46 percent year over year.\r\nPS5 sales dropped by 46 percent year over year.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added to yo\u2026 [+3315 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Leak reveals new Xbox Game Pass \u2018Starter Edition\u2019 that\u2019s part of Discord Nitro",
-            "description": "Microsoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming. Discord Previews has uncovered a new Xbox Game Pass \"Starter Edition\" that is bundled with Discord Nitro. T\u2026",
-            "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/discordxboxgamepass_bacddd.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-23T22:36:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDiscord Nitro subscribers are about to get a more limited version of Xbox Game Pass.\r\nDiscord Nitro subscribers are about to get a more limited version of Xbox G\u2026 [+2515 chars]",
             "ai_score": 5
         },
         {
@@ -461,20 +475,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/litterrobot.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-06T14:47:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also have the scoop on other deals, including discounts on Fujifilms X Half camera and a great wireless gaming mouse.\r\nWe also have the scoop on other deals, \u2026 [+4552 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "Relax, Xbox Owners: Copilot's Not Invading Your Game Console",
-            "description": "Microsoft is shelving the idea of bringing Copilot AI to all its gaming platforms.",
-            "url": "https://www.cnet.com/tech/services-and-software/microsoft-xbox-cancels-copilot-game-consoles/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/81e74f7583d5e215128d3fa3b40458b2cacb93c1/hub/2025/09/22/386b71aa-df96-4fdb-b9fc-c8d83c17f06b/gaming-copilot.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-05-06T18:37:31Z",
-            "content": "If you play games on an Xbox console and you don't like Microsoft's AI, you can breathe a little easier: Asha Sharma, CEO of Xbox, announced Tuesday that\u00a0Copilot is no longer coming to the company's \u2026 [+1893 chars]",
             "ai_score": 5
         },
         {
@@ -678,20 +678,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "Netflix\u2019s new INKubator studio will produce animated shorts with AI",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Netflix has been building a new internal studio called INKubator that aims to use AI to produc\u2026",
-            "url": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK072_VRG_Illo_N_Barclay_1_netflix.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-13T20:18:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe newly formed unit is staffing up to produce feature-quality content with generative AI.\r\nThe newly formed unit is staffing up to produce feature-quality cont\u2026 [+5140 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Hayden Field",
             "title": "Google\u2019s AI architect lived rent-free in Elon Musk\u2019s head",
             "description": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself. But one of the most prominent characters is hovering around t\u2026",
@@ -699,6 +685,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25740107/2177656484.jpg?quality=90&strip=all&crop=0%2C10.748359005687%2C100%2C78.503281988627&w=1200",
             "publishedAt": "2026-05-05T13:11:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogles AI architect lived rent-free in Elon Musks head\r\nDeepMinds Demis Hassabis was a constant figure of fear among Musk and other OpenAI higher-ups.\r\nby\r\nHayd\u2026 [+8392 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "Netflix\u2019s new INKubator studio will produce animated shorts with AI",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Netflix has been building a new internal studio called INKubator that aims to use AI to produc\u2026",
+            "url": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK072_VRG_Illo_N_Barclay_1_netflix.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-13T20:18:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe newly formed unit is staffing up to produce feature-quality content with generative AI.\r\nThe newly formed unit is staffing up to produce feature-quality cont\u2026 [+5140 chars]",
             "ai_score": 5
         },
         {
@@ -1099,12 +1099,12 @@
                 "name": "BBC News"
             },
             "author": null,
-            "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-            "description": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
-            "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
-            "publishedAt": "2026-05-02T23:17:17Z",
-            "content": "The executive director for the Abdorrahman Boroumand Centre for Human Rights, Roya Boroumand, says that an information vacuum in Iran \"allows the state to broadcast its narrative, ie portray proteste\u2026 [+129 chars]",
+            "title": "Musk v Altman: The most toxic row in tech goes on trial",
+            "description": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+            "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
+            "publishedAt": "2026-04-28T10:10:54Z",
+            "content": "\"Musk and Altman are so big, so larger than life, and so unrelatable,\" says University of San Diego professor Sarah Federman, who specialises in conflict resolution. \"That's what makes them so delici\u2026 [+27 chars]",
             "ai_score": 5
         },
         {
@@ -1113,12 +1113,12 @@
                 "name": "BBC News"
             },
             "author": null,
-            "title": "Musk v Altman: The most toxic row in tech goes on trial",
-            "description": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
-            "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
-            "publishedAt": "2026-04-28T10:10:54Z",
-            "content": "\"Musk and Altman are so big, so larger than life, and so unrelatable,\" says University of San Diego professor Sarah Federman, who specialises in conflict resolution. \"That's what makes them so delici\u2026 [+27 chars]",
+            "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+            "description": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
+            "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
+            "publishedAt": "2026-05-02T23:17:17Z",
+            "content": "The executive director for the Abdorrahman Boroumand Centre for Human Rights, Roya Boroumand, says that an information vacuum in Iran \"allows the state to broadcast its narrative, ie portray proteste\u2026 [+129 chars]",
             "ai_score": 5
         },
         {
