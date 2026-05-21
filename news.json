@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-05-21 11:31",
+    "last_updated": "2026-05-21 15:33",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
+            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
+            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-04-20T21:51:05Z",
+            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -832,20 +846,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Richard Lawler",
-            "title": "John Ternus is taking over from Tim Cook as Apple\u2019s CEO",
-            "description": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by current hardware boss John Ternus. How will we look back on Tim Co\u2026",
-            "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-04-20T21:51:05Z",
-            "content": "The multitrillion-dollar home of iPhone, Mac, and so many other tech gadgets is getting a new leader this fall, as Apple has announced that Tim Cook will be replaced as CEO on September 1st by curren\u2026 [+1653 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tina Nguyen",
             "title": "The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.",
             "description": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes into tech shenanigans that take place in the backrooms of Washington. Really, it sometimes does feel like the online series The Backrooms: a parallel universe with no internal logi\u2026",
@@ -937,20 +937,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/JhyPxXcFbDBWXkKKmsk2YQ-2560-80.jpg",
             "publishedAt": "2026-05-19T09:11:00Z",
             "content": "What you need to know\r\n<ul><li>RedMagic announced its 11S Pro series launch for Chinese consumers today (May 18).</li><li>The series features a 6.8-inch BOE X10 AMOLED screen with a 95% screen-to-bod\u2026 [+4627 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Watch: Skydiver crashes into jumbotron at US football game",
-            "description": "A skydiver crashed into the massive scoreboard at Virginia Tech University's stadium, dangling from a parachute before first responders carried out a rescue without injury.",
-            "url": "https://www.bbc.com/news/videos/cpvxww24kv3o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0376/live/02ea6b90-3cc4-11f1-8606-05fe34b06e1b.jpg",
-            "publishedAt": "2026-04-20T14:55:51Z",
-            "content": "A skydiver crashed into the massive scoreboard at Virginia Tech's stadium, dangling from a parachute before first responders carried out a rescue without injury. \r\nFootage from inside Virginia Tech's\u2026 [+324 chars]",
             "ai_score": 5
         },
         {
@@ -1133,6 +1119,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
             "publishedAt": "2026-05-02T23:17:17Z",
             "content": "The executive director for the Abdorrahman Boroumand Centre for Human Rights, Roya Boroumand, says that an information vacuum in Iran \"allows the state to broadcast its narrative, ie portray proteste\u2026 [+129 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Musk v Altman: The most toxic row in tech goes on trial",
+            "description": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
+            "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
+            "publishedAt": "2026-04-28T10:10:54Z",
+            "content": "\"Musk and Altman are so big, so larger than life, and so unrelatable,\" says University of San Diego professor Sarah Federman, who specialises in conflict resolution. \"That's what makes them so delici\u2026 [+27 chars]",
             "ai_score": 5
         }
     ]
