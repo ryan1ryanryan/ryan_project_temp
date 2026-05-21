@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-21 20:10",
+    "last_updated": "2026-05-21 22:25",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -433,6 +433,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/1137145/408082main_fd10_full.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
             "publishedAt": "2026-04-21T20:12:02Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nThe astronauts are getting HP ZBook Fury G9 laptops customized for the ISS.\r\nby\r\nSte\u2026 [+2647 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dell Cameron",
+            "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+            "description": "One line tucked into a federal highway bill would strip funds from cities and states unless they kill their automated plate tracking programs\u2014effectively banning the tech for all but toll collection.",
+            "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+            "urlToImage": "https://media.wired.com/photos/6a0e0f8f6174d8e9dcf1157d/191:100/w_1280,c_limit/security_flock_GettyImages-2271667850.jpg",
+            "publishedAt": "2026-05-20T21:58:06Z",
+            "content": "US lawmakers plan to introduce an amendment Thursday at a House committee markup hearing that would prohibit any recipient of federal highway funding from using automated license plate readers for an\u2026 [+3757 chars]",
             "ai_score": 5
         },
         {
@@ -1105,6 +1119,20 @@
             "urlToImage": "https://media.wired.com/photos/69e7bb297bc055b07603a318/191:100/w_1280,c_limit/livestream_q&a_MuskVSAltman-Business.jpg",
             "publishedAt": "2026-04-22T10:00:00Z",
             "content": "Two of Big Techs most influential billionaires, Sam Altman and Elon Musk, will go head-to-head in a highly anticipated trial beginning April 27. In Musk v. Altman, a judge, advised by a jury, will ul\u2026 [+1607 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Xbox Taps Everyone\u2019s Favorite Gaming Industry Chart Guy To Lead Strategy And Save Its Console",
+            "description": "Matthew Ball was previously helped with planning at Prime Video and Amazon Studios",
+            "url": "https://kotaku.com/xbox-taps-everyones-favorite-game-industry-chart-guy-to-lead-strategy-and-save-its-console-2000697952",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
+            "publishedAt": "2026-05-20T20:34:48Z",
+            "content": "Can Matthew Ball reverse Microsoft\u2019s stagnating console gaming business? That\u2019s the job he\u2019s been tasked with as Xbox\u2019s new chief strategy officer. Asha Sharma announced that the venture capital anal\u2026 [+2636 chars]",
             "ai_score": 5
         },
         {
