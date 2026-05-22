@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-05-21 22:25",
+    "last_updated": "2026-05-22 00:08",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Intel\u2019s NUCs Live On\u2026 as an Excessive Asus Mini Gaming PC",
+            "description": "The Asus ROG NUC 16 seems like an excellent console-like PC until you see its supposed price.",
+            "url": "https://gizmodo.com/asus-rog-nuc-16-price-and-spec-configurations-2000759279",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/ROG-NUC-16-Image-1200x675.jpg",
+            "publishedAt": "2026-05-15T21:15:28Z",
+            "content": "Asus is coming back with whats likely its most appealing, most excessive gaming-ready mini PC yet, the ROG NUC 16. It will likely come with an accompanying price thats likely to make your wallet cry \u2026 [+3371 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -545,20 +559,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a81d/live/b32b0210-4969-11f1-b55d-0f258dce1735.jpg",
             "publishedAt": "2026-05-06T23:52:48Z",
             "content": "\"There are certain judges who, if they're on the case, you kind of stand up a little bit straighter,\" said Edelson. \"You want to make sure everything's right, that your tie's on straight, and that yo\u2026 [+24 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Intel\u2019s NUCs Live On\u2026 as an Excessive Asus Mini Gaming PC",
-            "description": "The Asus ROG NUC 16 seems like an excellent console-like PC until you see its supposed price.",
-            "url": "https://gizmodo.com/asus-rog-nuc-16-price-and-spec-configurations-2000759279",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/ROG-NUC-16-Image-1200x675.jpg",
-            "publishedAt": "2026-05-15T21:15:28Z",
-            "content": "Asus is coming back with whats likely its most appealing, most excessive gaming-ready mini PC yet, the ROG NUC 16. It will likely come with an accompanying price thats likely to make your wallet cry \u2026 [+3371 chars]",
             "ai_score": 5
         },
         {
