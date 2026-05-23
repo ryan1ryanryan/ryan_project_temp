@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-05-23 15:06",
+    "last_updated": "2026-05-23 17:04",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Did Microsoft just tease a new Xbox UI?",
-            "description": "Microsoft showed off a \"consistent\" Xbox UI across handhelds, consoles, and cloud gaming during its Xbox keynote at the Game Developers Conference in March. At the time it was difficult to see if there was anything new about the UI from the videos and photos \u2026",
-            "url": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxuiteaser.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-            "publishedAt": "2026-05-07T17:29:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is working on a more consistent Xbox UI across consoles, PC, and cloud gaming.\r\nMicrosoft is working on a more consistent Xbox UI across consoles, PC, \u2026 [+3382 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -139,6 +125,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lg-ultragear-1000hz-25g590b.jpg?quality=90&strip=all&crop=0%2C4.0236073163838%2C100%2C91.952785367232&w=1200",
             "publishedAt": "2026-05-19T01:13:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 25G590B is a 24.5-inch IPS screen with the highest refresh rate weve seen for a 1080p gaming monitor.\r\nThe 25G590B is a 24.5-inch IPS screen with the highest\u2026 [+2725 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Did Microsoft just tease a new Xbox UI?",
+            "description": "Microsoft showed off a \"consistent\" Xbox UI across handhelds, consoles, and cloud gaming during its Xbox keynote at the Game Developers Conference in March. At the time it was difficult to see if there was anything new about the UI from the videos and photos \u2026",
+            "url": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxuiteaser.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+            "publishedAt": "2026-05-07T17:29:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is working on a more consistent Xbox UI across consoles, PC, and cloud gaming.\r\nMicrosoft is working on a more consistent Xbox UI across consoles, PC, \u2026 [+3382 chars]",
             "ai_score": 5
         },
         {
