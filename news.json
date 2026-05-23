@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-23 18:10",
+    "last_updated": "2026-05-23 20:11",
     "articles": [
         {
             "source": {
@@ -363,6 +363,20 @@
             "urlToImage": "https://media.wired.com/photos/69fbf925cd2dcdab157e8e64/191:100/w_1280,c_limit/pol_DOGE_GettyImages-2202116482.jpg",
             "publishedAt": "2026-05-07T16:21:08Z",
             "content": "One of the earliest members of the so-called Department of Government Efficiencys (DOGE) is in the process of pivoting into his second act as a defense tech startup founder. Ethan Shaotran, one of th\u2026 [+3612 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Louryn Strampe",
+            "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+            "description": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+            "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+            "urlToImage": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/191:100/w_1280,c_limit/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+            "publishedAt": "2026-05-22T18:52:47Z",
+            "content": "When you think of Memorial Day sales, you probably think of mattresses and other home goods. And while those items are definitely discounted, now is also a good time to purchase tech. Personally, I'm\u2026 [+1064 chars]",
             "ai_score": 5
         },
         {
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/02/8085439ad4f0ce310d33524280ead7e7-1200x675.jpg",
             "publishedAt": "2026-05-18T16:54:19Z",
             "content": "The monthly price of PS Plus Essential has been $10 for a long time, but no longer. Sony announced it\u2019s going up to $11 a month due to \u201congoing market conditions.\u201d The price hikes follow recent incre\u2026 [+1920 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Xbox Boss Acknowledges Another Rough Quarter As Microsoft CEO Says The Company Needs To \u2018Win Back Fans\u2019",
-            "description": "Hardware revenue continued to sink as the gaming side struggled",
-            "url": "https://kotaku.com/xbox-boss-acknowledges-another-rough-quarter-as-microsoft-ceo-says-the-company-needs-to-win-back-fans-2000692003",
-            "urlToImage": "https://kotaku.com/app/uploads/2023/09/0384fb4272165c0da6021f664c52b14a-1200x675.jpg",
-            "publishedAt": "2026-04-30T12:49:58Z",
-            "content": "New Xbox boss Asha Sharma has been working quickly to fix the broken vibes around the platform. That\u2019s included new messaging, but also substantive changes like making Game Pass cheaper. It\u2019s a long \u2026 [+2314 chars]",
             "ai_score": 5
         }
     ]
