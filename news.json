@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-24 13:32",
+    "last_updated": "2026-05-24 15:09",
     "articles": [
         {
             "source": {
@@ -972,6 +972,20 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
+            "author": "AJ Dellinger",
+            "title": "Local Tech Battles Are Pushing Leaders to Tears and Fits of Mania",
+            "description": "The council is not okay.",
+            "url": "https://gizmodo.com/local-tech-battles-are-pushing-leaders-to-tears-and-fits-of-mania-2000762718",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/flock-camera-1200x675.jpg",
+            "publishedAt": "2026-05-23T14:42:30Z",
+            "content": "Big Tech has come to Small Town, USA and is not exactly receiving the type of hospitality you\u2019d expect. Across the country, city council meetings that are typically dominated by hyper-local issues ha\u2026 [+3352 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
             "author": "Matt Novak",
             "title": "Did Trump Accidentally Buy Stock in a Sushi Restaurant Instead of a Tech Company?",
             "description": "There's something fishy about the President's stock purchases.",
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://boingboing.net/wp-content/uploads/2025/04/Nintendo_Switch_2.jpeg",
             "publishedAt": "2026-05-09T23:08:20Z",
             "content": "Hey, do you remember when the Switch 2 first launched and all anyone could talk about was how expensive it was? Don't worry, because Nintendo heard you loud and clear: the price of their hardware is \u2026 [+1351 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Cute Little Sega Genesis Is The Most Affordable Lego Gaming Console Yet",
-            "description": "Retro gaming is coming back, brick by brick",
-            "url": "https://kotaku.com/cute-little-sega-genesis-is-the-most-affordable-lego-gaming-console-yet-2000693240",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/05/lego-sega.jpg",
-            "publishedAt": "2026-05-05T13:19:22Z",
-            "content": "Lego\u2019s licensed march through the history of console gaming continues with the Sega Genesis. It\u2019s small, sleek, and satisfyingly shiny. Most importantly, it\u2019s only $40, making it the cheapest retro g\u2026 [+992 chars]",
             "ai_score": 5
         }
     ]
