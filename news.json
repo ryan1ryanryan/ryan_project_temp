@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-23 23:00",
+    "last_updated": "2026-05-24 00:03",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Samsung\u2019s Galaxy XR Is the Future of Wearables\u2014Just Not VR Headsets",
+            "description": "The Galaxy XR is a stepping stone to the faceputers we really want: AR smart glasses.",
+            "url": "https://gizmodo.com/samsungs-galaxy-xr-is-the-future-of-wearables-just-not-vr-headsets-2000757782",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/The-Next-Interface-1200x675.jpg",
+            "publishedAt": "2026-05-13T19:00:02Z",
+            "content": "Samsungs Galaxy XR headset is not so much its own augmented reality experience but a promise of a better, lighter device. The first headset to feature Android XRGoogles adventure into extended realit\u2026 [+12664 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -951,20 +965,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/BVorz57s24efsPqBvKQi3g-2048-80.jpg",
             "publishedAt": "2026-04-23T17:53:01Z",
             "content": "For two solid years, a group of friends and I played Breachers every Friday night. It was something I looked forward to all week, and thanks to the game's regular updates, it took us a solid two year\u2026 [+5665 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Samsung\u2019s Galaxy XR Is the Future of Wearables\u2014Just Not VR Headsets",
-            "description": "The Galaxy XR is a stepping stone to the faceputers we really want: AR smart glasses.",
-            "url": "https://gizmodo.com/samsungs-galaxy-xr-is-the-future-of-wearables-just-not-vr-headsets-2000757782",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/The-Next-Interface-1200x675.jpg",
-            "publishedAt": "2026-05-13T19:00:02Z",
-            "content": "Samsungs Galaxy XR headset is not so much its own augmented reality experience but a promise of a better, lighter device. The first headset to feature Android XRGoogles adventure into extended realit\u2026 [+12664 chars]",
             "ai_score": 5
         },
         {
