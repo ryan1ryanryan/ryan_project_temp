@@ -1,88 +1,18 @@
 {
-    "last_updated": "2026-05-25 08:27",
+    "last_updated": "2026-05-25 12:36",
     "articles": [
         {
             "source": {
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Maxwell Zeff, Paresh Dave",
-            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-            "description": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-            "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-            "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
-            "publishedAt": "2026-05-08T01:42:14Z",
-            "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sheena Vasani",
-            "title": "Here are our favorite Memorial Day tech deals so far",
-            "description": "Memorial Day marks the unofficial start of summer, and the holiday\u2019s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool parties, or backyard barbecues, now\u2019s a great time to pick up a\u2026",
-            "url": "https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/jbl_charge6_flip7_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-19T20:25:09Z",
-            "content": "Portable bluetooth speakers like the Charge 6 and Flip 7 are just a few on sale for Memorial Day.\r\n\n\nMemorial Day marks the unofficial start of summer, and the holiday\u2019s sales include plenty of deals\u2026 [+25369 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield, Jay Peters",
-            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
-            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
-            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-30T21:25:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Louryn Strampe",
-            "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
-            "description": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-            "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
-            "urlToImage": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/191:100/w_1280,c_limit/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-            "publishedAt": "2026-05-22T18:52:47Z",
-            "content": "When you think of Memorial Day sales, you probably think of mattresses and other home goods. And while those items are definitely discounted, now is also a good time to purchase tech. Personally, I'm\u2026 [+1064 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janus Rose",
-            "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-            "description": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencem\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-3.44.22PM.png?quality=90&strip=all&crop=0%2C2.6098311610285%2C100%2C94.780337677943&w=1200",
-            "publishedAt": "2026-05-21T20:00:06Z",
-            "content": "<ul><li></li><li></li></ul>\r\nThey deserve everything theyre getting. (Boos.)\r\nThey deserve everything theyre getting. (Boos.)\r\nby\r\nJanus RoseClose\r\nPosts from this author will be added to your daily \u2026 [+8788 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "The Rest of Big Tech Piles in to Take the Pentagon Deal That Anthropic Wouldn\u2019t",
-            "description": "Four new companies have agreed to let the U.S. military use their AI tech for classified work.",
-            "url": "https://gizmodo.com/the-rest-of-big-tech-piles-in-to-take-the-pentagon-deal-that-anthropic-wouldnt-2000753280",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/05/d8578d836b095a8ec93adfbf08bca78f.jpg",
-            "publishedAt": "2026-05-01T16:25:59Z",
-            "content": "While Anthropic took a stand earlier this year to limit how its AI tech is used in classified military settings, it seems like the rest of Silicon Valley isnt too concerned.\u00a0\r\nFour more tech companie\u2026 [+4162 chars]",
+            "author": "Julian Chokkattu",
+            "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
+            "description": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a \u201cflood\u201d of new third-party hardware this year and next.",
+            "url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
+            "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
+            "publishedAt": "2026-04-28T13:00:00Z",
+            "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
             "ai_score": 8
         },
         {
@@ -97,20 +27,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Julian Chokkattu",
-            "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
-            "description": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a \u201cflood\u201d of new third-party hardware this year and next.",
-            "url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
-            "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
-            "publishedAt": "2026-04-28T13:00:00Z",
-            "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
             "ai_score": 5
         },
         {
@@ -139,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-29T15:46:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effort.\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effo\u2026 [+3017 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff, Paresh Dave",
+            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+            "description": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+            "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+            "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
+            "publishedAt": "2026-05-08T01:42:14Z",
+            "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
             "ai_score": 5
         },
         {
@@ -286,6 +216,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Sheena Vasani",
+            "title": "Here are our favorite Memorial Day tech deals so far",
+            "description": "Memorial Day marks the unofficial start of summer, and the holiday\u2019s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool parties, or backyard barbecues, now\u2019s a great time to pick up a\u2026",
+            "url": "https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/jbl_charge6_flip7_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-19T20:25:09Z",
+            "content": "Portable bluetooth speakers like the Charge 6 and Flip 7 are just a few on sale for Memorial Day.\r\n\n\nMemorial Day marks the unofficial start of summer, and the holiday\u2019s sales include plenty of deals\u2026 [+25369 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Sean Hollister",
             "title": "Dell and RAMageddon are watering down the Alienware brand",
             "description": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. Th\u2026",
@@ -353,6 +297,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield, Jay Peters",
+            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
+            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
+            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-30T21:25:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -367,6 +325,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Louryn Strampe",
+            "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+            "description": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+            "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+            "urlToImage": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/191:100/w_1280,c_limit/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+            "publishedAt": "2026-05-22T18:52:47Z",
+            "content": "When you think of Memorial Day sales, you probably think of mattresses and other home goods. And while those items are definitely discounted, now is also a good time to purchase tech. Personally, I'm\u2026 [+1064 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -377,6 +349,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-hands-on-37-e1749737981488-1200x675.jpg",
             "publishedAt": "2026-05-08T13:38:53Z",
             "content": "Nintendo tried to avoid raising prices on its nearly year-old Switch 2 for as long as it could, but in the end, even the mighty Mario maker couldn\u2019t stave off the ongoing \u201cRAMpocalypse\u201d that\u2019s caused\u2026 [+3059 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janus Rose",
+            "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+            "description": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencem\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-3.44.22PM.png?quality=90&strip=all&crop=0%2C2.6098311610285%2C100%2C94.780337677943&w=1200",
+            "publishedAt": "2026-05-21T20:00:06Z",
+            "content": "<ul><li></li><li></li></ul>\r\nThey deserve everything theyre getting. (Boos.)\r\nThey deserve everything theyre getting. (Boos.)\r\nby\r\nJanus RoseClose\r\nPosts from this author will be added to your daily \u2026 [+8788 chars]",
             "ai_score": 5
         },
         {
@@ -447,6 +433,20 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/81e74f7583d5e215128d3fa3b40458b2cacb93c1/hub/2025/09/22/386b71aa-df96-4fdb-b9fc-c8d83c17f06b/gaming-copilot.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-05-06T18:37:31Z",
             "content": "If you play games on an Xbox console and you don't like Microsoft's AI, you can breathe a little easier: Asha Sharma, CEO of Xbox, announced Tuesday that\u00a0Copilot is no longer coming to the company's \u2026 [+1893 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "The Rest of Big Tech Piles in to Take the Pentagon Deal That Anthropic Wouldn\u2019t",
+            "description": "Four new companies have agreed to let the U.S. military use their AI tech for classified work.",
+            "url": "https://gizmodo.com/the-rest-of-big-tech-piles-in-to-take-the-pentagon-deal-that-anthropic-wouldnt-2000753280",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/05/d8578d836b095a8ec93adfbf08bca78f.jpg",
+            "publishedAt": "2026-05-01T16:25:59Z",
+            "content": "While Anthropic took a stand earlier this year to limit how its AI tech is used in classified military settings, it seems like the rest of Silicon Valley isnt too concerned.\u00a0\r\nFour more tech companie\u2026 [+4162 chars]",
             "ai_score": 5
         },
         {
