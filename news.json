@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-05-25 12:36",
+    "last_updated": "2026-05-25 15:56",
     "articles": [
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Julian Chokkattu",
-            "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
-            "description": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a \u201cflood\u201d of new third-party hardware this year and next.",
-            "url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
-            "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
-            "publishedAt": "2026-04-28T13:00:00Z",
-            "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
+            "author": "Richard Lawler",
+            "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+            "description": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So f\u2026",
+            "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lg-ultragear-1000hz-25g590b.jpg?quality=90&strip=all&crop=0%2C4.0236073163838%2C100%2C91.952785367232&w=1200",
+            "publishedAt": "2026-05-19T01:13:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 25G590B is a 24.5-inch IPS screen with the highest refresh rate weve seen for a 1080p gaming monitor.\r\nThe 25G590B is a 24.5-inch IPS screen with the highest\u2026 [+2725 chars]",
             "ai_score": 8
         },
         {
@@ -27,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julian Chokkattu",
+            "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
+            "description": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a \u201cflood\u201d of new third-party hardware this year and next.",
+            "url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
+            "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
+            "publishedAt": "2026-04-28T13:00:00Z",
+            "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
             "ai_score": 5
         },
         {
@@ -111,20 +125,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-08T20:34:24Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little smaller than its competition from Corsair.\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little s\u2026 [+2232 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
-            "description": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So f\u2026",
-            "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lg-ultragear-1000hz-25g590b.jpg?quality=90&strip=all&crop=0%2C4.0236073163838%2C100%2C91.952785367232&w=1200",
-            "publishedAt": "2026-05-19T01:13:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 25G590B is a 24.5-inch IPS screen with the highest refresh rate weve seen for a 1080p gaming monitor.\r\nThe 25G590B is a 24.5-inch IPS screen with the highest\u2026 [+2725 chars]",
             "ai_score": 5
         },
         {
@@ -843,6 +843,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Apple\u2019s latest MacBook Air is $200 off in both sizes for Memorial Day",
+            "description": "If you\u2019re looking for a laptop that\u2019ll still perform well several years from now, Apple\u2019s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBook Air at Amazon in the run-up to Memori\u2026",
+            "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-24T14:56:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe M5 Air is fast enough for everyday tasks and then some, which is why its our top laptop rec for most people.\r\nThe M5 Air is fast enough for everyday tasks an\u2026 [+3042 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Android Central"
             },
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://i.insider.com/69d7e95696ef6a4c9d12155d?width=1200&format=jpeg",
             "publishedAt": "2026-04-26T18:02:01Z",
             "content": "Courtesy of the author\r\n<ul><li>At first, in-game purchases felt like such a waste of money to me.</li><li>Letting my son spend his money was an effective and safe way to help him make financial deci\u2026 [+4079 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Pete Syme",
-            "title": "Delta CEO stands by his decision to choose Amazon over Elon Musk's Starlink for one main reason",
-            "description": "After Elon Musk questioned the airline's strategy, Delta CEO Ed Bastian cited Amazon's gaming technology \u2014 and \"much lower price point.\"",
-            "url": "https://www.businessinsider.com/delta-air-lines-ceo-amazon-over-starlink-elon-musk-price-2026-5",
-            "urlToImage": "https://i.insider.com/6a0c420b94eb4c909fb2dc5e?width=1200&format=jpeg",
-            "publishedAt": "2026-05-19T11:27:46Z",
-            "content": "Delta CEO Ed Bastian.Michael Nagle/Bloomberg via Getty Images\r\n<ul><li>Delta Air Lines' CEO revealed why he chose Amazon Leo over Elon Musk's Starlink.</li><li>He praised its access to gaming technol\u2026 [+2689 chars]",
             "ai_score": 5
         }
     ]
