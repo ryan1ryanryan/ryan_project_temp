@@ -1,104 +1,6 @@
 {
-    "last_updated": "2026-05-26 07:54",
+    "last_updated": "2026-05-26 15:35",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Louryn Strampe",
-            "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
-            "description": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-            "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
-            "urlToImage": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/191:100/w_1280,c_limit/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-            "publishedAt": "2026-05-22T18:52:47Z",
-            "content": "When you think of Memorial Day sales, you probably think of mattresses and other home goods. And while those items are definitely discounted, now is also a good time to purchase tech. Personally, I'm\u2026 [+1064 chars]",
-            "ai_score": 9
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Leaked images show Microsoft\u2019s new Xbox Cloud Gaming controller",
-            "description": "I revealed earlier this year that Microsoft was working on a new Xbox controller that includes Wi-Fi to connect direct to Xbox Cloud Gaming servers. It now looks like that controller has leaked, thanks to some new images from Brazil's Anatel regulator. Tecnob\u2026",
-            "url": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-05-14T15:49:47Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nby\r\nT\u2026 [+2506 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff, Paresh Dave",
-            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-            "description": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-            "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-            "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
-            "publishedAt": "2026-05-08T01:42:14Z",
-            "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "AMD\u2019s FSR 4.1 upscaling tech is coming to older graphics cards",
-            "description": "AMD is bringing its FSR 4.1 upscaling tech to older graphics cards. In an announcement on X, Jack Huynh, AMD's head of computing and graphics, says FSR 4.1 will roll out to RDNA 3 GPUs in July, followed by a launch on RDNA 2 chips in early 2027. This summer's\u2026",
-            "url": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-05-14T14:06:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield, Jay Peters",
-            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
-            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
-            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-30T21:25:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Vittoria Elliott",
-            "title": "DOGE's Ethan Shaotran Is Now Running a Defense Tech Startup",
-            "description": "In an email viewed by WIRED, Shaotran describes Blitz Industries as \u201ca defense company backed by big names.\u201d",
-            "url": "https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/",
-            "urlToImage": "https://media.wired.com/photos/69fbf925cd2dcdab157e8e64/191:100/w_1280,c_limit/pol_DOGE_GettyImages-2202116482.jpg",
-            "publishedAt": "2026-05-07T16:21:08Z",
-            "content": "One of the earliest members of the so-called Department of Government Efficiencys (DOGE) is in the process of pivoting into his second act as a defense tech startup founder. Ethan Shaotran, one of th\u2026 [+3612 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The Litter-Robot 4 bundle is back down to its best price of the year",
-            "description": "Scooping cat litter isn\u2019t hard, but scooping after each and every litter box use can get annoying. The Litter-Robot 4 self-cleaning litter box is worth considering, not just because it\u2019s one of the best-performing models, but because its accessory bundle is c\u2026",
-            "url": "https://www.theverge.com/gadgets/924446/litter-robot-4-fujifilm-x-half-digital-camera-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/litterrobot.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-06T14:47:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also have the scoop on other deals, including discounts on Fujifilms X Half camera and a great wireless gaming mouse.\r\nWe also have the scoop on other deals, \u2026 [+4552 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -133,12 +35,54 @@
                 "name": "The Verge"
             },
             "author": "Tom Warren",
+            "title": "Leaked images show Microsoft\u2019s new Xbox Cloud Gaming controller",
+            "description": "I revealed earlier this year that Microsoft was working on a new Xbox controller that includes Wi-Fi to connect direct to Xbox Cloud Gaming servers. It now looks like that controller has leaked, thanks to some new images from Brazil's Anatel regulator. Tecnob\u2026",
+            "url": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2026-05-14T15:49:47Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nby\r\nT\u2026 [+2506 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
             "title": "Microsoft is giving its Xbox employees an Xbox email address",
             "description": "Xbox CEO Asha Sharma wants everyone to know: \"We are Xbox.\" Just last week, she scrapped Microsoft Gaming as the name of Microsoft's gaming division in favor of simply Xbox. Now, to reinforce that message, sources at Xbox tell me that all Xbox employees are g\u2026",
             "url": "https://www.theverge.com/report/920525/microsoft-xbox-email-address-change",
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-29T15:46:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effort.\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effo\u2026 [+3017 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff, Paresh Dave",
+            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+            "description": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+            "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+            "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
+            "publishedAt": "2026-05-08T01:42:14Z",
+            "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AMD\u2019s FSR 4.1 upscaling tech is coming to older graphics cards",
+            "description": "AMD is bringing its FSR 4.1 upscaling tech to older graphics cards. In an announcement on X, Jack Huynh, AMD's head of computing and graphics, says FSR 4.1 will roll out to RDNA 3 GPUs in July, followed by a launch on RDNA 2 chips in early 2027. This summer's\u2026",
+            "url": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-05-14T14:06:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
             "ai_score": 5
         },
         {
@@ -353,6 +297,48 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield, Jay Peters",
+            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
+            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
+            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-30T21:25:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Vittoria Elliott",
+            "title": "DOGE's Ethan Shaotran Is Now Running a Defense Tech Startup",
+            "description": "In an email viewed by WIRED, Shaotran describes Blitz Industries as \u201ca defense company backed by big names.\u201d",
+            "url": "https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/",
+            "urlToImage": "https://media.wired.com/photos/69fbf925cd2dcdab157e8e64/191:100/w_1280,c_limit/pol_DOGE_GettyImages-2202116482.jpg",
+            "publishedAt": "2026-05-07T16:21:08Z",
+            "content": "One of the earliest members of the so-called Department of Government Efficiencys (DOGE) is in the process of pivoting into his second act as a defense tech startup founder. Ethan Shaotran, one of th\u2026 [+3612 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Louryn Strampe",
+            "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+            "description": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+            "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+            "urlToImage": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/191:100/w_1280,c_limit/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+            "publishedAt": "2026-05-22T18:52:47Z",
+            "content": "When you think of Memorial Day sales, you probably think of mattresses and other home goods. And while those items are definitely discounted, now is also a good time to purchase tech. Personally, I'm\u2026 [+1064 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -423,6 +409,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The Litter-Robot 4 bundle is back down to its best price of the year",
+            "description": "Scooping cat litter isn\u2019t hard, but scooping after each and every litter box use can get annoying. The Litter-Robot 4 self-cleaning litter box is worth considering, not just because it\u2019s one of the best-performing models, but because its accessory bundle is c\u2026",
+            "url": "https://www.theverge.com/gadgets/924446/litter-robot-4-fujifilm-x-half-digital-camera-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/litterrobot.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-06T14:47:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also have the scoop on other deals, including discounts on Fujifilms X Half camera and a great wireless gaming mouse.\r\nWe also have the scoop on other deals, \u2026 [+4552 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -447,6 +447,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2023/05/d8578d836b095a8ec93adfbf08bca78f.jpg",
             "publishedAt": "2026-05-01T16:25:59Z",
             "content": "While Anthropic took a stand earlier this year to limit how its AI tech is used in classified military settings, it seems like the rest of Silicon Valley isnt too concerned.\u00a0\r\nFour more tech companie\u2026 [+4162 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Madeline Ricchiuto",
+            "title": "Sorry, Apple: Samsung\u2019s Fainting Detection Is a Game Changer",
+            "description": "I might just have to consign my Apple Watch to the great tech junkyard in the sky.",
+            "url": "https://gizmodo.com/sorry-apple-samsungs-fainting-detection-is-a-game-changer-2000762501",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/samsung-galaxy-6-faint-prediction-1-1200x675.jpg",
+            "publishedAt": "2026-05-25T13:00:57Z",
+            "content": "Samsung intends to add a fainting-prediction sensor to the Galaxy Watch in the near future. The company announced in early May that it has partnered with Chung-Ang University Gwangmyeong Hospital in \u2026 [+2676 chars]",
             "ai_score": 5
         },
         {
@@ -521,20 +535,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Ex-Elder Scrolls Online Boss Opens Up About Microsoft Killing His Dream Game: \u2018A Giant Successful Video Game On The Microsoft Level Was Frankly Not That Stimulating To Them\u2019",
-            "description": "ZeniMax Online Studios' Matt Firor weighed in on the tech giant's thinking in a new interview",
-            "url": "https://kotaku.com/project-blackbird-zenimax-xbox-canceled-mmo-eso-2000691314",
-            "urlToImage": "https://kotaku.com/app/uploads/2024/03/0533f7152c3fcf19f767d53252c131e7-1200x675.jpg",
-            "publishedAt": "2026-04-28T17:15:57Z",
-            "content": "Microsoft has canceled a lot of projects over the past few years, but none live in the imagination quite like Project Blackbird, an online loot shooter RPG from the studio behind The Elder Scrolls On\u2026 [+3165 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -559,6 +559,20 @@
             "urlToImage": "https://media.wired.com/photos/6a0e2ee08910d0bdf1e565fe/191:100/w_1280,c_limit/GettyImages-2153790890.jpg",
             "publishedAt": "2026-05-21T06:00:00Z",
             "content": "As tensions between President Donald Trump and Europe continue to simmer, the continent is accelerating its moves to reduce its addiction to US technology. Cities and governments are ditching Microso\u2026 [+3467 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Ex-Elder Scrolls Online Boss Opens Up About Microsoft Killing His Dream Game: \u2018A Giant Successful Video Game On The Microsoft Level Was Frankly Not That Stimulating To Them\u2019",
+            "description": "ZeniMax Online Studios' Matt Firor weighed in on the tech giant's thinking in a new interview",
+            "url": "https://kotaku.com/project-blackbird-zenimax-xbox-canceled-mmo-eso-2000691314",
+            "urlToImage": "https://kotaku.com/app/uploads/2024/03/0533f7152c3fcf19f767d53252c131e7-1200x675.jpg",
+            "publishedAt": "2026-04-28T17:15:57Z",
+            "content": "Microsoft has canceled a lot of projects over the past few years, but none live in the imagination quite like Project Blackbird, an online loot shooter RPG from the studio behind The Elder Scrolls On\u2026 [+3165 chars]",
             "ai_score": 5
         },
         {
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268494_smart_glasses_overview_AKrales_0381.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-30T13:59:01Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThis crop of smart glasses is the most stylish, affordable, comfortable, and capable yet. They still dont make sense.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, W\u2026 [+13062 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Samsung\u2019s flagship laptop is a MacBook Pro clone gone horribly wrong",
-            "description": "II know I'm not the only person who wants a MacBook Pro for Windows: a sleek, ultra powerful, super portable machine with an excellent screen and high-quality build. Samsung's Galaxy Book6 Ultra certainly tries. It's got a beautiful screen and a nice design, \u2026",
-            "url": "https://www.theverge.com/tech/925806/samsung-galaxy-book6-ultra-nvidia-rtx-5070-laptop-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268517_Samsung_Galaxy_Book6_Ultra_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-07T14:37:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Samsung Galaxy Book6 Ultra is a very expensive Windows laptop with some hard-to-overlook shortcomings.\r\nIf you buy something from a Verge link, Vox Media may\u2026 [+12806 chars]",
             "ai_score": 5
         }
     ]
