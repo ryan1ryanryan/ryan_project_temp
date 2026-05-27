@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-27 12:57",
+    "last_updated": "2026-05-27 16:43",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -955,6 +955,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Alienware Fixed the One Problem With the Area-51, and Now I\u2019m Afraid I Love It",
+            "description": "The Alienware 16 Area-51 (2026) costs way more than before, but at least the OLED screen is so much better.",
+            "url": "https://gizmodo.com/alienware-16-alien-51-2026-review-oled-screen-fixes-previous-gaming-laptop-problem-2000762742",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-01-1200x675.jpg",
+            "publishedAt": "2026-05-26T15:00:09Z",
+            "content": "The Alienware 16 Area-51 (2025) didnt need much to become an impeccable gaming laptop. Now, a year later, nearly all my major nitpicks have been resolved with the introduction of an OLED display. And\u2026 [+12742 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/02/8085439ad4f0ce310d33524280ead7e7-1200x675.jpg",
             "publishedAt": "2026-05-18T16:54:19Z",
             "content": "The monthly price of PS Plus Essential has been $10 for a long time, but no longer. Sony announced it\u2019s going up to $11 a month due to \u201congoing market conditions.\u201d The price hikes follow recent incre\u2026 [+1920 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Xbox Boss Acknowledges Another Rough Quarter As Microsoft CEO Says The Company Needs To \u2018Win Back Fans\u2019",
-            "description": "Hardware revenue continued to sink as the gaming side struggled",
-            "url": "https://kotaku.com/xbox-boss-acknowledges-another-rough-quarter-as-microsoft-ceo-says-the-company-needs-to-win-back-fans-2000692003",
-            "urlToImage": "https://kotaku.com/app/uploads/2023/09/0384fb4272165c0da6021f664c52b14a-1200x675.jpg",
-            "publishedAt": "2026-04-30T12:49:58Z",
-            "content": "New Xbox boss Asha Sharma has been working quickly to fix the broken vibes around the platform. That\u2019s included new messaging, but also substantive changes like making Game Pass cheaper. It\u2019s a long \u2026 [+2314 chars]",
             "ai_score": 5
         }
     ]
