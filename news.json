@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-27 00:10",
+    "last_updated": "2026-05-27 05:20",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -535,20 +535,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Ex-Elder Scrolls Online Boss Opens Up About Microsoft Killing His Dream Game: \u2018A Giant Successful Video Game On The Microsoft Level Was Frankly Not That Stimulating To Them\u2019",
-            "description": "ZeniMax Online Studios' Matt Firor weighed in on the tech giant's thinking in a new interview",
-            "url": "https://kotaku.com/project-blackbird-zenimax-xbox-canceled-mmo-eso-2000691314",
-            "urlToImage": "https://kotaku.com/app/uploads/2024/03/0533f7152c3fcf19f767d53252c131e7-1200x675.jpg",
-            "publishedAt": "2026-04-28T17:15:57Z",
-            "content": "Microsoft has canceled a lot of projects over the past few years, but none live in the imagination quite like Project Blackbird, an online loot shooter RPG from the studio behind The Elder Scrolls On\u2026 [+3165 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -573,6 +559,20 @@
             "urlToImage": "https://media.wired.com/photos/6a0e2ee08910d0bdf1e565fe/191:100/w_1280,c_limit/GettyImages-2153790890.jpg",
             "publishedAt": "2026-05-21T06:00:00Z",
             "content": "As tensions between President Donald Trump and Europe continue to simmer, the continent is accelerating its moves to reduce its addiction to US technology. Cities and governments are ditching Microso\u2026 [+3467 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Ex-Elder Scrolls Online Boss Opens Up About Microsoft Killing His Dream Game: \u2018A Giant Successful Video Game On The Microsoft Level Was Frankly Not That Stimulating To Them\u2019",
+            "description": "ZeniMax Online Studios' Matt Firor weighed in on the tech giant's thinking in a new interview",
+            "url": "https://kotaku.com/project-blackbird-zenimax-xbox-canceled-mmo-eso-2000691314",
+            "urlToImage": "https://kotaku.com/app/uploads/2024/03/0533f7152c3fcf19f767d53252c131e7-1200x675.jpg",
+            "publishedAt": "2026-04-28T17:15:57Z",
+            "content": "Microsoft has canceled a lot of projects over the past few years, but none live in the imagination quite like Project Blackbird, an online loot shooter RPG from the studio behind The Elder Scrolls On\u2026 [+3165 chars]",
             "ai_score": 5
         },
         {
