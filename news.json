@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-28 08:05",
+    "last_updated": "2026-05-28 11:52",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,7 +27,7 @@
             "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
             "publishedAt": "2026-04-28T13:00:00Z",
             "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -41,7 +41,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-05-14T15:49:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nby\r\nT\u2026 [+2506 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -55,35 +55,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-29T15:46:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effort.\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effo\u2026 [+3017 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
-            "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
-            "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DSC_9281_R1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T14:44:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nby\r\nAntonio G. Di BenedettoClose\r\nPosts\u2026 [+3107 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
-            "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
-            "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-05-05T16:51:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox platform team.\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox p\u2026 [+4920 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -202,6 +174,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
+            "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
+            "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DSC_9281_R1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T14:44:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nby\r\nAntonio G. Di BenedettoClose\r\nPosts\u2026 [+3107 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Tom Warren",
             "title": "Xbox changes continue with new console boot animation",
             "description": "It feels like not a day goes by at the moment without some Xbox news, and today is no different. Xbox CEO Asha Sharma just announced that Xbox owners will get a new boot up sound and animation on May 13th. The console boot animation is the new Xbox logo, comp\u2026",
@@ -209,6 +195,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-06T15:38:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Xbox CEO continues to make changes that are designed to please fans.\r\nMicrosofts new Xbox CEO continues to make changes that are designed to pleas\u2026 [+2437 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
+            "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
+            "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-05-05T16:51:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox platform team.\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox p\u2026 [+4920 chars]",
             "ai_score": 5
         },
         {
