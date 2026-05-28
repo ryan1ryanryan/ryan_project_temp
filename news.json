@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-28 11:52",
+    "last_updated": "2026-05-28 16:01",
     "articles": [
         {
             "source": {
@@ -83,6 +83,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-14T14:06:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Win cool gadgets we can\u2019t keep because The Verge has ethics",
+            "description": "When people learn I work for The Verge, they inevitably ask: \u201cDo you get to keep the gadgets?\u201d Now that I film Today I\u2019m Toying With, a video series where I share the joy of tech, I get that question more than ever. The answer is no, we don\u2019t keep them! Our e\u2026",
+            "url": "https://www.theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/verge-titw-giveaway-1-10.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-27T13:04:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWin robot toys, gaming gear, and more in our Today Im Toying With giveaway.\r\nWin robot toys, gaming gear, and more in our Today Im Toying With giveaway.\r\nby\r\nSea\u2026 [+3755 chars]",
             "ai_score": 5
         },
         {
@@ -969,20 +983,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Oscar Gonzalez",
-            "title": "PlayStation Plus Prices Are Increasing for New Subscribers Starting May 20",
-            "description": "The \"ongoing market conditions\" are making gaming a very expensive hobby.",
-            "url": "https://www.cnet.com/tech/gaming/playstation-plus-prices-are-increasing-for-new-subscribers-starting-may-20/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/b7a86f30289e10e61db2f10c57d751ea9b4835df/hub/2022/07/22/d387a0ed-5f44-4682-bf68-c599b93c992a/psplus-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-05-18T17:44:31Z",
-            "content": "PlayStation Plus, the subscription service for the PlayStation platform, is seeing a price increase for new subscribers. \"Ongoing market conditions\" were cited as the reason for the price increase, w\u2026 [+2835 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -993,6 +993,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
             "publishedAt": "2026-05-05T00:03:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to believe they could be the Steam Machine.\r\nTheres reason to believe they could be the Steam Machine.\r\nby\r\nSean HollisterClose\r\nPosts from this au\u2026 [+4144 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Oscar Gonzalez",
+            "title": "PlayStation Plus Prices Are Increasing for New Subscribers Starting May 20",
+            "description": "The \"ongoing market conditions\" are making gaming a very expensive hobby.",
+            "url": "https://www.cnet.com/tech/gaming/playstation-plus-prices-are-increasing-for-new-subscribers-starting-may-20/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/b7a86f30289e10e61db2f10c57d751ea9b4835df/hub/2022/07/22/d387a0ed-5f44-4682-bf68-c599b93c992a/psplus-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-05-18T17:44:31Z",
+            "content": "PlayStation Plus, the subscription service for the PlayStation platform, is seeing a price increase for new subscribers. \"Ongoing market conditions\" were cited as the reason for the price increase, w\u2026 [+2835 chars]",
             "ai_score": 5
         },
         {
