@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-29 11:37",
+    "last_updated": "2026-05-29 15:38",
     "articles": [
         {
             "source": {
@@ -83,6 +83,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-14T14:06:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
+            "description": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today\u2026",
+            "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
+            "publishedAt": "2026-05-28T13:02:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
             "ai_score": 5
         },
         {
@@ -216,20 +230,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
-            "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
-            "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-05-05T16:51:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox platform team.\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox p\u2026 [+4920 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sheena Vasani",
             "title": "Here are our favorite Memorial Day tech deals so far",
             "description": "Memorial Day marks the unofficial start of summer, and the holiday\u2019s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool parties, or backyard barbecues, now\u2019s a great time to pick up a\u2026",
@@ -237,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/jbl_charge6_flip7_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-19T20:25:09Z",
             "content": "Portable bluetooth speakers like the Charge 6 and Flip 7 are just a few on sale for Memorial Day.\r\n\n\nMemorial Day marks the unofficial start of summer, and the holiday\u2019s sales include plenty of deals\u2026 [+25369 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
+            "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
+            "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-05-05T16:51:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox platform team.\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox p\u2026 [+4920 chars]",
             "ai_score": 5
         },
         {
@@ -307,6 +321,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Asus-ROG-Xreal-R1-3-1200x675.jpg",
             "publishedAt": "2026-05-15T07:30:53Z",
             "content": "Asus ROG\u2019s Xreal R1, the world\u2019s first pair of AR smart glasses capable of projecting a virtual screen before your eyes with a blistering 240Hz rate, finally has\u2026 a price and preorder dates.\r\nAhead o\u2026 [+1751 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Acer\u2019s Predator Atlas Could Make Gaming Handhelds Efficient, for Once",
+            "description": "Just don\u2019t expect Acer\u2019s first Intel-based handheld to be cheap.",
+            "url": "https://gizmodo.com/acers-predator-atlas-could-make-gaming-handhelds-efficient-for-once-2000764106",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Acer-Predator-Atlas-8-Main-Image-1-1200x675.jpeg",
+            "publishedAt": "2026-05-28T13:00:28Z",
+            "content": "Just when we thought that this years handheld gaming scene was laid up in its sick bed, Acer and Intel have come through with what might just be the antidote weve been waiting for. The Acer Predator \u2026 [+3364 chars]",
             "ai_score": 5
         },
         {
@@ -578,6 +606,20 @@
         {
             "source": {
                 "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "It\u2019s Time for Intel to Prove It Can Keep Handheld PC Gaming Alive",
+            "description": "The Intel Arc G3 chip could bring better battery life and performance for handhelds. Just don't expect they'll be cheap.",
+            "url": "https://gizmodo.com/its-time-for-intel-to-prove-it-can-keep-handheld-pc-gaming-alive-2000764211",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/MSI-Claw-8-AI-3.jpg",
+            "publishedAt": "2026-05-28T13:00:44Z",
+            "content": "Somebody needs to keep mobile gaming alive through these dark times. Thankfully, the company we least expected to make a graphics-centric chip, Intel, is now touting its Intel Arc G3 as the next big \u2026 [+2788 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CNET"
             },
             "author": "Lori Grunin",
@@ -741,6 +783,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25740107/2177656484.jpg?quality=90&strip=all&crop=0%2C10.748359005687%2C100%2C78.503281988627&w=1200",
             "publishedAt": "2026-05-05T13:11:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogles AI architect lived rent-free in Elon Musks head\r\nDeepMinds Demis Hassabis was a constant figure of fear among Musk and other OpenAI higher-ups.\r\nby\r\nHayd\u2026 [+8392 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "The secret to Roku\u2019s success: not being cool",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Roughly 10 years ago, someone told me that Roku was making \"cheap hardware to sell to Walmart \u2026",
+            "url": "https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/FINAL-Home-Screen-Hero-Image-Above-the-Fold-UI-In-Bezel-RGB-1.png?quality=90&strip=all&crop=7.05546875,11.840908989937,86.496875,69.999951897432",
+            "publishedAt": "2026-05-28T13:56:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRokus new homescreen makes a lot of sense for a company that has succeeded by building simple products for late adopters.\r\nRokus new homescreen makes a lot of se\u2026 [+7797 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Rivian\u2019s software chief thinks you don\u2019t need CarPlay or buttons",
+            "description": "Today, I\u2019m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian\u2019s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 bill\u2026",
+            "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD-Wassym-Bensaid.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+            "publishedAt": "2026-05-28T14:03:31Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWassym Bensaid on why AI-powered voice control should be the future interface of car software.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to you\u2026 [+55367 chars]",
             "ai_score": 5
         },
         {
@@ -1091,76 +1161,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
             "publishedAt": "2026-05-20T20:34:48Z",
             "content": "Can Matthew Ball reverse Microsoft\u2019s stagnating console gaming business? That\u2019s the job he\u2019s been tasked with as Xbox\u2019s new chief strategy officer. Asha Sharma announced that the venture capital anal\u2026 [+2636 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "The Oscars Are Barring AI Generated Films, Gaming Awards Should Do The Same",
-            "description": "Many major gaming awards are fuzzy at best as the entertainment industry at large grapples with where AI generated material fits in",
-            "url": "https://kotaku.com/the-oscars-are-barring-ai-generated-films-gaming-awards-should-do-the-same-2000692691",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/05/FrTa17eWAAA5HqB.jpg",
-            "publishedAt": "2026-05-02T18:00:18Z",
-            "content": "In a slate of newly announced rules, the Oscars are making themselves clear: only human beings can win awards. In the past this may have settled the eligibility of Rin Tin Tin, but in the 21st centur\u2026 [+5090 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Xbox\u2019s \u2018Project Helix\u2019 Console Should Copy the Steam Controller\u2019s Trackpads",
-            "description": "Valve staff told us they don't actually care who copies their controller.",
-            "url": "https://gizmodo.com/xbox-project-helix-console-should-copy-the-steam-controllers-trackpads-2000751709",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/Steam-Controller-review-05-1200x675.jpg",
-            "publishedAt": "2026-04-28T16:00:29Z",
-            "content": "If were going to throw out the entire script of console gaming, we cant leave any game or control scheme off the table. Xboxs next-gen console, dubbed Project Helix, is likely going to be a PC in all\u2026 [+4317 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Valve\u2019s Massive Price Hikes Just Ruined the Steam Deck",
-            "description": "A near-$1,000 1TB Steam Deck OLED could mean a very pricey Steam Machine.",
-            "url": "https://gizmodo.com/valves-massive-price-hikes-just-ruined-the-steam-deck-2000764162",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Steam-Deck-Clair-Obscure-1-1200x675.jpg",
-            "publishedAt": "2026-05-27T19:20:21Z",
-            "content": "If you didnt already grab a Steam Deck OLED in the last few years, you may be out of luck. Valves nearly 3-year-old handheld PC now costs close to $1,000 for a version with 1TB of storage.\r\nValve had\u2026 [+2157 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-            "description": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
-            "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c14/live/20b8b580-44c8-11f1-ac78-2112837ce2aa.jpg",
-            "publishedAt": "2026-05-02T23:17:17Z",
-            "content": "The executive director for the Abdorrahman Boroumand Centre for Human Rights, Roya Boroumand, says that an information vacuum in Iran \"allows the state to broadcast its narrative, ie portray proteste\u2026 [+129 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Musk v Altman: The most toxic row in tech goes on trial",
-            "description": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom.",
-            "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
-            "publishedAt": "2026-04-28T10:10:54Z",
-            "content": "\"Musk and Altman are so big, so larger than life, and so unrelatable,\" says University of San Diego professor Sarah Federman, who specialises in conflict resolution. \"That's what makes them so delici\u2026 [+27 chars]",
             "ai_score": 5
         }
     ]
