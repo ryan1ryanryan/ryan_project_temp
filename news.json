@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-29 15:38",
+    "last_updated": "2026-05-29 18:39",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "China freezes new robotaxi licenses after Baidu chaos",
+            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-04-29T10:39:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -790,20 +804,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "The secret to Roku\u2019s success: not being cool",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Roughly 10 years ago, someone told me that Roku was making \"cheap hardware to sell to Walmart \u2026",
-            "url": "https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/FINAL-Home-Screen-Hero-Image-Above-the-Fold-UI-In-Bezel-RGB-1.png?quality=90&strip=all&crop=7.05546875,11.840908989937,86.496875,69.999951897432",
-            "publishedAt": "2026-05-28T13:56:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRokus new homescreen makes a lot of sense for a company that has succeeded by building simple products for late adopters.\r\nRokus new homescreen makes a lot of se\u2026 [+7797 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Nilay Patel",
             "title": "Rivian\u2019s software chief thinks you don\u2019t need CarPlay or buttons",
             "description": "Today, I\u2019m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian\u2019s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 bill\u2026",
@@ -818,13 +818,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janus Rose",
-            "title": "The more young people use AI, the more they hate it",
-            "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-29T16:58:51Z",
-            "content": "<ul><li></li><li></li></ul>\r\nThe more young people use AI, the more they hate it\r\nCaught between fears of job loss and social stigma, Gen Zs opinions of AI are hitting new lows.\r\nby\r\nJanus RoseClose\r\u2026 [+13594 chars]",
+            "author": "Janko Roettgers",
+            "title": "The secret to Roku\u2019s success: not being cool",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Roughly 10 years ago, someone told me that Roku was making \"cheap hardware to sell to Walmart \u2026",
+            "url": "https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/FINAL-Home-Screen-Hero-Image-Above-the-Fold-UI-In-Bezel-RGB-1.png?quality=90&strip=all&crop=7.05546875,11.840908989937,86.496875,69.999951897432",
+            "publishedAt": "2026-05-28T13:56:41Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRokus new homescreen makes a lot of sense for a company that has succeeded by building simple products for late adopters.\r\nRokus new homescreen makes a lot of se\u2026 [+7797 chars]",
             "ai_score": 5
         },
         {
@@ -832,13 +832,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "China freezes new robotaxi licenses after Baidu chaos",
-            "description": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creatin\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2152484525.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-04-29T10:39:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDozens of Baidus Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\r\nDozens of Baidus Apollo Go robotaxis froze in tr\u2026 [+1977 chars]",
+            "author": "Janus Rose",
+            "title": "The more young people use AI, the more they hate it",
+            "description": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-29T16:58:51Z",
+            "content": "<ul><li></li><li></li></ul>\r\nThe more young people use AI, the more they hate it\r\nCaught between fears of job loss and social stigma, Gen Zs opinions of AI are hitting new lows.\r\nby\r\nJanus RoseClose\r\u2026 [+13594 chars]",
             "ai_score": 5
         },
         {
