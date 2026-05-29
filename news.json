@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-05-29 03:44",
+    "last_updated": "2026-05-29 08:03",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
+            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
+            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2026-05-13T20:38:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "wired",
@@ -20,20 +34,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
-            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
-            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-05-13T20:38:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tom Warren",
             "title": "Leaked images show Microsoft\u2019s new Xbox Cloud Gaming controller",
             "description": "I revealed earlier this year that Microsoft was working on a new Xbox controller that includes Wi-Fi to connect direct to Xbox Cloud Gaming servers. It now looks like that controller has leaked, thanks to some new images from Brazil's Anatel regulator. Tecnob\u2026",
@@ -41,7 +41,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-05-14T15:49:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nby\r\nT\u2026 [+2506 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,21 +55,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-04-29T15:46:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effort.\r\nAnother change for Microsofts gaming employees as part of the We are Xbox effo\u2026 [+3017 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff, Paresh Dave",
-            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-            "description": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-            "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-            "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
-            "publishedAt": "2026-05-08T01:42:14Z",
-            "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -83,6 +69,90 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-14T14:06:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Did Microsoft just tease a new Xbox UI?",
+            "description": "Microsoft showed off a \"consistent\" Xbox UI across handhelds, consoles, and cloud gaming during its Xbox keynote at the Game Developers Conference in March. At the time it was difficult to see if there was anything new about the UI from the videos and photos \u2026",
+            "url": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxuiteaser.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+            "publishedAt": "2026-05-07T17:29:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is working on a more consistent Xbox UI across consoles, PC, and cloud gaming.\r\nMicrosoft is working on a more consistent Xbox UI across consoles, PC, \u2026 [+3382 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "The World\u2019s First 240Hz Video Smart Glasses for Gaming Aren\u2019t Cheap",
+            "description": "Better start saving up if you really want Asus ROG's Xreal R1 gaming-focused smart glasses.",
+            "url": "https://gizmodo.com/asus-rog-xreal-r1-gaming-ar-gaming-glasses-price-preorder-dates-2000758632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Asus-ROG-Xreal-R1-3-1200x675.jpg",
+            "publishedAt": "2026-05-15T07:30:53Z",
+            "content": "Asus ROG\u2019s Xreal R1, the world\u2019s first pair of AR smart glasses capable of projecting a virtual screen before your eyes with a blistering 240Hz rate, finally has\u2026 a price and preorder dates.\r\nAhead o\u2026 [+1751 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield, Jay Peters",
+            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
+            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
+            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-30T21:25:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Louryn Strampe",
+            "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+            "description": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+            "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+            "urlToImage": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/191:100/w_1280,c_limit/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+            "publishedAt": "2026-05-22T18:52:47Z",
+            "content": "When you think of Memorial Day sales, you probably think of mattresses and other home goods. And while those items are definitely discounted, now is also a good time to purchase tech. Personally, I'm\u2026 [+1064 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dell Cameron",
+            "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+            "description": "One line tucked into a federal highway bill would strip funds from cities and states unless they kill their automated plate tracking programs\u2014effectively banning the tech for all but toll collection.",
+            "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+            "urlToImage": "https://media.wired.com/photos/6a0e0f8f6174d8e9dcf1157d/191:100/w_1280,c_limit/security_flock_GettyImages-2271667850.jpg",
+            "publishedAt": "2026-05-20T21:58:06Z",
+            "content": "US lawmakers plan to introduce an amendment Thursday at a House committee markup hearing that would prohibit any recipient of federal highway funding from using automated license plate readers for an\u2026 [+3757 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff, Paresh Dave",
+            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+            "description": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+            "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+            "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
+            "publishedAt": "2026-05-08T01:42:14Z",
+            "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
             "ai_score": 5
         },
         {
@@ -139,20 +209,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lg-ultragear-1000hz-25g590b.jpg?quality=90&strip=all&crop=0%2C4.0236073163838%2C100%2C91.952785367232&w=1200",
             "publishedAt": "2026-05-19T01:13:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 25G590B is a 24.5-inch IPS screen with the highest refresh rate weve seen for a 1080p gaming monitor.\r\nThe 25G590B is a 24.5-inch IPS screen with the highest\u2026 [+2725 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Did Microsoft just tease a new Xbox UI?",
-            "description": "Microsoft showed off a \"consistent\" Xbox UI across handhelds, consoles, and cloud gaming during its Xbox keynote at the Game Developers Conference in March. At the time it was difficult to see if there was anything new about the UI from the videos and photos \u2026",
-            "url": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxuiteaser.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-            "publishedAt": "2026-05-07T17:29:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is working on a more consistent Xbox UI across consoles, PC, and cloud gaming.\r\nMicrosoft is working on a more consistent Xbox UI across consoles, PC, \u2026 [+3382 chars]",
             "ai_score": 5
         },
         {
@@ -297,20 +353,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Raymond Wong",
-            "title": "The World\u2019s First 240Hz Video Smart Glasses for Gaming Aren\u2019t Cheap",
-            "description": "Better start saving up if you really want Asus ROG's Xreal R1 gaming-focused smart glasses.",
-            "url": "https://gizmodo.com/asus-rog-xreal-r1-gaming-ar-gaming-glasses-price-preorder-dates-2000758632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Asus-ROG-Xreal-R1-3-1200x675.jpg",
-            "publishedAt": "2026-05-15T07:30:53Z",
-            "content": "Asus ROG\u2019s Xreal R1, the world\u2019s first pair of AR smart glasses capable of projecting a virtual screen before your eyes with a blistering 240Hz rate, finally has\u2026 a price and preorder dates.\r\nAhead o\u2026 [+1751 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -353,34 +395,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield, Jay Peters",
-            "title": "Roblox\u2019s daily users continue to drop as age-checks slow growth",
-            "description": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of las\u2026",
-            "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24369732/STK146_Roblox_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-30T21:25:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRobloxs daily active user count has gone down 20 million in the last six months.\r\nRobloxs daily active user count has gone down 20 million in the last six months\u2026 [+2934 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Louryn Strampe",
-            "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
-            "description": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-            "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
-            "urlToImage": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/191:100/w_1280,c_limit/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-            "publishedAt": "2026-05-22T18:52:47Z",
-            "content": "When you think of Memorial Day sales, you probably think of mattresses and other home goods. And while those items are definitely discounted, now is also a good time to purchase tech. Personally, I'm\u2026 [+1064 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -405,20 +419,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-3.44.22PM.png?quality=90&strip=all&crop=0%2C2.6098311610285%2C100%2C94.780337677943&w=1200",
             "publishedAt": "2026-05-21T20:00:06Z",
             "content": "<ul><li></li><li></li></ul>\r\nThey deserve everything theyre getting. (Boos.)\r\nThey deserve everything theyre getting. (Boos.)\r\nby\r\nJanus RoseClose\r\nPosts from this author will be added to your daily \u2026 [+8788 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dell Cameron",
-            "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-            "description": "One line tucked into a federal highway bill would strip funds from cities and states unless they kill their automated plate tracking programs\u2014effectively banning the tech for all but toll collection.",
-            "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
-            "urlToImage": "https://media.wired.com/photos/6a0e0f8f6174d8e9dcf1157d/191:100/w_1280,c_limit/security_flock_GettyImages-2271667850.jpg",
-            "publishedAt": "2026-05-20T21:58:06Z",
-            "content": "US lawmakers plan to introduce an amendment Thursday at a House committee markup hearing that would prohibit any recipient of federal highway funding from using automated license plate readers for an\u2026 [+3757 chars]",
             "ai_score": 5
         },
         {
@@ -1025,20 +1025,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Valve just imported 50 tons of game consoles in two days",
-            "description": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and April 30th, according to import records\u2026",
-            "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-            "publishedAt": "2026-05-05T00:03:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to believe they could be the Steam Machine.\r\nTheres reason to believe they could be the Steam Machine.\r\nby\r\nSean HollisterClose\r\nPosts from this au\u2026 [+4144 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -1049,6 +1035,20 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/b7a86f30289e10e61db2f10c57d751ea9b4835df/hub/2022/07/22/d387a0ed-5f44-4682-bf68-c599b93c992a/psplus-1.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-05-18T17:44:31Z",
             "content": "PlayStation Plus, the subscription service for the PlayStation platform, is seeing a price increase for new subscribers. \"Ongoing market conditions\" were cited as the reason for the price increase, w\u2026 [+2835 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Valve just imported 50 tons of game consoles in two days",
+            "description": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and April 30th, according to import records\u2026",
+            "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+            "publishedAt": "2026-05-05T00:03:57Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to believe they could be the Steam Machine.\r\nTheres reason to believe they could be the Steam Machine.\r\nby\r\nSean HollisterClose\r\nPosts from this au\u2026 [+4144 chars]",
             "ai_score": 5
         },
         {
