@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-05-28 23:22",
+    "last_updated": "2026-05-29 03:44",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
-            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
-            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-05-13T20:38:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "wired",
@@ -27,6 +13,20 @@
             "urlToImage": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/191:100/w_1280,c_limit/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
             "publishedAt": "2026-04-28T13:00:00Z",
             "content": "The next gadget you put on your head could scan your brain. Neurable, a Boston-based company that embeds its noninvasive brain-scanning technology into hardware to monitor a persons focus levels, ann\u2026 [+3698 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
+            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
+            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2026-05-13T20:38:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
             "ai_score": 5
         },
         {
