@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-30 13:44",
+    "last_updated": "2026-05-30 15:12",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -888,6 +888,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Allison Johnson",
+            "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
+            "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last\u2026",
+            "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0%2C9.2187253673634%2C100%2C81.562549265273&w=1200",
+            "publishedAt": "2026-05-29T14:32:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIn 2022, Craig Campbell walked away from a blank check to start, of all things, a website. And his bet is paying off.\r\nIn 2022, Craig Campbell walked away from a\u2026 [+7110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "David Pierce",
             "title": "Elon Musk had a bad week in court",
             "description": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case agains\u2026",
@@ -1147,20 +1161,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
             "publishedAt": "2026-05-05T00:03:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to believe they could be the Steam Machine.\r\nTheres reason to believe they could be the Steam Machine.\r\nby\r\nSean HollisterClose\r\nPosts from this au\u2026 [+4144 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Agnes Applegate",
-            "title": "We built an app as a side hustle and sold it for $4 million without quitting our tech jobs. Here's how AI helped us juggle it all.",
-            "description": "Two software engineers created an inbox cleaning app, leveraging AI for development. They sold  while keeping their tech jobs.",
-            "url": "https://www.businessinsider.com/tech-workers-sold-side-hustle-app-while-employed-full-time-2026-5",
-            "urlToImage": "https://i.insider.com/6a0f62e67ff506e273e66409?width=1200&format=jpeg",
-            "publishedAt": "2026-05-23T09:07:01Z",
-            "content": "Trimbox cofounders Jordan Gaston and David Emelianov.Courtesy of David Emelianov\r\n<ul><li>Jordan Gaston and David Emelianov cofounded an inbox cleaner app while keeping their full-time jobs.</li><li>\u2026 [+7451 chars]",
             "ai_score": 5
         }
     ]
