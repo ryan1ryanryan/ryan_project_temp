@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-05-30 06:51",
+    "last_updated": "2026-05-30 09:24",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
-            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
-            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-05-13T20:38:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,118 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-05-14T15:49:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nby\r\nT\u2026 [+2506 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Asus chases Elgato with its own secondary touchscreen display",
+            "description": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14.1-inch secondary display in the 2020 A\u2026",
+            "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-05-08T20:34:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little smaller than its competition from Corsair.\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little s\u2026 [+2232 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Microsoft gives up on Xbox Copilot AI",
+            "description": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Micro\u2026",
+            "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/01_Wire-Hero-1920x1080-1-0b305b4a9ace7898196b.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-05-05T19:58:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew Xbox CEO Asha Sharma continues to make her mark.\r\nNew Xbox CEO Asha Sharma continues to make her mark.\r\nby\r\nJay PetersClose\r\nPosts from this author will be a\u2026 [+2537 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Leaked images reveal Xbox Elite 3 controller",
+            "description": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the\u2026",
+            "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxelite3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T20:52:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Elite 3 controller appears to have new scroll wheel buttons, a removable battery, and a cloud mode button.\r\nThe Elite 3 controller appears to have new scroll\u2026 [+2588 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
+            "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
+            "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-05-05T16:51:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox platform team.\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox p\u2026 [+4920 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Vittoria Elliott",
+            "title": "DOGE's Ethan Shaotran Is Now Running a Defense Tech Startup",
+            "description": "In an email viewed by WIRED, Shaotran describes Blitz Industries as \u201ca defense company backed by big names.\u201d",
+            "url": "https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/",
+            "urlToImage": "https://media.wired.com/photos/69fbf925cd2dcdab157e8e64/191:100/w_1280,c_limit/pol_DOGE_GettyImages-2202116482.jpg",
+            "publishedAt": "2026-05-07T16:21:08Z",
+            "content": "One of the earliest members of the so-called Department of Government Efficiencys (DOGE) is in the process of pivoting into his second act as a defense tech startup founder. Ethan Shaotran, one of th\u2026 [+3612 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Turtle Beach made a good SteelSeries headset clone that\u2019s $50 less",
+            "description": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved featu\u2026",
+            "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&strip=all&crop=0%2C10.728752477728%2C100%2C78.542495044544&w=1200",
+            "publishedAt": "2026-05-15T15:27:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTurtle Beach and SteelSeries new models can do wireless hi-res audio, but its not the key reason you should upgrade. \r\nTurtle Beach and SteelSeries new models ca\u2026 [+6652 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Tyler August",
+            "title": "Pushing as Many Pixels as Possible to a CRT: Interlaced 4K",
+            "description": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play vide\u2026",
+            "url": "https://hackaday.com/2026/05/02/pushing-as-many-pixels-as-possible-to-a-crt-interlaced-4k/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/04/4K-crt1-e1777323654905.jpg",
+            "publishedAt": "2026-05-02T20:00:32Z",
+            "content": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play video games.\u2026 [+1866 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "AMD\u2019s best CPU tech for gamers is coming to workstations too",
+            "description": "For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mainly been geared toward gamers, but they've also gotten better \u2026",
+            "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2026-05-13T20:38:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
             "ai_score": 5
         },
         {
@@ -118,20 +216,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "Asus chases Elgato with its own secondary touchscreen display",
-            "description": "Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main monitor, similar to the 14.1-inch secondary display in the 2020 A\u2026",
-            "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-05-08T20:34:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little smaller than its competition from Corsair.\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little s\u2026 [+2232 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Richard Lawler",
             "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
             "description": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So f\u2026",
@@ -160,34 +244,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Microsoft gives up on Xbox Copilot AI",
-            "description": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Micro\u2026",
-            "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/01_Wire-Hero-1920x1080-1-0b305b4a9ace7898196b.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-05-05T19:58:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew Xbox CEO Asha Sharma continues to make her mark.\r\nNew Xbox CEO Asha Sharma continues to make her mark.\r\nby\r\nJay PetersClose\r\nPosts from this author will be a\u2026 [+2537 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Leaked images reveal Xbox Elite 3 controller",
-            "description": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the\u2026",
-            "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxelite3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T20:52:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Elite 3 controller appears to have new scroll wheel buttons, a removable battery, and a cloud mode button.\r\nThe Elite 3 controller appears to have new scroll\u2026 [+2588 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Antonio G. Di Benedetto",
             "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
             "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
@@ -209,20 +265,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-06T15:38:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Xbox CEO continues to make changes that are designed to please fans.\r\nMicrosofts new Xbox CEO continues to make changes that are designed to pleas\u2026 [+2437 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft\u2019s new Xbox shake-up is all about platform changes",
-            "description": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly-requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma \u2026",
-            "url": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-05-05T16:51:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox platform team.\r\nXbox CEO Asha Sharma is bringing more technical expertise into the Xbox p\u2026 [+4920 chars]",
             "ai_score": 5
         },
         {
@@ -349,20 +391,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717622/247361_PS5_Pro_VPavic_256.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
             "publishedAt": "2026-05-08T09:23:23Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPS5 sales dropped by 46 percent year over year.\r\nPS5 sales dropped by 46 percent year over year.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added to yo\u2026 [+3315 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Vittoria Elliott",
-            "title": "DOGE's Ethan Shaotran Is Now Running a Defense Tech Startup",
-            "description": "In an email viewed by WIRED, Shaotran describes Blitz Industries as \u201ca defense company backed by big names.\u201d",
-            "url": "https://www.wired.com/story/doges-ethan-shaotran-is-now-running-a-defense-tech-startup/",
-            "urlToImage": "https://media.wired.com/photos/69fbf925cd2dcdab157e8e64/191:100/w_1280,c_limit/pol_DOGE_GettyImages-2202116482.jpg",
-            "publishedAt": "2026-05-07T16:21:08Z",
-            "content": "One of the earliest members of the so-called Department of Government Efficiencys (DOGE) is in the process of pivoting into his second act as a defense tech startup founder. Ethan Shaotran, one of th\u2026 [+3612 chars]",
             "ai_score": 5
         },
         {
@@ -538,20 +566,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "Turtle Beach made a good SteelSeries headset clone that\u2019s $50 less",
-            "description": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved featu\u2026",
-            "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&strip=all&crop=0%2C10.728752477728%2C100%2C78.542495044544&w=1200",
-            "publishedAt": "2026-05-15T15:27:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTurtle Beach and SteelSeries new models can do wireless hi-res audio, but its not the key reason you should upgrade. \r\nTurtle Beach and SteelSeries new models ca\u2026 [+6652 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Valve raises Steam Deck prices by more than $200",
             "description": "Valve has significantly increased the price of the Steam Deck - but now, it's also in stock. The 512GB Steam Deck OLED now costs $789, up from $549, while the 1TB model costs $949, up from $649. As I write this, both models are available to buy on Steam with \u2026",
@@ -671,6 +685,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Anker-Laptop-Power-Bank-Deal-Image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-20T15:33:08Z",
             "content": "Whether you\u2019re heading out for a quick Memorial Day getaway or preparing for summer travel, a reliable power bank can come in handy when there\u2019s no outlet in sight. Fortunately, Anker\u2019s Laptop Power \u2026 [+3928 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Basketball-playing robot built by sixth-formers wins tech competition",
+            "description": "A basketball-playing robot won Friends' School in Lisburn first place at the UK-wide First Tech Challenge robotics competition.",
+            "url": "https://www.bbc.com/news/articles/c99ll5z1vvpo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8aea/live/8eb6a020-59b2-11f1-a4b7-619c279792a3.jpg",
+            "publishedAt": "2026-05-27T05:14:50Z",
+            "content": "\"It is exciting, it's not ten nerds in a room! It's a full arena, it's a pretty big thing,\" he said.",
             "ai_score": 5
         },
         {
@@ -895,20 +923,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-18T17:45:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Musk v. Altman jury dismissed all charges due to the statute of limitations.\r\nThe Musk v. Altman jury dismissed all charges due to the statute of limitations\u2026 [+3098 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hackaday"
-            },
-            "author": "Tyler August",
-            "title": "Pushing as Many Pixels as Possible to a CRT: Interlaced 4K",
-            "description": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play vide\u2026",
-            "url": "https://hackaday.com/2026/05/02/pushing-as-many-pixels-as-possible-to-a-crt-interlaced-4k/",
-            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/04/4K-crt1-e1777323654905.jpg",
-            "publishedAt": "2026-05-02T20:00:32Z",
-            "content": "Some people love CRTs to a degree that the uninitiated may find obsessive. We all have our thing, and for [Found Tech], it\u2019s absolutely pointing particle accelerators at his face to play video games.\u2026 [+1866 chars]",
             "ai_score": 5
         },
         {
@@ -1147,20 +1161,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/09/Xbox-logo3-1200x675.jpg",
             "publishedAt": "2026-05-20T20:34:48Z",
             "content": "Can Matthew Ball reverse Microsoft\u2019s stagnating console gaming business? That\u2019s the job he\u2019s been tasked with as Xbox\u2019s new chief strategy officer. Asha Sharma announced that the venture capital anal\u2026 [+2636 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "The Oscars Are Barring AI Generated Films, Gaming Awards Should Do The Same",
-            "description": "Many major gaming awards are fuzzy at best as the entertainment industry at large grapples with where AI generated material fits in",
-            "url": "https://kotaku.com/the-oscars-are-barring-ai-generated-films-gaming-awards-should-do-the-same-2000692691",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/05/FrTa17eWAAA5HqB.jpg",
-            "publishedAt": "2026-05-02T18:00:18Z",
-            "content": "In a slate of newly announced rules, the Oscars are making themselves clear: only human beings can win awards. In the past this may have settled the eligibility of Rin Tin Tin, but in the 21st centur\u2026 [+5090 chars]",
             "ai_score": 5
         }
     ]
