@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-30 15:12",
+    "last_updated": "2026-05-30 17:10",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -1124,6 +1124,20 @@
         {
             "source": {
                 "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Endless yellow corridors started as an internet meme - now it's a Hollywood horror film",
+            "description": "YouTuber Kane Parsons' eerie YouTube series has been adapted for a film called Backrooms.",
+            "url": "https://www.bbc.com/news/articles/cdxpdnwx5n5o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a54e/live/ce042a60-59dd-11f1-b9b7-274764de012f.jpg",
+            "publishedAt": "2026-05-29T16:03:04Z",
+            "content": "The post read: \"If you're not careful and you noclip out of reality [gaming terminology for glitching or disappearing] in the wrong areas, you'll end up in the Backrooms, where it's nothing but the s\u2026 [+228 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
@@ -1147,20 +1161,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/b7a86f30289e10e61db2f10c57d751ea9b4835df/hub/2022/07/22/d387a0ed-5f44-4682-bf68-c599b93c992a/psplus-1.jpg?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-05-18T17:44:31Z",
             "content": "PlayStation Plus, the subscription service for the PlayStation platform, is seeing a price increase for new subscribers. \"Ongoing market conditions\" were cited as the reason for the price increase, w\u2026 [+2835 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Valve just imported 50 tons of game consoles in two days",
-            "description": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and April 30th, according to import records\u2026",
-            "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-            "publishedAt": "2026-05-05T00:03:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to believe they could be the Steam Machine.\r\nTheres reason to believe they could be the Steam Machine.\r\nby\r\nSean HollisterClose\r\nPosts from this au\u2026 [+4144 chars]",
             "ai_score": 5
         }
     ]
