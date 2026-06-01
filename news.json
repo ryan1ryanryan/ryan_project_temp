@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-06-01 16:43",
+    "last_updated": "2026-06-01 21:00",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
+            "description": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today\u2026",
+            "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
+            "publishedAt": "2026-05-28T13:02:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -55,20 +69,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-14T14:06:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
-            "description": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today\u2026",
-            "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
-            "publishedAt": "2026-05-28T13:02:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
             "ai_score": 5
         },
         {
@@ -258,20 +258,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Dell and RAMageddon are watering down the Alienware brand",
-            "description": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. Th\u2026",
-            "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T08:56:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+4114 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Brandon Widder",
             "title": "Sony is offering up to 50 percent off some of our favorite PS5 games",
             "description": "Even without E3, the transition from spring to summer is a busy time for the gaming industry. Summer Game Fest is right around the corner, and Sony is kicking things off with a State of Play on June 2nd with an extended look at\u00a0Insomniac\u2019s upcoming Wolverine \u2026",
@@ -279,6 +265,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/LaunchTrailer_Full_R6_FD.00_00_50_49.Still021.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-27T16:41:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are also ways to save today on Govees LED LightWall and the Nintendo Switch version of Red Dead Redemption.\r\nThere are also ways to save today on Govees LE\u2026 [+4392 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Dell and RAMageddon are watering down the Alienware brand",
+            "description": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. Th\u2026",
+            "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T08:56:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+4114 chars]",
             "ai_score": 5
         },
         {
@@ -689,6 +689,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Justin Caffier",
+            "title": "Apple Is Officially Coming for Meta\u2019s Privacy-Invading Lunch With Its Own Smart Glasses in Late 2027",
+            "description": "Look forward to the tech giant's long-rumored wearables to be recording you without your knowledge or consent some time later next year.",
+            "url": "https://gizmodo.com/apple-is-officially-coming-for-metas-privacy-invading-lunch-with-its-own-smart-glasses-in-late-2027-2000765491",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/apple-glasses-1200x675.jpg",
+            "publishedAt": "2026-05-31T19:58:45Z",
+            "content": "While checking out of a recent medical appointment, I was suddenly horrified to realize the front desk receptionist I was speaking with had on a pair of Meta x Ray Ban smart glasses.Those arent filmi\u2026 [+3690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -888,20 +902,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Allison Johnson",
-            "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
-            "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last\u2026",
-            "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0%2C9.2187253673634%2C100%2C81.562549265273&w=1200",
-            "publishedAt": "2026-05-29T14:32:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIn 2022, Craig Campbell walked away from a blank check to start, of all things, a website. And his bet is paying off.\r\nIn 2022, Craig Campbell walked away from a\u2026 [+7110 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
             "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
@@ -909,6 +909,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-27T20:03:42Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Allison Johnson",
+            "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
+            "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last\u2026",
+            "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0%2C9.2187253673634%2C100%2C81.562549265273&w=1200",
+            "publishedAt": "2026-05-29T14:32:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIn 2022, Craig Campbell walked away from a blank check to start, of all things, a website. And his bet is paying off.\r\nIn 2022, Craig Campbell walked away from a\u2026 [+7110 chars]",
             "ai_score": 5
         },
         {
@@ -1119,34 +1133,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/kura-sushi-2020-1200x675.jpg",
             "publishedAt": "2026-05-20T17:40:18Z",
             "content": "President Donald Trump bought millions of dollars of stock in drug companies, defense contractors, and tech firms during the first three months of this year, according to new financial disclosures re\u2026 [+4004 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Mistral CEO Says the Pope\u2019s Comments Are a Big Problem for Europe\u2019s War on American Tech",
-            "description": "CEO Arthur Mensch argues Europe needs its own advanced AI capabilities in order to avoid getting left behind by American rivals.",
-            "url": "https://gizmodo.com/mistral-ceo-says-the-popes-comments-are-a-big-problem-for-europes-war-on-american-tech-2000764700",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/32f6d30230090103e42298605221f430.jpg",
-            "publishedAt": "2026-05-28T19:20:40Z",
-            "content": "Mistral CEO Arthur Mensch is pushing back against Pope Leo XIVs recent call for AI to be disarmed, arguing that Europe cant afford to fall behind U.S. tech giants in the race for advanced AI.\r\nWe\u2019re \u2026 [+3597 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Best Gadgets of May 2026",
-            "description": "May was stuffed with premium and expensive tech. We got everything from luxury Sony wireless headphones to pricey gaming laptops to futuristic XR smart glasses.",
-            "url": "https://gizmodo.com/best-gadgets-may-2026-2000764680",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Best-gadgets-of-may-2026-1200x675.jpeg",
-            "publishedAt": "2026-05-31T11:30:16Z",
-            "content": "If May proved anything, it\u2019s that gadgets are getting more premium and pricey by the day. As just one example, major gaming consoles like the Nintendo Switch 2 and Steam Deck OLED suffered price hike\u2026 [+8025 chars]",
             "ai_score": 5
         }
     ]
