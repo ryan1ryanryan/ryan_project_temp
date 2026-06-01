@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-06-01 10:26",
+    "last_updated": "2026-06-01 16:43",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
-            "description": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today\u2026",
-            "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
-            "publishedAt": "2026-05-28T13:02:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Guess What? Streaming-Only Gaming Handhelds Are Still a Thing",
-            "description": "Acer\u2019s Nitro Blaze Link is like if a PlayStation Portal ran Linux.",
-            "url": "https://gizmodo.com/guess-what-streaming-only-gaming-handhelds-are-still-a-thing-2000764829",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/ACER-NITRO-BLAZE-LINK-GN772-01-1200x675.jpg",
-            "publishedAt": "2026-05-29T13:00:01Z",
-            "content": "Some of our favorite gaming handhelds, like the Lenovo Legion Go 2 and Steam Deck, now cost close to 50% more than they did a year ago. Hardware prices are enough to make game streaming seem more lik\u2026 [+3143 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -83,6 +55,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-14T14:06:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
+            "description": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today\u2026",
+            "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
+            "publishedAt": "2026-05-28T13:02:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
             "ai_score": 5
         },
         {
@@ -335,6 +321,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Asus-ROG-Xreal-R1-3-1200x675.jpg",
             "publishedAt": "2026-05-15T07:30:53Z",
             "content": "Asus ROG\u2019s Xreal R1, the world\u2019s first pair of AR smart glasses capable of projecting a virtual screen before your eyes with a blistering 240Hz rate, finally has\u2026 a price and preorder dates.\r\nAhead o\u2026 [+1751 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Guess What? Streaming-Only Gaming Handhelds Are Still a Thing",
+            "description": "Acer\u2019s Nitro Blaze Link is like if a PlayStation Portal ran Linux.",
+            "url": "https://gizmodo.com/guess-what-streaming-only-gaming-handhelds-are-still-a-thing-2000764829",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/ACER-NITRO-BLAZE-LINK-GN772-01-1200x675.jpg",
+            "publishedAt": "2026-05-29T13:00:01Z",
+            "content": "Some of our favorite gaming handhelds, like the Lenovo Legion Go 2 and Steam Deck, now cost close to 50% more than they did a year ago. Hardware prices are enough to make game streaming seem more lik\u2026 [+3143 chars]",
             "ai_score": 5
         },
         {
@@ -888,20 +888,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
-            "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
-            "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-27T20:03:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Allison Johnson",
             "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
             "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last\u2026",
@@ -909,6 +895,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0%2C9.2187253673634%2C100%2C81.562549265273&w=1200",
             "publishedAt": "2026-05-29T14:32:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIn 2022, Craig Campbell walked away from a blank check to start, of all things, a website. And his bet is paying off.\r\nIn 2022, Craig Campbell walked away from a\u2026 [+7110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
+            "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
+            "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-27T20:03:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
             "ai_score": 5
         },
         {
@@ -1138,15 +1138,15 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Gizmodo.com"
             },
-            "author": null,
-            "title": "Endless yellow corridors started as an internet meme - now it's a Hollywood horror film",
-            "description": "YouTuber Kane Parsons' eerie YouTube series has been adapted for a film called Backrooms.",
-            "url": "https://www.bbc.com/news/articles/cdxpdnwx5n5o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a54e/live/ce042a60-59dd-11f1-b9b7-274764de012f.jpg",
-            "publishedAt": "2026-05-29T16:03:04Z",
-            "content": "The post read: \"If you're not careful and you noclip out of reality [gaming terminology for glitching or disappearing] in the wrong areas, you'll end up in the Backrooms, where it's nothing but the s\u2026 [+228 chars]",
+            "author": "Kyle Barr",
+            "title": "The Best Gadgets of May 2026",
+            "description": "May was stuffed with premium and expensive tech. We got everything from luxury Sony wireless headphones to pricey gaming laptops to futuristic XR smart glasses.",
+            "url": "https://gizmodo.com/best-gadgets-may-2026-2000764680",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Best-gadgets-of-may-2026-1200x675.jpeg",
+            "publishedAt": "2026-05-31T11:30:16Z",
+            "content": "If May proved anything, it\u2019s that gadgets are getting more premium and pricey by the day. As just one example, major gaming consoles like the Nintendo Switch 2 and Steam Deck OLED suffered price hike\u2026 [+8025 chars]",
             "ai_score": 5
         }
     ]
