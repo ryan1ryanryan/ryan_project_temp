@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-02 14:07",
+    "last_updated": "2026-06-02 18:44",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -860,20 +860,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
-            "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
-            "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-27T20:03:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Allison Johnson",
             "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
             "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last\u2026",
@@ -881,6 +867,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0%2C9.2187253673634%2C100%2C81.562549265273&w=1200",
             "publishedAt": "2026-05-29T14:32:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIn 2022, Craig Campbell walked away from a blank check to start, of all things, a website. And his bet is paying off.\r\nIn 2022, Craig Campbell walked away from a\u2026 [+7110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
+            "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
+            "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-27T20:03:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
             "ai_score": 5
         },
         {
@@ -923,6 +923,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-18T17:45:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Musk v. Altman jury dismissed all charges due to the statute of limitations.\r\nThe Musk v. Altman jury dismissed all charges due to the statute of limitations\u2026 [+3098 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Microsoft\u2019s Surface Laptop Ultra Is Picking a Fight With the M5 Max MacBook Pro",
+            "description": "Thinness is out and brute Nvidia RTX Spark performance is in.",
+            "url": "https://gizmodo.com/microsofts-surface-laptop-ultra-is-picking-a-fight-with-the-m5-max-macbook-pro-2000765747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/microsoft-surface-ultra-0-1200x675.jpeg",
+            "publishedAt": "2026-06-01T15:15:22Z",
+            "content": "Billed as the \u201cmost powerful Surface Laptop ever built,\u201d the specs for the Surface Laptop Ultra, launching this fall, should arouse any tech geek. Microsoft seems to be cramming in as much as possibl\u2026 [+1905 chars]",
             "ai_score": 5
         },
         {
@@ -1012,6 +1026,20 @@
         {
             "source": {
                 "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "What's next for social media stars KSI and the Sidemen?",
+            "description": "YouTuber KSI shocked fans after announcing his departure from the Sidemen over the weekend.",
+            "url": "https://www.bbc.com/news/articles/c93xz8w1j3ko",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0c62/live/c3c0cda0-5dc1-11f1-8b8c-6d33e1d5abb6.jpg",
+            "publishedAt": "2026-06-01T16:02:06Z",
+            "content": "The group - which also consists of Simon Minter, Josh Bradley, Vikram Barn, Tobi Brown, Ethan Payne and Harry Lewis - has become known for doing a host of challenges, gaming commentary and sketches.",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
@@ -1091,62 +1119,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Best-gadgets-of-may-2026-1200x675.jpeg",
             "publishedAt": "2026-05-31T11:30:16Z",
             "content": "If May proved anything, it\u2019s that gadgets are getting more premium and pricey by the day. As just one example, major gaming consoles like the Nintendo Switch 2 and Steam Deck OLED suffered price hike\u2026 [+8025 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Endless yellow corridors started as an internet meme - now it's a Hollywood horror film",
-            "description": "YouTuber Kane Parsons' eerie YouTube series has been adapted for a film called Backrooms.",
-            "url": "https://www.bbc.com/news/articles/cdxpdnwx5n5o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a54e/live/ce042a60-59dd-11f1-b9b7-274764de012f.jpg",
-            "publishedAt": "2026-05-29T16:03:04Z",
-            "content": "The post read: \"If you're not careful and you noclip out of reality [gaming terminology for glitching or disappearing] in the wrong areas, you'll end up in the Backrooms, where it's nothing but the s\u2026 [+228 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Alienware Fixed the One Problem With the Area-51, and Now I\u2019m Afraid I Love It",
-            "description": "The Alienware 16 Area-51 (2026) costs way more than before, but at least the OLED screen is so much better.",
-            "url": "https://gizmodo.com/alienware-16-alien-51-2026-review-oled-screen-fixes-previous-gaming-laptop-problem-2000762742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-01-1200x675.jpg",
-            "publishedAt": "2026-05-26T15:00:09Z",
-            "content": "The Alienware 16 Area-51 (2025) didnt need much to become an impeccable gaming laptop. Now, a year later, nearly all my major nitpicks have been resolved with the introduction of an OLED display. And\u2026 [+12742 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Oscar Gonzalez",
-            "title": "PlayStation Plus Prices Are Increasing for New Subscribers Starting May 20",
-            "description": "The \"ongoing market conditions\" are making gaming a very expensive hobby.",
-            "url": "https://www.cnet.com/tech/gaming/playstation-plus-prices-are-increasing-for-new-subscribers-starting-may-20/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/b7a86f30289e10e61db2f10c57d751ea9b4835df/hub/2022/07/22/d387a0ed-5f44-4682-bf68-c599b93c992a/psplus-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-05-18T17:44:31Z",
-            "content": "PlayStation Plus, the subscription service for the PlayStation platform, is seeing a price increase for new subscribers. \"Ongoing market conditions\" were cited as the reason for the price increase, w\u2026 [+2835 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Valve just imported 50 tons of game consoles in two days",
-            "description": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and April 30th, according to import records\u2026",
-            "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-            "publishedAt": "2026-05-05T00:03:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to believe they could be the Steam Machine.\r\nTheres reason to believe they could be the Steam Machine.\r\nby\r\nSean HollisterClose\r\nPosts from this au\u2026 [+4144 chars]",
             "ai_score": 5
         }
     ]
