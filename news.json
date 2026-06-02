@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-02 18:44",
+    "last_updated": "2026-06-02 21:52",
     "articles": [
         {
             "source": {
@@ -381,6 +381,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Sony\u2019s PS5 sales plummet amid price rises and a memory crisis",
+            "description": "Sony sold just 1.5 million PS5 consoles in its most recent fourth fiscal quarter, down 46 percent year-over-year. The slump in PS5 sales comes after Sony raised the price of its PS5 consoles twice over the past year, pushing the price of the regular PS5 from \u2026",
+            "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717622/247361_PS5_Pro_VPavic_256.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+            "publishedAt": "2026-05-08T09:23:23Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPS5 sales dropped by 46 percent year over year.\r\nPS5 sales dropped by 46 percent year over year.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added to yo\u2026 [+3315 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -398,20 +412,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Sony\u2019s PS5 sales plummet amid price rises and a memory crisis",
-            "description": "Sony sold just 1.5 million PS5 consoles in its most recent fourth fiscal quarter, down 46 percent year-over-year. The slump in PS5 sales comes after Sony raised the price of its PS5 consoles twice over the past year, pushing the price of the regular PS5 from \u2026",
-            "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717622/247361_PS5_Pro_VPavic_256.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
-            "publishedAt": "2026-05-08T09:23:23Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPS5 sales dropped by 46 percent year over year.\r\nPS5 sales dropped by 46 percent year over year.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added to yo\u2026 [+3315 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "Tech companies desperately want to film you doing chores",
             "description": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In e\u2026",
@@ -419,6 +419,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-29T17:37:43Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nStartups are paying people for the real-world data needed to train their robots. \r\nStartups are paying people for the real-world data needed to train their robot\u2026 [+5060 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Nintendo\u2019s Switch 2 Is Getting a Price Hike\u2014and It\u2019s All AI\u2019s Fault",
+            "description": "Better buy that Switch 2 now before prices increase in September.",
+            "url": "https://gizmodo.com/nintendos-switch-2-is-getting-a-price-hike-and-its-all-ais-fault-2000756161",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-hands-on-37-e1749737981488-1200x675.jpg",
+            "publishedAt": "2026-05-08T13:38:53Z",
+            "content": "Nintendo tried to avoid raising prices on its nearly year-old Switch 2 for as long as it could, but in the end, even the mighty Mario maker couldn\u2019t stave off the ongoing \u201cRAMpocalypse\u201d that\u2019s caused\u2026 [+3059 chars]",
             "ai_score": 5
         },
         {
@@ -447,20 +461,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKS530_FTC_Microsoft_AParkin3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-01T13:23:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter 25 years, an FTC investigation could put it back in the hot seat.\r\nAfter 25 years, an FTC investigation could put it back in the hot seat.\r\nby\r\nLauren Fein\u2026 [+9631 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Raymond Wong",
-            "title": "Nintendo\u2019s Switch 2 Is Getting a Price Hike\u2014and It\u2019s All AI\u2019s Fault",
-            "description": "Better buy that Switch 2 now before prices increase in September.",
-            "url": "https://gizmodo.com/nintendos-switch-2-is-getting-a-price-hike-and-its-all-ais-fault-2000756161",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-hands-on-37-e1749737981488-1200x675.jpg",
-            "publishedAt": "2026-05-08T13:38:53Z",
-            "content": "Nintendo tried to avoid raising prices on its nearly year-old Switch 2 for as long as it could, but in the end, even the mighty Mario maker couldn\u2019t stave off the ongoing \u201cRAMpocalypse\u201d that\u2019s caused\u2026 [+3059 chars]",
             "ai_score": 5
         },
         {
@@ -997,6 +997,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "The Google Pixel Watch 5 may have been spoiled by\u2026 the creator of Borderlands",
+            "description": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater, while scuba di\u2026",
+            "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+            "publishedAt": "2026-06-01T21:02:47Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRandy Pitchford says his friend found a Pixel 5 watch while scuba diving.\r\nRandy Pitchford says his friend found a Pixel 5 watch while scuba diving.\r\nby\r\nEmma Ro\u2026 [+3166 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Android Central"
             },
@@ -1084,6 +1098,20 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
+            "author": "Bruce Gil",
+            "title": "China\u2019s BYD Is Offering to Pay for Some Crashes Involving Its Self-Driving Tech",
+            "description": "Elon Musk: You've been challenged.",
+            "url": "https://gizmodo.com/chinas-byd-is-offering-to-pay-for-some-crashes-involving-its-self-driving-tech-2000766045",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/BYD-EV-China-US-Automakers-1200x675.jpg",
+            "publishedAt": "2026-06-01T21:40:11Z",
+            "content": "BYD seems extremely confident in its driver-assistance system, or at least confident enough to put some money behind it.\r\nThe Chinese EV giant is now offering to pay damages for some drivers involved\u2026 [+2374 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
             "author": "Matt Novak",
             "title": "Did Trump Accidentally Buy Stock in a Sushi Restaurant Instead of a Tech Company?",
             "description": "There's something fishy about the President's stock purchases.",
@@ -1091,34 +1119,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/kura-sushi-2020-1200x675.jpg",
             "publishedAt": "2026-05-20T17:40:18Z",
             "content": "President Donald Trump bought millions of dollars of stock in drug companies, defense contractors, and tech firms during the first three months of this year, according to new financial disclosures re\u2026 [+4004 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Mistral CEO Says the Pope\u2019s Comments Are a Big Problem for Europe\u2019s War on American Tech",
-            "description": "CEO Arthur Mensch argues Europe needs its own advanced AI capabilities in order to avoid getting left behind by American rivals.",
-            "url": "https://gizmodo.com/mistral-ceo-says-the-popes-comments-are-a-big-problem-for-europes-war-on-american-tech-2000764700",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/32f6d30230090103e42298605221f430.jpg",
-            "publishedAt": "2026-05-28T19:20:40Z",
-            "content": "Mistral CEO Arthur Mensch is pushing back against Pope Leo XIVs recent call for AI to be disarmed, arguing that Europe cant afford to fall behind U.S. tech giants in the race for advanced AI.\r\nWe\u2019re \u2026 [+3597 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Best Gadgets of May 2026",
-            "description": "May was stuffed with premium and expensive tech. We got everything from luxury Sony wireless headphones to pricey gaming laptops to futuristic XR smart glasses.",
-            "url": "https://gizmodo.com/best-gadgets-may-2026-2000764680",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Best-gadgets-of-may-2026-1200x675.jpeg",
-            "publishedAt": "2026-05-31T11:30:16Z",
-            "content": "If May proved anything, it\u2019s that gadgets are getting more premium and pricey by the day. As just one example, major gaming consoles like the Nintendo Switch 2 and Steam Deck OLED suffered price hike\u2026 [+8025 chars]",
             "ai_score": 5
         }
     ]
