@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-04 21:01",
+    "last_updated": "2026-06-04 22:27",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Turtle Beach made a good SteelSeries headset clone that\u2019s $50 less",
+            "description": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved featu\u2026",
+            "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&strip=all&crop=0%2C10.728752477728%2C100%2C78.542495044544&w=1200",
+            "publishedAt": "2026-05-15T15:27:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTurtle Beach and SteelSeries new models can do wireless hi-res audio, but its not the key reason you should upgrade. \r\nTurtle Beach and SteelSeries new models ca\u2026 [+6652 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -601,20 +615,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/samsung-galaxy-6-faint-prediction-1-1200x675.jpg",
             "publishedAt": "2026-05-25T13:00:57Z",
             "content": "Samsung intends to add a fainting-prediction sensor to the Galaxy Watch in the near future. The company announced in early May that it has partnered with Chung-Ang University Gwangmyeong Hospital in \u2026 [+2676 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Turtle Beach made a good SteelSeries headset clone that\u2019s $50 less",
-            "description": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved featu\u2026",
-            "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&strip=all&crop=0%2C10.728752477728%2C100%2C78.542495044544&w=1200",
-            "publishedAt": "2026-05-15T15:27:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTurtle Beach and SteelSeries new models can do wireless hi-res audio, but its not the key reason you should upgrade. \r\nTurtle Beach and SteelSeries new models ca\u2026 [+6652 chars]",
             "ai_score": 5
         },
         {
