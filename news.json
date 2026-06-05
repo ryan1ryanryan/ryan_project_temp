@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-06-05 00:13",
+    "last_updated": "2026-06-05 05:22",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AMD\u2019s FSR 4.1 upscaling tech is coming to older graphics cards",
+            "description": "AMD is bringing its FSR 4.1 upscaling tech to older graphics cards. In an announcement on X, Jack Huynh, AMD's head of computing and graphics, says FSR 4.1 will roll out to RDNA 3 GPUs in July, followed by a launch on RDNA 2 chips in early 2027. This summer's\u2026",
+            "url": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-05-14T14:06:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+            "description": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So f\u2026",
+            "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lg-ultragear-1000hz-25g590b.jpg?quality=90&strip=all&crop=0%2C4.0236073163838%2C100%2C91.952785367232&w=1200",
+            "publishedAt": "2026-05-19T01:13:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 25G590B is a 24.5-inch IPS screen with the highest refresh rate weve seen for a 1080p gaming monitor.\r\nThe 25G590B is a 24.5-inch IPS screen with the highest\u2026 [+2725 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,21 +41,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "If I could only have one laptop for work and gaming, I\u2019d get this one",
-            "description": "I've loved the Asus ROG Zephyrus G14 since it launched in 2020. I bought one for my wife after reading about how awesome it was on a little site called The Verge dot com. Since then, the G14 has gotten some facelifts, chip bumps, an occasional special edition\u2026",
-            "url": "https://www.theverge.com/tech/935898/asus-rog-zephyrus-g14-2026-intel-nvidia-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268552_Asus_ROG_Zephyrus_G14_2026_Intel_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-22T13:01:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Asus ROG Zephyrus G14 is almost perfect for me, except its $3,600.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethi\u2026 [+15012 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -55,20 +69,6 @@
             "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
             "publishedAt": "2026-05-08T01:42:14Z",
             "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "AMD\u2019s FSR 4.1 upscaling tech is coming to older graphics cards",
-            "description": "AMD is bringing its FSR 4.1 upscaling tech to older graphics cards. In an announcement on X, Jack Huynh, AMD's head of computing and graphics, says FSR 4.1 will roll out to RDNA 3 GPUs in July, followed by a launch on RDNA 2 chips in early 2027. This summer's\u2026",
-            "url": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-05-14T14:06:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
             "ai_score": 5
         },
         {
@@ -139,20 +139,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-08T20:34:24Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little smaller than its competition from Corsair.\r\nAt 12.3 inches, the new Asus ROG Strix XG129C is a little s\u2026 [+2232 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
-            "description": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So f\u2026",
-            "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lg-ultragear-1000hz-25g590b.jpg?quality=90&strip=all&crop=0%2C4.0236073163838%2C100%2C91.952785367232&w=1200",
-            "publishedAt": "2026-05-19T01:13:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 25G590B is a 24.5-inch IPS screen with the highest refresh rate weve seen for a 1080p gaming monitor.\r\nThe 25G590B is a 24.5-inch IPS screen with the highest\u2026 [+2725 chars]",
             "ai_score": 5
         },
         {
@@ -293,6 +279,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/LaunchTrailer_Full_R6_FD.00_00_50_49.Still021.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-27T16:41:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are also ways to save today on Govees LED LightWall and the Nintendo Switch version of Red Dead Redemption.\r\nThere are also ways to save today on Govees LE\u2026 [+4392 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "If I could only have one laptop for work and gaming, I\u2019d get this one",
+            "description": "I've loved the Asus ROG Zephyrus G14 since it launched in 2020. I bought one for my wife after reading about how awesome it was on a little site called The Verge dot com. Since then, the G14 has gotten some facelifts, chip bumps, an occasional special edition\u2026",
+            "url": "https://www.theverge.com/tech/935898/asus-rog-zephyrus-g14-2026-intel-nvidia-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268552_Asus_ROG_Zephyrus_G14_2026_Intel_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-22T13:01:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Asus ROG Zephyrus G14 is almost perfect for me, except its $3,600.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethi\u2026 [+15012 chars]",
             "ai_score": 5
         },
         {
