@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-06-07 10:39",
+    "last_updated": "2026-06-07 12:26",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff, Paresh Dave",
+            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+            "description": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+            "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+            "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
+            "publishedAt": "2026-05-08T01:42:14Z",
+            "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,20 +41,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-05-14T15:49:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nby\r\nT\u2026 [+2506 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff, Paresh Dave",
-            "title": "Musk vs. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-            "description": "Leaders at the tech giant were skeptical of OpenAI\u2014but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-            "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-            "urlToImage": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
-            "publishedAt": "2026-05-08T01:42:14Z",
-            "content": "OpenAIs relationship with Microsoft, its longtime investor and cloud partner, has grown increasingly complicated over the years as the ChatGPT-maker has grown into a behemoth competitor.\r\nBut Microso\u2026 [+3507 chars]",
             "ai_score": 5
         },
         {
@@ -916,6 +916,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Robert Hart",
+            "title": "AI \u2018content creators\u2019 are getting harder to spot",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, A\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GAUYdq3a4AAAlsX.jpg?quality=90&strip=all&crop=0%2C0.6699364330709%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-04T18:31:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI content creators are getting harder to spot\r\nSocial media platforms are baffled.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily ema\u2026 [+10941 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Stevie Bonifield",
             "title": "The company that owns Moog, Akai Pro, and Numark is buying Native Instruments",
             "description": "Native Instruments' suite of music production software and gear, including Traktor and Kontakt, will soon live under the inMusic umbrella alongside other music tech brands like Akai Professional and Moog Music. As MusicRadar reports, Native Instruments CEO Ni\u2026",
@@ -930,20 +944,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
-            "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
-            "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-27T20:03:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Allison Johnson",
             "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
             "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last\u2026",
@@ -951,6 +951,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0%2C9.2187253673634%2C100%2C81.562549265273&w=1200",
             "publishedAt": "2026-05-29T14:32:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIn 2022, Craig Campbell walked away from a blank check to start, of all things, a website. And his bet is paying off.\r\nIn 2022, Craig Campbell walked away from a\u2026 [+7110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
+            "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
+            "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-27T20:03:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
             "ai_score": 5
         },
         {
