@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-06-08 11:02",
+    "last_updated": "2026-06-08 14:54",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
-            "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
-            "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DSC_9281_R1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T14:44:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nby\r\nAntonio G. Di BenedettoClose\r\nPosts\u2026 [+3107 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "The durable, floatable UE Wonderboom 4 speaker is cheaper than ever",
-            "description": "I like the UE Wonderboom 4 Bluetooth speaker so much that I bought two of them, though I wish I could have paid less for them. Fortunately, you can stock up on the cheap, so long as you like the color blue. The Wonderboom 4 is available in blue at Amazon for \u2026",
-            "url": "https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultimate-ears-wonderboom-4-deal-image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-02T18:05:35Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, upgrade your gaming setup with discounts on a new QD-OLED gaming monitor or sleek, wireless headset.\r\nPlus, upgrade your gaming setup with discounts on a n\u2026 [+3539 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -216,6 +188,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
+            "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
+            "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DSC_9281_R1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T14:44:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nby\r\nAntonio G. Di BenedettoClose\r\nPosts\u2026 [+3107 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jay Peters",
             "title": "Amazon\u2019s new plan for games: James Bond and AI Snoop Dogg",
             "description": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a hu\u2026",
@@ -391,6 +377,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lego-pokemon-smart-play-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
             "publishedAt": "2026-06-02T13:37:34Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy, oh why, cant Pikachu say pika pika?\r\nWhy, oh why, cant Pikachu say pika pika?\r\nby\r\nDominic PrestonClose\r\nPosts from this author will be added to your daily \u2026 [+8322 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "The durable, floatable UE Wonderboom 4 speaker is cheaper than ever",
+            "description": "I like the UE Wonderboom 4 Bluetooth speaker so much that I bought two of them, though I wish I could have paid less for them. Fortunately, you can stock up on the cheap, so long as you like the color blue. The Wonderboom 4 is available in blue at Amazon for \u2026",
+            "url": "https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultimate-ears-wonderboom-4-deal-image.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-02T18:05:35Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, upgrade your gaming setup with discounts on a new QD-OLED gaming monitor or sleek, wireless headset.\r\nPlus, upgrade your gaming setup with discounts on a n\u2026 [+3539 chars]",
             "ai_score": 5
         },
         {
