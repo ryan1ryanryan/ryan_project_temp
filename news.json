@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-08 14:54",
+    "last_updated": "2026-06-08 17:58",
     "articles": [
         {
             "source": {
@@ -517,6 +517,20 @@
             "urlToImage": "https://media.wired.com/photos/6a0e0f8f6174d8e9dcf1157d/191:100/w_1280,c_limit/security_flock_GettyImages-2271667850.jpg",
             "publishedAt": "2026-05-20T21:58:06Z",
             "content": "US lawmakers plan to introduce an amendment Thursday at a House committee markup hearing that would prohibit any recipient of federal highway funding from using automated license plate readers for an\u2026 [+3757 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "This is Microsoft\u2019s Xbox 25th anniversary console in translucent green",
+            "description": "Microsoft has created a special edition Xbox Series X to celebrate 25 years of the console. The Xbox 25th anniversary console takes design cues from the original Xbox console, with both the console and controller featuring a translucent green design. \"For the\u2026",
+            "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-07T17:49:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe anniversary edition console includes an Xbox button that lights up green and a translucent green controller.\r\nThe anniversary edition console includes an Xbo\u2026 [+2471 chars]",
             "ai_score": 5
         },
         {
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0c62/live/c3c0cda0-5dc1-11f1-8b8c-6d33e1d5abb6.jpg",
             "publishedAt": "2026-06-01T16:02:06Z",
             "content": "The group - which also consists of Simon Minter, Josh Bradley, Vikram Barn, Tobi Brown, Ethan Payne and Harry Lewis - has become known for doing a host of challenges, gaming commentary and sketches.",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Samsung\u2019s Galaxy XR Is the Future of Wearables\u2014Just Not VR Headsets",
-            "description": "The Galaxy XR is a stepping stone to the faceputers we really want: AR smart glasses.",
-            "url": "https://gizmodo.com/samsungs-galaxy-xr-is-the-future-of-wearables-just-not-vr-headsets-2000757782",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/The-Next-Interface-1200x675.jpg",
-            "publishedAt": "2026-05-13T19:00:02Z",
-            "content": "Samsungs Galaxy XR headset is not so much its own augmented reality experience but a promise of a better, lighter device. The first headset to feature Android XRGoogles adventure into extended realit\u2026 [+12664 chars]",
             "ai_score": 5
         }
     ]
