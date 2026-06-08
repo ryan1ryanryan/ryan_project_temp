@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-06-08 20:22",
+    "last_updated": "2026-06-08 22:32",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Guess What? Streaming-Only Gaming Handhelds Are Still a Thing",
+            "description": "Acer\u2019s Nitro Blaze Link is like if a PlayStation Portal ran Linux.",
+            "url": "https://gizmodo.com/guess-what-streaming-only-gaming-handhelds-are-still-a-thing-2000764829",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/ACER-NITRO-BLAZE-LINK-GN772-01-1200x675.jpg",
+            "publishedAt": "2026-05-29T13:00:01Z",
+            "content": "Some of our favorite gaming handhelds, like the Lenovo Legion Go 2 and Steam Deck, now cost close to 50% more than they did a year ago. Hardware prices are enough to make game streaming seem more lik\u2026 [+3143 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Acer\u2019s Predator Atlas Could Make Gaming Handhelds Efficient, for Once",
+            "description": "Just don\u2019t expect Acer\u2019s first Intel-based handheld to be cheap.",
+            "url": "https://gizmodo.com/acers-predator-atlas-could-make-gaming-handhelds-efficient-for-once-2000764106",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Acer-Predator-Atlas-8-Main-Image-1-1200x675.jpeg",
+            "publishedAt": "2026-05-28T13:00:28Z",
+            "content": "Just when we thought that this years handheld gaming scene was laid up in its sick bed, Acer and Intel have come through with what might just be the antidote weve been waiting for. The Acer Predator \u2026 [+3364 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -321,34 +349,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Asus-ROG-Xreal-R1-3-1200x675.jpg",
             "publishedAt": "2026-05-15T07:30:53Z",
             "content": "Asus ROG\u2019s Xreal R1, the world\u2019s first pair of AR smart glasses capable of projecting a virtual screen before your eyes with a blistering 240Hz rate, finally has\u2026 a price and preorder dates.\r\nAhead o\u2026 [+1751 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Guess What? Streaming-Only Gaming Handhelds Are Still a Thing",
-            "description": "Acer\u2019s Nitro Blaze Link is like if a PlayStation Portal ran Linux.",
-            "url": "https://gizmodo.com/guess-what-streaming-only-gaming-handhelds-are-still-a-thing-2000764829",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/ACER-NITRO-BLAZE-LINK-GN772-01-1200x675.jpg",
-            "publishedAt": "2026-05-29T13:00:01Z",
-            "content": "Some of our favorite gaming handhelds, like the Lenovo Legion Go 2 and Steam Deck, now cost close to 50% more than they did a year ago. Hardware prices are enough to make game streaming seem more lik\u2026 [+3143 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Acer\u2019s Predator Atlas Could Make Gaming Handhelds Efficient, for Once",
-            "description": "Just don\u2019t expect Acer\u2019s first Intel-based handheld to be cheap.",
-            "url": "https://gizmodo.com/acers-predator-atlas-could-make-gaming-handhelds-efficient-for-once-2000764106",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Acer-Predator-Atlas-8-Main-Image-1-1200x675.jpeg",
-            "publishedAt": "2026-05-28T13:00:28Z",
-            "content": "Just when we thought that this years handheld gaming scene was laid up in its sick bed, Acer and Intel have come through with what might just be the antidote weve been waiting for. The Acer Predator \u2026 [+3364 chars]",
             "ai_score": 5
         },
         {
