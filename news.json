@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-11 05:53",
+    "last_updated": "2026-06-11 10:31",
     "articles": [
         {
             "source": {
@@ -27,7 +27,63 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-05-14T15:49:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nby\r\nT\u2026 [+2506 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
+            "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
+            "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DSC_9281_R1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T14:44:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nby\r\nAntonio G. Di BenedettoClose\r\nPosts\u2026 [+3107 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Dell and RAMageddon are watering down the Alienware brand",
+            "description": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. Th\u2026",
+            "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T08:56:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+4114 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer\u2019s Blade 18 Is More Powerful Than Before, but the Dang Laptop Weighs 7 Pounds",
+            "description": "Want Razer\u2019s largest, most powerful gaming laptop? You\u2019ll spend way more than last year.",
+            "url": "https://gizmodo.com/razers-blade-18-is-more-powerful-than-before-but-the-dang-laptop-weighs-7-pounds-2000758798",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Razer-Blade-18-Gaming-Laptop-2026-1200x675.jpg",
+            "publishedAt": "2026-05-14T18:00:21Z",
+            "content": "Razer\u2019s desktop-replacement laptop is once again trying to excuse you from considering a full-size gaming tower and monitor. The newly revealed Blade 18 gaming laptop is now packing a higher-end Inte\u2026 [+2893 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song, Nilay Patel",
+            "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
+            "description": "Fresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple Intelligence capabilities.\" Apple SVP of Software Engineering Craig Federighi and his team will be there\u2026",
+            "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc-2026-the-verge-55_32.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-08T18:46:33Z",
+            "content": "One of the funnier parts of the keynote.\r\n\n\nFresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple \u2026 [+915 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -146,20 +202,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
-            "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
-            "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DSC_9281_R1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T14:44:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nRAMageddon has come for the Blade 18 and the Blade 16, too.\r\nby\r\nAntonio G. Di BenedettoClose\r\nPosts\u2026 [+3107 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Amazon\u2019s new plan for games: James Bond and AI Snoop Dogg",
             "description": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a hu\u2026",
@@ -202,20 +244,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Dell and RAMageddon are watering down the Alienware brand",
-            "description": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. Th\u2026",
-            "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T08:56:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+4114 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Brandon Widder",
             "title": "Sony is offering up to 50 percent off some of our favorite PS5 games",
             "description": "Even without E3, the transition from spring to summer is a busy time for the gaming industry. Summer Game Fest is right around the corner, and Sony is kicking things off with a State of Play on June 2nd with an extended look at\u00a0Insomniac\u2019s upcoming Wolverine \u2026",
@@ -251,20 +279,6 @@
             "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
             "publishedAt": "2026-06-03T18:07:11Z",
             "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer\u2019s Blade 18 Is More Powerful Than Before, but the Dang Laptop Weighs 7 Pounds",
-            "description": "Want Razer\u2019s largest, most powerful gaming laptop? You\u2019ll spend way more than last year.",
-            "url": "https://gizmodo.com/razers-blade-18-is-more-powerful-than-before-but-the-dang-laptop-weighs-7-pounds-2000758798",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Razer-Blade-18-Gaming-Laptop-2026-1200x675.jpg",
-            "publishedAt": "2026-05-14T18:00:21Z",
-            "content": "Razer\u2019s desktop-replacement laptop is once again trying to excuse you from considering a full-size gaming tower and monitor. The newly revealed Blade 18 gaming laptop is now packing a higher-end Inte\u2026 [+2893 chars]",
             "ai_score": 5
         },
         {
@@ -398,20 +412,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "Microsoft could be the next Big Tech antitrust target",
-            "description": "Over the past several years, Microsoft has largely managed to withstand populist calls to break up Big Tech while peers faced sweeping lawsuits. But a probe by the Federal Trade Commission suggests that grace period could be nearing an end. Earlier this year,\u2026",
-            "url": "https://www.theverge.com/policy/940220/microsoft-ftc-antitrust-investigation-cloud-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKS530_FTC_Microsoft_AParkin3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-01T13:23:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter 25 years, an FTC investigation could put it back in the hot seat.\r\nAfter 25 years, an FTC investigation could put it back in the hot seat.\r\nby\r\nLauren Fein\u2026 [+9631 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Janus Rose",
             "title": "In desperate times, graduates find hope in humiliating tech CEOs",
             "description": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencem\u2026",
@@ -426,13 +426,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Victoria Song, Nilay Patel",
-            "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
-            "description": "Fresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple Intelligence capabilities.\" Apple SVP of Software Engineering Craig Federighi and his team will be there\u2026",
-            "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc-2026-the-verge-55_32.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-08T18:46:33Z",
-            "content": "One of the funnier parts of the keynote.\r\n\n\nFresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple \u2026 [+915 chars]",
+            "author": "Lauren Feiner",
+            "title": "Microsoft could be the next Big Tech antitrust target",
+            "description": "Over the past several years, Microsoft has largely managed to withstand populist calls to break up Big Tech while peers faced sweeping lawsuits. But a probe by the Federal Trade Commission suggests that grace period could be nearing an end. Earlier this year,\u2026",
+            "url": "https://www.theverge.com/policy/940220/microsoft-ftc-antitrust-investigation-cloud-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKS530_FTC_Microsoft_AParkin3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-01T13:23:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter 25 years, an FTC investigation could put it back in the hot seat.\r\nAfter 25 years, an FTC investigation could put it back in the hot seat.\r\nby\r\nLauren Fein\u2026 [+9631 chars]",
             "ai_score": 5
         },
         {
@@ -538,20 +538,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
-            "description": "Geoff Keighley\u2019s annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and announcements, begins at 5PM ET and is set to run for two hours. The event itself will take place in person \u2026",
-            "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2222468017.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2026-06-05T20:46:49Z",
-            "content": "LIVEUpdated Today, Jun 5, 2026, 8:41 PM UTC\r\nGeoff Keighleys annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and anno\u2026 [+2068 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Webster",
             "title": "Nintendo\u2019s next Direct showcase is on June 9th",
             "description": "Summer Game Fest may be over, but the flood of gaming news isn't. Nintendo just announced that it'll be holding its next Direct showcase event on June 9th at 10AM ET. The stream, which you can find here, will be followed by a Treehouse Live event, and it soun\u2026",
@@ -559,6 +545,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_0ea1cb.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-08T14:02:59Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWell likely finally hear more about the Switch 2s holiday lineup.\r\nWell likely finally hear more about the Switch 2s holiday lineup.\r\nby\r\nAndrew WebsterClose\r\nSe\u2026 [+2391 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
+            "description": "Geoff Keighley\u2019s annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and announcements, begins at 5PM ET and is set to run for two hours. The event itself will take place in person \u2026",
+            "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2222468017.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+            "publishedAt": "2026-06-05T20:46:49Z",
+            "content": "LIVEUpdated Today, Jun 5, 2026, 8:41 PM UTC\r\nGeoff Keighleys annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and anno\u2026 [+2068 chars]",
             "ai_score": 5
         },
         {
@@ -594,20 +594,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Wes Davis",
-            "title": "We Really Are Just Doing Wi-Fi 8 Gaming Routers Now",
-            "description": "Just days after TP-Link, Asus has announced its own Wi-Fi 8 router.",
-            "url": "https://gizmodo.com/we-really-are-just-doing-wi-fi-8-gaming-routers-now-2000766976",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Asus-ROG-Rapture-GT-BN90-Pro-Wi-Fi-8-gaming-router-1200x675.jpg",
-            "publishedAt": "2026-06-03T16:30:09Z",
-            "content": "Asus brought quite a few Republic of Gamers (ROG) products to Computex 2026. One announcement that might\u2019ve flown under the radar is that the company is giving the Wi-Fi 8 treatment to its head crabb\u2026 [+3754 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Kyle Barr",
             "title": "It\u2019s Time for Intel to Prove It Can Keep Handheld PC Gaming Alive",
             "description": "The Intel Arc G3 chip could bring better battery life and performance for handhelds. Just don't expect they'll be cheap.",
@@ -615,6 +601,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2024/12/MSI-Claw-8-AI-3.jpg",
             "publishedAt": "2026-05-28T13:00:44Z",
             "content": "Somebody needs to keep mobile gaming alive through these dark times. Thankfully, the company we least expected to make a graphics-centric chip, Intel, is now touting its Intel Arc G3 as the next big \u2026 [+2788 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Wes Davis",
+            "title": "We Really Are Just Doing Wi-Fi 8 Gaming Routers Now",
+            "description": "Just days after TP-Link, Asus has announced its own Wi-Fi 8 router.",
+            "url": "https://gizmodo.com/we-really-are-just-doing-wi-fi-8-gaming-routers-now-2000766976",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Asus-ROG-Rapture-GT-BN90-Pro-Wi-Fi-8-gaming-router-1200x675.jpg",
+            "publishedAt": "2026-06-03T16:30:09Z",
+            "content": "Asus brought quite a few Republic of Gamers (ROG) products to Computex 2026. One announcement that might\u2019ve flown under the radar is that the company is giving the Wi-Fi 8 treatment to its head crabb\u2026 [+3754 chars]",
             "ai_score": 5
         },
         {
@@ -846,20 +846,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Allison Johnson",
-            "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
-            "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last\u2026",
-            "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0%2C9.2187253673634%2C100%2C81.562549265273&w=1200",
-            "publishedAt": "2026-05-29T14:32:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIn 2022, Craig Campbell walked away from a blank check to start, of all things, a website. And his bet is paying off.\r\nIn 2022, Craig Campbell walked away from a\u2026 [+7110 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
             "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
@@ -867,6 +853,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-27T20:03:42Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Allison Johnson",
+            "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
+            "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last\u2026",
+            "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0%2C9.2187253673634%2C100%2C81.562549265273&w=1200",
+            "publishedAt": "2026-05-29T14:32:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIn 2022, Craig Campbell walked away from a blank check to start, of all things, a website. And his bet is paying off.\r\nIn 2022, Craig Campbell walked away from a\u2026 [+7110 chars]",
             "ai_score": 5
         },
         {
@@ -986,13 +986,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "The Google Pixel Watch 5 may have been spoiled by\u2026 the creator of Borderlands",
-            "description": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater, while scuba di\u2026",
-            "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-            "publishedAt": "2026-06-01T21:02:47Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRandy Pitchford says his friend found a Pixel 5 watch while scuba diving.\r\nRandy Pitchford says his friend found a Pixel 5 watch while scuba diving.\r\nby\r\nEmma Ro\u2026 [+3166 chars]",
+            "author": "Tom Warren",
+            "title": "Xbox fans want exclusives, more backward compatibility, and free online multiplayer",
+            "description": "Microsoft launched a new Xbox Player Voice portal yesterday, aiming to collect feedback from fans and \"make it more visible.\" It certainly hasn't taken long for Xbox fans to make their feedback very clear. The most upvoted feedback on Xbox Player Voice demand\u2026",
+            "url": "https://www.theverge.com/games/933328/xbox-fan-feedback-exclusives-backward-compatibility-online-multiplayer",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926022/acastro_STK048_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-19T11:46:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Xbox Player Voice portal makes fan feedback a lot more visible.\r\nMicrosofts new Xbox Player Voice portal makes fan feedback a lot more visible.\r\nb\u2026 [+3395 chars]",
             "ai_score": 5
         },
         {
@@ -1014,13 +1014,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Xbox fans want exclusives, more backward compatibility, and free online multiplayer",
-            "description": "Microsoft launched a new Xbox Player Voice portal yesterday, aiming to collect feedback from fans and \"make it more visible.\" It certainly hasn't taken long for Xbox fans to make their feedback very clear. The most upvoted feedback on Xbox Player Voice demand\u2026",
-            "url": "https://www.theverge.com/games/933328/xbox-fan-feedback-exclusives-backward-compatibility-online-multiplayer",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926022/acastro_STK048_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-19T11:46:32Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Xbox Player Voice portal makes fan feedback a lot more visible.\r\nMicrosofts new Xbox Player Voice portal makes fan feedback a lot more visible.\r\nb\u2026 [+3395 chars]",
+            "author": "Emma Roth",
+            "title": "The Google Pixel Watch 5 may have been spoiled by\u2026 the creator of Borderlands",
+            "description": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater, while scuba di\u2026",
+            "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+            "publishedAt": "2026-06-01T21:02:47Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRandy Pitchford says his friend found a Pixel 5 watch while scuba diving.\r\nRandy Pitchford says his friend found a Pixel 5 watch while scuba diving.\r\nby\r\nEmma Ro\u2026 [+3166 chars]",
             "ai_score": 5
         },
         {
