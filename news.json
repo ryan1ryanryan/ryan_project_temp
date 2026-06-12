@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-11 23:27",
+    "last_updated": "2026-06-12 04:06",
     "articles": [
         {
             "source": {
@@ -265,6 +265,20 @@
             "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
             "publishedAt": "2026-06-03T18:07:11Z",
             "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Deezer launches an AI music detector for other streaming services",
+            "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it ha\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
+            "publishedAt": "2026-06-10T23:42:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSince the competition wont buy their tech, theyre bringing it directly to users.\r\nSince the competition wont buy their tech, theyre bringing it directly to users\u2026 [+2359 chars]",
             "ai_score": 5
         },
         {
@@ -1133,20 +1147,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/xboxelitecontroller-1200x675.jpg",
             "publishedAt": "2026-05-15T15:00:16Z",
             "content": "We don\u2019t know what the next-gen Xbox, codenamed \u201cProject Helix\u201d will look like yet, but two fresh leaks could provide some hints on what to expect from its controller.\r\nPortuguese-language gadget blo\u2026 [+3298 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "What's next for social media stars KSI and the Sidemen?",
-            "description": "YouTuber KSI shocked fans after announcing his departure from the Sidemen over the weekend.",
-            "url": "https://www.bbc.com/news/articles/c93xz8w1j3ko",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0c62/live/c3c0cda0-5dc1-11f1-8b8c-6d33e1d5abb6.jpg",
-            "publishedAt": "2026-06-01T16:02:06Z",
-            "content": "The group - which also consists of Simon Minter, Josh Bradley, Vikram Barn, Tobi Brown, Ethan Payne and Harry Lewis - has become known for doing a host of challenges, gaming commentary and sketches.",
             "ai_score": 5
         }
     ]
