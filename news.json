@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-12 21:50",
+    "last_updated": "2026-06-12 23:22",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/4787650-ryzen-pro-9000.avif?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-05-13T20:38:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, previously only seen in gaming CPUs.\r\nAMDs new Ryzen PRO 9000 CPUs include chips with 3D V-Cache, pre\u2026 [+2267 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -132,20 +132,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Amazon\u2019s new plan for games: James Bond and AI Snoop Dogg",
-            "description": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a hu\u2026",
-            "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/007_keyart_1920-1080-clean.jpg.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-04T17:01:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter years of shifting strategies, the company is revamping its gaming efforts once again.\r\nAfter years of shifting strategies, the company is revamping its gam\u2026 [+6511 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tina Nguyen",
             "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
             "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I\u2026",
@@ -153,6 +139,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
             "publishedAt": "2026-06-10T17:25:32Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nb\u2026 [+7531 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Amazon\u2019s new plan for games: James Bond and AI Snoop Dogg",
+            "description": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a hu\u2026",
+            "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/007_keyart_1920-1080-clean.jpg.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-04T17:01:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter years of shifting strategies, the company is revamping its gaming efforts once again.\r\nAfter years of shifting strategies, the company is revamping its gam\u2026 [+6511 chars]",
             "ai_score": 5
         },
         {
