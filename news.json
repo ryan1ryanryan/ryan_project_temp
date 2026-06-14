@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-06-14 05:55",
+    "last_updated": "2026-06-14 09:41",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AMD\u2019s FSR 4.1 upscaling tech is coming to older graphics cards",
+            "description": "AMD is bringing its FSR 4.1 upscaling tech to older graphics cards. In an announcement on X, Jack Huynh, AMD's head of computing and graphics, says FSR 4.1 will roll out to RDNA 3 GPUs in July, followed by a launch on RDNA 2 chips in early 2027. This summer's\u2026",
+            "url": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-05-14T14:06:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,105 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268564_Asus_ROG_Strix_Scar_18_ELMB_2026_handson_prepro_ADiBenedetto_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-30T04:20:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nI still love OLEDs, but the Asus ROG Strix Scar 18s ELMB Mini LED display is amazing.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. S\u2026 [+11395 chars]",
-            "ai_score": 9
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Amazon\u2019s new plan for games: James Bond and AI Snoop Dogg",
+            "description": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a hu\u2026",
+            "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/007_keyart_1920-1080-clean.jpg.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-04T17:01:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter years of shifting strategies, the company is revamping its gaming efforts once again.\r\nAfter years of shifting strategies, the company is revamping its gam\u2026 [+6511 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Leaked images reveal Xbox Elite 3 controller",
+            "description": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the\u2026",
+            "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxelite3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T20:52:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Elite 3 controller appears to have new scroll wheel buttons, a removable battery, and a cloud mode button.\r\nThe Elite 3 controller appears to have new scroll\u2026 [+2588 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Dell and RAMageddon are watering down the Alienware brand",
+            "description": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. Th\u2026",
+            "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-14T08:56:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+4114 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer\u2019s Blade 18 Is More Powerful Than Before, but the Dang Laptop Weighs 7 Pounds",
+            "description": "Want Razer\u2019s largest, most powerful gaming laptop? You\u2019ll spend way more than last year.",
+            "url": "https://gizmodo.com/razers-blade-18-is-more-powerful-than-before-but-the-dang-laptop-weighs-7-pounds-2000758798",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Razer-Blade-18-Gaming-Laptop-2026-1200x675.jpg",
+            "publishedAt": "2026-05-14T18:00:21Z",
+            "content": "Razer\u2019s desktop-replacement laptop is once again trying to excuse you from considering a full-size gaming tower and monitor. The newly revealed Blade 18 gaming laptop is now packing a higher-end Inte\u2026 [+2893 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Guess What? Streaming-Only Gaming Handhelds Are Still a Thing",
+            "description": "Acer\u2019s Nitro Blaze Link is like if a PlayStation Portal ran Linux.",
+            "url": "https://gizmodo.com/guess-what-streaming-only-gaming-handhelds-are-still-a-thing-2000764829",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/ACER-NITRO-BLAZE-LINK-GN772-01-1200x675.jpg",
+            "publishedAt": "2026-05-29T13:00:01Z",
+            "content": "Some of our favorite gaming handhelds, like the Lenovo Legion Go 2 and Steam Deck, now cost close to 50% more than they did a year ago. Hardware prices are enough to make game streaming seem more lik\u2026 [+3143 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Acer\u2019s Predator Atlas Could Make Gaming Handhelds Efficient, for Once",
+            "description": "Just don\u2019t expect Acer\u2019s first Intel-based handheld to be cheap.",
+            "url": "https://gizmodo.com/acers-predator-atlas-could-make-gaming-handhelds-efficient-for-once-2000764106",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Acer-Predator-Atlas-8-Main-Image-1-1200x675.jpeg",
+            "publishedAt": "2026-05-28T13:00:28Z",
+            "content": "Just when we thought that this years handheld gaming scene was laid up in its sick bed, Acer and Intel have come through with what might just be the antidote weve been waiting for. The Acer Predator \u2026 [+3364 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Christopher Null",
+            "title": "Cearvol\u2019s Wave Design Fights Off Hearing Loss and Aging Stigma",
+            "description": "Cearvol\u2019s Wave Lite hearing aids take on the stigma of aging with tech-inspired design, but they lack the nuance to be truly useful.",
+            "url": "https://www.wired.com/review/review-cearvol-wave-lite/",
+            "urlToImage": "https://media.wired.com/photos/6a0f6cd13cc9755a1bff8136/191:100/w_1280,c_limit/Review%20Cearvol%20Wave%20Lite%20top%20art%20052026%20SOURCE%20Cearvol.jpg",
+            "publishedAt": "2026-05-26T09:00:00Z",
+            "content": "Alas, enhancing ambient audio just isnt the Wave Lites forte. Across all of its modes and various settings, I was only able to achieve a moderate improvement to my hearing. As noted, while the units \u2026 [+1935 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,20 +153,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/newxboxcontroller.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-05-14T15:49:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nA Brazilian regulator has published photos of an unreleased Xbox controller.\r\nby\r\nT\u2026 [+2506 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "AMD\u2019s FSR 4.1 upscaling tech is coming to older graphics cards",
-            "description": "AMD is bringing its FSR 4.1 upscaling tech to older graphics cards. In an announcement on X, Jack Huynh, AMD's head of computing and graphics, says FSR 4.1 will roll out to RDNA 3 GPUs in July, followed by a launch on RDNA 2 chips in early 2027. This summer's\u2026",
-            "url": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assassins-creed-shadows.webp?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-05-14T14:06:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGPUs with AMDs RDNA 3 architecture will get the FSR 4.1 upgrade in July, followed by RDNA 2 chips next year.\r\nGPUs with AMDs RDNA 3 architecture will get the FSR\u2026 [+2512 chars]",
             "ai_score": 5
         },
         {
@@ -146,34 +244,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Amazon\u2019s new plan for games: James Bond and AI Snoop Dogg",
-            "description": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a hu\u2026",
-            "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/007_keyart_1920-1080-clean.jpg.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-04T17:01:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter years of shifting strategies, the company is revamping its gaming efforts once again.\r\nAfter years of shifting strategies, the company is revamping its gam\u2026 [+6511 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Leaked images reveal Xbox Elite 3 controller",
-            "description": "Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controller. Tecnoblog has posted images that show the successor to the\u2026",
-            "url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxelite3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T20:52:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Elite 3 controller appears to have new scroll wheel buttons, a removable battery, and a cloud mode button.\r\nThe Elite 3 controller appears to have new scroll\u2026 [+2588 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Antonio G. Di Benedetto",
             "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
             "description": "Razer just announced a new Blade 18 gaming laptop with an Intel Core Ultra 9 290HX Plus chip. The flagship laptop is available now on Razer's site, starting at $3,999.99 with an Nvidia RTX 5070 Ti and configurable with up to an RTX 5090. That starting config \u2026",
@@ -209,20 +279,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/jbl_charge6_flip7_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-05-19T20:25:09Z",
             "content": "Portable bluetooth speakers like the Charge 6 and Flip 7 are just a few on sale for Memorial Day.\r\n\n\nMemorial Day marks the unofficial start of summer, and the holiday\u2019s sales include plenty of deals\u2026 [+25369 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Dell and RAMageddon are watering down the Alienware brand",
-            "description": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. Th\u2026",
-            "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-14T08:56:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nThe new Alienware 15 sounds cheap but it comes at a price.\r\nby\r\nSean HollisterClose\r\nPosts from this \u2026 [+4114 chars]",
             "ai_score": 5
         },
         {
@@ -300,20 +356,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Kyle Barr",
-            "title": "Razer\u2019s Blade 18 Is More Powerful Than Before, but the Dang Laptop Weighs 7 Pounds",
-            "description": "Want Razer\u2019s largest, most powerful gaming laptop? You\u2019ll spend way more than last year.",
-            "url": "https://gizmodo.com/razers-blade-18-is-more-powerful-than-before-but-the-dang-laptop-weighs-7-pounds-2000758798",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Razer-Blade-18-Gaming-Laptop-2026-1200x675.jpg",
-            "publishedAt": "2026-05-14T18:00:21Z",
-            "content": "Razer\u2019s desktop-replacement laptop is once again trying to excuse you from considering a full-size gaming tower and monitor. The newly revealed Blade 18 gaming laptop is now packing a higher-end Inte\u2026 [+2893 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Raymond Wong",
             "title": "The World\u2019s First 240Hz Video Smart Glasses for Gaming Aren\u2019t Cheap",
             "description": "Better start saving up if you really want Asus ROG's Xreal R1 gaming-focused smart glasses.",
@@ -321,48 +363,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Asus-ROG-Xreal-R1-3-1200x675.jpg",
             "publishedAt": "2026-05-15T07:30:53Z",
             "content": "Asus ROG\u2019s Xreal R1, the world\u2019s first pair of AR smart glasses capable of projecting a virtual screen before your eyes with a blistering 240Hz rate, finally has\u2026 a price and preorder dates.\r\nAhead o\u2026 [+1751 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Guess What? Streaming-Only Gaming Handhelds Are Still a Thing",
-            "description": "Acer\u2019s Nitro Blaze Link is like if a PlayStation Portal ran Linux.",
-            "url": "https://gizmodo.com/guess-what-streaming-only-gaming-handhelds-are-still-a-thing-2000764829",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/ACER-NITRO-BLAZE-LINK-GN772-01-1200x675.jpg",
-            "publishedAt": "2026-05-29T13:00:01Z",
-            "content": "Some of our favorite gaming handhelds, like the Lenovo Legion Go 2 and Steam Deck, now cost close to 50% more than they did a year ago. Hardware prices are enough to make game streaming seem more lik\u2026 [+3143 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Acer\u2019s Predator Atlas Could Make Gaming Handhelds Efficient, for Once",
-            "description": "Just don\u2019t expect Acer\u2019s first Intel-based handheld to be cheap.",
-            "url": "https://gizmodo.com/acers-predator-atlas-could-make-gaming-handhelds-efficient-for-once-2000764106",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Acer-Predator-Atlas-8-Main-Image-1-1200x675.jpeg",
-            "publishedAt": "2026-05-28T13:00:28Z",
-            "content": "Just when we thought that this years handheld gaming scene was laid up in its sick bed, Acer and Intel have come through with what might just be the antidote weve been waiting for. The Acer Predator \u2026 [+3364 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Christopher Null",
-            "title": "Cearvol\u2019s Wave Design Fights Off Hearing Loss and Aging Stigma",
-            "description": "Cearvol\u2019s Wave Lite hearing aids take on the stigma of aging with tech-inspired design, but they lack the nuance to be truly useful.",
-            "url": "https://www.wired.com/review/review-cearvol-wave-lite/",
-            "urlToImage": "https://media.wired.com/photos/6a0f6cd13cc9755a1bff8136/191:100/w_1280,c_limit/Review%20Cearvol%20Wave%20Lite%20top%20art%20052026%20SOURCE%20Cearvol.jpg",
-            "publishedAt": "2026-05-26T09:00:00Z",
-            "content": "Alas, enhancing ambient audio just isnt the Wave Lites forte. Across all of its modes and various settings, I was only able to achieve a moderate improvement to my hearing. As noted, while the units \u2026 [+1935 chars]",
             "ai_score": 5
         },
         {
@@ -608,20 +608,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Webster",
-            "title": "Nintendo\u2019s next Direct showcase is on June 9th",
-            "description": "Summer Game Fest may be over, but the flood of gaming news isn't. Nintendo just announced that it'll be holding its next Direct showcase event on June 9th at 10AM ET. The stream, which you can find here, will be followed by a Treehouse Live event, and it soun\u2026",
-            "url": "https://www.theverge.com/entertainment/945670/nintendo-direct-june-2026-switch-2",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_0ea1cb.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-08T14:02:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWell likely finally hear more about the Switch 2s holiday lineup.\r\nWell likely finally hear more about the Switch 2s holiday lineup.\r\nby\r\nAndrew WebsterClose\r\nSe\u2026 [+2391 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
             "description": "Geoff Keighley\u2019s annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and announcements, begins at 5PM ET and is set to run for two hours. The event itself will take place in person \u2026",
@@ -629,6 +615,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2222468017.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
             "publishedAt": "2026-06-05T20:46:49Z",
             "content": "LIVEUpdated Today, Jun 5, 2026, 8:41 PM UTC\r\nGeoff Keighleys annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and anno\u2026 [+2068 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Nintendo\u2019s next Direct showcase is on June 9th",
+            "description": "Summer Game Fest may be over, but the flood of gaming news isn't. Nintendo just announced that it'll be holding its next Direct showcase event on June 9th at 10AM ET. The stream, which you can find here, will be followed by a Treehouse Live event, and it soun\u2026",
+            "url": "https://www.theverge.com/entertainment/945670/nintendo-direct-june-2026-switch-2",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_0ea1cb.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-08T14:02:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWell likely finally hear more about the Switch 2s holiday lineup.\r\nWell likely finally hear more about the Switch 2s holiday lineup.\r\nby\r\nAndrew WebsterClose\r\nSe\u2026 [+2391 chars]",
             "ai_score": 5
         },
         {
@@ -734,20 +734,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Bruce Gil",
-            "title": "Here\u2019s the Executive Order on AI That Gave Trump Cold Feet",
-            "description": "Earlier this week, Trump's coterie of big tech execs was supposed to join him to sign it. Then it got called off.",
-            "url": "https://gizmodo.com/heres-the-executive-order-on-ai-that-gave-trump-cold-feet-2000762751",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/trump-getty-cabinet-march-26-2026-1200x675.jpg",
-            "publishedAt": "2026-05-22T21:10:28Z",
-            "content": "We finally have a look at the actual draft executive order on AI safeguards that President Donald Trump abruptly decided not to sign on Thursday.\r\nThe executive order would have created a framework f\u2026 [+11245 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Justin Caffier",
             "title": "Apple Is Officially Coming for Meta\u2019s Privacy-Invading Lunch With Its Own Smart Glasses in Late 2027",
             "description": "Look forward to the tech giant's long-rumored wearables to be recording you without your knowledge or consent some time later next year.",
@@ -755,6 +741,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/apple-glasses-1200x675.jpg",
             "publishedAt": "2026-05-31T19:58:45Z",
             "content": "While checking out of a recent medical appointment, I was suddenly horrified to realize the front desk receptionist I was speaking with had on a pair of Meta x Ray Ban smart glasses.Those arent filmi\u2026 [+3690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Here\u2019s the Executive Order on AI That Gave Trump Cold Feet",
+            "description": "Earlier this week, Trump's coterie of big tech execs was supposed to join him to sign it. Then it got called off.",
+            "url": "https://gizmodo.com/heres-the-executive-order-on-ai-that-gave-trump-cold-feet-2000762751",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/trump-getty-cabinet-march-26-2026-1200x675.jpg",
+            "publishedAt": "2026-05-22T21:10:28Z",
+            "content": "We finally have a look at the actual draft executive order on AI safeguards that President Donald Trump abruptly decided not to sign on Thursday.\r\nThe executive order would have created a framework f\u2026 [+11245 chars]",
             "ai_score": 5
         },
         {
@@ -986,20 +986,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
-            "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
-            "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-27T20:03:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Allison Johnson",
             "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
             "description": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Meta and an experienced tech founder who in 2022 sold his last\u2026",
@@ -1007,6 +993,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-27-at-11.17.27AM.png?quality=90&strip=all&crop=0%2C9.2187253673634%2C100%2C81.562549265273&w=1200",
             "publishedAt": "2026-05-29T14:32:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIn 2022, Craig Campbell walked away from a blank check to start, of all things, a website. And his bet is paying off.\r\nIn 2022, Craig Campbell walked away from a\u2026 [+7110 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
+            "description": "After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks and is also starting to test subscriptions for Meta AI. With t\u2026",
+            "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951343/STK040_VRG_Illo_N_Barclay_5_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-27T20:03:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nWhatsApp, Instagram, and Meta AI are getting paid subscriptions, too.\r\nby\r\nJay PetersClose\u2026 [+4023 chars]",
             "ai_score": 5
         },
         {
