@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-17 18:22",
+    "last_updated": "2026-06-17 21:11",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -1095,6 +1095,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "GuliKit\u2019s new mobile Switch 2 dock lets you play with or without a TV",
+            "description": "After teasing it on X last week, GuliKit announced a new version of its TV Docking Station today that now supports the Switch 2 as well as previous versions of the console, including the original Switch and OLED model. The new version of the dock carries forw\u2026",
+            "url": "https://www.theverge.com/tech/950827/gulikit-tv-docking-station-switch-2-oled-console-hdmi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gulikit_dock1.jpg?quality=90&strip=all&crop=0,10.76654584508,100,78.46690830984",
+            "publishedAt": "2026-06-16T20:43:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $29.99 TV Docking Station for Switch 2 is now one of the cheapest alternatives to Nintendos bundled TV dock.\r\nThe $29.99 TV Docking Station for Switch 2 is n\u2026 [+2957 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Android Central"
             },
@@ -1119,20 +1133,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/AMD-Radeon-RX-9070-GRE-2-1200x675.jpg",
             "publishedAt": "2026-06-02T00:00:11Z",
             "content": "The Radeon RX 9070 GRE, AMD\u2019s revision of last year\u2019s RX 9070, is only now arriving on our doorsteps because GPU prices are a complete mess. Unlike Nvidia, which boosted the VRAM of its RTX 5070 in r\u2026 [+4119 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "What's next for social media stars KSI and the Sidemen?",
-            "description": "YouTuber KSI shocked fans after announcing his departure from the Sidemen over the weekend.",
-            "url": "https://www.bbc.com/news/articles/c93xz8w1j3ko",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0c62/live/c3c0cda0-5dc1-11f1-8b8c-6d33e1d5abb6.jpg",
-            "publishedAt": "2026-06-01T16:02:06Z",
-            "content": "The group - which also consists of Simon Minter, Josh Bradley, Vikram Barn, Tobi Brown, Ethan Payne and Harry Lewis - has become known for doing a host of challenges, gaming commentary and sketches.",
             "ai_score": 5
         }
     ]
