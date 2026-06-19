@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-19 00:32",
+    "last_updated": "2026-06-19 06:25",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "China executes man for murdering billionaire gaming tycoon",
-            "description": "The court said the man poisoned the tycoon for sidelining him after they secured a Netflix deal.",
-            "url": "https://www.bbc.com/news/articles/cg5ppg50gplo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f404/live/6a72cc70-58d6-11f1-8b8c-6d33e1d5abb6.png",
-            "publishedAt": "2026-05-26T08:55:55Z",
-            "content": "Xu was convicted in 2024 and his execution, which reportedly happened on 21 May, was confirmed on Tuesday by his company in a statement, adding \"justice has ultimately been served\".",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -461,6 +447,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-06-07T17:49:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe anniversary edition console includes an Xbox button that lights up green and a translucent green controller.\r\nThe anniversary edition console includes an Xbo\u2026 [+2471 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "China executes man for murdering billionaire gaming tycoon",
+            "description": "The court said the man poisoned the tycoon for sidelining him after they secured a Netflix deal.",
+            "url": "https://www.bbc.com/news/articles/cg5ppg50gplo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f404/live/6a72cc70-58d6-11f1-8b8c-6d33e1d5abb6.png",
+            "publishedAt": "2026-05-26T08:55:55Z",
+            "content": "Xu was convicted in 2024 and his execution, which reportedly happened on 21 May, was confirmed on Tuesday by his company in a statement, adding \"justice has ultimately been served\".",
             "ai_score": 5
         },
         {
