@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-20 16:23",
+    "last_updated": "2026-06-20 18:17",
     "articles": [
         {
             "source": {
@@ -801,6 +801,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
+            "title": "Meta is taking over parts of Best Buy stores to make VR and smart glasses easier to try",
+            "description": "Meta is bringing hands-on VR and AI glasses demos to 50 Best Buy stores, finally letting shoppers try before spending hundreds on unfamiliar tech.",
+            "url": "https://www.androidcentral.com/gaming/virtual-reality/meta-is-taking-over-parts-of-best-buy-stores-to-make-vr-and-smart-glasses-easier-to-try",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/exuf32oVz5fT3UdYePpy68-2048-80.jpg",
+            "publishedAt": "2026-06-19T17:05:00Z",
+            "content": "What you need to know\r\n<ul><li>Meta is bringing dedicated Meta Lab spaces to over 50 Best Buy stores across North America.</li><li>The mini stores feature trained Meta specialists, giving shoppers ha\u2026 [+3005 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1070,20 +1084,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Boox\u2019s new e-reader could replace your Kindle, Kobo, and digital notepad",
-            "description": "Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its predecessor but gets a bump from 2GB to 3GB of RAM and now sup\u2026",
-            "url": "https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/booxgo1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2026-06-10T19:21:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Go 6 (Gen II) e-reader adds support for Booxs stylus, so instead of just reading you can also doodle and take notes.\r\nThe Go 6 (Gen II) e-reader adds support\u2026 [+2597 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Microsoft hasn\u2019t ruled out spinning off Xbox",
             "description": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled ou\u2026",
@@ -1099,12 +1099,12 @@
                 "name": "The Verge"
             },
             "author": "Andrew Liszewski",
-            "title": "You can now use the Game Boy Camera with your phone",
-            "description": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera. After turning the Game Boy C\u2026",
-            "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
-            "publishedAt": "2026-06-18T20:22:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new mobile app for the GB Operator lets you snap terrible 2-bit, 128 x112 photos without the need for a Game Boy.\r\nA new mobile app for the GB Operator lets yo\u2026 [+3137 chars]",
+            "title": "Boox\u2019s new e-reader could replace your Kindle, Kobo, and digital notepad",
+            "description": "Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its predecessor but gets a bump from 2GB to 3GB of RAM and now sup\u2026",
+            "url": "https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/booxgo1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+            "publishedAt": "2026-06-10T19:21:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Go 6 (Gen II) e-reader adds support for Booxs stylus, so instead of just reading you can also doodle and take notes.\r\nThe Go 6 (Gen II) e-reader adds support\u2026 [+2597 chars]",
             "ai_score": 5
         },
         {
@@ -1133,6 +1133,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-06-17T15:34:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,000\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,\u2026 [+2602 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "You can now use the Game Boy Camera with your phone",
+            "description": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera. After turning the Game Boy C\u2026",
+            "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
+            "publishedAt": "2026-06-18T20:22:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new mobile app for the GB Operator lets you snap terrible 2-bit, 128 x112 photos without the need for a Game Boy.\r\nA new mobile app for the GB Operator lets yo\u2026 [+3137 chars]",
             "ai_score": 5
         },
         {
