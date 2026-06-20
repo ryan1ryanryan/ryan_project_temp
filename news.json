@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-06-20 00:21",
+    "last_updated": "2026-06-20 05:20",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
-            "description": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today\u2026",
-            "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
-            "publishedAt": "2026-05-28T13:02:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Amazon\u2019s new plan for games: James Bond and AI Snoop Dogg",
+            "description": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a hu\u2026",
+            "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/007_keyart_1920-1080-clean.jpg.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-04T17:01:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter years of shifting strategies, the company is revamping its gaming efforts once again.\r\nAfter years of shifting strategies, the company is revamping its gam\u2026 [+6511 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
+            "description": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today\u2026",
+            "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
+            "publishedAt": "2026-05-28T13:02:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
             "ai_score": 5
         },
         {
@@ -97,20 +111,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acer-nitro-blaze-link-announcement-cropped.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-05-29T19:01:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Nitro Blaze Link is a streaming-first handheld with only 1GB of RAM (and no price tag yet).\r\nThe Nitro Blaze Link is a streaming-first handheld with only 1GB\u2026 [+2053 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Amazon\u2019s new plan for games: James Bond and AI Snoop Dogg",
-            "description": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a hu\u2026",
-            "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/007_keyart_1920-1080-clean.jpg.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-04T17:01:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter years of shifting strategies, the company is revamping its gaming efforts once again.\r\nAfter years of shifting strategies, the company is revamping its gam\u2026 [+6511 chars]",
             "ai_score": 5
         },
         {
