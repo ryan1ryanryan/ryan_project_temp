@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-21 21:19",
+    "last_updated": "2026-06-21 23:18",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -405,20 +405,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
             "publishedAt": "2026-06-10T20:18:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt announced new integrity measures just as the CFTC released a proposal for prediction market regulation.\r\nIt announced new integrity measures just as the CFTC \u2026 [+2420 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dell Cameron",
-            "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-            "description": "One line tucked into a federal highway bill would strip funds from cities and states unless they kill their automated plate tracking programs\u2014effectively banning the tech for all but toll collection.",
-            "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
-            "urlToImage": "https://media.wired.com/photos/6a0e0f8f6174d8e9dcf1157d/191:100/w_1280,c_limit/security_flock_GettyImages-2271667850.jpg",
-            "publishedAt": "2026-05-20T21:58:06Z",
-            "content": "US lawmakers plan to introduce an amendment Thursday at a House committee markup hearing that would prohibit any recipient of federal highway funding from using automated license plate readers for an\u2026 [+3757 chars]",
             "ai_score": 5
         },
         {
@@ -1070,20 +1056,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Boox\u2019s new e-reader could replace your Kindle, Kobo, and digital notepad",
-            "description": "Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its predecessor but gets a bump from 2GB to 3GB of RAM and now sup\u2026",
-            "url": "https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/booxgo1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2026-06-10T19:21:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Go 6 (Gen II) e-reader adds support for Booxs stylus, so instead of just reading you can also doodle and take notes.\r\nThe Go 6 (Gen II) e-reader adds support\u2026 [+2597 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Microsoft hasn\u2019t ruled out spinning off Xbox",
             "description": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled ou\u2026",
@@ -1099,12 +1071,12 @@
                 "name": "The Verge"
             },
             "author": "Andrew Liszewski",
-            "title": "You can now use the Game Boy Camera with your phone",
-            "description": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera. After turning the Game Boy C\u2026",
-            "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
-            "publishedAt": "2026-06-18T20:22:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new mobile app for the GB Operator lets you snap terrible 2-bit, 128 x112 photos without the need for a Game Boy.\r\nA new mobile app for the GB Operator lets yo\u2026 [+3137 chars]",
+            "title": "Boox\u2019s new e-reader could replace your Kindle, Kobo, and digital notepad",
+            "description": "Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its predecessor but gets a bump from 2GB to 3GB of RAM and now sup\u2026",
+            "url": "https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/booxgo1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+            "publishedAt": "2026-06-10T19:21:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Go 6 (Gen II) e-reader adds support for Booxs stylus, so instead of just reading you can also doodle and take notes.\r\nThe Go 6 (Gen II) e-reader adds support\u2026 [+2597 chars]",
             "ai_score": 5
         },
         {
@@ -1133,6 +1105,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-06-17T15:34:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,000\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,\u2026 [+2602 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "You can now use the Game Boy Camera with your phone",
+            "description": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera. After turning the Game Boy C\u2026",
+            "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
+            "publishedAt": "2026-06-18T20:22:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new mobile app for the GB Operator lets you snap terrible 2-bit, 128 x112 photos without the need for a Game Boy.\r\nA new mobile app for the GB Operator lets yo\u2026 [+3137 chars]",
             "ai_score": 5
         },
         {
