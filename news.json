@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-23 22:18",
+    "last_updated": "2026-06-24 00:03",
     "articles": [
         {
             "source": {
@@ -774,20 +774,6 @@
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
-            "description": "ZDF TV responded to a \"cease and desist\" letter after the tech trillionaire condemned the broadcaster's \"outrageous lies\".",
-            "url": "https://www.bbc.com/news/articles/c0jyzp9z9deo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c8f4/live/3b494590-6994-11f1-a716-b5396926119a.jpg",
-            "publishedAt": "2026-06-16T17:57:00Z",
-            "content": "Robinson, a well-known British far-right activist, had shared protest plans on Musk's social media platform X on 9 June, claiming that \"the whole of the United Kingdom is hitting the streets tonight \u2026 [+133 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
@@ -797,6 +783,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-Console-1200x675.jpg",
             "publishedAt": "2026-06-22T17:43:22Z",
             "content": "After months of delays and desperate pleas from fans for an affordable Steam Machine, Valve finally has the when, where, and how you can buy its upcoming console-like gaming PC. And just like practic\u2026 [+2993 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
+            "description": "ZDF TV responded to a \"cease and desist\" letter after the tech trillionaire condemned the broadcaster's \"outrageous lies\".",
+            "url": "https://www.bbc.com/news/articles/c0jyzp9z9deo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c8f4/live/3b494590-6994-11f1-a716-b5396926119a.jpg",
+            "publishedAt": "2026-06-16T17:57:00Z",
+            "content": "Robinson, a well-known British far-right activist, had shared protest plans on Musk's social media platform X on 9 June, claiming that \"the whole of the United Kingdom is hitting the streets tonight \u2026 [+133 chars]",
             "ai_score": 5
         },
         {
@@ -1161,20 +1161,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-06-17T15:34:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,000\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,\u2026 [+2602 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "AMD\u2019s RX 9070 GRE Graphics Card Is a Compromise No Matter How You Slice It",
-            "description": "With GPUs in limited supply, AMD is relying on a cut-down graphics card to take up the slack.",
-            "url": "https://gizmodo.com/amds-rx-9070-gre-graphics-card-is-a-compromise-no-matter-how-you-slice-it-2000765332",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/AMD-Radeon-RX-9070-GRE-2-1200x675.jpg",
-            "publishedAt": "2026-06-02T00:00:11Z",
-            "content": "The Radeon RX 9070 GRE, AMD\u2019s revision of last year\u2019s RX 9070, is only now arriving on our doorsteps because GPU prices are a complete mess. Unlike Nvidia, which boosted the VRAM of its RTX 5070 in r\u2026 [+4119 chars]",
             "ai_score": 5
         }
     ]
