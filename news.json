@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-06-24 19:51",
+    "last_updated": "2026-06-24 21:28",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
-            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
-            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-15T15:52:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
             "publishedAt": "2026-05-28T13:02:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
+            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
+            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-15T15:52:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
             "ai_score": 5
         },
         {
@@ -566,20 +566,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
-            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-16T18:10:57Z",
-            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sean Hollister",
             "title": "Valve just imported 13 tons of VR headsets in one day",
             "description": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. \u2026",
@@ -587,6 +573,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0057.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
             "publishedAt": "2026-06-13T01:35:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nRoughly 140 tons of Steam Machines should be in the US now, too.\r\nRoughly 140 tons of Steam Machines should be in the US now, too.\r\nby\r\nSean HollisterClose\r\nPost\u2026 [+2939 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
+            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-16T18:10:57Z",
+            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
             "ai_score": 5
         },
         {
@@ -1035,6 +1035,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-20T16:31:42Z",
             "content": "<ul><li></li><li></li></ul>\r\nYour dream vibe-coded app might be a security nightmare.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nby\r\nYael Gra\u2026 [+12996 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Prime Day has some solid deals on Switch 2, PS5, and Xbox games",
+            "description": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are physical copies, but every so often there\u2019s a better or equivale\u2026",
+            "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HadesUnseenUpdateWallpaper.png?quality=90&strip=all&crop=0%2C9.5315780155298%2C100%2C80.93684396894&w=1200",
+            "publishedAt": "2026-06-23T19:47:41Z",
+            "content": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are phys\u2026 [+7552 chars]",
             "ai_score": 5
         },
         {
