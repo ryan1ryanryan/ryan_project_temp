@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-24 14:36",
+    "last_updated": "2026-06-24 17:09",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Burgess",
+            "title": "All the Ways Europe Is Ditching American Technology",
+            "description": "A WIRED timeline shows how dozens of governments, companies, and other organizations across Europe are moving, or planning to shift, away from US Big Tech.",
+            "url": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/",
+            "urlToImage": "https://media.wired.com/photos/6a235c1dcd4553222cef6d1b/191:100/w_1280,c_limit/All-Ways-Europe-Ditching-US-Tech-Security.jpg",
+            "publishedAt": "2026-06-08T06:00:00Z",
+            "content": "Europe is done with American Big Tech. Well, sort of. Since the start of President Donald Trumps chaotic second administration last year, concerned governments and companies across the continent have\u2026 [+2955 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -297,16 +311,16 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Matt Burgess",
-            "title": "All the Ways Europe Is Ditching American Technology",
-            "description": "A WIRED timeline shows how dozens of governments, companies, and other organizations across Europe are moving, or planning to shift, away from US Big Tech.",
-            "url": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/",
-            "urlToImage": "https://media.wired.com/photos/6a235c1dcd4553222cef6d1b/191:100/w_1280,c_limit/All-Ways-Europe-Ditching-US-Tech-Security.jpg",
-            "publishedAt": "2026-06-08T06:00:00Z",
-            "content": "Europe is done with American Big Tech. Well, sort of. Since the start of President Donald Trumps chaotic second administration last year, concerned governments and companies across the continent have\u2026 [+2955 chars]",
+            "author": "Emma Roth",
+            "title": "How much would the Steam Machine cost to build?",
+            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
+            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-23T15:30:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
             "ai_score": 5
         },
         {
@@ -1147,20 +1161,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
             "publishedAt": "2026-06-18T20:22:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA new mobile app for the GB Operator lets you snap terrible 2-bit, 128 x112 photos without the need for a Game Boy.\r\nA new mobile app for the GB Operator lets yo\u2026 [+3137 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "AMD\u2019s RX 9070 GRE Graphics Card Is a Compromise No Matter How You Slice It",
-            "description": "With GPUs in limited supply, AMD is relying on a cut-down graphics card to take up the slack.",
-            "url": "https://gizmodo.com/amds-rx-9070-gre-graphics-card-is-a-compromise-no-matter-how-you-slice-it-2000765332",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/AMD-Radeon-RX-9070-GRE-2-1200x675.jpg",
-            "publishedAt": "2026-06-02T00:00:11Z",
-            "content": "The Radeon RX 9070 GRE, AMD\u2019s revision of last year\u2019s RX 9070, is only now arriving on our doorsteps because GPU prices are a complete mess. Unlike Nvidia, which boosted the VRAM of its RTX 5070 in r\u2026 [+4119 chars]",
             "ai_score": 5
         }
     ]
