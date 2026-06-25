@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-06-25 07:48",
+    "last_updated": "2026-06-25 10:48",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
-            "description": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the \u2026",
-            "url": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-06-16T04:14:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern appeal.\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern ap\u2026 [+4954 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Paresh Dave",
-            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
-            "description": "Activists say it\u2019s the first time big tech employees have publicly called for regulations governing data center projects.",
-            "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
-            "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
-            "publishedAt": "2026-06-03T18:07:11Z",
-            "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -199,6 +171,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
+            "description": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the \u2026",
+            "url": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-06-16T04:14:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern appeal.\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern ap\u2026 [+4954 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -209,6 +195,20 @@
             "urlToImage": "https://media.wired.com/photos/6a3a246397b3e5bb7d92cfe0/191:100/w_1280,c_limit/The-Best-Fitness-Tech-Deals-This-Amazon-Prime-Day.jpg",
             "publishedAt": "2026-06-23T09:32:14Z",
             "content": "For Amazon's summer sale event, I've compiled a list of the best Prime Day fitness tech deals on our favorite gadgets. From smartwatches and fitness trackers to walking pads and recovery gear, we've \u2026 [+5866 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
+            "description": "Activists say it\u2019s the first time big tech employees have publicly called for regulations governing data center projects.",
+            "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
+            "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
+            "publishedAt": "2026-06-03T18:07:11Z",
+            "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
             "ai_score": 5
         },
         {
@@ -1105,6 +1105,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/belkin1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
             "publishedAt": "2026-06-04T13:35:09Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Charging Grip sticks a 10,000mAh battery to the back of the handheld while making the Joy-Cons easier to hold.\r\nThe Charging Grip sticks a 10,000mAh battery \u2026 [+2552 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
+            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
+            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
+            "publishedAt": "2026-06-24T09:41:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
             "ai_score": 5
         },
         {
