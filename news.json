@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-06-26 10:57",
+    "last_updated": "2026-06-26 13:17",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
-            "description": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today\u2026",
-            "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
-            "publishedAt": "2026-05-28T13:02:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Intel\u2019s first handheld gaming chip is the Arc G3, and this Acer is using it",
+            "description": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today\u2026",
+            "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Predator-Atlas-8-PA08-I51-_1.jpeg?quality=90&strip=all&crop=5.6,10.935247784401,94.4,78.129504431198",
+            "publishedAt": "2026-05-28T13:02:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Acer Predator Atlas 8 will be one of the first to use it and theres reportedly an MSI too.\r\nThe Acer Predator Atlas 8 will be one of the first to use it and \u2026 [+4040 chars]",
             "ai_score": 5
         },
         {
@@ -830,20 +830,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Valve Finally Put a Price on the Steam Machine, and You\u2019re Not Going to Like It",
-            "description": "You'll be able to preorder Valve's PC/console hybrid soon enough.",
-            "url": "https://gizmodo.com/valve-finally-put-a-price-on-the-steam-machine-and-youre-not-going-to-like-it-2000773730",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-Console-1200x675.jpg",
-            "publishedAt": "2026-06-22T17:43:22Z",
-            "content": "After months of delays and desperate pleas from fans for an affordable Steam Machine, Valve finally has the when, where, and how you can buy its upcoming console-like gaming PC. And just like practic\u2026 [+2993 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -853,6 +839,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c8f4/live/3b494590-6994-11f1-a716-b5396926119a.jpg",
             "publishedAt": "2026-06-16T17:57:00Z",
             "content": "Robinson, a well-known British far-right activist, had shared protest plans on Musk's social media platform X on 9 June, claiming that \"the whole of the United Kingdom is hitting the streets tonight \u2026 [+133 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Valve Finally Put a Price on the Steam Machine, and You\u2019re Not Going to Like It",
+            "description": "You'll be able to preorder Valve's PC/console hybrid soon enough.",
+            "url": "https://gizmodo.com/valve-finally-put-a-price-on-the-steam-machine-and-youre-not-going-to-like-it-2000773730",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-Console-1200x675.jpg",
+            "publishedAt": "2026-06-22T17:43:22Z",
+            "content": "After months of delays and desperate pleas from fans for an affordable Steam Machine, Valve finally has the when, where, and how you can buy its upcoming console-like gaming PC. And just like practic\u2026 [+2993 chars]",
             "ai_score": 5
         },
         {
