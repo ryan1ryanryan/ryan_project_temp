@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-01 12:13",
+    "last_updated": "2026-07-01 15:47",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -731,20 +731,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Raymond Wong",
-            "title": "Microsoft\u2019s Surface Laptop Ultra Is Picking a Fight With the M5 Max MacBook Pro",
-            "description": "Thinness is out and brute Nvidia RTX Spark performance is in.",
-            "url": "https://gizmodo.com/microsofts-surface-laptop-ultra-is-picking-a-fight-with-the-m5-max-macbook-pro-2000765747",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/microsoft-surface-ultra-0-1200x675.jpeg",
-            "publishedAt": "2026-06-01T15:15:22Z",
-            "content": "Billed as the \u201cmost powerful Surface Laptop ever built,\u201d the specs for the Surface Laptop Ultra, launching this fall, should arouse any tech geek. Microsoft seems to be cramming in as much as possibl\u2026 [+1905 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -811,6 +797,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/20053906/dseifert_200625_4076_0004.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-26T17:00:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA source tells The Verge that Assa Abloy has laid off the majority of Level Homes staff and is folding it into Kwikset. Assa Abloy says it will continue to devel\u2026 [+4077 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong",
+            "title": "Microsoft\u2019s Surface Laptop Ultra Is Picking a Fight With the M5 Max MacBook Pro",
+            "description": "Thinness is out and brute Nvidia RTX Spark performance is in.",
+            "url": "https://gizmodo.com/microsofts-surface-laptop-ultra-is-picking-a-fight-with-the-m5-max-macbook-pro-2000765747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/microsoft-surface-ultra-0-1200x675.jpeg",
+            "publishedAt": "2026-06-01T15:15:22Z",
+            "content": "Billed as the \u201cmost powerful Surface Laptop ever built,\u201d the specs for the Surface Laptop Ultra, launching this fall, should arouse any tech geek. Microsoft seems to be cramming in as much as possibl\u2026 [+1905 chars]",
             "ai_score": 5
         },
         {
