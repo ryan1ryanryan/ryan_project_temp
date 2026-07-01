@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-07-01 21:46",
+    "last_updated": "2026-07-01 23:21",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
-            "description": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the \u2026",
-            "url": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-06-16T04:14:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern appeal.\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern ap\u2026 [+4954 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -153,6 +139,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-25T10:37:43Z",
             "content": "It\u2019s day three of Prime Day, folks. We\u2019re nearly 75 percent of the way through Amazon\u2019s four-day sales event, and unsurprisingly, many deals are still sticking around. There have been all kinds of di\u2026 [+49727 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
+            "description": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the \u2026",
+            "url": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-06-16T04:14:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern appeal.\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern ap\u2026 [+4954 chars]",
             "ai_score": 5
         },
         {
@@ -493,20 +493,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
-            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-16T18:10:57Z",
-            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -517,6 +503,20 @@
             "urlToImage": "https://i.insider.com/6a31a3f04074dae0e2044526?width=1200&format=jpeg",
             "publishedAt": "2026-06-16T22:35:44Z",
             "content": "Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference.Joe Scarnici/Getty Images for Snap\r\n<ul><li>Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference\u2026 [+2862 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
+            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-16T18:10:57Z",
+            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
             "ai_score": 5
         },
         {
