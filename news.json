@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-02 15:29",
+    "last_updated": "2026-07-02 17:53",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -353,20 +353,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "Microsoft could be the next Big Tech antitrust target",
-            "description": "Over the past several years, Microsoft has largely managed to withstand populist calls to break up Big Tech while peers faced sweeping lawsuits. But a probe by the Federal Trade Commission suggests that grace period could be nearing an end. Earlier this year,\u2026",
-            "url": "https://www.theverge.com/policy/940220/microsoft-ftc-antitrust-investigation-cloud-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKS530_FTC_Microsoft_AParkin3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-01T13:23:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter 25 years, an FTC investigation could put it back in the hot seat.\r\nAfter 25 years, an FTC investigation could put it back in the hot seat.\r\nby\r\nLauren Fein\u2026 [+9631 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -564,20 +550,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Justin Caffier",
-            "title": "Apple Is Officially Coming for Meta\u2019s Privacy-Invading Lunch With Its Own Smart Glasses in Late 2027",
-            "description": "Look forward to the tech giant's long-rumored wearables to be recording you without your knowledge or consent some time later next year.",
-            "url": "https://gizmodo.com/apple-is-officially-coming-for-metas-privacy-invading-lunch-with-its-own-smart-glasses-in-late-2027-2000765491",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/apple-glasses-1200x675.jpg",
-            "publishedAt": "2026-05-31T19:58:45Z",
-            "content": "While checking out of a recent medical appointment, I was suddenly horrified to realize the front desk receptionist I was speaking with had on a pair of Meta x Ray Ban smart glasses.Those arent filmi\u2026 [+3690 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Android Central"
             },
             "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
@@ -745,6 +717,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+            "description": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital f\u2026",
+            "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-07-01T17:46:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts disc-to-digital feature could be essential for next-gen Xbox consoles.\r\nMicrosofts disc-to-digital feature could be essential for next-gen Xbox consol\u2026 [+3736 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Android Central"
             },
@@ -829,20 +815,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Raymond Wong",
-            "title": "Microsoft\u2019s Surface Laptop Ultra Is Picking a Fight With the M5 Max MacBook Pro",
-            "description": "Thinness is out and brute Nvidia RTX Spark performance is in.",
-            "url": "https://gizmodo.com/microsofts-surface-laptop-ultra-is-picking-a-fight-with-the-m5-max-macbook-pro-2000765747",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/microsoft-surface-ultra-0-1200x675.jpeg",
-            "publishedAt": "2026-06-01T15:15:22Z",
-            "content": "Billed as the \u201cmost powerful Surface Laptop ever built,\u201d the specs for the Surface Laptop Ultra, launching this fall, should arouse any tech geek. Microsoft seems to be cramming in as much as possibl\u2026 [+1905 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -916,13 +888,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Yael Grauer",
-            "title": "Read this before you vibe-code another app",
-            "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a pro\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-20T16:31:42Z",
-            "content": "<ul><li></li><li></li></ul>\r\nYour dream vibe-coded app might be a security nightmare.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nby\r\nYael Gra\u2026 [+12996 chars]",
+            "author": "Thomas Ricker",
+            "title": "Solid-state batteries still aren\u2019t ready, but gels are",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The St\u2026",
+            "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268587_Stepback_solid_state__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-14T05:48:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSemi-solid state batteries are a less volatile bridge to the future.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics sta\u2026 [+8750 chars]",
             "ai_score": 5
         },
         {
@@ -972,13 +944,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Nest\u2019s quest to fix your thermostat",
-            "description": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to h\u2026",
-            "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRH_Nest_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-28T12:02:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn Version History: Why an Apple legend decided to reinvent the thermostat, and why he thought it might change everything.\r\nOn Version History: Why an Apple lege\u2026 [+2795 chars]",
+            "author": "Yael Grauer",
+            "title": "Read this before you vibe-code another app",
+            "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a pro\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-20T16:31:42Z",
+            "content": "<ul><li></li><li></li></ul>\r\nYour dream vibe-coded app might be a security nightmare.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nby\r\nYael Gra\u2026 [+12996 chars]",
             "ai_score": 5
         },
         {
@@ -986,13 +958,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Thomas Ricker",
-            "title": "Solid-state batteries still aren\u2019t ready, but gels are",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The St\u2026",
-            "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268587_Stepback_solid_state__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-14T05:48:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSemi-solid state batteries are a less volatile bridge to the future.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics sta\u2026 [+8750 chars]",
+            "author": "David Pierce",
+            "title": "Nest\u2019s quest to fix your thermostat",
+            "description": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to h\u2026",
+            "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRH_Nest_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-28T12:02:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn Version History: Why an Apple legend decided to reinvent the thermostat, and why he thought it might change everything.\r\nOn Version History: Why an Apple lege\u2026 [+2795 chars]",
             "ai_score": 5
         },
         {
@@ -1084,6 +1056,34 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Terrence O\u2019Brien",
+            "title": "Microsoft hasn\u2019t ruled out spinning off Xbox",
+            "description": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled ou\u2026",
+            "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-13T16:29:47Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNothing is imminent, but nothing is off the table.\r\nNothing is imminent, but nothing is off the table.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author will be\u2026 [+2549 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Boox\u2019s new e-reader could replace your Kindle, Kobo, and digital notepad",
+            "description": "Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its predecessor but gets a bump from 2GB to 3GB of RAM and now sup\u2026",
+            "url": "https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/booxgo1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+            "publishedAt": "2026-06-10T19:21:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Go 6 (Gen II) e-reader adds support for Booxs stylus, so instead of just reading you can also doodle and take notes.\r\nThe Go 6 (Gen II) e-reader adds support\u2026 [+2597 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Andrew Liszewski",
             "title": "GuliKit\u2019s new mobile Switch 2 dock lets you play with or without a TV",
             "description": "After teasing it on X last week, GuliKit announced a new version of its TV Docking Station today that now supports the Switch 2 as well as previous versions of the console, including the original Switch and OLED model. The new version of the dock carries forw\u2026",
@@ -1126,34 +1126,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Boox\u2019s new e-reader could replace your Kindle, Kobo, and digital notepad",
-            "description": "Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its predecessor but gets a bump from 2GB to 3GB of RAM and now sup\u2026",
-            "url": "https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/booxgo1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2026-06-10T19:21:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Go 6 (Gen II) e-reader adds support for Booxs stylus, so instead of just reading you can also doodle and take notes.\r\nThe Go 6 (Gen II) e-reader adds support\u2026 [+2597 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Microsoft hasn\u2019t ruled out spinning off Xbox",
-            "description": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled ou\u2026",
-            "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-13T16:29:47Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNothing is imminent, but nothing is off the table.\r\nNothing is imminent, but nothing is off the table.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author will be\u2026 [+2549 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "GTA VI finally gets a price tag",
             "description": "We finally have a price for Grand Theft Auto VI: $79.99. That gets you the standard edition of the game, while the Ultimate Edition will set you back $99.99. Preorders start at midnight tonight, local time, when you'll be able to reserve a copy on PS5 or Xbox\u2026",
@@ -1161,6 +1133,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gta-vi-cover-art-reveal.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-06-24T10:30:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe game is set to launch on November 19th.\r\nThe game is set to launch on November 19th.\r\nby\r\nStevie BonifieldClose\r\nPosts from this author will be added to your\u2026 [+2133 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "AMD\u2019s RX 9070 GRE Graphics Card Is a Compromise No Matter How You Slice It",
+            "description": "With GPUs in limited supply, AMD is relying on a cut-down graphics card to take up the slack.",
+            "url": "https://gizmodo.com/amds-rx-9070-gre-graphics-card-is-a-compromise-no-matter-how-you-slice-it-2000765332",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/AMD-Radeon-RX-9070-GRE-2-1200x675.jpg",
+            "publishedAt": "2026-06-02T00:00:11Z",
+            "content": "The Radeon RX 9070 GRE, AMD\u2019s revision of last year\u2019s RX 9070, is only now arriving on our doorsteps because GPU prices are a complete mess. Unlike Nvidia, which boosted the VRAM of its RTX 5070 in r\u2026 [+4119 chars]",
             "ai_score": 5
         }
     ]
