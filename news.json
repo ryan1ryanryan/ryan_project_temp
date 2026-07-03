@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-02 23:12",
+    "last_updated": "2026-07-03 03:22",
     "articles": [
         {
             "source": {
@@ -90,20 +90,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tina Nguyen",
-            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I\u2026",
-            "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-06-10T17:25:32Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nb\u2026 [+7531 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Valve confirms it\u2019s working with Intel and Nvidia on SteamOS for more GPUs",
             "description": "MSI's Intel-powered Claw gaming handhelds have so far mostly been Windows machines, meaning that anyone who picks one up has to deal with the crusty experience that is Windows on a handheld gaming PC. But now, both Valve and Intel tell The Verge that they're \u2026",
@@ -111,6 +97,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/msi-claw-8-ai-plus-sean-hollister-verge-331A1260-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-19T16:32:31Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSome people have already gotten SteamOS running on Intel.\r\nSome people have already gotten SteamOS running on Intel.\r\nby\r\nJay PetersClose\r\nPosts from this author\u2026 [+3068 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tina Nguyen",
+            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I\u2026",
+            "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-06-10T17:25:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nb\u2026 [+7531 chars]",
             "ai_score": 5
         },
         {
@@ -174,20 +174,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Paresh Dave",
-            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
-            "description": "Activists say it\u2019s the first time big tech employees have publicly called for regulations governing data center projects.",
-            "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
-            "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
-            "publishedAt": "2026-06-03T18:07:11Z",
-            "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Ej Dickson",
             "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
             "description": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for \u201ctraditional\u201d and \u201cconservative\u201d women, matchmakers tell WIRED.",
@@ -195,6 +181,20 @@
             "urlToImage": "https://media.wired.com/photos/6a29f962c0fecd3f62f1da5b/191:100/w_1280,c_limit/Rich-Men-Paying-Matchmakers-to-find-Tradwives-Culture.jpg",
             "publishedAt": "2026-06-12T10:30:00Z",
             "content": "The matchmaker Blaine Anderson, who runs the high-end dating service Dating by Blaine, receives a lot of hyper-specific requests from her wealthy male clients, many of which she documents on her popu\u2026 [+3728 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
+            "description": "Activists say it\u2019s the first time big tech employees have publicly called for regulations governing data center projects.",
+            "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
+            "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
+            "publishedAt": "2026-06-03T18:07:11Z",
+            "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
             "ai_score": 5
         },
         {
@@ -818,20 +818,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-            "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-04T12:12:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI industry rivals rarely agree, but theyre all concerned their technology could be used to develop biological weapons.\r\nAI industry rivals rarely agree, but the\u2026 [+3704 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Two-thirds of Americans think AI is advancing too quickly",
             "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent rep\u2026",
@@ -853,6 +839,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454336/DSCF7813.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-23T12:06:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNeed ANC, great sound, and something for a workout? Prime Day is the time to get some new headphones.\r\nNeed ANC, great sound, and something for a workout? Prime \u2026 [+5856 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+            "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-04T12:12:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI industry rivals rarely agree, but theyre all concerned their technology could be used to develop biological weapons.\r\nAI industry rivals rarely agree, but the\u2026 [+3704 chars]",
             "ai_score": 5
         },
         {
