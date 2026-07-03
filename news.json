@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-03 10:41",
+    "last_updated": "2026-07-03 13:01",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Ej Dickson",
+            "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
+            "description": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for \u201ctraditional\u201d and \u201cconservative\u201d women, matchmakers tell WIRED.",
+            "url": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
+            "urlToImage": "https://media.wired.com/photos/6a29f962c0fecd3f62f1da5b/191:100/w_1280,c_limit/Rich-Men-Paying-Matchmakers-to-find-Tradwives-Culture.jpg",
+            "publishedAt": "2026-06-12T10:30:00Z",
+            "content": "The matchmaker Blaine Anderson, who runs the high-end dating service Dating by Blaine, receives a lot of hyper-specific requests from her wealthy male clients, many of which she documents on her popu\u2026 [+3728 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -181,20 +195,6 @@
             "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
             "publishedAt": "2026-06-03T18:07:11Z",
             "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Ej Dickson",
-            "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
-            "description": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for \u201ctraditional\u201d and \u201cconservative\u201d women, matchmakers tell WIRED.",
-            "url": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
-            "urlToImage": "https://media.wired.com/photos/6a29f962c0fecd3f62f1da5b/191:100/w_1280,c_limit/Rich-Men-Paying-Matchmakers-to-find-Tradwives-Culture.jpg",
-            "publishedAt": "2026-06-12T10:30:00Z",
-            "content": "The matchmaker Blaine Anderson, who runs the high-end dating service Dating by Blaine, receives a lot of hyper-specific requests from her wealthy male clients, many of which she documents on her popu\u2026 [+3728 chars]",
             "ai_score": 5
         },
         {
