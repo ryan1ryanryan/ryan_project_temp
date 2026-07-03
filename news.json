@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-07-03 13:01",
+    "last_updated": "2026-07-03 15:17",
     "articles": [
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": null,
+                "name": "CNET"
             },
-            "author": "Ej Dickson",
-            "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
-            "description": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for \u201ctraditional\u201d and \u201cconservative\u201d women, matchmakers tell WIRED.",
-            "url": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
-            "urlToImage": "https://media.wired.com/photos/6a29f962c0fecd3f62f1da5b/191:100/w_1280,c_limit/Rich-Men-Paying-Matchmakers-to-find-Tradwives-Culture.jpg",
-            "publishedAt": "2026-06-12T10:30:00Z",
-            "content": "The matchmaker Blaine Anderson, who runs the high-end dating service Dating by Blaine, receives a lot of hyper-specific requests from her wealthy male clients, many of which she documents on her popu\u2026 [+3728 chars]",
+            "author": "David Lumb",
+            "title": "Crossfire, the Debut Game From That's No Moon, Seeks to Revolutionize Cover Shooters",
+            "description": "The new studio, made up of former Uncharted and The Last of Us developers, reveals its first project -- and all the new tech it hopes will change gaming.",
+            "url": "https://www.cnet.com/tech/gaming/crossfire-debut-game-thats-no-moon-revolutionize-cover-shooters/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/678759feeb528e42cb8a530960e13785c748813d/hub/2026/06/05/5de7af37-f28e-44c3-bdbb-775e1d5a2e0d/screenshot-2026-06-05-at-3-40-21pm.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-06-05T23:23:41Z",
+            "content": "Going back to play games released decades ago is a quaint experience, looking back at simpler mechanics and level designs, marveling at how far we've come. If developer That's No Moon's ambitions pro\u2026 [+10333 chars]",
             "ai_score": 8
         },
         {
@@ -104,20 +104,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tina Nguyen",
-            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I\u2026",
-            "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-06-10T17:25:32Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nb\u2026 [+7531 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Valve confirms it\u2019s working with Intel and Nvidia on SteamOS for more GPUs",
             "description": "MSI's Intel-powered Claw gaming handhelds have so far mostly been Windows machines, meaning that anyone who picks one up has to deal with the crusty experience that is Windows on a handheld gaming PC. But now, both Valve and Intel tell The Verge that they're \u2026",
@@ -129,16 +115,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "David Lumb",
-            "title": "Crossfire, the Debut Game From That's No Moon, Seeks to Revolutionize Cover Shooters",
-            "description": "The new studio, made up of former Uncharted and The Last of Us developers, reveals its first project -- and all the new tech it hopes will change gaming.",
-            "url": "https://www.cnet.com/tech/gaming/crossfire-debut-game-thats-no-moon-revolutionize-cover-shooters/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/678759feeb528e42cb8a530960e13785c748813d/hub/2026/06/05/5de7af37-f28e-44c3-bdbb-775e1d5a2e0d/screenshot-2026-06-05-at-3-40-21pm.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-06-05T23:23:41Z",
-            "content": "Going back to play games released decades ago is a quaint experience, looking back at simpler mechanics and level designs, marveling at how far we've come. If developer That's No Moon's ambitions pro\u2026 [+10333 chars]",
+            "author": "Tina Nguyen",
+            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I\u2026",
+            "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-06-10T17:25:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nb\u2026 [+7531 chars]",
             "ai_score": 5
         },
         {
@@ -195,6 +181,20 @@
             "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
             "publishedAt": "2026-06-03T18:07:11Z",
             "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Ej Dickson",
+            "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
+            "description": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for \u201ctraditional\u201d and \u201cconservative\u201d women, matchmakers tell WIRED.",
+            "url": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
+            "urlToImage": "https://media.wired.com/photos/6a29f962c0fecd3f62f1da5b/191:100/w_1280,c_limit/Rich-Men-Paying-Matchmakers-to-find-Tradwives-Culture.jpg",
+            "publishedAt": "2026-06-12T10:30:00Z",
+            "content": "The matchmaker Blaine Anderson, who runs the high-end dating service Dating by Blaine, receives a lot of hyper-specific requests from her wealthy male clients, many of which she documents on her popu\u2026 [+3728 chars]",
             "ai_score": 5
         },
         {
@@ -965,6 +965,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRH_Nest_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-28T12:02:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn Version History: Why an Apple legend decided to reinvent the thermostat, and why he thought it might change everything.\r\nOn Version History: Why an Apple lege\u2026 [+2795 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "PlayStation Veteran Gives A Harsh Review Of The Steam Machine: \u2018Am I Going Back To PS4 Days\u2019",
+            "description": "Shuhei Yoshida had good and not so good things to say about Valve's new gaming PC",
+            "url": "https://kotaku.com/playstation-veteran-gives-a-harsh-review-of-the-steam-machine-am-i-going-back-to-ps4-days-2000712230",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/11/Steam-Machine-Alt.jpg",
+            "publishedAt": "2026-07-02T12:57:10Z",
+            "content": "After months of speculation and delays, Steam Machines are going out into the world and people have been sharing their thoughts. One of those people is former President of\u00a0Sony Interactive Entertainm\u2026 [+2397 chars]",
             "ai_score": 5
         },
         {
