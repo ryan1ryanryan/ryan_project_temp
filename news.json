@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-04 21:03",
+    "last_updated": "2026-07-04 22:08",
     "articles": [
         {
             "source": {
@@ -174,20 +174,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Paresh Dave",
-            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
-            "description": "Activists say it\u2019s the first time big tech employees have publicly called for regulations governing data center projects.",
-            "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
-            "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
-            "publishedAt": "2026-06-03T18:07:11Z",
-            "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Ej Dickson",
             "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
             "description": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for \u201ctraditional\u201d and \u201cconservative\u201d women, matchmakers tell WIRED.",
@@ -195,6 +181,20 @@
             "urlToImage": "https://media.wired.com/photos/6a29f962c0fecd3f62f1da5b/191:100/w_1280,c_limit/Rich-Men-Paying-Matchmakers-to-find-Tradwives-Culture.jpg",
             "publishedAt": "2026-06-12T10:30:00Z",
             "content": "The matchmaker Blaine Anderson, who runs the high-end dating service Dating by Blaine, receives a lot of hyper-specific requests from her wealthy male clients, many of which she documents on her popu\u2026 [+3728 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
+            "description": "Activists say it\u2019s the first time big tech employees have publicly called for regulations governing data center projects.",
+            "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
+            "urlToImage": "https://media.wired.com/photos/6a2061ca0365e80b88634682/191:100/w_1280,c_limit/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
+            "publishedAt": "2026-06-03T18:07:11Z",
+            "content": "Two Amazon employees on Wednesday publicly called for regulations on new data centers, telling elected officials in Seattle that unchecked development of the sharply disputed nerve centers of AI thre\u2026 [+3254 chars]",
             "ai_score": 5
         },
         {
@@ -804,20 +804,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-            "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-04T12:12:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI industry rivals rarely agree, but theyre all concerned their technology could be used to develop biological weapons.\r\nAI industry rivals rarely agree, but the\u2026 [+3704 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Two-thirds of Americans think AI is advancing too quickly",
             "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent rep\u2026",
@@ -839,6 +825,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454336/DSCF7813.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-23T12:06:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNeed ANC, great sound, and something for a workout? Prime Day is the time to get some new headphones.\r\nNeed ANC, great sound, and something for a workout? Prime \u2026 [+5856 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+            "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-04T12:12:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI industry rivals rarely agree, but theyre all concerned their technology could be used to develop biological weapons.\r\nAI industry rivals rarely agree, but the\u2026 [+3704 chars]",
             "ai_score": 5
         },
         {
@@ -1014,20 +1014,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
-            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
-            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
-            "publishedAt": "2026-06-24T09:41:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "The video game disc is dead",
             "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
@@ -1035,6 +1021,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-02T16:31:09Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the digital future of games, the iPhone 18 Pro, and those bizarre BMW headlights.\r\nOn The Vergecast: the digital future of games, the iPhone 18\u2026 [+3086 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
+            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
+            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
+            "publishedAt": "2026-06-24T09:41:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
             "ai_score": 5
         },
         {
