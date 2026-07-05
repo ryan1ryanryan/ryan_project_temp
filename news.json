@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-07-05 05:02",
+    "last_updated": "2026-07-05 08:10",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Android 17\u2019s new foldable gaming mode could make flippy phones more fun",
-            "description": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the v\u2026",
-            "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-            "publishedAt": "2026-06-25T22:33:54Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,76 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Netflix Believes the Future of Cloud Gaming Looks Like the\u2026 Nintendo Wii?",
+            "description": "Netflix's new game, 'Unhinged,' thinks your phone is the next generation of the Wii Remote.",
+            "url": "https://gizmodo.com/netflix-believes-the-future-of-cloud-gaming-looks-like-the-nintendo-wii-2000776380",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Netflix-Unhinged-Game-1-1200x675.jpg",
+            "publishedAt": "2026-06-24T13:20:17Z",
+            "content": "Netflix, the big daddy of streaming, wants to proliferate cloud gaming to every single TV with even a moderate internet connection. Its new game, Unhinged, uses a control scheme that anyone with a sm\u2026 [+5390 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
+            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
+            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-30T17:04:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Dude, Where\u2019s My Founder? Ashton Kutcher Leaves VC Firm and Shows Which Way the Wind Is Blowing",
+            "description": "The actor is starting a new firm focused on 'infrastructure, energy and deep tech.'",
+            "url": "https://gizmodo.com/dude-wheres-my-founder-ashton-kutcher-leaves-vc-firm-and-shows-which-way-the-wind-is-blowing-2000780667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/shutterstock_2727277665-1200x675.jpg",
+            "publishedAt": "2026-07-02T16:50:50Z",
+            "content": "Well-known Hollywood actor and lesser-known Silicon Valley investor Ashton Kutcher is leaving the venture capital firm he co-founded more than a decade ago, as he pivots to new bets on the resources \u2026 [+3064 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "FAA Takes First Step to Scrap the Ban on Supersonic Flights Over the U.S.",
+            "description": "Sean Duffy says new tech makes it safer for people on the ground who are worried about sonic booms.",
+            "url": "https://gizmodo.com/faa-takes-first-step-to-scrap-the-ban-on-supersonic-flights-over-the-u-s-2000779632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/concorde-1976-1200x675.jpg",
+            "publishedAt": "2026-06-30T20:20:44Z",
+            "content": "The Federal Aviation Administration announced a proposed rule change Tuesday that would lift the ban on supersonic flights over the continental U.S. by non-military planes, a policy that\u2019s been in pl\u2026 [+3931 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Android 17\u2019s new foldable gaming mode could make flippy phones more fun",
+            "description": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the v\u2026",
+            "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2026-06-25T22:33:54Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
             "ai_score": 5
         },
         {
@@ -55,20 +111,6 @@
             "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
             "publishedAt": "2026-06-26T19:58:49Z",
             "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Netflix Believes the Future of Cloud Gaming Looks Like the\u2026 Nintendo Wii?",
-            "description": "Netflix's new game, 'Unhinged,' thinks your phone is the next generation of the Wii Remote.",
-            "url": "https://gizmodo.com/netflix-believes-the-future-of-cloud-gaming-looks-like-the-nintendo-wii-2000776380",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Netflix-Unhinged-Game-1-1200x675.jpg",
-            "publishedAt": "2026-06-24T13:20:17Z",
-            "content": "Netflix, the big daddy of streaming, wants to proliferate cloud gaming to every single TV with even a moderate internet connection. Its new game, Unhinged, uses a control scheme that anyone with a sm\u2026 [+5390 chars]",
             "ai_score": 5
         },
         {
@@ -356,20 +398,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
-            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
-            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-30T17:04:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tom Warren",
             "title": "This is Microsoft\u2019s Xbox 25th anniversary console in translucent green",
             "description": "Microsoft has created a special edition Xbox Series X to celebrate 25 years of the console. The Xbox 25th anniversary console takes design cues from the original Xbox console, with both the console and controller featuring a translucent green design. \"For the\u2026",
@@ -377,34 +405,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-06-07T17:49:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe anniversary edition console includes an Xbox button that lights up green and a translucent green controller.\r\nThe anniversary edition console includes an Xbo\u2026 [+2471 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Dude, Where\u2019s My Founder? Ashton Kutcher Leaves VC Firm and Shows Which Way the Wind Is Blowing",
-            "description": "The actor is starting a new firm focused on 'infrastructure, energy and deep tech.'",
-            "url": "https://gizmodo.com/dude-wheres-my-founder-ashton-kutcher-leaves-vc-firm-and-shows-which-way-the-wind-is-blowing-2000780667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/shutterstock_2727277665-1200x675.jpg",
-            "publishedAt": "2026-07-02T16:50:50Z",
-            "content": "Well-known Hollywood actor and lesser-known Silicon Valley investor Ashton Kutcher is leaving the venture capital firm he co-founded more than a decade ago, as he pivots to new bets on the resources \u2026 [+3064 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "FAA Takes First Step to Scrap the Ban on Supersonic Flights Over the U.S.",
-            "description": "Sean Duffy says new tech makes it safer for people on the ground who are worried about sonic booms.",
-            "url": "https://gizmodo.com/faa-takes-first-step-to-scrap-the-ban-on-supersonic-flights-over-the-u-s-2000779632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/concorde-1976-1200x675.jpg",
-            "publishedAt": "2026-06-30T20:20:44Z",
-            "content": "The Federal Aviation Administration announced a proposed rule change Tuesday that would lift the ban on supersonic flights over the continental U.S. by non-military planes, a policy that\u2019s been in pl\u2026 [+3931 chars]",
             "ai_score": 5
         },
         {
@@ -776,20 +776,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Robert Hart",
-            "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-            "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-04T12:12:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI industry rivals rarely agree, but theyre all concerned their technology could be used to develop biological weapons.\r\nAI industry rivals rarely agree, but the\u2026 [+3704 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Two-thirds of Americans think AI is advancing too quickly",
             "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent rep\u2026",
@@ -811,6 +797,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454336/DSCF7813.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-23T12:06:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNeed ANC, great sound, and something for a workout? Prime Day is the time to get some new headphones.\r\nNeed ANC, great sound, and something for a workout? Prime \u2026 [+5856 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+            "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-04T12:12:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI industry rivals rarely agree, but theyre all concerned their technology could be used to develop biological weapons.\r\nAI industry rivals rarely agree, but the\u2026 [+3704 chars]",
             "ai_score": 5
         },
         {
@@ -986,20 +986,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
-            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
-            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
-            "publishedAt": "2026-06-24T09:41:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "The video game disc is dead",
             "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
@@ -1007,6 +993,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-02T16:31:09Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the digital future of games, the iPhone 18 Pro, and those bizarre BMW headlights.\r\nOn The Vergecast: the digital future of games, the iPhone 18\u2026 [+3086 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
+            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
+            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
+            "publishedAt": "2026-06-24T09:41:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
             "ai_score": 5
         },
         {
