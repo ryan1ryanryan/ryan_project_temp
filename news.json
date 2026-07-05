@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-05 13:44",
+    "last_updated": "2026-07-05 15:18",
     "articles": [
         {
             "source": {
@@ -776,34 +776,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Two-thirds of Americans think AI is advancing too quickly",
-            "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent rep\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-17T17:20:24Z",
-            "content": "<ul><li></li><li></li></ul>\r\nThe latest study from Pew Research finds that more people are using chatbots, but theyre wary.\r\nThe latest study from Pew Research finds that more people are using chatbo\u2026 [+2337 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "John.Higgins",
-            "title": "These are my favorite Prime Day deals on earbuds and headphones",
-            "description": "I can\u2019t think of a tech accessory I actively use more than headphones. Whether it\u2019s for music, calls, or just to block out ambient noise so I can focus, I always have a pair close at hand. One of the best times to get some of your own with some big savings at\u2026",
-            "url": "https://www.theverge.com/gadgets/952601/earbuds-headphones-deals-prime-day-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454336/DSCF7813.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-23T12:06:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNeed ANC, great sound, and something for a workout? Prime Day is the time to get some new headphones.\r\nNeed ANC, great sound, and something for a workout? Prime \u2026 [+5856 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "AI leaders call for tougher protections against AI-aided bioweapons",
             "description": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to\u2026",
@@ -829,6 +801,34 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Two-thirds of Americans think AI is advancing too quickly",
+            "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent rep\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-17T17:20:24Z",
+            "content": "<ul><li></li><li></li></ul>\r\nThe latest study from Pew Research finds that more people are using chatbots, but theyre wary.\r\nThe latest study from Pew Research finds that more people are using chatbo\u2026 [+2337 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "John.Higgins",
+            "title": "These are my favorite Prime Day deals on earbuds and headphones",
+            "description": "I can\u2019t think of a tech accessory I actively use more than headphones. Whether it\u2019s for music, calls, or just to block out ambient noise so I can focus, I always have a pair close at hand. One of the best times to get some of your own with some big savings at\u2026",
+            "url": "https://www.theverge.com/gadgets/952601/earbuds-headphones-deals-prime-day-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454336/DSCF7813.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-23T12:06:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNeed ANC, great sound, and something for a workout? Prime Day is the time to get some new headphones.\r\nNeed ANC, great sound, and something for a workout? Prime \u2026 [+5856 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -839,6 +839,20 @@
             "urlToImage": "https://i.insider.com/6a3af4173d84808d83754b84?width=1200&format=jpeg",
             "publishedAt": "2026-06-23T22:32:52Z",
             "content": "Meta's new AI glasses, starting at $299, aim to blend fashion with advanced wearable technology.Meta\r\n<ul><li>Mark Zuckerberg envisions Meta's AI glasses as stylish, functional wearables, not mere ga\u2026 [+2507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Thomas Ricker",
+            "title": "Solid-state batteries still aren\u2019t ready, but gels are",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The St\u2026",
+            "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268587_Stepback_solid_state__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-14T05:48:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSemi-solid state batteries are a less volatile bridge to the future.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics sta\u2026 [+8750 chars]",
             "ai_score": 5
         },
         {
@@ -874,13 +888,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Thomas Ricker",
-            "title": "Solid-state batteries still aren\u2019t ready, but gels are",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The St\u2026",
-            "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268587_Stepback_solid_state__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-14T05:48:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSemi-solid state batteries are a less volatile bridge to the future.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics sta\u2026 [+8750 chars]",
+            "author": "Janko Roettgers",
+            "title": "No more lightbulbs, much more sports: Five predictions for Roku\u2019s future",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Fox announced its acquisition of Roku earlier this week, executives of both companies wer\u2026",
+            "url": "https://www.theverge.com/column/951850/fox-roku-predictions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-17T20:10:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHow getting acquired by Fox will change things for the streaming device maker, from its IoT business to its international expansion.\r\nHow getting acquired by Fox\u2026 [+7892 chars]",
             "ai_score": 5
         },
         {
@@ -909,20 +923,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRH_Nest_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-28T12:02:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn Version History: Why an Apple legend decided to reinvent the thermostat, and why he thought it might change everything.\r\nOn Version History: Why an Apple lege\u2026 [+2795 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Janko Roettgers",
-            "title": "No more lightbulbs, much more sports: Five predictions for Roku\u2019s future",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Fox announced its acquisition of Roku earlier this week, executives of both companies wer\u2026",
-            "url": "https://www.theverge.com/column/951850/fox-roku-predictions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-17T20:10:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHow getting acquired by Fox will change things for the streaming device maker, from its IoT business to its international expansion.\r\nHow getting acquired by Fox\u2026 [+7892 chars]",
             "ai_score": 5
         },
         {
@@ -986,6 +986,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Andrew Liszewski",
+            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
+            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
+            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
+            "publishedAt": "2026-06-24T09:41:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "David Pierce",
             "title": "The video game disc is dead",
             "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
@@ -1000,13 +1014,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
-            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
-            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
-            "publishedAt": "2026-06-24T09:41:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
+            "author": "Terrence O\u2019Brien",
+            "title": "Microsoft hasn\u2019t ruled out spinning off Xbox",
+            "description": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled ou\u2026",
+            "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-13T16:29:47Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNothing is imminent, but nothing is off the table.\r\nNothing is imminent, but nothing is off the table.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author will be\u2026 [+2549 chars]",
             "ai_score": 5
         },
         {
@@ -1028,13 +1042,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Microsoft hasn\u2019t ruled out spinning off Xbox",
-            "description": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled ou\u2026",
-            "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-13T16:29:47Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNothing is imminent, but nothing is off the table.\r\nNothing is imminent, but nothing is off the table.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author will be\u2026 [+2549 chars]",
+            "author": "Andrew Liszewski",
+            "title": "GuliKit\u2019s new mobile Switch 2 dock lets you play with or without a TV",
+            "description": "After teasing it on X last week, GuliKit announced a new version of its TV Docking Station today that now supports the Switch 2 as well as previous versions of the console, including the original Switch and OLED model. The new version of the dock carries forw\u2026",
+            "url": "https://www.theverge.com/tech/950827/gulikit-tv-docking-station-switch-2-oled-console-hdmi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gulikit_dock1.jpg?quality=90&strip=all&crop=0,10.76654584508,100,78.46690830984",
+            "publishedAt": "2026-06-16T20:43:28Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $29.99 TV Docking Station for Switch 2 is now one of the cheapest alternatives to Nintendos bundled TV dock.\r\nThe $29.99 TV Docking Station for Switch 2 is n\u2026 [+2957 chars]",
             "ai_score": 5
         },
         {
@@ -1063,20 +1077,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
             "publishedAt": "2026-06-18T20:22:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA new mobile app for the GB Operator lets you snap terrible 2-bit, 128 x112 photos without the need for a Game Boy.\r\nA new mobile app for the GB Operator lets yo\u2026 [+3137 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "GuliKit\u2019s new mobile Switch 2 dock lets you play with or without a TV",
-            "description": "After teasing it on X last week, GuliKit announced a new version of its TV Docking Station today that now supports the Switch 2 as well as previous versions of the console, including the original Switch and OLED model. The new version of the dock carries forw\u2026",
-            "url": "https://www.theverge.com/tech/950827/gulikit-tv-docking-station-switch-2-oled-console-hdmi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gulikit_dock1.jpg?quality=90&strip=all&crop=0,10.76654584508,100,78.46690830984",
-            "publishedAt": "2026-06-16T20:43:28Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $29.99 TV Docking Station for Switch 2 is now one of the cheapest alternatives to Nintendos bundled TV dock.\r\nThe $29.99 TV Docking Station for Switch 2 is n\u2026 [+2957 chars]",
             "ai_score": 5
         },
         {
