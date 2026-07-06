@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-06 17:49",
+    "last_updated": "2026-07-06 20:02",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
+            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-16T18:10:57Z",
+            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -437,20 +451,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
-            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-16T18:10:57Z",
-            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -720,20 +720,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "Ad-free streaming is a luxury now",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta\u2026",
-            "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Severance_Photo_020104.jpg?quality=90&strip=all&crop=10.382421875%2C0%2C79.23515625%2C100&w=1200",
-            "publishedAt": "2026-06-27T14:46:35Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAd-free streaming is a luxury now\r\nSteady price increases are pushing viewers toward cheaper, ad-supported tiers.\r\nby\r\nEmma RothClose\r\nPosts from this author wil\u2026 [+8424 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Two-thirds of Americans think AI is advancing too quickly",
             "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent rep\u2026",
@@ -755,6 +741,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454336/DSCF7813.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-23T12:06:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNeed ANC, great sound, and something for a workout? Prime Day is the time to get some new headphones.\r\nNeed ANC, great sound, and something for a workout? Prime \u2026 [+5856 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Ad-free streaming is a luxury now",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta\u2026",
+            "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Severance_Photo_020104.jpg?quality=90&strip=all&crop=10.382421875%2C0%2C79.23515625%2C100&w=1200",
+            "publishedAt": "2026-06-27T14:46:35Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAd-free streaming is a luxury now\r\nSteady price increases are pushing viewers toward cheaper, ad-supported tiers.\r\nby\r\nEmma RothClose\r\nPosts from this author wil\u2026 [+8424 chars]",
             "ai_score": 5
         },
         {
@@ -832,20 +832,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Janko Roettgers",
-            "title": "No more lightbulbs, much more sports: Five predictions for Roku\u2019s future",
-            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Fox announced its acquisition of Roku earlier this week, executives of both companies wer\u2026",
-            "url": "https://www.theverge.com/column/951850/fox-roku-predictions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-17T20:10:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHow getting acquired by Fox will change things for the streaming device maker, from its IoT business to its international expansion.\r\nHow getting acquired by Fox\u2026 [+7892 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "Nest\u2019s quest to fix your thermostat",
             "description": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to h\u2026",
@@ -853,6 +839,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRH_Nest_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-28T12:02:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn Version History: Why an Apple legend decided to reinvent the thermostat, and why he thought it might change everything.\r\nOn Version History: Why an Apple lege\u2026 [+2795 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Janko Roettgers",
+            "title": "No more lightbulbs, much more sports: Five predictions for Roku\u2019s future",
+            "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Fox announced its acquisition of Roku earlier this week, executives of both companies wer\u2026",
+            "url": "https://www.theverge.com/column/951850/fox-roku-predictions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-17T20:10:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHow getting acquired by Fox will change things for the streaming device maker, from its IoT business to its international expansion.\r\nHow getting acquired by Fox\u2026 [+7892 chars]",
             "ai_score": 5
         },
         {
@@ -902,20 +902,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
-            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
-            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
-            "publishedAt": "2026-06-24T09:41:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "The video game disc is dead",
             "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
@@ -923,6 +909,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-02T16:31:09Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the digital future of games, the iPhone 18 Pro, and those bizarre BMW headlights.\r\nOn The Vergecast: the digital future of games, the iPhone 18\u2026 [+3086 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
+            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
+            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
+            "publishedAt": "2026-06-24T09:41:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
             "ai_score": 5
         },
         {
