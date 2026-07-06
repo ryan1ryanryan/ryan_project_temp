@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-07-06 05:16",
+    "last_updated": "2026-07-06 10:28",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Burgess",
+            "title": "All the Ways Europe Is Ditching American Technology",
+            "description": "A WIRED timeline shows how dozens of governments, companies, and other organizations across Europe are moving, or planning to shift, away from US Big Tech.",
+            "url": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/",
+            "urlToImage": "https://media.wired.com/photos/6a235c1dcd4553222cef6d1b/191:100/w_1280,c_limit/All-Ways-Europe-Ditching-US-Tech-Security.jpg",
+            "publishedAt": "2026-06-08T06:00:00Z",
+            "content": "Europe is done with American Big Tech. Well, sort of. Since the start of President Donald Trumps chaotic second administration last year, concerned governments and companies across the continent have\u2026 [+2955 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Kalshi adds required employment verification for some prediction market bets",
+            "description": "The CFTC is considering its first regulation for prediction markets, as arrests over \"insider trading\" on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says \"the proposal w\u2026",
+            "url": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+            "publishedAt": "2026-06-10T20:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt announced new integrity measures just as the CFTC released a proposal for prediction market regulation.\r\nIt announced new integrity measures just as the CFTC \u2026 [+2420 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +41,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,7 +55,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -216,20 +244,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Matt Burgess",
-            "title": "All the Ways Europe Is Ditching American Technology",
-            "description": "A WIRED timeline shows how dozens of governments, companies, and other organizations across Europe are moving, or planning to shift, away from US Big Tech.",
-            "url": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/",
-            "urlToImage": "https://media.wired.com/photos/6a235c1dcd4553222cef6d1b/191:100/w_1280,c_limit/All-Ways-Europe-Ditching-US-Tech-Security.jpg",
-            "publishedAt": "2026-06-08T06:00:00Z",
-            "content": "Europe is done with American Big Tech. Well, sort of. Since the start of President Donald Trumps chaotic second administration last year, concerned governments and companies across the continent have\u2026 [+2955 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Simon Hill",
             "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
             "description": "Don't pay full price\u2014snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
@@ -307,20 +321,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Gizmodo_July4GiftGuide_FeaturedImage-1200x675.jpg",
             "publishedAt": "2026-06-25T20:15:30Z",
             "content": "Summer is here: the perfect time to kick back at home with the AC blasting, hit your summer fitness goals, or heat things up on the barbecue grill. Whether youre looking for a new Switch 2 game to ex\u2026 [+10737 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Kalshi adds required employment verification for some prediction market bets",
-            "description": "The CFTC is considering its first regulation for prediction markets, as arrests over \"insider trading\" on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says \"the proposal w\u2026",
-            "url": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-            "publishedAt": "2026-06-10T20:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt announced new integrity measures just as the CFTC released a proposal for prediction market regulation.\r\nIt announced new integrity measures just as the CFTC \u2026 [+2420 chars]",
             "ai_score": 5
         },
         {
@@ -720,6 +720,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Emma Roth",
+            "title": "Ad-free streaming is a luxury now",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta\u2026",
+            "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Severance_Photo_020104.jpg?quality=90&strip=all&crop=10.382421875%2C0%2C79.23515625%2C100&w=1200",
+            "publishedAt": "2026-06-27T14:46:35Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAd-free streaming is a luxury now\r\nSteady price increases are pushing viewers toward cheaper, ad-supported tiers.\r\nby\r\nEmma RothClose\r\nPosts from this author wil\u2026 [+8424 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Terrence O\u2019Brien",
             "title": "Two-thirds of Americans think AI is advancing too quickly",
             "description": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent rep\u2026",
@@ -741,20 +755,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454336/DSCF7813.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-23T12:06:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNeed ANC, great sound, and something for a workout? Prime Day is the time to get some new headphones.\r\nNeed ANC, great sound, and something for a workout? Prime \u2026 [+5856 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Ad-free streaming is a luxury now",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta\u2026",
-            "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Severance_Photo_020104.jpg?quality=90&strip=all&crop=10.382421875%2C0%2C79.23515625%2C100&w=1200",
-            "publishedAt": "2026-06-27T14:46:35Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAd-free streaming is a luxury now\r\nSteady price increases are pushing viewers toward cheaper, ad-supported tiers.\r\nby\r\nEmma RothClose\r\nPosts from this author wil\u2026 [+8424 chars]",
             "ai_score": 5
         },
         {
@@ -832,20 +832,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "Nest\u2019s quest to fix your thermostat",
-            "description": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to h\u2026",
-            "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRH_Nest_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-28T12:02:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn Version History: Why an Apple legend decided to reinvent the thermostat, and why he thought it might change everything.\r\nOn Version History: Why an Apple lege\u2026 [+2795 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Janko Roettgers",
             "title": "No more lightbulbs, much more sports: Five predictions for Roku\u2019s future",
             "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When Fox announced its acquisition of Roku earlier this week, executives of both companies wer\u2026",
@@ -853,6 +839,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-17T20:10:26Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHow getting acquired by Fox will change things for the streaming device maker, from its IoT business to its international expansion.\r\nHow getting acquired by Fox\u2026 [+7892 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Nest\u2019s quest to fix your thermostat",
+            "description": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to h\u2026",
+            "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRH_Nest_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-28T12:02:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn Version History: Why an Apple legend decided to reinvent the thermostat, and why he thought it might change everything.\r\nOn Version History: Why an Apple lege\u2026 [+2795 chars]",
             "ai_score": 5
         },
         {
@@ -902,20 +902,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The video game disc is dead",
-            "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
-            "url": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-02T16:31:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the digital future of games, the iPhone 18 Pro, and those bizarre BMW headlights.\r\nOn The Vergecast: the digital future of games, the iPhone 18\u2026 [+3086 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
             "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
@@ -923,6 +909,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
             "publishedAt": "2026-06-24T09:41:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The video game disc is dead",
+            "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
+            "url": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-02T16:31:09Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the digital future of games, the iPhone 18 Pro, and those bizarre BMW headlights.\r\nOn The Vergecast: the digital future of games, the iPhone 18\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
