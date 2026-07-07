@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-07 19:07",
+    "last_updated": "2026-07-07 21:29",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Popular Android Handhelds Getting Price Increases As Gaming Becomes More Expensive Every Day",
+            "description": "The AYN Odin 3 and AYN Thor are the latest gaming devices to get price bumps",
+            "url": "https://kotaku.com/ayn-android-gaming-handhelds-odin-3-thor-price-cost-increase-ai-2000703948",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/06/aynthor-1200x675.jpg",
+            "publishedAt": "2026-06-08T13:49:31Z",
+            "content": "The AYN Thor and AYN Odin 3, two popular handheld gaming devices loved by fans of retro games and indie titles, are getting price increases later this month. For the AYN Thor, this is the second pric\u2026 [+1518 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -587,20 +601,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268466_5K_monitor_v_Apple_display_JHiggins_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-25T17:47:20Z",
             "content": "You can get a great, color-accurate 5K monitor for half the price of an Apple Studio Display. | Photo by John Higgins / The Verge\r\n\n\nRAMageddon has come for computers. The price of memory chips, hard\u2026 [+7242 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "Popular Android Handhelds Getting Price Increases As Gaming Becomes More Expensive Every Day",
-            "description": "The AYN Odin 3 and AYN Thor are the latest gaming devices to get price bumps",
-            "url": "https://kotaku.com/ayn-android-gaming-handhelds-odin-3-thor-price-cost-increase-ai-2000703948",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/06/aynthor-1200x675.jpg",
-            "publishedAt": "2026-06-08T13:49:31Z",
-            "content": "The AYN Thor and AYN Odin 3, two popular handheld gaming devices loved by fans of retro games and indie titles, are getting price increases later this month. For the AYN Thor, this is the second pric\u2026 [+1518 chars]",
             "ai_score": 5
         },
         {
