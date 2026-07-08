@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-08 05:56",
+    "last_updated": "2026-07-08 08:34",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song, Nilay Patel",
+            "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
+            "description": "Fresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple Intelligence capabilities.\" Apple SVP of Software Engineering Craig Federighi and his team will be there\u2026",
+            "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc-2026-the-verge-55_32.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-08T18:46:33Z",
+            "content": "One of the funnier parts of the keynote.\r\n\n\nFresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple \u2026 [+915 chars]",
+            "ai_score": 9
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -27,7 +41,77 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-15T15:52:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Netflix Believes the Future of Cloud Gaming Looks Like the\u2026 Nintendo Wii?",
+            "description": "Netflix's new game, 'Unhinged,' thinks your phone is the next generation of the Wii Remote.",
+            "url": "https://gizmodo.com/netflix-believes-the-future-of-cloud-gaming-looks-like-the-nintendo-wii-2000776380",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Netflix-Unhinged-Game-1-1200x675.jpg",
+            "publishedAt": "2026-06-24T13:20:17Z",
+            "content": "Netflix, the big daddy of streaming, wants to proliferate cloud gaming to every single TV with even a moderate internet connection. Its new game, Unhinged, uses a control scheme that anyone with a sm\u2026 [+5390 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
+            "description": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the \u2026",
+            "url": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-06-16T04:14:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern appeal.\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern ap\u2026 [+4954 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Can We Not Normalize $5,300 Handheld Gaming PCs?",
+            "description": "You can buy a gaming laptop with a top-end GPU for less.",
+            "url": "https://gizmodo.com/can-we-not-normalize-5300-dollar-handheld-gaming-pcs-2000781709",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
+            "publishedAt": "2026-07-06T14:30:26Z",
+            "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Katie Drummond",
+            "title": "Bernie Sanders Saw This Coming",
+            "description": "For decades, Bernie Sanders has argued that concentrated wealth threatened American democracy. Now he\u2019s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
+            "url": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+            "urlToImage": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg",
+            "publishedAt": "2026-06-30T10:30:00Z",
+            "content": "Right.\r\nWell, Im not so sure that thats the case.\r\nThe truth is nobody knows exactly what is gonna happen. I mean, just to give you one example of it: There are 6, 7, 8 million people who drive truck\u2026 [+2564 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "SanDisk\u2019s new PlayStation 5 SSD will cost you more than three PS5 Pros",
+            "description": "SanDisk has announced an expensive way to boost the PlayStation 5's storage capacity. The company's new Optimus GX PRO 850P NVMe SSD is an officially licensed PS5 accessory in capacities ranging from 1TB to 8TB. The largest option can store up to 200 PS5 game\u2026",
+            "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2026-06-17T15:34:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,000\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,\u2026 [+2602 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,20 +139,6 @@
             "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
             "publishedAt": "2026-06-26T19:58:49Z",
             "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Netflix Believes the Future of Cloud Gaming Looks Like the\u2026 Nintendo Wii?",
-            "description": "Netflix's new game, 'Unhinged,' thinks your phone is the next generation of the Wii Remote.",
-            "url": "https://gizmodo.com/netflix-believes-the-future-of-cloud-gaming-looks-like-the-nintendo-wii-2000776380",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Netflix-Unhinged-Game-1-1200x675.jpg",
-            "publishedAt": "2026-06-24T13:20:17Z",
-            "content": "Netflix, the big daddy of streaming, wants to proliferate cloud gaming to every single TV with even a moderate internet connection. Its new game, Unhinged, uses a control scheme that anyone with a sm\u2026 [+5390 chars]",
             "ai_score": 5
         },
         {
@@ -129,20 +199,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
-            "description": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the \u2026",
-            "url": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-06-16T04:14:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern appeal.\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern ap\u2026 [+4954 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -181,20 +237,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
             "publishedAt": "2026-06-10T23:42:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSince the competition wont buy their tech, theyre bringing it directly to users.\r\nSince the competition wont buy their tech, theyre bringing it directly to users\u2026 [+2359 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Can We Not Normalize $5,300 Handheld Gaming PCs?",
-            "description": "You can buy a gaming laptop with a top-end GPU for less.",
-            "url": "https://gizmodo.com/can-we-not-normalize-5300-dollar-handheld-gaming-pcs-2000781709",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
-            "publishedAt": "2026-07-06T14:30:26Z",
-            "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
             "ai_score": 5
         },
         {
@@ -297,20 +339,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Victoria Song, Nilay Patel",
-            "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
-            "description": "Fresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple Intelligence capabilities.\" Apple SVP of Software Engineering Craig Federighi and his team will be there\u2026",
-            "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc-2026-the-verge-55_32.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-08T18:46:33Z",
-            "content": "One of the funnier parts of the keynote.\r\n\n\nFresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple \u2026 [+915 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -335,20 +363,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
             "publishedAt": "2026-06-10T20:18:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt announced new integrity measures just as the CFTC released a proposal for prediction market regulation.\r\nIt announced new integrity measures just as the CFTC \u2026 [+2420 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Katie Drummond",
-            "title": "Bernie Sanders Saw This Coming",
-            "description": "For decades, Bernie Sanders has argued that concentrated wealth threatened American democracy. Now he\u2019s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
-            "url": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-            "urlToImage": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg",
-            "publishedAt": "2026-06-30T10:30:00Z",
-            "content": "Right.\r\nWell, Im not so sure that thats the case.\r\nThe truth is nobody knows exactly what is gonna happen. I mean, just to give you one example of it: There are 6, 7, 8 million people who drive truck\u2026 [+2564 chars]",
             "ai_score": 5
         },
         {
@@ -965,20 +979,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-13T16:29:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNothing is imminent, but nothing is off the table.\r\nNothing is imminent, but nothing is off the table.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author will be\u2026 [+2549 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "SanDisk\u2019s new PlayStation 5 SSD will cost you more than three PS5 Pros",
-            "description": "SanDisk has announced an expensive way to boost the PlayStation 5's storage capacity. The company's new Optimus GX PRO 850P NVMe SSD is an officially licensed PS5 accessory in capacities ranging from 1TB to 8TB. The largest option can store up to 200 PS5 game\u2026",
-            "url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sandisk1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-06-17T15:34:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,000\r\nThe officially-licensed accessory bumps the PS5s storage to 8TB for nearly $3,\u2026 [+2602 chars]",
             "ai_score": 5
         },
         {
