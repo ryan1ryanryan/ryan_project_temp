@@ -1,76 +1,6 @@
 {
-    "last_updated": "2026-07-09 12:04",
+    "last_updated": "2026-07-09 15:30",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "John Brandon",
-            "title": "Hisense UR9 RGB MiniLED: An Affordable TV in Its Class",
-            "description": "This brilliant, low-cost television competes with similar offerings from higher-end brands like Samsung and LG.",
-            "url": "https://www.wired.com/review/hisense-ur9-rgb-miniled/",
-            "urlToImage": "https://media.wired.com/photos/6a4bdfbb6a49ac9393dae91c/191:100/w_1280,c_limit/Review--Hisense-UR9-RGB-MiniLED.jpg",
-            "publishedAt": "2026-07-07T11:01:00Z",
-            "content": "RGB Mini-LED TVs have officially arrived, and Hisense's UR9 was the first to hit the market, followed by Sony's Bravia 7 Mark II and TCLs RM9L. I wouldnt blame you if you werent jazzed to learn what \u2026 [+2145 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Deezer launches an AI music detector for other streaming services",
-            "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it ha\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
-            "publishedAt": "2026-06-10T23:42:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSince the competition wont buy their tech, theyre bringing it directly to users.\r\nSince the competition wont buy their tech, theyre bringing it directly to users\u2026 [+2359 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Even Valve Knows You May Be Better Off With a Cheaper Steam Machine Alternative",
-            "description": "Valve may make PC gaming better, so long as you don't mind installing SteamOS yourself.",
-            "url": "https://gizmodo.com/even-valve-knows-you-may-be-better-off-with-a-cheaper-steam-machine-alternative-2000775545",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-5-1200x675.jpg",
-            "publishedAt": "2026-06-22T21:10:03Z",
-            "content": "If you want Valves 6\u00d76-inch PC/console hybrid, youll have to spend at least $1,050. But if you want a Steam Machine, in the abstract sense, you dont have to stick with Valves own hardware. In todays \u2026 [+3455 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "How much would the Steam Machine cost to build?",
-            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
-            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-23T15:30:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Allison Johnson",
-            "title": "The Nex Playground is down to its pre-RAMageddon price during Prime Day",
-            "description": "The Nex Playground is the family-centric, Kinect-like game console that made one Verge editor\u2019s kids laugh, cry, and ask for more playtime, even when they were sick. The motion-based game play isn\u2019t perfect, but it has won over plenty of parents \u2014 and it\u2019s on\u2026",
-            "url": "https://www.theverge.com/gadgets/950871/nex-playground-prime-day-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sean-hollister-verge-nex-playground-331A1456.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-23T12:49:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThats about as good as well get right now.\r\nThats about as good as well get right now.\r\nby\r\nAllison JohnsonClose\r\nPosts from this author will be added to your da\u2026 [+2370 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -104,6 +34,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Cameron Faulkner",
+            "title": "Gaming laptops are too expensive right now, but this one\u2019s a good value",
+            "description": "It\u2019s not a great time to shop for a gaming laptop. The unprecedented rise in cost for RAM (and storage to a slightly lesser extent) has made laptops with low-to-midrange specs cost much more than they should. Recent deals on gaming laptops worth your attentio\u2026",
+            "url": "https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/katana.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-08T14:43:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTodays roundup covers a wide range of stuff, from Ethernet PoE switches to Teenage Mutant Ninja Turtles 4K Blu-rays.\r\nTodays roundup covers a wide range of stuff\u2026 [+4565 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jay Peters",
             "title": "I\u2019m not giving up my Steam Deck for MSI\u2019s new Claw",
             "description": "This is not a review of the MSI Claw 8 EX AI Plus, the first gaming handheld available with Intel's new Arc G3 Extreme handheld gaming chip. Now that my colleague Sean Hollister is done reviewing the Steam Machine, I'll let him go deep on the new Claw at some\u2026",
@@ -125,6 +69,20 @@
             "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
             "publishedAt": "2026-06-26T19:58:49Z",
             "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "John Brandon",
+            "title": "Hisense UR9 RGB MiniLED: An Affordable TV in Its Class",
+            "description": "This brilliant, low-cost television competes with similar offerings from higher-end brands like Samsung and LG.",
+            "url": "https://www.wired.com/review/hisense-ur9-rgb-miniled/",
+            "urlToImage": "https://media.wired.com/photos/6a4bdfbb6a49ac9393dae91c/191:100/w_1280,c_limit/Review--Hisense-UR9-RGB-MiniLED.jpg",
+            "publishedAt": "2026-07-07T11:01:00Z",
+            "content": "RGB Mini-LED TVs have officially arrived, and Hisense's UR9 was the first to hit the market, followed by Sony's Bravia 7 Mark II and TCLs RM9L. I wouldnt blame you if you werent jazzed to learn what \u2026 [+2145 chars]",
             "ai_score": 5
         },
         {
@@ -241,6 +199,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Deezer launches an AI music detector for other streaming services",
+            "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it ha\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
+            "publishedAt": "2026-06-10T23:42:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSince the competition wont buy their tech, theyre bringing it directly to users.\r\nSince the competition wont buy their tech, theyre bringing it directly to users\u2026 [+2359 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -251,6 +223,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
             "publishedAt": "2026-07-06T14:30:26Z",
             "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Even Valve Knows You May Be Better Off With a Cheaper Steam Machine Alternative",
+            "description": "Valve may make PC gaming better, so long as you don't mind installing SteamOS yourself.",
+            "url": "https://gizmodo.com/even-valve-knows-you-may-be-better-off-with-a-cheaper-steam-machine-alternative-2000775545",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-5-1200x675.jpg",
+            "publishedAt": "2026-06-22T21:10:03Z",
+            "content": "If you want Valves 6\u00d76-inch PC/console hybrid, youll have to spend at least $1,050. But if you want a Steam Machine, in the abstract sense, you dont have to stick with Valves own hardware. In todays \u2026 [+3455 chars]",
             "ai_score": 5
         },
         {
@@ -293,6 +279,34 @@
             "urlToImage": "https://media.wired.com/photos/6a39c9f7579d715adc0866fe/191:100/w_1280,c_limit/The-Best-Prime-Day-Tech-Deals-on-the-Gadgets-You-Actually-Want.jpg",
             "publishedAt": "2026-06-25T10:05:24Z",
             "content": "If you need a cheap way to read books on the go, there's nothing better than just the simple, basic Kindle. It doesn't have the backlit screen or stylus support, but it's designed for readers who jus\u2026 [+1109 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "How much would the Steam Machine cost to build?",
+            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
+            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-23T15:30:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Allison Johnson",
+            "title": "The Nex Playground is down to its pre-RAMageddon price during Prime Day",
+            "description": "The Nex Playground is the family-centric, Kinect-like game console that made one Verge editor\u2019s kids laugh, cry, and ask for more playtime, even when they were sick. The motion-based game play isn\u2019t perfect, but it has won over plenty of parents \u2014 and it\u2019s on\u2026",
+            "url": "https://www.theverge.com/gadgets/950871/nex-playground-prime-day-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sean-hollister-verge-nex-playground-331A1456.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-23T12:49:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThats about as good as well get right now.\r\nThats about as good as well get right now.\r\nby\r\nAllison JohnsonClose\r\nPosts from this author will be added to your da\u2026 [+2370 chars]",
             "ai_score": 5
         },
         {
@@ -465,20 +479,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
-            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-16T18:10:57Z",
-            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -489,6 +489,20 @@
             "urlToImage": "https://i.insider.com/6a31a3f04074dae0e2044526?width=1200&format=jpeg",
             "publishedAt": "2026-06-16T22:35:44Z",
             "content": "Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference.Joe Scarnici/Getty Images for Snap\r\n<ul><li>Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference\u2026 [+2862 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
+            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-16T18:10:57Z",
+            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
             "ai_score": 5
         },
         {
@@ -657,6 +671,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c8f4/live/3b494590-6994-11f1-a716-b5396926119a.jpg",
             "publishedAt": "2026-06-16T17:57:00Z",
             "content": "Robinson, a well-known British far-right activist, had shared protest plans on Musk's social media platform X on 9 June, claiming that \"the whole of the United Kingdom is hitting the streets tonight \u2026 [+133 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
+            "description": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
+            "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/690f/live/0b8f10a0-7ac4-11f1-b541-536d253827b8.png",
+            "publishedAt": "2026-07-08T12:28:03Z",
+            "content": "Meta is facing a backlash over its new AI tool Muse Image, which can generate pictures using other people's profile pictures without telling them.\r\nIt is one of many text-to-image tools publicly avai\u2026 [+1579 chars]",
             "ai_score": 5
         },
         {
@@ -1091,34 +1119,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Used-Teslas-More-Expensive-1200x675.jpg",
             "publishedAt": "2026-06-25T20:35:26Z",
             "content": "After Tesla\u2019s sales in Europe took a nosedive last year, the company appears to be making a comeback on the continent. While it appeared that Elon Musk\u2019s political maneuvering had soured buyers\u2019 appe\u2026 [+3402 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Torpey",
-            "title": "Big Tech and Wall Street Team Up on the Stablecoin to End All Other Stablecoins",
-            "description": "Can Open Standard compete with Circle and Tether?",
-            "url": "https://gizmodo.com/big-tech-and-wall-street-team-up-on-the-stablecoin-to-end-all-other-stablecoins-2000779620",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Open-Standard-Logo-1200x675.jpg",
-            "publishedAt": "2026-06-30T18:50:55Z",
-            "content": "Stablecoins have become the major selling point of crypto over the past year or two, and now a partnership of tech giants, Wall Street financial institutions, and crypto startups are looking to build\u2026 [+4278 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Henri Robbins",
-            "title": "Wooting 60HE v2: Peak Keyboard Perfection",
-            "description": "The Wooting 60HE v2 is a Hall Effect keyboard that does everything right, with smooth switches, intuitive software, and a compact design.",
-            "url": "https://www.wired.com/review/review-wooting-60he-v2/",
-            "urlToImage": "https://media.wired.com/photos/6a35ab3c6859e0a25fd52f9d/191:100/w_1280,c_limit/Wooting-60HE-v2-.jpg",
-            "publishedAt": "2026-06-21T11:01:00Z",
-            "content": "The most controversial feature is Simultaneous Opposing Cardinal Direction (SOCD) customization. This allows one key to override another rather than registering both simultaneously, which is ideal fo\u2026 [+2847 chars]",
             "ai_score": 5
         }
     ]
