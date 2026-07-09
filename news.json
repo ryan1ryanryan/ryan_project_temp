@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-09 18:01",
+    "last_updated": "2026-07-09 19:53",
     "articles": [
         {
             "source": {
@@ -493,20 +493,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
-            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-16T18:10:57Z",
-            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -517,6 +503,20 @@
             "urlToImage": "https://i.insider.com/6a31a3f04074dae0e2044526?width=1200&format=jpeg",
             "publishedAt": "2026-06-16T22:35:44Z",
             "content": "Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference.Joe Scarnici/Getty Images for Snap\r\n<ul><li>Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference\u2026 [+2862 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
+            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-16T18:10:57Z",
+            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
             "ai_score": 5
         },
         {
@@ -1105,20 +1105,6 @@
             "urlToImage": "https://media.wired.com/photos/6a39bf7f0bf55f5b8a30365a/191:100/w_1280,c_limit/The-Best-Prime-Day-Apple-Deals-on-AirPods,-iPads,-and-More.jpg",
             "publishedAt": "2026-06-23T08:57:27Z",
             "content": "Amazon Prime Day is one of the most reliable ways to save on Apple devices. Apple gadgets go on sale pretty often, but Prime Day brings the broadest opportunities, with deals and discounts on basical\u2026 [+1079 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "A Program to Expand Rural Internet Access Now Looks Like a Slush Fund for Tech Billionaires",
-            "description": "Connecting Musk and Bezos with more cash.",
-            "url": "https://gizmodo.com/a-program-to-expand-rural-internet-access-now-looks-like-a-slush-fund-for-tech-billionaires-2000776173",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Strengthen-Your-Internet-Connection.jpg",
-            "publishedAt": "2026-06-23T21:05:37Z",
-            "content": "During the 2024 Presidential campaign, the Broadband Equity, Access, and Deployment (BEAD) program, meant to bring broadband internet to rural communities across the country, became a cudgel for Dona\u2026 [+3457 chars]",
             "ai_score": 5
         }
     ]
