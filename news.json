@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-10 13:17",
+    "last_updated": "2026-07-10 16:29",
     "articles": [
         {
             "source": {
@@ -503,6 +503,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Maingear-MG-1-2026-review-18-1200x675.jpg",
             "publishedAt": "2026-06-15T15:38:38Z",
             "content": "Maingears first MG-1 PC from 2024 would\u2019ve had all the makings of a great pre-built PCif it hadn\u2019t felt so DIY. Maingears back again with a new MK II version of that same case. There\u2019s good news and \u2026 [+10286 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer Blade 16 (2026) Review: A Gaming Laptop You Can Actually Call \u2018Portable\u2019",
+            "description": "When laptops cost this much, you should damn well want to carry it with you everywhere.",
+            "url": "https://gizmodo.com/razer-blade-16-2026-review-a-gaming-laptop-you-can-actually-call-portable-2000783170",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Razer-Blade-16-2026-review-11-1200x675.jpg",
+            "publishedAt": "2026-07-09T15:00:02Z",
+            "content": "Razers big black rectangle, the Blade 16, is the best it\u2019s ever been. And as you may have guessed, especially if you know anything about the ongoing RAM crisis, the revised Razer Blade 16 for 2026 is\u2026 [+14988 chars]",
             "ai_score": 5
         },
         {
@@ -1077,20 +1091,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Open-Standard-Logo-1200x675.jpg",
             "publishedAt": "2026-06-30T18:50:55Z",
             "content": "Stablecoins have become the major selling point of crypto over the past year or two, and now a partnership of tech giants, Wall Street financial institutions, and crypto startups are looking to build\u2026 [+4278 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Henri Robbins",
-            "title": "Wooting 60HE v2: Peak Keyboard Perfection",
-            "description": "The Wooting 60HE v2 is a Hall Effect keyboard that does everything right, with smooth switches, intuitive software, and a compact design.",
-            "url": "https://www.wired.com/review/review-wooting-60he-v2/",
-            "urlToImage": "https://media.wired.com/photos/6a35ab3c6859e0a25fd52f9d/191:100/w_1280,c_limit/Wooting-60HE-v2-.jpg",
-            "publishedAt": "2026-06-21T11:01:00Z",
-            "content": "The most controversial feature is Simultaneous Opposing Cardinal Direction (SOCD) customization. This allows one key to override another rather than registering both simultaneously, which is ideal fo\u2026 [+2847 chars]",
             "ai_score": 5
         }
     ]
