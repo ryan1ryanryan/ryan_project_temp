@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-07-11 00:02",
+    "last_updated": "2026-07-11 03:24",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
-            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
-            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-15T15:52:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Katie Drummond",
-            "title": "Bernie Sanders Saw This Coming",
-            "description": "For decades, Bernie Sanders has argued that concentrated wealth threatened American democracy. Now he\u2019s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
-            "url": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-            "urlToImage": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg",
-            "publishedAt": "2026-06-30T10:30:00Z",
-            "content": "Right.\r\nWell, Im not so sure that thats the case.\r\nThe truth is nobody knows exactly what is gonna happen. I mean, just to give you one example of it: There are 6, 7, 8 million people who drive truck\u2026 [+2564 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
+            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
+            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-15T15:52:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
             "ai_score": 5
         },
         {
@@ -377,6 +363,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
             "publishedAt": "2026-07-07T15:02:30Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Katie Drummond",
+            "title": "Bernie Sanders Saw This Coming",
+            "description": "For decades, Bernie Sanders has argued that concentrated wealth threatened American democracy. Now he\u2019s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
+            "url": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+            "urlToImage": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg",
+            "publishedAt": "2026-06-30T10:30:00Z",
+            "content": "Right.\r\nWell, Im not so sure that thats the case.\r\nThe truth is nobody knows exactly what is gonna happen. I mean, just to give you one example of it: There are 6, 7, 8 million people who drive truck\u2026 [+2564 chars]",
             "ai_score": 5
         },
         {
