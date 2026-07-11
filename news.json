@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-11 21:55",
+    "last_updated": "2026-07-11 22:54",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Meta Is Testing Police Surveillance Tech for Its Smart Glasses",
+            "description": "A report suggests ties between Meta's facial recognition technology and a company that sells surveillance tools to military and police.",
+            "url": "https://gizmodo.com/meta-is-testing-police-surveillance-tech-for-its-smart-glasses-2000771931",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-10-1200x675.jpg",
+            "publishedAt": "2026-06-15T15:55:35Z",
+            "content": "Meta is finding inspiration for its smart glasses in some pretty concerning corners. According to Wired, the company is testing software built by a firm that sells surveillance tech to the U.S. gover\u2026 [+2194 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -563,16 +577,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "James Pero",
-            "title": "Meta Is Testing Police Surveillance Tech for Its Smart Glasses",
-            "description": "A report suggests ties between Meta's facial recognition technology and a company that sells surveillance tools to military and police.",
-            "url": "https://gizmodo.com/meta-is-testing-police-surveillance-tech-for-its-smart-glasses-2000771931",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-10-1200x675.jpg",
-            "publishedAt": "2026-06-15T15:55:35Z",
-            "content": "Meta is finding inspiration for its smart glasses in some pretty concerning corners. According to Wired, the company is testing software built by a firm that sells surveillance tech to the U.S. gover\u2026 [+2194 chars]",
+            "author": "Sean Hollister",
+            "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+            "description": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' for\u2026",
+            "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1409.jpg?quality=90&strip=all&crop=6%2C10.988783655458%2C94%2C73.822367063059&w=1200",
+            "publishedAt": "2026-07-10T22:38:51Z",
+            "content": "<ul><li></li><li></li></ul>\r\nIts planning to deauthorize one prominent testing lab in China, too.\r\nIts planning to deauthorize one prominent testing lab in China, too.\r\nby\r\nSean HollisterClose\r\nPosts\u2026 [+4540 chars]",
             "ai_score": 5
         },
         {
@@ -1049,20 +1063,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/SURVIVE.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-07T00:17:59Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter decimating its gaming division, Microsoft somehow hopes to eventually reach more than a billion people each day.\r\nAfter decimating its gaming division, Mic\u2026 [+6486 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Louryn Strampe",
-            "title": "Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More",
-            "description": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
-            "url": "https://www.wired.com/story/best-prime-day-apple-deals-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a39bf7f0bf55f5b8a30365a/191:100/w_1280,c_limit/The-Best-Prime-Day-Apple-Deals-on-AirPods,-iPads,-and-More.jpg",
-            "publishedAt": "2026-06-23T08:57:27Z",
-            "content": "Amazon Prime Day is one of the most reliable ways to save on Apple devices. Apple gadgets go on sale pretty often, but Prime Day brings the broadest opportunities, with deals and discounts on basical\u2026 [+1079 chars]",
             "ai_score": 5
         }
     ]
