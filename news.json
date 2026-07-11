@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-07-11 06:17",
+    "last_updated": "2026-07-11 08:53",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "John Brandon",
+            "title": "Hisense UR9 RGB MiniLED: An Affordable TV in Its Class",
+            "description": "This brilliant, low-cost television competes with similar offerings from higher-end brands like Samsung and LG.",
+            "url": "https://www.wired.com/review/hisense-ur9-rgb-miniled/",
+            "urlToImage": "https://media.wired.com/photos/6a4bdfbb6a49ac9393dae91c/191:100/w_1280,c_limit/Review--Hisense-UR9-RGB-MiniLED.jpg",
+            "publishedAt": "2026-07-07T11:01:00Z",
+            "content": "RGB Mini-LED TVs have officially arrived, and Hisense's UR9 was the first to hit the market, followed by Sony's Bravia 7 Mark II and TCLs RM9L. I wouldnt blame you if you werent jazzed to learn what \u2026 [+2145 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Discord accidentally banned over 8,000 people for posting grids and other \u2018benign\u2019 images",
+            "description": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, s\u2026",
+            "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+            "publishedAt": "2026-07-07T15:02:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -69,20 +97,6 @@
             "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
             "publishedAt": "2026-06-26T19:58:49Z",
             "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "John Brandon",
-            "title": "Hisense UR9 RGB MiniLED: An Affordable TV in Its Class",
-            "description": "This brilliant, low-cost television competes with similar offerings from higher-end brands like Samsung and LG.",
-            "url": "https://www.wired.com/review/hisense-ur9-rgb-miniled/",
-            "urlToImage": "https://media.wired.com/photos/6a4bdfbb6a49ac9393dae91c/191:100/w_1280,c_limit/Review--Hisense-UR9-RGB-MiniLED.jpg",
-            "publishedAt": "2026-07-07T11:01:00Z",
-            "content": "RGB Mini-LED TVs have officially arrived, and Hisense's UR9 was the first to hit the market, followed by Sony's Bravia 7 Mark II and TCLs RM9L. I wouldnt blame you if you werent jazzed to learn what \u2026 [+2145 chars]",
             "ai_score": 5
         },
         {
@@ -349,20 +363,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
             "publishedAt": "2026-06-10T20:18:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt announced new integrity measures just as the CFTC released a proposal for prediction market regulation.\r\nIt announced new integrity measures just as the CFTC \u2026 [+2420 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Discord accidentally banned over 8,000 people for posting grids and other \u2018benign\u2019 images",
-            "description": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, s\u2026",
-            "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-            "publishedAt": "2026-07-07T15:02:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
             "ai_score": 5
         },
         {
@@ -1025,6 +1025,20 @@
         },
         {
             "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Teen who helped improve tech for disabled honoured",
+            "description": "Harchie Sagoo, who had cerebral palsy, was a key product tester for Bristol-based Smartbox.",
+            "url": "https://www.bbc.co.uk/news/articles/cnv9np04rl8o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf4c/live/dd89ef60-7b84-11f1-a1ec-ff686fe2c542.jpg",
+            "publishedAt": "2026-07-09T16:07:00Z",
+            "content": "Harchie's dad, who lives in Nottingham, said his son was born a healthy baby.\r\nBut following a visit to his parents in Spain, his son was left with lesions on his brain which affected his gross and f\u2026 [+824 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1063,20 +1077,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Strengthen-Your-Internet-Connection.jpg",
             "publishedAt": "2026-06-23T21:05:37Z",
             "content": "During the 2024 Presidential campaign, the Broadband Equity, Access, and Deployment (BEAD) program, meant to bring broadband internet to rural communities across the country, became a cudgel for Dona\u2026 [+3457 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Europeans Are Buying Teslas Again, Surrendering the Easiest Front in the War on American Big Tech",
-            "description": "Tesla is hiring new workers and ramping up production at its German factory to meet demand.",
-            "url": "https://gizmodo.com/europeans-are-buying-teslas-again-surrendering-the-easiest-front-in-the-war-on-american-big-tech-2000777910",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Used-Teslas-More-Expensive-1200x675.jpg",
-            "publishedAt": "2026-06-25T20:35:26Z",
-            "content": "After Tesla\u2019s sales in Europe took a nosedive last year, the company appears to be making a comeback on the continent. While it appeared that Elon Musk\u2019s political maneuvering had soured buyers\u2019 appe\u2026 [+3402 chars]",
             "ai_score": 5
         }
     ]
