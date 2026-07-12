@@ -1,18 +1,60 @@
 {
-    "last_updated": "2026-07-12 06:05",
+    "last_updated": "2026-07-12 09:08",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
+            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
+            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-15T15:52:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
+            "description": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the \u2026",
+            "url": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-06-16T04:14:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern appeal.\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern ap\u2026 [+4954 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Netflix Believes the Future of Cloud Gaming Looks Like the\u2026 Nintendo Wii?",
-            "description": "Netflix's new game, 'Unhinged,' thinks your phone is the next generation of the Wii Remote.",
-            "url": "https://gizmodo.com/netflix-believes-the-future-of-cloud-gaming-looks-like-the-nintendo-wii-2000776380",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Netflix-Unhinged-Game-1-1200x675.jpg",
-            "publishedAt": "2026-06-24T13:20:17Z",
-            "content": "Netflix, the big daddy of streaming, wants to proliferate cloud gaming to every single TV with even a moderate internet connection. Its new game, Unhinged, uses a control scheme that anyone with a sm\u2026 [+5390 chars]",
+            "title": "Even Valve Knows You May Be Better Off With a Cheaper Steam Machine Alternative",
+            "description": "Valve may make PC gaming better, so long as you don't mind installing SteamOS yourself.",
+            "url": "https://gizmodo.com/even-valve-knows-you-may-be-better-off-with-a-cheaper-steam-machine-alternative-2000775545",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-5-1200x675.jpg",
+            "publishedAt": "2026-06-22T21:10:03Z",
+            "content": "If you want Valves 6\u00d76-inch PC/console hybrid, youll have to spend at least $1,050. But if you want a Steam Machine, in the abstract sense, you dont have to stick with Valves own hardware. In todays \u2026 [+3455 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
+            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-16T18:10:57Z",
+            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
             "ai_score": 8
         },
         {
@@ -27,20 +69,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
-            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
-            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-15T15:52:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
             "ai_score": 5
         },
         {
@@ -101,6 +129,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Netflix Believes the Future of Cloud Gaming Looks Like the\u2026 Nintendo Wii?",
+            "description": "Netflix's new game, 'Unhinged,' thinks your phone is the next generation of the Wii Remote.",
+            "url": "https://gizmodo.com/netflix-believes-the-future-of-cloud-gaming-looks-like-the-nintendo-wii-2000776380",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Netflix-Unhinged-Game-1-1200x675.jpg",
+            "publishedAt": "2026-06-24T13:20:17Z",
+            "content": "Netflix, the big daddy of streaming, wants to proliferate cloud gaming to every single TV with even a moderate internet connection. Its new game, Unhinged, uses a control scheme that anyone with a sm\u2026 [+5390 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -111,20 +153,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/msi-claw-8-ai-plus-sean-hollister-verge-331A1260-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-19T16:32:31Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSome people have already gotten SteamOS running on Intel.\r\nSome people have already gotten SteamOS running on Intel.\r\nby\r\nJay PetersClose\r\nPosts from this author\u2026 [+3068 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tina Nguyen",
-            "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-            "description": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I\u2026",
-            "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-06-10T17:25:32Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nThe future of AI regulation is courting the strangest, most anxious bedfellows\r\nb\u2026 [+7531 chars]",
             "ai_score": 5
         },
         {
@@ -157,20 +185,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
-            "description": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the \u2026",
-            "url": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-06-16T04:14:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern appeal.\r\nThe Callback is another bit of gadget nostalgia. It also has a very modern ap\u2026 [+4954 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -199,20 +213,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Deezer launches an AI music detector for other streaming services",
-            "description": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it ha\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
-            "publishedAt": "2026-06-10T23:42:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSince the competition wont buy their tech, theyre bringing it directly to users.\r\nSince the competition wont buy their tech, theyre bringing it directly to users\u2026 [+2359 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -223,20 +223,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
             "publishedAt": "2026-07-06T14:30:26Z",
             "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Even Valve Knows You May Be Better Off With a Cheaper Steam Machine Alternative",
-            "description": "Valve may make PC gaming better, so long as you don't mind installing SteamOS yourself.",
-            "url": "https://gizmodo.com/even-valve-knows-you-may-be-better-off-with-a-cheaper-steam-machine-alternative-2000775545",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-5-1200x675.jpg",
-            "publishedAt": "2026-06-22T21:10:03Z",
-            "content": "If you want Valves 6\u00d76-inch PC/console hybrid, youll have to spend at least $1,050. But if you want a Steam Machine, in the abstract sense, you dont have to stick with Valves own hardware. In todays \u2026 [+3455 chars]",
             "ai_score": 5
         },
         {
@@ -342,20 +328,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "Kalshi adds required employment verification for some prediction market bets",
-            "description": "The CFTC is considering its first regulation for prediction markets, as arrests over \"insider trading\" on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says \"the proposal w\u2026",
-            "url": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-            "publishedAt": "2026-06-10T20:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt announced new integrity measures just as the CFTC released a proposal for prediction market regulation.\r\nIt announced new integrity measures just as the CFTC \u2026 [+2420 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "Discord accidentally banned over 8,000 people for posting grids and other \u2018benign\u2019 images",
             "description": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, s\u2026",
@@ -451,20 +423,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
-            "description": "Google\u2019s Android 17 update includes highlights like new floating \u201cBubble\u201d app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life f\u2026",
-            "url": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-16T18:10:57Z",
-            "content": "Googles Android 17 update includes highlights like new floating Bubble app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwh\u2026 [+8082 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -517,20 +475,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Razer-Blade-16-2026-review-11-1200x675.jpg",
             "publishedAt": "2026-07-09T15:00:02Z",
             "content": "Razers big black rectangle, the Blade 16, is the best it\u2019s ever been. And as you may have guessed, especially if you know anything about the ongoing RAM crisis, the revised Razer Blade 16 for 2026 is\u2026 [+14988 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
-            "title": "DLSS for Android? I got an early look at Arm's neural graphics tech, and I'm excited",
-            "description": "Arm's Neural Dawn is a game that showcases the brand's AI-assisted rendering tech, and dynamic lighting that's on an entirely new level.",
-            "url": "https://www.androidcentral.com/gaming/dlss-for-android-i-got-an-early-look-at-arms-neural-graphics-tech-and-im-excited",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WGPBk9y2ay33uC6u3jjPYF-2560-80.jpg",
-            "publishedAt": "2026-06-10T13:00:00Z",
-            "content": "(Image credit: Nicholas Sutrich / Android Central)\r\nIn Hardwired, AC Senior Editor Harish Jonnalagadda delves into all things hardware, including phones, audio products, storage servers, and networki\u2026 [+4331 chars]",
             "ai_score": 5
         },
         {
@@ -916,20 +860,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren, Jay Peters",
-            "title": "Xbox warns of a \u2018reset\u2019 as it prepares for layoffs",
-            "description": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard choices\" \u2026",
-            "url": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-10T21:36:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company has been preparing for the layoffs internally for weeks.\r\nThe company has been preparing for the layoffs internally for weeks.\r\nby\r\nTom WarrenClose\r\n\u2026 [+3746 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "The video game disc is dead",
             "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
@@ -951,20 +881,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
             "publishedAt": "2026-06-24T09:41:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "Boox\u2019s new e-reader could replace your Kindle, Kobo, and digital notepad",
-            "description": "Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its predecessor but gets a bump from 2GB to 3GB of RAM and now sup\u2026",
-            "url": "https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/booxgo1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2026-06-10T19:21:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Go 6 (Gen II) e-reader adds support for Booxs stylus, so instead of just reading you can also doodle and take notes.\r\nThe Go 6 (Gen II) e-reader adds support\u2026 [+2597 chars]",
             "ai_score": 5
         },
         {
@@ -1063,6 +979,104 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/SURVIVE.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-07T00:17:59Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter decimating its gaming division, Microsoft somehow hopes to eventually reach more than a billion people each day.\r\nAfter decimating its gaming division, Mic\u2026 [+6486 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Louryn Strampe",
+            "title": "Prime Day Means Apple Deals on iPad, iPhone Cases, MagSafe Accessories, and More",
+            "description": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
+            "url": "https://www.wired.com/story/best-prime-day-apple-deals-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a39bf7f0bf55f5b8a30365a/191:100/w_1280,c_limit/The-Best-Prime-Day-Apple-Deals-on-AirPods,-iPads,-and-More.jpg",
+            "publishedAt": "2026-06-23T08:57:27Z",
+            "content": "Amazon Prime Day is one of the most reliable ways to save on Apple devices. Apple gadgets go on sale pretty often, but Prime Day brings the broadest opportunities, with deals and discounts on basical\u2026 [+1079 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "A Program to Expand Rural Internet Access Now Looks Like a Slush Fund for Tech Billionaires",
+            "description": "Connecting Musk and Bezos with more cash.",
+            "url": "https://gizmodo.com/a-program-to-expand-rural-internet-access-now-looks-like-a-slush-fund-for-tech-billionaires-2000776173",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Strengthen-Your-Internet-Connection.jpg",
+            "publishedAt": "2026-06-23T21:05:37Z",
+            "content": "During the 2024 Presidential campaign, the Broadband Equity, Access, and Deployment (BEAD) program, meant to bring broadband internet to rural communities across the country, became a cudgel for Dona\u2026 [+3457 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Europeans Are Buying Teslas Again, Surrendering the Easiest Front in the War on American Big Tech",
+            "description": "Tesla is hiring new workers and ramping up production at its German factory to meet demand.",
+            "url": "https://gizmodo.com/europeans-are-buying-teslas-again-surrendering-the-easiest-front-in-the-war-on-american-big-tech-2000777910",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/Used-Teslas-More-Expensive-1200x675.jpg",
+            "publishedAt": "2026-06-25T20:35:26Z",
+            "content": "After Tesla\u2019s sales in Europe took a nosedive last year, the company appears to be making a comeback on the continent. While it appeared that Elon Musk\u2019s political maneuvering had soured buyers\u2019 appe\u2026 [+3402 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Big Tech and Wall Street Team Up on the Stablecoin to End All Other Stablecoins",
+            "description": "Can Open Standard compete with Circle and Tether?",
+            "url": "https://gizmodo.com/big-tech-and-wall-street-team-up-on-the-stablecoin-to-end-all-other-stablecoins-2000779620",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Open-Standard-Logo-1200x675.jpg",
+            "publishedAt": "2026-06-30T18:50:55Z",
+            "content": "Stablecoins have become the major selling point of crypto over the past year or two, and now a partnership of tech giants, Wall Street financial institutions, and crypto startups are looking to build\u2026 [+4278 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Henri Robbins",
+            "title": "Wooting 60HE v2: Peak Keyboard Perfection",
+            "description": "The Wooting 60HE v2 is a Hall Effect keyboard that does everything right, with smooth switches, intuitive software, and a compact design.",
+            "url": "https://www.wired.com/review/review-wooting-60he-v2/",
+            "urlToImage": "https://media.wired.com/photos/6a35ab3c6859e0a25fd52f9d/191:100/w_1280,c_limit/Wooting-60HE-v2-.jpg",
+            "publishedAt": "2026-06-21T11:01:00Z",
+            "content": "The most controversial feature is Simultaneous Opposing Cardinal Direction (SOCD) customization. This allows one key to override another rather than registering both simultaneously, which is ideal fo\u2026 [+2847 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Steven Levy",
+            "title": "Europe Is Fed Up and Wants Its Own AI",
+            "description": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+            "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+            "urlToImage": "https://media.wired.com/photos/6a3d7dcc9d8ba41349d50023/191:100/w_1280,c_limit/Backchannel-Macron-G7-2282316572.jpg",
+            "publishedAt": "2026-06-26T15:00:00Z",
+            "content": "Earlier this month I attended Vivatech, a huge tech conference in Paris. One fear dominated the discussions: the prospect of ending up stuck using American AI, trained on American values. While the U\u2026 [+3411 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda) , Harish Jonnalagadda",
+            "title": "I use this thermal camera to fix overheating tech, and it just got an early Prime Day deal",
+            "description": "Thermal cameras are a great way to identify and troubleshoot overheating gadgets, and Thermal Master's P4 is the best one I've used yet. The best part? It's on sale right now.",
+            "url": "https://www.androidcentral.com/accessories/i-use-this-thermal-camera-to-fix-overheating-tech-and-it-just-got-an-early-prime-day-deal",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QKzhczRm5LrLXtJonWaMCm-2560-80.jpg",
+            "publishedAt": "2026-06-17T14:39:11Z",
+            "content": "I rely on thermal cameras while testing phones to identify hot spots and see just how much they heat up while gaming. I used Thermal Master's P3 in the past, and the brand's latest P4 camera has a lo\u2026 [+1929 chars]",
             "ai_score": 5
         }
     ]
