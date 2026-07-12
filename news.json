@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-07-11 23:59",
+    "last_updated": "2026-07-12 02:51",
     "articles": [
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "John Brandon",
-            "title": "Hisense UR9 RGB MiniLED: An Affordable TV in Its Class",
-            "description": "This brilliant, low-cost television competes with similar offerings from higher-end brands like Samsung and LG.",
-            "url": "https://www.wired.com/review/hisense-ur9-rgb-miniled/",
-            "urlToImage": "https://media.wired.com/photos/6a4bdfbb6a49ac9393dae91c/191:100/w_1280,c_limit/Review--Hisense-UR9-RGB-MiniLED.jpg",
-            "publishedAt": "2026-07-07T11:01:00Z",
-            "content": "RGB Mini-LED TVs have officially arrived, and Hisense's UR9 was the first to hit the market, followed by Sony's Bravia 7 Mark II and TCLs RM9L. I wouldnt blame you if you werent jazzed to learn what \u2026 [+2145 chars]",
+            "author": "Stevie Bonifield",
+            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
+            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
+            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-15T15:52:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
             "ai_score": 8
         },
         {
@@ -27,20 +27,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
-            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
-            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-15T15:52:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
             "ai_score": 5
         },
         {
@@ -83,6 +69,20 @@
             "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
             "publishedAt": "2026-06-26T19:58:49Z",
             "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "John Brandon",
+            "title": "Hisense UR9 RGB MiniLED: An Affordable TV in Its Class",
+            "description": "This brilliant, low-cost television competes with similar offerings from higher-end brands like Samsung and LG.",
+            "url": "https://www.wired.com/review/hisense-ur9-rgb-miniled/",
+            "urlToImage": "https://media.wired.com/photos/6a4bdfbb6a49ac9393dae91c/191:100/w_1280,c_limit/Review--Hisense-UR9-RGB-MiniLED.jpg",
+            "publishedAt": "2026-07-07T11:01:00Z",
+            "content": "RGB Mini-LED TVs have officially arrived, and Hisense's UR9 was the first to hit the market, followed by Sony's Bravia 7 Mark II and TCLs RM9L. I wouldnt blame you if you werent jazzed to learn what \u2026 [+2145 chars]",
             "ai_score": 5
         },
         {
