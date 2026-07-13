@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-13 20:19",
+    "last_updated": "2026-07-13 22:01",
     "articles": [
         {
             "source": {
@@ -535,6 +535,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Alex Valdes",
+            "title": "Back-to-School Shoppers Are Using More Tech Tools but Buying Fewer Tech Goods",
+            "description": "A survey found that parents are increasingly going online to find deals in a tough economy.",
+            "url": "https://www.cnet.com/tech/computing/back-to-school-shoppers-buying-less-tech/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/ca0e77778003740c1f5cc3931553744f38116254/hub/2024/07/30/76c7b206-aa73-4b0a-9aef-9306985d2907/gettyimages-1302654529.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-07-12T21:13:32Z",
+            "content": "Back to school doesn't mean back to tech upgrades. As inflation rises without wage growth matching it, and consumer confidence worsens, parents are going online more to find deals, even if they aren'\u2026 [+3857 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1063,20 +1077,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2019/09/wawgyqt4bdzu3vfidw4i.jpg",
             "publishedAt": "2026-06-17T18:08:38Z",
             "content": "The former CEO of Sony Interactive Entertainment America and chairman of SIE Worldwide Studios, Shawn Layden, has shared a few thoughts on the current situation at Xbox, saying a series of decisions \u2026 [+2242 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Dan DeFrancesco",
-            "title": "GTA VI won't solve the video-game industry's problems",
-            "description": "Xbox's recent job cuts are an example of the industry's challenges, and the massive upcoming release of GTA VI won't help matters.",
-            "url": "https://www.businessinsider.com/video-game-industry-issues-wont-be-fixed-by-gta-vi-2026-7#article",
-            "urlToImage": "https://i.insider.com/6a4c17f9965805a2c542d5b3?width=1200&format=jpeg",
-            "publishedAt": "2026-07-07T14:49:30Z",
-            "content": "INA FASSBENDER/AFP via Getty Images\r\n<ul><li>This post originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Mic\u2026 [+3097 chars]",
             "ai_score": 5
         }
     ]
