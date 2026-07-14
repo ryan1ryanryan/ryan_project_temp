@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14 20:16",
+    "last_updated": "2026-07-14 22:02",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -941,6 +941,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "The EU Just Took A Major Step Towards A \u201cSocial Media Plus\u201d Ban For Minors",
+            "description": "The ban will impact beyond just social media, EU authorities said.",
+            "url": "https://gizmodo.com/the-eu-just-took-a-major-step-towards-a-social-media-plus-ban-for-minors-2000784876",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2285277287-1200x675.jpg",
+            "publishedAt": "2026-07-13T20:30:02Z",
+            "content": "The European Union is months away from a final bill for a social media ban that is looking likely to be one of the strictest introduced thus far worldwide.\r\nOn Monday, European Commission President U\u2026 [+5676 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -1063,20 +1077,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717614/247361_PS5_Pro_VPavic_99.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
             "publishedAt": "2026-07-01T14:55:42Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWhen digital stores shut down, games get lost alongside them. Welcome to the digital-only future.\r\nWhen digital stores shut down, games get lost alongside them. \u2026 [+5903 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Rebekah Valentine",
-            "title": "Xbox\u2019s Recent Moves Demonstrate A \u2018Basic Misunderstanding\u2019 Of The Industry, Former Sony Gaming Boss Says",
-            "description": "'The last couple weeks have been a real roller coaster. Feel bad for the dev teams'",
-            "url": "https://kotaku.com/former-sony-gaming-boss-shawn-layden-xbox-basic-misunderstanding-industry-2000707632",
-            "urlToImage": "https://kotaku.com/app/uploads/2019/09/wawgyqt4bdzu3vfidw4i.jpg",
-            "publishedAt": "2026-06-17T18:08:38Z",
-            "content": "The former CEO of Sony Interactive Entertainment America and chairman of SIE Worldwide Studios, Shawn Layden, has shared a few thoughts on the current situation at Xbox, saying a series of decisions \u2026 [+2242 chars]",
             "ai_score": 5
         }
     ]
