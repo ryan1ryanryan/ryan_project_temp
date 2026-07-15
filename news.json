@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-07-15 20:13",
+    "last_updated": "2026-07-15 22:05",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
-            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
-            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-15T15:52:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Roblox exec says ticking a box for age verification is \u2018not enough anymore\u2019",
+            "description": "Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is \"optimistic\" that its new facial age estimation tech will \"continue to get better,\" saying, \"Ticking a box to say you're 13 or older, it's not enough anymore.\" NBC in\u2026",
+            "url": "https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-15T15:52:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC News.\r\nKids werent able to fool Robloxs video selfie age checks in a demo with NBC Ne\u2026 [+2408 chars]",
             "ai_score": 5
         },
         {
@@ -762,20 +762,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Thomas Ricker",
-            "title": "Solid-state batteries still aren\u2019t ready, but gels are",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The St\u2026",
-            "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268587_Stepback_solid_state__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-14T05:48:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSemi-solid state batteries are a less volatile bridge to the future.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics sta\u2026 [+8750 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Yael Grauer",
             "title": "Read this before you vibe-code another app",
             "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a pro\u2026",
@@ -1077,6 +1063,34 @@
             "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0ny0sl7.jpg",
             "publishedAt": "2026-07-11T23:01:00Z",
             "content": "A new breed of tech billionaires are building their own countries, replacing democracy as we know it and targeting the global financial system. Matt Shea goes inside their world.\u00a0More",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Sony is killing discs \u2014 and showing us why it\u2019s a terrible idea",
+            "description": "The future of video game preservation just took a major hit. This morning, Sony announced that, starting in January 2028, the company will no longer produce physical PlayStation discs, which means that from that moment on you can only purchase new PS5 games d\u2026",
+            "url": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717614/247361_PS5_Pro_VPavic_99.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+            "publishedAt": "2026-07-01T14:55:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhen digital stores shut down, games get lost alongside them. Welcome to the digital-only future.\r\nWhen digital stores shut down, games get lost alongside them. \u2026 [+5903 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Rebekah Valentine",
+            "title": "Xbox\u2019s Recent Moves Demonstrate A \u2018Basic Misunderstanding\u2019 Of The Industry, Former Sony Gaming Boss Says",
+            "description": "'The last couple weeks have been a real roller coaster. Feel bad for the dev teams'",
+            "url": "https://kotaku.com/former-sony-gaming-boss-shawn-layden-xbox-basic-misunderstanding-industry-2000707632",
+            "urlToImage": "https://kotaku.com/app/uploads/2019/09/wawgyqt4bdzu3vfidw4i.jpg",
+            "publishedAt": "2026-06-17T18:08:38Z",
+            "content": "The former CEO of Sony Interactive Entertainment America and chairman of SIE Worldwide Studios, Shawn Layden, has shared a few thoughts on the current situation at Xbox, saying a series of decisions \u2026 [+2242 chars]",
             "ai_score": 5
         }
     ]
