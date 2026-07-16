@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-16 17:20",
+    "last_updated": "2026-07-16 19:15",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Tyler Lacoma",
+            "title": "My Best Smart Home Device Picks for a Desk or Office in 2026",
+            "description": "Your desk deserves a smart upgrade. This is the tech that makes the biggest difference for me.",
+            "url": "https://www.cnet.com/home/smart-home/the-best-smart-home-devices-for-a-desk-or-office-in-2026/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/54a853f2dbaa61d60d3800c2187722696fa1fe1b/hub/2026/07/02/dd92e603-3847-4df6-a68b-e1797983d1f2/gettyimages-1369567919.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-07-06T10:00:00Z",
+            "content": "Smart home products aren't just useful in your kitchen and living room or for guarding your front door. They also pair really well with a home desk, whether you have a dedicated office or a free-for-\u2026 [+7305 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,21 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Simon Hill",
-            "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
-            "description": "Welcome to Walmart deals for folks who\u2019d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
-            "url": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a3abc00b35647f689f166fa/191:100/w_1280,c_limit/The-Best-Walmart-Deals-This-Prime-Day.jpg",
-            "publishedAt": "2026-06-26T11:50:08Z",
-            "content": "Prime Day is in full swing, but Amazon isn't the only shop with deals. Walmart has a competing sale it calls, in a burst of creativity, Walmart Deals. Like Prime Day, Walmart's sale features a range \u2026 [+7668 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -217,6 +217,20 @@
                 "name": "Wired"
             },
             "author": "Simon Hill",
+            "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
+            "description": "Welcome to Walmart deals for folks who\u2019d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
+            "url": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a3abc00b35647f689f166fa/191:100/w_1280,c_limit/The-Best-Walmart-Deals-This-Prime-Day.jpg",
+            "publishedAt": "2026-06-26T11:50:08Z",
+            "content": "Prime Day is in full swing, but Amazon isn't the only shop with deals. Walmart has a competing sale it calls, in a burst of creativity, Walmart Deals. Like Prime Day, Walmart's sale features a range \u2026 [+7668 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Simon Hill",
             "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
             "description": "Don't pay full price\u2014snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
             "url": "https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/",
@@ -367,20 +381,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Tyler Lacoma",
-            "title": "My Best Smart Home Device Picks for a Desk or Office in 2026",
-            "description": "Your desk deserves a smart upgrade. This is the tech that makes the biggest difference for me.",
-            "url": "https://www.cnet.com/home/smart-home/the-best-smart-home-devices-for-a-desk-or-office-in-2026/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/54a853f2dbaa61d60d3800c2187722696fa1fe1b/hub/2026/07/02/dd92e603-3847-4df6-a68b-e1797983d1f2/gettyimages-1369567919.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-07-06T10:00:00Z",
-            "content": "Smart home products aren't just useful in your kitchen and living room or for guarding your front door. They also pair really well with a home desk, whether you have a dedicated office or a free-for-\u2026 [+7305 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -395,20 +395,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Katherine Li",
-            "title": "Snap finally unveiled its Specs AR glasses, and the $2,195 price tag is raising eyebrows",
-            "description": "Snap has unveiled a new pair of augmented reality glasses with a price tag more commonly seen on a gaming PC or high-end TV.",
-            "url": "https://www.businessinsider.com/snap-specs-ar-glasses-debut-price-2026-6#article",
-            "urlToImage": "https://i.insider.com/6a31a3f04074dae0e2044526?width=1200&format=jpeg",
-            "publishedAt": "2026-06-16T22:35:44Z",
-            "content": "Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference.Joe Scarnici/Getty Images for Snap\r\n<ul><li>Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference\u2026 [+2862 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -419,6 +405,20 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/4e7837c176b16c95883fa357075dc77964ca3532/hub/2026/07/09/d7265210-79d6-44f3-9d2d-538a4f48f390/image-3.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-07-13T12:00:00Z",
             "content": "It's hard to believe that back-to-school season is upon us.\u00a0\r\nKids will return to the classroom in many parts of the US in a few short weeks, some as early as August 3. School supply lists are alread\u2026 [+5567 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Li",
+            "title": "Snap finally unveiled its Specs AR glasses, and the $2,195 price tag is raising eyebrows",
+            "description": "Snap has unveiled a new pair of augmented reality glasses with a price tag more commonly seen on a gaming PC or high-end TV.",
+            "url": "https://www.businessinsider.com/snap-specs-ar-glasses-debut-price-2026-6#article",
+            "urlToImage": "https://i.insider.com/6a31a3f04074dae0e2044526?width=1200&format=jpeg",
+            "publishedAt": "2026-06-16T22:35:44Z",
+            "content": "Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference.Joe Scarnici/Getty Images for Snap\r\n<ul><li>Snap unveiled its Specs AR glasses with EyeConnect at a Long Beach conference\u2026 [+2862 chars]",
             "ai_score": 5
         },
         {
