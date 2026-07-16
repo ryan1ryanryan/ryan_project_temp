@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-16 15:07",
+    "last_updated": "2026-07-16 17:20",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Simon Hill",
+            "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
+            "description": "Welcome to Walmart deals for folks who\u2019d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
+            "url": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a3abc00b35647f689f166fa/191:100/w_1280,c_limit/The-Best-Walmart-Deals-This-Prime-Day.jpg",
+            "publishedAt": "2026-06-26T11:50:08Z",
+            "content": "Prime Day is in full swing, but Amazon isn't the only shop with deals. Walmart has a competing sale it calls, in a burst of creativity, Walmart Deals. Like Prime Day, Walmart's sale features a range \u2026 [+7668 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -195,20 +209,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-5-1200x675.jpg",
             "publishedAt": "2026-06-22T21:10:03Z",
             "content": "If you want Valves 6\u00d76-inch PC/console hybrid, youll have to spend at least $1,050. But if you want a Steam Machine, in the abstract sense, you dont have to stick with Valves own hardware. In todays \u2026 [+3455 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Simon Hill",
-            "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
-            "description": "Welcome to Walmart deals for folks who\u2019d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
-            "url": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a3abc00b35647f689f166fa/191:100/w_1280,c_limit/The-Best-Walmart-Deals-This-Prime-Day.jpg",
-            "publishedAt": "2026-06-26T11:50:08Z",
-            "content": "Prime Day is in full swing, but Amazon isn't the only shop with deals. Walmart has a competing sale it calls, in a burst of creativity, Walmart Deals. Like Prime Day, Walmart's sale features a range \u2026 [+7668 chars]",
             "ai_score": 5
         },
         {
