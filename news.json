@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-17 13:33",
+    "last_updated": "2026-07-17 15:18",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -703,20 +703,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Katherine Li",
-            "title": "Mark Zuckerberg says Meta's new AI glasses must balance fashion with function for people to wear them",
-            "description": "Mark Zuckerberg's latest obsession is fashion, which he sees as key to getting more people to wear Meta's AI glasses as more than tech gadgets.",
-            "url": "https://www.businessinsider.com/mark-zuckerberg-meta-glasses-style-comfort-tech-wearable-fashion-2026-6#article",
-            "urlToImage": "https://i.insider.com/6a3af4173d84808d83754b84?width=1200&format=jpeg",
-            "publishedAt": "2026-06-23T22:32:52Z",
-            "content": "Meta's new AI glasses, starting at $299, aim to blend fashion with advanced wearable technology.Meta\r\n<ul><li>Mark Zuckerberg envisions Meta's AI glasses as stylish, functional wearables, not mere ga\u2026 [+2507 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -727,6 +713,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/11/Steam-Machine-Alt.jpg",
             "publishedAt": "2026-07-02T12:57:10Z",
             "content": "After months of speculation and delays, Steam Machines are going out into the world and people have been sharing their thoughts. One of those people is former President of\u00a0Sony Interactive Entertainm\u2026 [+2397 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Li",
+            "title": "Mark Zuckerberg says Meta's new AI glasses must balance fashion with function for people to wear them",
+            "description": "Mark Zuckerberg's latest obsession is fashion, which he sees as key to getting more people to wear Meta's AI glasses as more than tech gadgets.",
+            "url": "https://www.businessinsider.com/mark-zuckerberg-meta-glasses-style-comfort-tech-wearable-fashion-2026-6#article",
+            "urlToImage": "https://i.insider.com/6a3af4173d84808d83754b84?width=1200&format=jpeg",
+            "publishedAt": "2026-06-23T22:32:52Z",
+            "content": "Meta's new AI glasses, starting at $299, aim to blend fashion with advanced wearable technology.Meta\r\n<ul><li>Mark Zuckerberg envisions Meta's AI glasses as stylish, functional wearables, not mere ga\u2026 [+2507 chars]",
             "ai_score": 5
         },
         {
