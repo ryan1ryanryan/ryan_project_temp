@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-18 13:20",
+    "last_updated": "2026-07-18 14:57",
     "articles": [
         {
             "source": {
@@ -885,6 +885,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+            "description": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg. Apple has proposed several offers and is now in early settlement talks with the DOJ.\n\n\n\n\n\nThe DOJ sued Apple for antitrust violations in 2024 as part of an\u2026",
+            "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+            "urlToImage": "https://images.macrumors.com/t/4pW4bOoAEoSVo5KIJv-hK1K2H1I=/2500x/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+            "publishedAt": "2026-07-17T14:50:48Z",
+            "content": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg. Apple has proposed several offers and is now in early settlement talks with the DOJ.\r\nThe DOJ s\u2026 [+823 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1053,6 +1067,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Bethesda teases Fallout 5 soon after Xbox\u2019s mass layoffs",
+            "description": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Entertainment. Now, in an attempt to show that things are still running fine, the co\u2026",
+            "url": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FalloutS2FLimage3_3000.jpg?quality=90&strip=all&crop=10.049166666667%2C0%2C79.901666666667%2C100&w=1200",
+            "publishedAt": "2026-07-17T14:00:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts gaming division attempts to share some good news amid the fallout of its large-scale reset.\r\nMicrosofts gaming division attempts to share some good ne\u2026 [+3967 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -1105,34 +1133,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_KMcClellan_0037.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-22T21:07:14Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIf we say no, then they never talk to us again.\r\nIf we say no, then they never talk to us again.\r\nby\r\nJay PetersClose\r\nPosts from this author will be added to yo\u2026 [+3493 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "007 First Light\u2019s developer lays off staff but claims its next franchise will continue",
-            "description": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franchise, Project Fantasy, \"has come to an end.\" IO has described Project Fantasy a\u2026",
-            "url": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_7683959b09f7863c5eb23bfdbcf039269765b5d6.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-30T18:21:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIO Interactive lost an external partner for Project Fantasy which was reportedly Microsoft.\r\nIO Interactive lost an external partner for Project Fantasy which wa\u2026 [+3025 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Some of our favorite Switch 2 accessories are cheaper during Prime Day",
-            "description": "The Switch 2\u2019s price is set to increase by $50 on September 1st, starting at $499.99, so if you\u2019re purchasing one before that (or you already own one), now\u2019s a good time to also save on accessories while you can. Amazon\u2019s Prime Day has delivered many great ga\u2026",
-            "url": "https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257880_8BitDo_Pro_3_CFaulkner_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-24T12:51:17Z",
-            "content": "The Switch 2\u2019s price is set to increase by $50 on September 1st, starting at $499.99, so if you\u2019re purchasing one before that (or you already own one), now\u2019s a good time to also save on accessories w\u2026 [+8044 chars]",
             "ai_score": 5
         }
     ]
