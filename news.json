@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-18 19:08",
+    "last_updated": "2026-07-18 20:53",
     "articles": [
         {
             "source": {
@@ -913,6 +913,20 @@
         },
         {
             "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ben Shimkus",
+            "title": "Roblox wants kids to vibe-code their own video games",
+            "description": "Roblox is testing Build, an AI tool that turns a written prompt into a playable video game inside its mobile app.",
+            "url": "https://www.businessinsider.com/roblox-kids-vibe-code-video-games-2026-7#article",
+            "urlToImage": "https://i.insider.com/6a5a68b7ce52cb26b8390c9e?width=1200&format=jpeg",
+            "publishedAt": "2026-07-17T20:07:25Z",
+            "content": "Gaming platform Roblox says it will let users vibe-code a new game through their phones.Hannah Peters/Getty Images\r\n<ul><li>Roblox announced Build, its AI-powered, in-phone-app tool.</li><li>Users ca\u2026 [+1804 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1105,20 +1119,6 @@
             "urlToImage": "https://i.insider.com/6a4c17f9965805a2c542d5b3?width=1200&format=jpeg",
             "publishedAt": "2026-07-07T14:49:30Z",
             "content": "INA FASSBENDER/AFP via Getty Images\r\n<ul><li>This post originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Mic\u2026 [+3097 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Valve is so behind on Steam Controller orders that some won\u2019t ship until 2027",
-            "description": "Valve has some good news and bad news about Steam Controllers. The good news: if you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September 2026, by D\u2026",
-            "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-18T20:26:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAny reservations made today indicate a 2027 date for shipping.\r\nAny reservations made today indicate a 2027 date for shipping.\r\nby\r\nJay PetersClose\r\nPosts from t\u2026 [+2910 chars]",
             "ai_score": 5
         }
     ]
