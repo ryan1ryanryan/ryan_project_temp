@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-18 09:30",
+    "last_updated": "2026-07-18 11:08",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Ad-free streaming is a luxury now",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta\u2026",
-            "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Severance_Photo_020104.jpg?quality=90&strip=all&crop=10.382421875%2C0%2C79.23515625%2C100&w=1200",
-            "publishedAt": "2026-06-27T14:46:35Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAd-free streaming is a luxury now\r\nSteady price increases are pushing viewers toward cheaper, ad-supported tiers.\r\nby\r\nEmma RothClose\r\nPosts from this author wil\u2026 [+8424 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -339,6 +325,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Burgess",
+            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
+            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
+            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
+            "publishedAt": "2026-07-17T10:00:00Z",
+            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -615,6 +615,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454336/DSCF7813.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-23T12:06:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNeed ANC, great sound, and something for a workout? Prime Day is the time to get some new headphones.\r\nNeed ANC, great sound, and something for a workout? Prime \u2026 [+5856 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Ad-free streaming is a luxury now",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta\u2026",
+            "url": "https://www.theverge.com/column/958379/streaming-industry-ads",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Severance_Photo_020104.jpg?quality=90&strip=all&crop=10.382421875%2C0%2C79.23515625%2C100&w=1200",
+            "publishedAt": "2026-06-27T14:46:35Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAd-free streaming is a luxury now\r\nSteady price increases are pushing viewers toward cheaper, ad-supported tiers.\r\nby\r\nEmma RothClose\r\nPosts from this author wil\u2026 [+8424 chars]",
             "ai_score": 5
         },
         {
@@ -1133,20 +1147,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
             "publishedAt": "2026-06-22T19:00:33Z",
             "content": "The Steam Machine is finally here. People can sign up to get on the waiting list for the first units to ship and reviewers have already gone hands-on with Valve\u2019s new device. It\u2019s pricey, but is it w\u2026 [+6686 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Alistair Barr",
-            "title": "So much for the AI jobs apocalypse. Demand for tech talent is rising.",
-            "description": "AI hasn't triggered a tech jobs collapse. New data shows hiring demand is strong across much of the tech industry.",
-            "url": "https://www.businessinsider.com/ai-supposed-to-kill-tech-jobs-instead-demand-up-2026-6#article",
-            "urlToImage": "https://i.insider.com/6a3c1b9ea25092c74cc9e5b9?width=1200&format=jpeg",
-            "publishedAt": "2026-06-25T09:00:06Z",
-            "content": "A RW robot lays on the ground after falling during the VivaTech technology startups and innovation fair at the Paris Expo Porte de Versailles.SIMON WOHLFAHRT / AFP via Getty Images\r\n<ul><li>Tech job \u2026 [+3241 chars]",
             "ai_score": 5
         }
     ]
