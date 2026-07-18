@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-18 16:02",
+    "last_updated": "2026-07-18 17:07",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nathan Edwards, Antonio G. Di Benedetto",
+            "title": "Here\u2019s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
+            "description": "RAMageddon has come for computers. The price of memory chips, hard drives, and solid state storage has skyrocketed. That\u2019s led to price increases on desktop and laptop RAM, SSDs, spinning hard drives, and pretty much everything that uses any of those things. \u2026",
+            "url": "https://www.theverge.com/gadgets/956938/prime-day-deals-keyboards-mice-monitors-peripherals",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268466_5K_monitor_v_Apple_display_JHiggins_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-25T17:47:20Z",
+            "content": "You can get a great, color-accurate 5K monitor for half the price of an Apple Studio Display. | Photo by John Higgins / The Verge\r\n\n\nRAMageddon has come for computers. The price of memory chips, hard\u2026 [+7242 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -209,6 +223,20 @@
             "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
             "publishedAt": "2026-07-16T12:09:08Z",
             "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
+            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
+            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
+            "publishedAt": "2026-07-17T16:45:27Z",
+            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
             "ai_score": 5
         },
         {
@@ -447,20 +475,6 @@
             "urlToImage": "https://media.wired.com/photos/6a347f7fe985e44217ca6e09/191:100/w_1280,c_limit/The-Best-Art-TVs.jpg",
             "publishedAt": "2026-06-19T11:00:00Z",
             "content": "<ul><li>Intuitive new OS.</li><li>Excellent contrast and picture quality.</li><li>Massive number of art images.</li><li>Anti-glare coating actually works.</li><li>High refresh rate for gaming.</li></\u2026 [+2678 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nathan Edwards, Antonio G. Di Benedetto",
-            "title": "Here\u2019s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
-            "description": "RAMageddon has come for computers. The price of memory chips, hard drives, and solid state storage has skyrocketed. That\u2019s led to price increases on desktop and laptop RAM, SSDs, spinning hard drives, and pretty much everything that uses any of those things. \u2026",
-            "url": "https://www.theverge.com/gadgets/956938/prime-day-deals-keyboards-mice-monitors-peripherals",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268466_5K_monitor_v_Apple_display_JHiggins_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-25T17:47:20Z",
-            "content": "You can get a great, color-accurate 5K monitor for half the price of an Apple Studio Display. | Photo by John Higgins / The Verge\r\n\n\nRAMageddon has come for computers. The price of memory chips, hard\u2026 [+7242 chars]",
             "ai_score": 5
         },
         {
@@ -1105,20 +1119,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-18T20:26:59Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAny reservations made today indicate a 2027 date for shipping.\r\nAny reservations made today indicate a 2027 date for shipping.\r\nby\r\nJay PetersClose\r\nPosts from t\u2026 [+2910 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
-            "description": "The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its earlier version of AMD FSR upscaler: It's just not as good as it \u2026",
-            "url": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-            "publishedAt": "2026-06-22T17:08:31Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThats good news because the $1,049 console could use a boost to make games look much better than the six-year-old PS5.\r\nThats good news because the $1,049 consol\u2026 [+2525 chars]",
             "ai_score": 5
         }
     ]
