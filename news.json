@@ -1,6 +1,62 @@
 {
-    "last_updated": "2026-07-20 06:50",
+    "last_updated": "2026-07-20 10:17",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "Samsung\u2019s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day",
+            "description": "Samsung makes some of the very best OLED gaming monitors, and they\u2019ve never been this affordable.",
+            "url": "https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
+            "publishedAt": "2026-06-26T19:58:49Z",
+            "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "The 124 best tech deals for day three of Prime Day",
+            "description": "It\u2019s day three of Prime Day, folks. We\u2019re nearly 75 percent of the way through Amazon\u2019s four-day sales event, and unsurprisingly, many deals are still sticking around. There have been all kinds of discounts on things like TVs, smart home gadgets, chargers, he\u2026",
+            "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-25T10:37:43Z",
+            "content": "It\u2019s day three of Prime Day, folks. We\u2019re nearly 75 percent of the way through Amazon\u2019s four-day sales event, and unsurprisingly, many deals are still sticking around. There have been all kinds of di\u2026 [+49727 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "The future of physical games is not looking great",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\u2026",
+            "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-17T17:10:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayers and game preservationists might need to prepare for a world without discs.\r\nPlayers and game preservationists might need to prepare for a world without d\u2026 [+10335 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "FAA Takes First Step to Scrap the Ban on Supersonic Flights Over the U.S.",
+            "description": "Sean Duffy says new tech makes it safer for people on the ground who are worried about sonic booms.",
+            "url": "https://gizmodo.com/faa-takes-first-step-to-scrap-the-ban-on-supersonic-flights-over-the-u-s-2000779632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/concorde-1976-1200x675.jpg",
+            "publishedAt": "2026-06-30T20:20:44Z",
+            "content": "The Federal Aviation Administration announced a proposed rule change Tuesday that would lift the ban on supersonic flights over the continental U.S. by non-military planes, a policy that\u2019s been in pl\u2026 [+3931 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,20 +97,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/verge-msi-claw-ex-sean-hollister-1-7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-20T02:31:27Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGames play better on the Claw, but the Windows handheld software experience still has too many issues.\r\nGames play better on the Claw, but the Windows handheld s\u2026 [+7875 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Samsung\u2019s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day",
-            "description": "Samsung makes some of the very best OLED gaming monitors, and they\u2019ve never been this affordable.",
-            "url": "https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
-            "publishedAt": "2026-06-26T19:58:49Z",
-            "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
             "ai_score": 5
         },
         {
@@ -125,20 +167,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290357/STK048_XBOX_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-07-06T13:36:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nDouble Fine and Compulsion Games are going independent, and Microsoft is also selling Ninja Theory and Undead Labs.\r\nDouble Fine and Compulsion Games are going i\u2026 [+10781 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "The 124 best tech deals for day three of Prime Day",
-            "description": "It\u2019s day three of Prime Day, folks. We\u2019re nearly 75 percent of the way through Amazon\u2019s four-day sales event, and unsurprisingly, many deals are still sticking around. There have been all kinds of discounts on things like TVs, smart home gadgets, chargers, he\u2026",
-            "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-25T10:37:43Z",
-            "content": "It\u2019s day three of Prime Day, folks. We\u2019re nearly 75 percent of the way through Amazon\u2019s four-day sales event, and unsurprisingly, many deals are still sticking around. There have been all kinds of di\u2026 [+49727 chars]",
             "ai_score": 5
         },
         {
@@ -272,20 +300,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "The future of physical games is not looking great",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\u2026",
-            "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-17T17:10:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayers and game preservationists might need to prepare for a world without discs.\r\nPlayers and game preservationists might need to prepare for a world without d\u2026 [+10335 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Allison Johnson",
             "title": "The Nex Playground is down to its pre-RAMageddon price during Prime Day",
             "description": "The Nex Playground is the family-centric, Kinect-like game console that made one Verge editor\u2019s kids laugh, cry, and ask for more playtime, even when they were sick. The motion-based game play isn\u2019t perfect, but it has won over plenty of parents \u2014 and it\u2019s on\u2026",
@@ -339,20 +353,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
-            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
-            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-30T17:04:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -381,6 +381,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
+            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
+            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-30T17:04:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -391,20 +405,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/shutterstock_2727277665-1200x675.jpg",
             "publishedAt": "2026-07-02T16:50:50Z",
             "content": "Well-known Hollywood actor and lesser-known Silicon Valley investor Ashton Kutcher is leaving the venture capital firm he co-founded more than a decade ago, as he pivots to new bets on the resources \u2026 [+3064 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "FAA Takes First Step to Scrap the Ban on Supersonic Flights Over the U.S.",
-            "description": "Sean Duffy says new tech makes it safer for people on the ground who are worried about sonic booms.",
-            "url": "https://gizmodo.com/faa-takes-first-step-to-scrap-the-ban-on-supersonic-flights-over-the-u-s-2000779632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/concorde-1976-1200x675.jpg",
-            "publishedAt": "2026-06-30T20:20:44Z",
-            "content": "The Federal Aviation Administration announced a proposed rule change Tuesday that would lift the ban on supersonic flights over the continental U.S. by non-military planes, a policy that\u2019s been in pl\u2026 [+3931 chars]",
             "ai_score": 5
         },
         {
