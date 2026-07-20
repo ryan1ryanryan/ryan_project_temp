@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-20 13:11",
+    "last_updated": "2026-07-20 15:54",
     "articles": [
         {
             "source": {
@@ -703,20 +703,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "PlayStation Veteran Gives A Harsh Review Of The Steam Machine: \u2018Am I Going Back To PS4 Days\u2019",
-            "description": "Shuhei Yoshida had good and not so good things to say about Valve's new gaming PC",
-            "url": "https://kotaku.com/playstation-veteran-gives-a-harsh-review-of-the-steam-machine-am-i-going-back-to-ps4-days-2000712230",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/11/Steam-Machine-Alt.jpg",
-            "publishedAt": "2026-07-02T12:57:10Z",
-            "content": "After months of speculation and delays, Steam Machines are going out into the world and people have been sharing their thoughts. One of those people is former President of\u00a0Sony Interactive Entertainm\u2026 [+2397 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -727,6 +713,20 @@
             "urlToImage": "https://i.insider.com/6a3af4173d84808d83754b84?width=1200&format=jpeg",
             "publishedAt": "2026-06-23T22:32:52Z",
             "content": "Meta's new AI glasses, starting at $299, aim to blend fashion with advanced wearable technology.Meta\r\n<ul><li>Mark Zuckerberg envisions Meta's AI glasses as stylish, functional wearables, not mere ga\u2026 [+2507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "PlayStation Veteran Gives A Harsh Review Of The Steam Machine: \u2018Am I Going Back To PS4 Days\u2019",
+            "description": "Shuhei Yoshida had good and not so good things to say about Valve's new gaming PC",
+            "url": "https://kotaku.com/playstation-veteran-gives-a-harsh-review-of-the-steam-machine-am-i-going-back-to-ps4-days-2000712230",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/11/Steam-Machine-Alt.jpg",
+            "publishedAt": "2026-07-02T12:57:10Z",
+            "content": "After months of speculation and delays, Steam Machines are going out into the world and people have been sharing their thoughts. One of those people is former President of\u00a0Sony Interactive Entertainm\u2026 [+2397 chars]",
             "ai_score": 5
         },
         {
@@ -1091,34 +1091,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-18T20:26:59Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAny reservations made today indicate a 2027 date for shipping.\r\nAny reservations made today indicate a 2027 date for shipping.\r\nby\r\nJay PetersClose\r\nPosts from t\u2026 [+2910 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
-            "description": "The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its earlier version of AMD FSR upscaler: It's just not as good as it \u2026",
-            "url": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-            "publishedAt": "2026-06-22T17:08:31Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThats good news because the $1,049 console could use a boost to make games look much better than the six-year-old PS5.\r\nThats good news because the $1,049 consol\u2026 [+2525 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Valve describes just how brutal RAM negotiations are in 2026",
-            "description": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The prices are so high in part because Valve isn't subsidizing the\u2026",
-            "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_KMcClellan_0037.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-22T21:07:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf we say no, then they never talk to us again.\r\nIf we say no, then they never talk to us again.\r\nby\r\nJay PetersClose\r\nPosts from this author will be added to yo\u2026 [+3493 chars]",
             "ai_score": 5
         }
     ]
