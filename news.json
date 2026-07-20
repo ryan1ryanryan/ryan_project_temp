@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-20 15:54",
+    "last_updated": "2026-07-20 18:08",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+            "description": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital f\u2026",
+            "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-07-01T17:46:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts disc-to-digital feature could be essential for next-gen Xbox consoles.\r\nMicrosofts disc-to-digital feature could be essential for next-gen Xbox consol\u2026 [+3736 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -97,20 +111,6 @@
             "urlToImage": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/191:100/w_1280,c_limit/WIRED-Coupons-12.jpg",
             "publishedAt": "2026-07-18T05:00:00Z",
             "content": "Gaming is better with great gear. A powerful gaming headset and a good keyboard are two must-haves for me, whether Im playing Stardew Valley or firing up my latest unfinished run of Baldurs Gate 3 (I\u2026 [+3497 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Valve confirms it\u2019s working with Intel and Nvidia on SteamOS for more GPUs",
-            "description": "MSI's Intel-powered Claw gaming handhelds have so far mostly been Windows machines, meaning that anyone who picks one up has to deal with the crusty experience that is Windows on a handheld gaming PC. But now, both Valve and Intel tell The Verge that they're \u2026",
-            "url": "https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/msi-claw-8-ai-plus-sean-hollister-verge-331A1260-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-19T16:32:31Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome people have already gotten SteamOS running on Intel.\r\nSome people have already gotten SteamOS running on Intel.\r\nby\r\nJay PetersClose\r\nPosts from this author\u2026 [+3068 chars]",
             "ai_score": 5
         },
         {
@@ -479,20 +479,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "John Brandon",
-            "title": "The Best Art TVs",
-            "description": "Even after your movies end, these art televisions look stunning on any wall.",
-            "url": "https://www.wired.com/story/best-art-tvs/",
-            "urlToImage": "https://media.wired.com/photos/6a347f7fe985e44217ca6e09/191:100/w_1280,c_limit/The-Best-Art-TVs.jpg",
-            "publishedAt": "2026-06-19T11:00:00Z",
-            "content": "<ul><li>Intuitive new OS.</li><li>Excellent contrast and picture quality.</li><li>Massive number of art images.</li><li>Anti-glare coating actually works.</li><li>High refresh rate for gaming.</li></\u2026 [+2678 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -559,34 +545,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/690f/live/0b8f10a0-7ac4-11f1-b541-536d253827b8.png",
             "publishedAt": "2026-07-08T12:28:03Z",
             "content": "Meta is facing a backlash over its new AI tool Muse Image, which can generate pictures using other people's profile pictures without telling them.\r\nIt is one of many text-to-image tools publicly avai\u2026 [+1579 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
-            "description": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital f\u2026",
-            "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-07-01T17:46:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts disc-to-digital feature could be essential for next-gen Xbox consoles.\r\nMicrosofts disc-to-digital feature could be essential for next-gen Xbox consol\u2026 [+3736 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "techkritiko@gmail.com (Jay Bonggolto) , Jay Bonggolto",
-            "title": "Meta is taking over parts of Best Buy stores to make VR and smart glasses easier to try",
-            "description": "Meta is bringing hands-on VR and AI glasses demos to 50 Best Buy stores, finally letting shoppers try before spending hundreds on unfamiliar tech.",
-            "url": "https://www.androidcentral.com/gaming/virtual-reality/meta-is-taking-over-parts-of-best-buy-stores-to-make-vr-and-smart-glasses-easier-to-try",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/exuf32oVz5fT3UdYePpy68-2048-80.jpg",
-            "publishedAt": "2026-06-19T17:05:00Z",
-            "content": "What you need to know\r\n<ul><li>Meta is bringing dedicated Meta Lab spaces to over 50 Best Buy stores across North America.</li><li>The mini stores feature trained Meta specialists, giving shoppers ha\u2026 [+3005 chars]",
             "ai_score": 5
         },
         {
@@ -832,20 +790,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "You can now use the Game Boy Camera with your phone",
-            "description": "The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new functionality for the Game Boy Camera. After turning the Game Boy C\u2026",
-            "url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gbcamera1.jpg?quality=90&strip=all&crop=0%2C10.722122048185%2C100%2C78.55575590363&w=1200",
-            "publishedAt": "2026-06-18T20:22:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA new mobile app for the GB Operator lets you snap terrible 2-bit, 128 x112 photos without the need for a Game Boy.\r\nA new mobile app for the GB Operator lets yo\u2026 [+3137 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "GTA VI finally gets a price tag",
             "description": "We finally have a price for Grand Theft Auto VI: $79.99. That gets you the standard edition of the game, while the Ultimate Edition will set you back $99.99. Preorders start at midnight tonight, local time, when you'll be able to reserve a copy on PS5 or Xbox\u2026",
@@ -1084,13 +1028,83 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Cameron Faulkner",
+            "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
+            "description": "The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its earlier version of AMD FSR upscaler: It's just not as good as it \u2026",
+            "url": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+            "publishedAt": "2026-06-22T17:08:31Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThats good news because the $1,049 console could use a boost to make games look much better than the six-year-old PS5.\r\nThats good news because the $1,049 consol\u2026 [+2525 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jay Peters",
-            "title": "Valve is so behind on Steam Controller orders that some won\u2019t ship until 2027",
-            "description": "Valve has some good news and bad news about Steam Controllers. The good news: if you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September 2026, by D\u2026",
-            "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0027.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-18T20:26:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAny reservations made today indicate a 2027 date for shipping.\r\nAny reservations made today indicate a 2027 date for shipping.\r\nby\r\nJay PetersClose\r\nPosts from t\u2026 [+2910 chars]",
+            "title": "Valve describes just how brutal RAM negotiations are in 2026",
+            "description": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The prices are so high in part because Valve isn't subsidizing the\u2026",
+            "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_KMcClellan_0037.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-22T21:07:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf we say no, then they never talk to us again.\r\nIf we say no, then they never talk to us again.\r\nby\r\nJay PetersClose\r\nPosts from this author will be added to yo\u2026 [+3493 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "007 First Light\u2019s developer lays off staff but claims its next franchise will continue",
+            "description": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franchise, Project Fantasy, \"has come to an end.\" IO has described Project Fantasy a\u2026",
+            "url": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ss_7683959b09f7863c5eb23bfdbcf039269765b5d6.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-30T18:21:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIO Interactive lost an external partner for Project Fantasy which was reportedly Microsoft.\r\nIO Interactive lost an external partner for Project Fantasy which wa\u2026 [+3025 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Some of our favorite Switch 2 accessories are cheaper during Prime Day",
+            "description": "The Switch 2\u2019s price is set to increase by $50 on September 1st, starting at $499.99, so if you\u2019re purchasing one before that (or you already own one), now\u2019s a good time to also save on accessories while you can. Amazon\u2019s Prime Day has delivered many great ga\u2026",
+            "url": "https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257880_8BitDo_Pro_3_CFaulkner_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-24T12:51:17Z",
+            "content": "The Switch 2\u2019s price is set to increase by $50 on September 1st, starting at $499.99, so if you\u2019re purchasing one before that (or you already own one), now\u2019s a good time to also save on accessories w\u2026 [+8044 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Steam Machine Reviews Are In And They Are Far From Glowing: \u2018There Is No Path That I Can Trace That Will Lead To Acceptable Performance On This Hardware\u2019",
+            "description": "Valve has the impossible task of making a budget gaming PC at a time of exploding costs",
+            "url": "https://kotaku.com/steam-machine-reviews-are-in-and-they-are-far-from-glowing-there-is-no-path-that-i-can-trace-that-will-lead-to-acceptable-performance-on-this-hardware-2000709043",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
+            "publishedAt": "2026-06-22T19:00:33Z",
+            "content": "The Steam Machine is finally here. People can sign up to get on the waiting list for the first units to ship and reviewers have already gone hands-on with Valve\u2019s new device. It\u2019s pricey, but is it w\u2026 [+6686 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alistair Barr",
+            "title": "So much for the AI jobs apocalypse. Demand for tech talent is rising.",
+            "description": "AI hasn't triggered a tech jobs collapse. New data shows hiring demand is strong across much of the tech industry.",
+            "url": "https://www.businessinsider.com/ai-supposed-to-kill-tech-jobs-instead-demand-up-2026-6#article",
+            "urlToImage": "https://i.insider.com/6a3c1b9ea25092c74cc9e5b9?width=1200&format=jpeg",
+            "publishedAt": "2026-06-25T09:00:06Z",
+            "content": "A RW robot lays on the ground after falling during the VivaTech technology startups and innovation fair at the Paris Expo Porte de Versailles.SIMON WOHLFAHRT / AFP via Getty Images\r\n<ul><li>Tech job \u2026 [+3241 chars]",
             "ai_score": 5
         }
     ]
