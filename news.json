@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-07-21 21:14",
+    "last_updated": "2026-07-21 23:02",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "FAA Takes First Step to Scrap the Ban on Supersonic Flights Over the U.S.",
-            "description": "Sean Duffy says new tech makes it safer for people on the ground who are worried about sonic booms.",
-            "url": "https://gizmodo.com/faa-takes-first-step-to-scrap-the-ban-on-supersonic-flights-over-the-u-s-2000779632",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/concorde-1976-1200x675.jpg",
-            "publishedAt": "2026-06-30T20:20:44Z",
-            "content": "The Federal Aviation Administration announced a proposed rule change Tuesday that would lift the ban on supersonic flights over the continental U.S. by non-military planes, a policy that\u2019s been in pl\u2026 [+3931 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "How much would the Steam Machine cost to build?",
+            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
+            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-23T15:30:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,20 +55,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
             "publishedAt": "2026-07-20T20:06:40Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "I\u2019m not giving up my Steam Deck for MSI\u2019s new Claw",
-            "description": "This is not a review of the MSI Claw 8 EX AI Plus, the first gaming handheld available with Intel's new Arc G3 Extreme handheld gaming chip. Now that my colleague Sean Hollister is done reviewing the Steam Machine, I'll let him go deep on the new Claw at some\u2026",
-            "url": "https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/verge-msi-claw-ex-sean-hollister-1-7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-20T02:31:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGames play better on the Claw, but the Windows handheld software experience still has too many issues.\r\nGames play better on the Claw, but the Windows handheld s\u2026 [+7875 chars]",
             "ai_score": 5
         },
         {
@@ -255,20 +241,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "How much would the Steam Machine cost to build?",
-            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
-            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-23T15:30:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -405,6 +377,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/shutterstock_2727277665-1200x675.jpg",
             "publishedAt": "2026-07-02T16:50:50Z",
             "content": "Well-known Hollywood actor and lesser-known Silicon Valley investor Ashton Kutcher is leaving the venture capital firm he co-founded more than a decade ago, as he pivots to new bets on the resources \u2026 [+3064 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "FAA Takes First Step to Scrap the Ban on Supersonic Flights Over the U.S.",
+            "description": "Sean Duffy says new tech makes it safer for people on the ground who are worried about sonic booms.",
+            "url": "https://gizmodo.com/faa-takes-first-step-to-scrap-the-ban-on-supersonic-flights-over-the-u-s-2000779632",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/concorde-1976-1200x675.jpg",
+            "publishedAt": "2026-06-30T20:20:44Z",
+            "content": "The Federal Aviation Administration announced a proposed rule change Tuesday that would lift the ban on supersonic flights over the continental U.S. by non-military planes, a policy that\u2019s been in pl\u2026 [+3931 chars]",
             "ai_score": 5
         },
         {
@@ -727,20 +713,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MM6_Offer-alt-billing.jpg?quality=90&strip=all&crop=44.6%2C44.973821989529%2C55.4%2C51.564863292612&w=1200",
             "publishedAt": "2026-06-24T17:36:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 30 percent app store rate is going away, and now you might pay developers directly for Android apps.\r\nThe 30 percent app store rate is going away, and now yo\u2026 [+2910 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Yael Grauer",
-            "title": "Read this before you vibe-code another app",
-            "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a pro\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-20T16:31:42Z",
-            "content": "<ul><li></li><li></li></ul>\r\nYour dream vibe-coded app might be a security nightmare.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nby\r\nYael Gra\u2026 [+12996 chars]",
             "ai_score": 5
         },
         {
@@ -1105,6 +1077,48 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257880_8BitDo_Pro_3_CFaulkner_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-24T12:51:17Z",
             "content": "The Switch 2\u2019s price is set to increase by $50 on September 1st, starting at $499.99, so if you\u2019re purchasing one before that (or you already own one), now\u2019s a good time to also save on accessories w\u2026 [+8044 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Steam Machine Reviews Are In And They Are Far From Glowing: \u2018There Is No Path That I Can Trace That Will Lead To Acceptable Performance On This Hardware\u2019",
+            "description": "Valve has the impossible task of making a budget gaming PC at a time of exploding costs",
+            "url": "https://kotaku.com/steam-machine-reviews-are-in-and-they-are-far-from-glowing-there-is-no-path-that-i-can-trace-that-will-lead-to-acceptable-performance-on-this-hardware-2000709043",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
+            "publishedAt": "2026-06-22T19:00:33Z",
+            "content": "The Steam Machine is finally here. People can sign up to get on the waiting list for the first units to ship and reviewers have already gone hands-on with Valve\u2019s new device. It\u2019s pricey, but is it w\u2026 [+6686 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alistair Barr",
+            "title": "So much for the AI jobs apocalypse. Demand for tech talent is rising.",
+            "description": "AI hasn't triggered a tech jobs collapse. New data shows hiring demand is strong across much of the tech industry.",
+            "url": "https://www.businessinsider.com/ai-supposed-to-kill-tech-jobs-instead-demand-up-2026-6#article",
+            "urlToImage": "https://i.insider.com/6a3c1b9ea25092c74cc9e5b9?width=1200&format=jpeg",
+            "publishedAt": "2026-06-25T09:00:06Z",
+            "content": "A RW robot lays on the ground after falling during the VivaTech technology startups and innovation fair at the Paris Expo Porte de Versailles.SIMON WOHLFAHRT / AFP via Getty Images\r\n<ul><li>Tech job \u2026 [+3241 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+            "title": "RedMagic has another beast gaming tablet on the way, and it's launching soon",
+            "description": "RedMagic officially shows off the Gaming Tablet 5 Pro in teaser images, stating it's launching soon with upgraded cooling.",
+            "url": "https://www.androidcentral.com/tablets/redmagic-has-another-beast-gaming-tablet-on-the-way-and-its-launching-soon",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WcpcYAmKepQe2ZffGE6rFF-2048-80.jpg",
+            "publishedAt": "2026-06-22T18:47:36Z",
+            "content": "What you need to know\r\n<ul><li>RedMagic begins teasing its next gaming tablet, the Gaming Tablet 5 Pro, on Weibo, showing the model off in full with a glowing camera bar and in white and black colorw\u2026 [+3468 chars]",
             "ai_score": 5
         }
     ]
