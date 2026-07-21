@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21 17:24",
+    "last_updated": "2026-07-21 19:27",
     "articles": [
         {
             "source": {
@@ -129,6 +129,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The wireless headset that gets hot-swappable batteries right",
+            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
+            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-20T19:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -213,20 +227,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
-            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
-            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
-            "publishedAt": "2026-07-17T16:45:27Z",
-            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -237,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-06-23T15:30:14Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
+            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
+            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
+            "publishedAt": "2026-07-17T16:45:27Z",
+            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
             "ai_score": 5
         },
         {
@@ -1091,20 +1105,6 @@
             "urlToImage": "https://i.insider.com/6a3c1b9ea25092c74cc9e5b9?width=1200&format=jpeg",
             "publishedAt": "2026-06-25T09:00:06Z",
             "content": "A RW robot lays on the ground after falling during the VivaTech technology startups and innovation fair at the Paris Expo Porte de Versailles.SIMON WOHLFAHRT / AFP via Getty Images\r\n<ul><li>Tech job \u2026 [+3241 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
-            "title": "RedMagic has another beast gaming tablet on the way, and it's launching soon",
-            "description": "RedMagic officially shows off the Gaming Tablet 5 Pro in teaser images, stating it's launching soon with upgraded cooling.",
-            "url": "https://www.androidcentral.com/tablets/redmagic-has-another-beast-gaming-tablet-on-the-way-and-its-launching-soon",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/WcpcYAmKepQe2ZffGE6rFF-2048-80.jpg",
-            "publishedAt": "2026-06-22T18:47:36Z",
-            "content": "What you need to know\r\n<ul><li>RedMagic begins teasing its next gaming tablet, the Gaming Tablet 5 Pro, on Weibo, showing the model off in full with a glowing camera bar and in white and black colorw\u2026 [+3468 chars]",
             "ai_score": 5
         }
     ]
