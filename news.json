@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-22 03:21",
+    "last_updated": "2026-07-22 06:32",
     "articles": [
         {
             "source": {
@@ -325,20 +325,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
-            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
-            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-30T17:04:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -363,6 +349,20 @@
             "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
             "publishedAt": "2026-07-17T10:00:00Z",
             "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
+            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
+            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-30T17:04:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
             "ai_score": 5
         },
         {
