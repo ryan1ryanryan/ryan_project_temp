@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21 23:02",
+    "last_updated": "2026-07-22 00:02",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "How much would the Steam Machine cost to build?",
-            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
-            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-23T15:30:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -237,6 +223,20 @@
             "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
             "publishedAt": "2026-07-16T12:09:08Z",
             "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "How much would the Steam Machine cost to build?",
+            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
+            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-23T15:30:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
             "ai_score": 5
         },
         {
