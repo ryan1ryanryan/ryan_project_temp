@@ -1,6 +1,104 @@
 {
-    "last_updated": "2026-07-22 06:32",
+    "last_updated": "2026-07-22 09:32",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
+            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
+            "publishedAt": "2026-07-20T20:06:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Netflix Believes the Future of Cloud Gaming Looks Like the\u2026 Nintendo Wii?",
+            "description": "Netflix's new game, 'Unhinged,' thinks your phone is the next generation of the Wii Remote.",
+            "url": "https://gizmodo.com/netflix-believes-the-future-of-cloud-gaming-looks-like-the-nintendo-wii-2000776380",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Netflix-Unhinged-Game-1-1200x675.jpg",
+            "publishedAt": "2026-06-24T13:20:17Z",
+            "content": "Netflix, the big daddy of streaming, wants to proliferate cloud gaming to every single TV with even a moderate internet connection. Its new game, Unhinged, uses a control scheme that anyone with a sm\u2026 [+5390 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The wireless headset that gets hot-swappable batteries right",
+            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
+            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-20T19:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Can We Not Normalize $5,300 Handheld Gaming PCs?",
+            "description": "You can buy a gaming laptop with a top-end GPU for less.",
+            "url": "https://gizmodo.com/can-we-not-normalize-5300-dollar-handheld-gaming-pcs-2000781709",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
+            "publishedAt": "2026-07-06T14:30:26Z",
+            "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Discord accidentally banned over 8,000 people for posting grids and other \u2018benign\u2019 images",
+            "description": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, s\u2026",
+            "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+            "publishedAt": "2026-07-07T15:02:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
+            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
+            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-30T17:04:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer Blade 16 (2026) Review: A Gaming Laptop You Can Actually Call \u2018Portable\u2019",
+            "description": "When laptops cost this much, you should damn well want to carry it with you everywhere.",
+            "url": "https://gizmodo.com/razer-blade-16-2026-review-a-gaming-laptop-you-can-actually-call-portable-2000783170",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Razer-Blade-16-2026-review-11-1200x675.jpg",
+            "publishedAt": "2026-07-09T15:00:02Z",
+            "content": "Razers big black rectangle, the Blade 16, is the best it\u2019s ever been. And as you may have guessed, especially if you know anything about the ongoing RAM crisis, the revised Razer Blade 16 for 2026 is\u2026 [+14988 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -31,20 +129,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
-            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
-            "publishedAt": "2026-07-20T20:06:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -69,20 +153,6 @@
             "urlToImage": "https://media.wired.com/photos/6a4bdfbb6a49ac9393dae91c/191:100/w_1280,c_limit/Review--Hisense-UR9-RGB-MiniLED.jpg",
             "publishedAt": "2026-07-07T11:01:00Z",
             "content": "RGB Mini-LED TVs have officially arrived, and Hisense's UR9 was the first to hit the market, followed by Sony's Bravia 7 Mark II and TCLs RM9L. I wouldnt blame you if you werent jazzed to learn what \u2026 [+2145 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Netflix Believes the Future of Cloud Gaming Looks Like the\u2026 Nintendo Wii?",
-            "description": "Netflix's new game, 'Unhinged,' thinks your phone is the next generation of the Wii Remote.",
-            "url": "https://gizmodo.com/netflix-believes-the-future-of-cloud-gaming-looks-like-the-nintendo-wii-2000776380",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Netflix-Unhinged-Game-1-1200x675.jpg",
-            "publishedAt": "2026-06-24T13:20:17Z",
-            "content": "Netflix, the big daddy of streaming, wants to proliferate cloud gaming to every single TV with even a moderate internet connection. Its new game, Unhinged, uses a control scheme that anyone with a sm\u2026 [+5390 chars]",
             "ai_score": 5
         },
         {
@@ -129,20 +199,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The wireless headset that gets hot-swappable batteries right",
-            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
-            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T19:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -153,20 +209,6 @@
             "urlToImage": "https://media.wired.com/photos/6a3a246397b3e5bb7d92cfe0/191:100/w_1280,c_limit/The-Best-Fitness-Tech-Deals-This-Amazon-Prime-Day.jpg",
             "publishedAt": "2026-06-23T09:32:14Z",
             "content": "For Amazon's summer sale event, I've compiled a list of the best Prime Day fitness tech deals on our favorite gadgets. From smartwatches and fitness trackers to walking pads and recovery gear, we've \u2026 [+5866 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Can We Not Normalize $5,300 Handheld Gaming PCs?",
-            "description": "You can buy a gaming laptop with a top-end GPU for less.",
-            "url": "https://gizmodo.com/can-we-not-normalize-5300-dollar-handheld-gaming-pcs-2000781709",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
-            "publishedAt": "2026-07-06T14:30:26Z",
-            "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
             "ai_score": 5
         },
         {
@@ -227,20 +269,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "How much would the Steam Machine cost to build?",
-            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
-            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-23T15:30:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -251,6 +279,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
             "publishedAt": "2026-07-17T16:45:27Z",
             "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "How much would the Steam Machine cost to build?",
+            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
+            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-23T15:30:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
             "ai_score": 5
         },
         {
@@ -311,20 +353,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Discord accidentally banned over 8,000 people for posting grids and other \u2018benign\u2019 images",
-            "description": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, s\u2026",
-            "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-            "publishedAt": "2026-07-07T15:02:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -349,20 +377,6 @@
             "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
             "publishedAt": "2026-07-17T10:00:00Z",
             "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
-            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
-            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-30T17:04:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
             "ai_score": 5
         },
         {
@@ -419,20 +433,6 @@
             "urlToImage": "https://www.cnet.com/a/img/resize/4e7837c176b16c95883fa357075dc77964ca3532/hub/2026/07/09/d7265210-79d6-44f3-9d2d-538a4f48f390/image-3.png?auto=webp&fit=crop&height=675&width=1200",
             "publishedAt": "2026-07-13T12:00:00Z",
             "content": "It's hard to believe that back-to-school season is upon us.\u00a0\r\nKids will return to the classroom in many parts of the US in a few short weeks, some as early as August 3. School supply lists are alread\u2026 [+5567 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer Blade 16 (2026) Review: A Gaming Laptop You Can Actually Call \u2018Portable\u2019",
-            "description": "When laptops cost this much, you should damn well want to carry it with you everywhere.",
-            "url": "https://gizmodo.com/razer-blade-16-2026-review-a-gaming-laptop-you-can-actually-call-portable-2000783170",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Razer-Blade-16-2026-review-11-1200x675.jpg",
-            "publishedAt": "2026-07-09T15:00:02Z",
-            "content": "Razers big black rectangle, the Blade 16, is the best it\u2019s ever been. And as you may have guessed, especially if you know anything about the ongoing RAM crisis, the revised Razer Blade 16 for 2026 is\u2026 [+14988 chars]",
             "ai_score": 5
         },
         {
