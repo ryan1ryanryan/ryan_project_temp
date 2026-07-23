@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-23 02:49",
+    "last_updated": "2026-07-23 05:59",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -944,20 +944,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Henri Robbins",
-            "title": "Wooting 60HE v2: Peak Keyboard Perfection",
-            "description": "The Wooting 60HE v2 is a Hall Effect keyboard that does everything right, with smooth switches, intuitive software, and a compact design.",
-            "url": "https://www.wired.com/review/review-wooting-60he-v2/",
-            "urlToImage": "https://media.wired.com/photos/6a35ab3c6859e0a25fd52f9d/191:100/w_1280,c_limit/Wooting-60HE-v2-.jpg",
-            "publishedAt": "2026-06-21T11:01:00Z",
-            "content": "The most controversial feature is Simultaneous Opposing Cardinal Direction (SOCD) customization. This allows one key to override another rather than registering both simultaneously, which is ideal fo\u2026 [+2847 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Steven Levy",
             "title": "Europe Is Fed Up and Wants Its Own AI",
             "description": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
@@ -1105,6 +1091,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
             "publishedAt": "2026-06-22T19:00:33Z",
             "content": "The Steam Machine is finally here. People can sign up to get on the waiting list for the first units to ship and reviewers have already gone hands-on with Valve\u2019s new device. It\u2019s pricey, but is it w\u2026 [+6686 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alistair Barr",
+            "title": "So much for the AI jobs apocalypse. Demand for tech talent is rising.",
+            "description": "AI hasn't triggered a tech jobs collapse. New data shows hiring demand is strong across much of the tech industry.",
+            "url": "https://www.businessinsider.com/ai-supposed-to-kill-tech-jobs-instead-demand-up-2026-6#article",
+            "urlToImage": "https://i.insider.com/6a3c1b9ea25092c74cc9e5b9?width=1200&format=jpeg",
+            "publishedAt": "2026-06-25T09:00:06Z",
+            "content": "A RW robot lays on the ground after falling during the VivaTech technology startups and innovation fair at the Paris Expo Porte de Versailles.SIMON WOHLFAHRT / AFP via Getty Images\r\n<ul><li>Tech job \u2026 [+3241 chars]",
             "ai_score": 5
         }
     ]
