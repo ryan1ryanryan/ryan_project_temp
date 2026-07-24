@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-07-23 23:02",
+    "last_updated": "2026-07-24 00:07",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Boutayna Chokrane",
-            "title": "Best Prime Day Fitness Tech Deals (2026)",
-            "description": "Shopping Amazon's sale for yourself or a loved one? Here are the best Prime Day fitness tech deals, including smartwatches, walking pads, and recovery gear.",
-            "url": "https://www.wired.com/story/amazon-prime-day-fitness-deals-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a3a246397b3e5bb7d92cfe0/191:100/w_1280,c_limit/The-Best-Fitness-Tech-Deals-This-Amazon-Prime-Day.jpg",
-            "publishedAt": "2026-06-23T09:32:14Z",
-            "content": "For Amazon's summer sale event, I've compiled a list of the best Prime Day fitness tech deals on our favorite gadgets. From smartwatches and fitness trackers to walking pads and recovery gear, we've \u2026 [+5866 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -153,6 +139,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-20T19:18:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boutayna Chokrane",
+            "title": "Best Prime Day Fitness Tech Deals (2026)",
+            "description": "Shopping Amazon's sale for yourself or a loved one? Here are the best Prime Day fitness tech deals, including smartwatches, walking pads, and recovery gear.",
+            "url": "https://www.wired.com/story/amazon-prime-day-fitness-deals-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a3a246397b3e5bb7d92cfe0/191:100/w_1280,c_limit/The-Best-Fitness-Tech-Deals-This-Amazon-Prime-Day.jpg",
+            "publishedAt": "2026-06-23T09:32:14Z",
+            "content": "For Amazon's summer sale event, I've compiled a list of the best Prime Day fitness tech deals on our favorite gadgets. From smartwatches and fitness trackers to walking pads and recovery gear, we've \u2026 [+5866 chars]",
             "ai_score": 5
         },
         {
