@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-24 18:22",
+    "last_updated": "2026-07-24 20:24",
     "articles": [
         {
             "source": {
@@ -437,6 +437,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Amazon Is Bringing Games to Prime Video",
+            "description": "Amazon is integrating its Luna cloud gaming service into Prime Video, adding a new \"Games\" tab where Prime members can play titles like \"Hogwarts Legacy,\" \"EA Sports FC 26,\" \"Indiana Jones and the Great Circle,\" \"Clue,\" and \"Taboo.\" The games will be availabl\u2026",
+            "url": "https://games.slashdot.org/story/26/07/23/1830257/amazon-is-bringing-games-to-prime-video",
+            "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
+            "publishedAt": "2026-07-23T20:00:00Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -727,6 +741,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gta-vi-cover-art-reveal.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-06-24T10:30:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe game is set to launch on November 19th.\r\nThe game is set to launch on November 19th.\r\nby\r\nStevie BonifieldClose\r\nPosts from this author will be added to your\u2026 [+2133 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
+            "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-23T18:33:59Z",
+            "content": "<ul><li></li><li></li></ul>\r\nAfter the governments cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. \r\nAfter the governments cybersecurity concer\u2026 [+3352 chars]",
             "ai_score": 5
         },
         {
@@ -1063,34 +1091,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/disc-gta-6-1200x675.jpg",
             "publishedAt": "2026-07-13T14:20:17Z",
             "content": "Grand Theft Auto VI starting at $80 might strike some as the latest sign that gaming is becoming increasingly unaffordable. For others, like tech analyst Ben Thompson, the price represents an absolut\u2026 [+2997 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Valve Removes \u20184K Gaming At 60 FPS\u2019 From Steam Machine Page After Early Review Backlash",
-            "description": "Some have struggled to hit consistently high framerates on the new hardware",
-            "url": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
-            "publishedAt": "2026-06-25T23:00:42Z",
-            "content": "Back before it launched, Valve was promising \u201c4K gaming at 60 FPS\u201d on its new Steam Machine gaming PCs. That claim was just deleted from the device\u2019s hardware page. The change comes after early revie\u2026 [+2451 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "ben.wilson@windowscentral.com (Ben Wilson) , Ben Wilson",
-            "title": "Alienware made an \"entry-level\" gaming laptop with RTX 5050 graphics \u2014 but this 15-inch PC needs more than NVIDIA's clever upscaling tech to offset its downsides.",
-            "description": "The Alienware 15 gaming laptop with RTX 5050 graphics delivers capable gaming performance with NVIDIA's DLSS tech, but loud fans and tight storage hold it back.",
-            "url": "https://www.windowscentral.com/hardware/dell/alienware-15-amd-2026-review",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DC4UiazxNmHps5bqYGbfUJ-2000-80.jpg",
-            "publishedAt": "2026-07-15T16:44:31Z",
-            "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.An entry-level Alie\u2026 [+10850 chars]",
             "ai_score": 5
         }
     ]
