@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-07-25 13:31",
+    "last_updated": "2026-07-25 15:07",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Gaming laptops are too expensive right now, but this one\u2019s a good value",
-            "description": "It\u2019s not a great time to shop for a gaming laptop. The unprecedented rise in cost for RAM (and storage to a slightly lesser extent) has made laptops with low-to-midrange specs cost much more than they should. Recent deals on gaming laptops worth your attentio\u2026",
-            "url": "https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/katana.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-08T14:43:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTodays roundup covers a wide range of stuff, from Ethernet PoE switches to Teenage Mutant Ninja Turtles 4K Blu-rays.\r\nTodays roundup covers a wide range of stuff\u2026 [+4565 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Simon Hill",
-            "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
-            "description": "Welcome to Walmart deals for folks who\u2019d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
-            "url": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a3abc00b35647f689f166fa/191:100/w_1280,c_limit/The-Best-Walmart-Deals-This-Prime-Day.jpg",
-            "publishedAt": "2026-06-26T11:50:08Z",
-            "content": "Prime Day is in full swing, but Amazon isn't the only shop with deals. Walmart has a competing sale it calls, in a burst of creativity, Walmart Deals. Like Prime Day, Walmart's sale features a range \u2026 [+7668 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02339_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-06-25T22:33:54Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTo make it easier to play games, one side of the screen will show a virtual gamepad with touch controls.\r\nTo make it easier to play games, one side of the screen\u2026 [+3207 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Gaming laptops are too expensive right now, but this one\u2019s a good value",
+            "description": "It\u2019s not a great time to shop for a gaming laptop. The unprecedented rise in cost for RAM (and storage to a slightly lesser extent) has made laptops with low-to-midrange specs cost much more than they should. Recent deals on gaming laptops worth your attentio\u2026",
+            "url": "https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/katana.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-08T14:43:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTodays roundup covers a wide range of stuff, from Ethernet PoE switches to Teenage Mutant Ninja Turtles 4K Blu-rays.\r\nTodays roundup covers a wide range of stuff\u2026 [+4565 chars]",
             "ai_score": 5
         },
         {
@@ -83,20 +69,6 @@
             "urlToImage": "https://media.wired.com/photos/6a4bdfbb6a49ac9393dae91c/191:100/w_1280,c_limit/Review--Hisense-UR9-RGB-MiniLED.jpg",
             "publishedAt": "2026-07-07T11:01:00Z",
             "content": "RGB Mini-LED TVs have officially arrived, and Hisense's UR9 was the first to hit the market, followed by Sony's Bravia 7 Mark II and TCLs RM9L. I wouldnt blame you if you werent jazzed to learn what \u2026 [+2145 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Netflix Believes the Future of Cloud Gaming Looks Like the\u2026 Nintendo Wii?",
-            "description": "Netflix's new game, 'Unhinged,' thinks your phone is the next generation of the Wii Remote.",
-            "url": "https://gizmodo.com/netflix-believes-the-future-of-cloud-gaming-looks-like-the-nintendo-wii-2000776380",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Netflix-Unhinged-Game-1-1200x675.jpg",
-            "publishedAt": "2026-06-24T13:20:17Z",
-            "content": "Netflix, the big daddy of streaming, wants to proliferate cloud gaming to every single TV with even a moderate internet connection. Its new game, Unhinged, uses a control scheme that anyone with a sm\u2026 [+5390 chars]",
             "ai_score": 5
         },
         {
@@ -189,6 +161,20 @@
                 "name": "Wired"
             },
             "author": "Simon Hill",
+            "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
+            "description": "Welcome to Walmart deals for folks who\u2019d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
+            "url": "https://www.wired.com/story/walmart-deals-apd-06-26-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a3abc00b35647f689f166fa/191:100/w_1280,c_limit/The-Best-Walmart-Deals-This-Prime-Day.jpg",
+            "publishedAt": "2026-06-26T11:50:08Z",
+            "content": "Prime Day is in full swing, but Amazon isn't the only shop with deals. Walmart has a competing sale it calls, in a burst of creativity, Walmart Deals. Like Prime Day, Walmart's sale features a range \u2026 [+7668 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Simon Hill",
             "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
             "description": "Don't pay full price\u2014snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
             "url": "https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/",
@@ -209,20 +195,6 @@
             "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
             "publishedAt": "2026-07-16T12:09:08Z",
             "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "How much would the Steam Machine cost to build?",
-            "description": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we aske\u2026",
-            "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268581_Steam_Machine_SHollister_0024.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-23T15:30:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe specced out a mini gaming PC to try to match the Steam Machines performance and price.\r\nWe specced out a mini gaming PC to try to match the Steam Machines per\u2026 [+6883 chars]",
             "ai_score": 5
         },
         {
@@ -493,20 +465,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "John.Higgins",
-            "title": "Prime Day has served up several great deals on 4K TVs",
-            "description": "There are three times of year that are best for buying a new TV: leading up to the Super Bowl, Black Friday, and of course now, during Amazon Prime Day. Many of the new 2026 models have been released, and while some will be seeing discounts, the majority of t\u2026",
-            "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Sony-XR-A95L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-23T17:34:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith the quality of TVs from each year getting so close, its a better idea to save big on last years models.\r\nWith the quality of TVs from each year getting so c\u2026 [+5520 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
@@ -633,20 +591,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Katherine Li",
-            "title": "Mark Zuckerberg says Meta's new AI glasses must balance fashion with function for people to wear them",
-            "description": "Mark Zuckerberg's latest obsession is fashion, which he sees as key to getting more people to wear Meta's AI glasses as more than tech gadgets.",
-            "url": "https://www.businessinsider.com/mark-zuckerberg-meta-glasses-style-comfort-tech-wearable-fashion-2026-6#article",
-            "urlToImage": "https://i.insider.com/6a3af4173d84808d83754b84?width=1200&format=jpeg",
-            "publishedAt": "2026-06-23T22:32:52Z",
-            "content": "Meta's new AI glasses, starting at $299, aim to blend fashion with advanced wearable technology.Meta\r\n<ul><li>Mark Zuckerberg envisions Meta's AI glasses as stylish, functional wearables, not mere ga\u2026 [+2507 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -706,20 +650,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Prime Day has some solid deals on Switch 2, PS5, and Xbox games",
-            "description": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are physical copies, but every so often there\u2019s a better or equivale\u2026",
-            "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HadesUnseenUpdateWallpaper.png?quality=90&strip=all&crop=0%2C9.5315780155298%2C100%2C80.93684396894&w=1200",
-            "publishedAt": "2026-06-23T19:47:41Z",
-            "content": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are phys\u2026 [+7552 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "The video game disc is dead",
             "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
@@ -734,20 +664,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "8BitDo\u2019s all-button controller gets a screen upgrade for customizations without an app",
-            "description": "8BitDo announced a new version of its all-button Arcade Controller that debuted a little over a year ago. The new Arcade Controller Pro looks similar to 8BitDo's original with a leverless (or Hitbox) design that replaces joysticks with buttons for improved pr\u2026",
-            "url": "https://www.theverge.com/tech/954894/8bitdo-arcade-controller-pro-leverless-hitbox-wireless-switch-bluetooth",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/8bitdoarcade1.jpg?quality=90&strip=all&crop=0%2C10.744297175852%2C100%2C78.511405648296&w=1200",
-            "publishedAt": "2026-06-24T09:41:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arcade Controller Pro has a thinner design, an extra programmable button, and a screenshot button for the Switch.\r\nThe Arcade Controller Pro has a thinner de\u2026 [+2815 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
             "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
@@ -755,20 +671,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-23T21:15:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons upgraded AI assistant will be able to do more across a wider range of smart home devices.\r\nAmazons upgraded AI assistant will be able to do more across a\u2026 [+3092 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "GTA VI finally gets a price tag",
-            "description": "We finally have a price for Grand Theft Auto VI: $79.99. That gets you the standard edition of the game, while the Ultimate Edition will set you back $99.99. Preorders start at midnight tonight, local time, when you'll be able to reserve a copy on PS5 or Xbox\u2026",
-            "url": "https://www.theverge.com/games/952204/grand-theft-auto-vi-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gta-vi-cover-art-reveal.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-24T10:30:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe game is set to launch on November 19th.\r\nThe game is set to launch on November 19th.\r\nby\r\nStevie BonifieldClose\r\nPosts from this author will be added to your\u2026 [+2133 chars]",
             "ai_score": 5
         },
         {
@@ -867,20 +769,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2285277287-1200x675.jpg",
             "publishedAt": "2026-07-13T20:30:02Z",
             "content": "The European Union is months away from a final bill for a social media ban that is looking likely to be one of the strictest introduced thus far worldwide.\r\nOn Monday, European Commission President U\u2026 [+5676 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "A Program to Expand Rural Internet Access Now Looks Like a Slush Fund for Tech Billionaires",
-            "description": "Connecting Musk and Bezos with more cash.",
-            "url": "https://gizmodo.com/a-program-to-expand-rural-internet-access-now-looks-like-a-slush-fund-for-tech-billionaires-2000776173",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Strengthen-Your-Internet-Connection.jpg",
-            "publishedAt": "2026-06-23T21:05:37Z",
-            "content": "During the 2024 Presidential campaign, the Broadband Equity, Access, and Deployment (BEAD) program, meant to bring broadband internet to rural communities across the country, became a cudgel for Dona\u2026 [+3457 chars]",
             "ai_score": 5
         },
         {
@@ -1039,20 +927,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Some of our favorite Switch 2 accessories are cheaper during Prime Day",
-            "description": "The Switch 2\u2019s price is set to increase by $50 on September 1st, starting at $499.99, so if you\u2019re purchasing one before that (or you already own one), now\u2019s a good time to also save on accessories while you can. Amazon\u2019s Prime Day has delivered many great ga\u2026",
-            "url": "https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257880_8BitDo_Pro_3_CFaulkner_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-24T12:51:17Z",
-            "content": "The Switch 2\u2019s price is set to increase by $50 on September 1st, starting at $499.99, so if you\u2019re purchasing one before that (or you already own one), now\u2019s a good time to also save on accessories w\u2026 [+8044 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -1077,6 +951,132 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZCKCfa8QZ9dXtJgdGtJfpn-2560-80.jpg",
             "publishedAt": "2026-06-29T18:17:00Z",
             "content": "What you need to know\r\n<ul><li>Mishaal Rahman, an employee of Google's Community engagement for Android, teased Android 17's upcoming foldable gaming mode.</li><li>This gaming mode would split a fold\u2026 [+4188 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "sanujb6@gmail.com (Sanuj Bhatia) , Sanuj Bhatia",
+            "title": "If you've been waiting to buy a retro gaming handheld, this $40 deal won't last much longer",
+            "description": "The R36MAX retro handheld has dropped to just $40, making it one of Prime Day's best gaming deals.",
+            "url": "https://www.androidcentral.com/gaming/if-youve-been-waiting-to-buy-a-retro-gaming-handheld-this-usd40-deal-wont-last-much-longer",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MsRdeL9HA6t74ie22eKd8j-2500-80.jpg",
+            "publishedAt": "2026-06-26T13:27:40Z",
+            "content": "Gaming handhelds have become surprisingly expensive. Lenovo just raised the price of the Legion Go 2, while other devices, including the Nintendo Switch 2 and ASUS ROG Ally X, cost hundreds of dollar\u2026 [+2350 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Scott Stein",
+            "title": "Meta\u2019s Quest Game Subscribers Will Be Getting Some Xbox Extras",
+            "description": "Meta\u2019s throwing Xbox cloud gaming Into Its Horizon Plus Quest subscription, and converting its controllers to work with it.",
+            "url": "https://www.cnet.com/tech/gaming/metas-quest-game-subscribers-will-be-getting-some-xbox-extras/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/1705f64c-0684-4570-a454-536a8b00de9b.jpg",
+            "publishedAt": "2026-07-21T13:58:21Z",
+            "content": "Meta hasnt done a lot with its Quest VR platform this year (in fact, it\u2019s done more to dismantle it), but its throwing an Xbox bonus into its gaming subscription plan to try to sweeten the deal.\r\nHor\u2026 [+1366 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Tech Analyst Calls GTA 6\u2032s $80 Price Tag \u2018Ridiculous\u2019: \u2018They Should Be Charging Like $200 For This\u2019",
+            "description": "Take-Two's stock briefly took a hit when the price was first revealed",
+            "url": "https://kotaku.com/tech-analyst-calls-gta-6s-80-price-tag-ridiculous-they-should-be-charging-like-200-for-this-2000715214",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/06/disc-gta-6-1200x675.jpg",
+            "publishedAt": "2026-07-13T14:20:17Z",
+            "content": "Grand Theft Auto VI starting at $80 might strike some as the latest sign that gaming is becoming increasingly unaffordable. For others, like tech analyst Ben Thompson, the price represents an absolut\u2026 [+2997 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Valve Removes \u20184K Gaming At 60 FPS\u2019 From Steam Machine Page After Early Review Backlash",
+            "description": "Some have struggled to hit consistently high framerates on the new hardware",
+            "url": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/06/steam-machine-2.jpg",
+            "publishedAt": "2026-06-25T23:00:42Z",
+            "content": "Back before it launched, Valve was promising \u201c4K gaming at 60 FPS\u201d on its new Steam Machine gaming PCs. That claim was just deleted from the device\u2019s hardware page. The change comes after early revie\u2026 [+2451 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "ben.wilson@windowscentral.com (Ben Wilson) , Ben Wilson",
+            "title": "Alienware made an \"entry-level\" gaming laptop with RTX 5050 graphics \u2014 but this 15-inch PC needs more than NVIDIA's clever upscaling tech to offset its downsides.",
+            "description": "The Alienware 15 gaming laptop with RTX 5050 graphics delivers capable gaming performance with NVIDIA's DLSS tech, but loud fans and tight storage hold it back.",
+            "url": "https://www.windowscentral.com/hardware/dell/alienware-15-amd-2026-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DC4UiazxNmHps5bqYGbfUJ-2000-80.jpg",
+            "publishedAt": "2026-07-15T16:44:31Z",
+            "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.An entry-level Alie\u2026 [+10850 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Paradis",
+            "title": "Welcome to the era of the forever layoff",
+            "description": "Tech layoffs are becoming a recurring feature of the AI era as companies repeatedly reshape their workforces while investing in the tech.",
+            "url": "https://www.businessinsider.com/why-tech-companies-keep-doing-layoffs-ai-2026-7#article",
+            "urlToImage": "https://i.insider.com/6a513336daf4d560957bf1c4?width=1200&format=jpeg",
+            "publishedAt": "2026-07-12T09:47:01Z",
+            "content": "For some tech firms, layoffs are a way of \"continuous tuning,\" as business priorities change.Getty Images; Tyler Le/BI\r\n<ul><li>Tech layoffs are a recurring feature of the AI era.</li><li>Companies a\u2026 [+6407 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah E. Needleman",
+            "title": "IBM's CEO just showed what taking accountability looks like",
+            "description": "Current and former tech leaders say the CEO's candid response to the tech giant's disappointing quarter offers a lesson for handling bad news.",
+            "url": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-facing-leadership-test-accountability-2026-7#article",
+            "urlToImage": "https://i.insider.com/6a56b562ee481f523866ed90?width=1200&format=jpeg",
+            "publishedAt": "2026-07-15T09:56:01Z",
+            "content": "IBM CEO Arvind Krishna is widely credited with turning the company around since becoming CEO in 2020.Alex Wong/Getty Images\r\n<ul><li>IBM CEO Arvind Krishna owned the shortfall that triggered the stoc\u2026 [+4511 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Rebekah Valentine",
+            "title": "Xbox Has Started Testing Free Cloud Gaming With Ads: \u2018Advertising Has Existed In Gaming For Decades\u2019",
+            "description": "'Up to two' minutes' worth of ads in exchange for an hour of gaming",
+            "url": "https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
+            "publishedAt": "2026-07-23T16:51:40Z",
+            "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+            "description": "Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the first time, by crackin\u2026",
+            "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/skyrover-versus-air-photography.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+            "publishedAt": "2026-07-20T22:21:37Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nby\r\nSean HollisterClose\r\nPosts \u2026 [+4580 chars]",
             "ai_score": 5
         }
     ]
