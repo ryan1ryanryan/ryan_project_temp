@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-25 23:01",
+    "last_updated": "2026-07-26 00:06",
     "articles": [
         {
             "source": {
@@ -984,20 +984,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Windows Central"
-            },
-            "author": "ben.wilson@windowscentral.com (Ben Wilson) , Ben Wilson",
-            "title": "Alienware made an \"entry-level\" gaming laptop with RTX 5050 graphics \u2014 but this 15-inch PC needs more than NVIDIA's clever upscaling tech to offset its downsides.",
-            "description": "The Alienware 15 gaming laptop with RTX 5050 graphics delivers capable gaming performance with NVIDIA's DLSS tech, but loud fans and tight storage hold it back.",
-            "url": "https://www.windowscentral.com/hardware/dell/alienware-15-amd-2026-review",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DC4UiazxNmHps5bqYGbfUJ-2000-80.jpg",
-            "publishedAt": "2026-07-15T16:44:31Z",
-            "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.An entry-level Alie\u2026 [+10850 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Rebekah Valentine",
@@ -1007,6 +993,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
             "publishedAt": "2026-07-23T16:51:40Z",
             "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "ben.wilson@windowscentral.com (Ben Wilson) , Ben Wilson",
+            "title": "Alienware made an \"entry-level\" gaming laptop with RTX 5050 graphics \u2014 but this 15-inch PC needs more than NVIDIA's clever upscaling tech to offset its downsides.",
+            "description": "The Alienware 15 gaming laptop with RTX 5050 graphics delivers capable gaming performance with NVIDIA's DLSS tech, but loud fans and tight storage hold it back.",
+            "url": "https://www.windowscentral.com/hardware/dell/alienware-15-amd-2026-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DC4UiazxNmHps5bqYGbfUJ-2000-80.jpg",
+            "publishedAt": "2026-07-15T16:44:31Z",
+            "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.An entry-level Alie\u2026 [+10850 chars]",
             "ai_score": 5
         },
         {
