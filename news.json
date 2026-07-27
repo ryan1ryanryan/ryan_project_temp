@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-27 17:02",
+    "last_updated": "2026-07-27 18:30",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/katana.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-08T14:43:00Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTodays roundup covers a wide range of stuff, from Ethernet PoE switches to Teenage Mutant Ninja Turtles 4K Blu-rays.\r\nTodays roundup covers a wide range of stuff\u2026 [+4565 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
-            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
-            "publishedAt": "2026-07-20T20:06:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,6 +27,20 @@
             "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
             "publishedAt": "2026-06-26T19:58:49Z",
             "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
+            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
+            "publishedAt": "2026-07-20T20:06:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
             "ai_score": 5
         },
         {
@@ -132,20 +132,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Scott Gilbertson",
-            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
-            "publishedAt": "2026-07-26T11:09:00Z",
-            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Simon Hill",
             "title": "23 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
             "description": "Welcome to Walmart deals for folks who\u2019d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
@@ -153,6 +139,20 @@
             "urlToImage": "https://media.wired.com/photos/6a3abc00b35647f689f166fa/191:100/w_1280,c_limit/The-Best-Walmart-Deals-This-Prime-Day.jpg",
             "publishedAt": "2026-06-26T11:50:08Z",
             "content": "Prime Day is in full swing, but Amazon isn't the only shop with deals. Walmart has a competing sale it calls, in a burst of creativity, Walmart Deals. Like Prime Day, Walmart's sale features a range \u2026 [+7668 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
+            "publishedAt": "2026-07-26T11:09:00Z",
+            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
             "ai_score": 5
         },
         {
@@ -622,20 +622,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
-            "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-23T18:33:59Z",
-            "content": "<ul><li></li><li></li></ul>\r\nAfter the governments cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. \r\nAfter the governments cybersecurity concer\u2026 [+3352 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Webster",
             "title": "Xbox\u2019s bold plan for the future sounds nearly impossible",
             "description": "It's another bad week for the video game industry. Microsoft outlined a series of layoffs on Monday that Xbox CEO Asha Sharma described as \"the most significant restructure in Xbox history.\" But buried in Sharma's memo was a curiously optimistic statement: \"I\u2026",
@@ -643,6 +629,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/SURVIVE.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-07T00:17:59Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter decimating its gaming division, Microsoft somehow hopes to eventually reach more than a billion people each day.\r\nAfter decimating its gaming division, Mic\u2026 [+6486 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
+            "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-23T18:33:59Z",
+            "content": "<ul><li></li><li></li></ul>\r\nAfter the governments cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. \r\nAfter the governments cybersecurity concer\u2026 [+3352 chars]",
             "ai_score": 5
         },
         {
