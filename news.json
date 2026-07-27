@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-27 18:30",
+    "last_updated": "2026-07-27 20:27",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/katana.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-08T14:43:00Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTodays roundup covers a wide range of stuff, from Ethernet PoE switches to Teenage Mutant Ninja Turtles 4K Blu-rays.\r\nTodays roundup covers a wide range of stuff\u2026 [+4565 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Samsung\u2019s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day",
-            "description": "Samsung makes some of the very best OLED gaming monitors, and they\u2019ve never been this affordable.",
-            "url": "https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
-            "publishedAt": "2026-06-26T19:58:49Z",
-            "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -41,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
             "publishedAt": "2026-07-20T20:06:40Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "Samsung\u2019s Excellent OLED Monitors Are Up to 38 Percent Off for Prime Day",
+            "description": "Samsung makes some of the very best OLED gaming monitors, and they\u2019ve never been this affordable.",
+            "url": "https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a3ed90c9625c74448e072d3/191:100/w_1280,c_limit/Samsung%E2%80%99s-Excellent-OLED-Monitors-Are-Up-to-38-Percent-Off-For-Prime-Day.jpg",
+            "publishedAt": "2026-06-26T19:58:49Z",
+            "content": "Samsung makes some of the very best OLED monitors out there, and some of its top gaming monitors are getting some solid discounts for Prime Day.\r\nThe strongest deal on offer is on the Odyssey G6 (G61\u2026 [+2280 chars]",
             "ai_score": 5
         },
         {
