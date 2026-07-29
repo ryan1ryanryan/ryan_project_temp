@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-29 13:05",
+    "last_updated": "2026-07-29 15:20",
     "articles": [
         {
             "source": {
@@ -87,6 +87,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Clinton Sparks",
+            "title": "I Built Successful Companies in Music, Gaming and Tech. These Same 3 Skills Will Drive Success In Any Industry",
+            "description": "Turns out the same skills that work in music work just as well in gaming, tech and whatever comes next.",
+            "url": "https://www.entrepreneur.com/building-a-business/i-built-successful-companies-in-music-gaming-and-tech-these-same-3-skills-will-drive-success-in-any-industry",
+            "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/image6-copy.jpg?resize=1024,683",
+            "publishedAt": "2026-07-28T14:00:00Z",
+            "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Youre never really selling a product or a service. Youre selling a feeling.</li><li>When people consistently assoc\u2026 [+6576 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -160,20 +174,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Scott Gilbertson",
-            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
-            "publishedAt": "2026-07-26T11:09:00Z",
-            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Jeremy White",
             "title": "XPeng\u2019s New \u2018Budget\u2019 EV Looks Like the Ferrari Luce",
             "description": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
@@ -181,6 +181,20 @@
             "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
             "publishedAt": "2026-07-16T12:09:08Z",
             "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
+            "publishedAt": "2026-07-26T11:09:00Z",
+            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
             "ai_score": 5
         },
         {
