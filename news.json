@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-07-30 03:20",
+    "last_updated": "2026-07-30 06:33",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s analog Huntsman V3 Pro is over 20 percent off",
-            "description": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That\u2019s slowly changing, with brands introducing adjustable optical switches that are mo\u2026",
-            "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T21:29:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.\r\nThis discounted gaming keyboard features cus\u2026 [+2489 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -185,6 +171,34 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Razer\u2019s analog Huntsman V3 Pro is over 20 percent off",
+            "description": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That\u2019s slowly changing, with brands introducing adjustable optical switches that are mo\u2026",
+            "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T21:29:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.\r\nThis discounted gaming keyboard features cus\u2026 [+2489 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
+            "publishedAt": "2026-07-26T11:09:00Z",
+            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -209,20 +223,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
             "publishedAt": "2026-07-17T16:45:27Z",
             "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Scott Gilbertson",
-            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
-            "publishedAt": "2026-07-26T11:09:00Z",
-            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
             "ai_score": 5
         },
         {
@@ -815,20 +815,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Bethesda teases Fallout 5 soon after Xbox\u2019s mass layoffs",
-            "description": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Entertainment. Now, in an attempt to show that things are still running fine, the co\u2026",
-            "url": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FalloutS2FLimage3_3000.jpg?quality=90&strip=all&crop=10.049166666667%2C0%2C79.901666666667%2C100&w=1200",
-            "publishedAt": "2026-07-17T14:00:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts gaming division attempts to share some good news amid the fallout of its large-scale reset.\r\nMicrosofts gaming division attempts to share some good ne\u2026 [+3967 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -839,6 +825,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
             "publishedAt": "2026-07-23T16:51:40Z",
             "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Bethesda teases Fallout 5 soon after Xbox\u2019s mass layoffs",
+            "description": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Entertainment. Now, in an attempt to show that things are still running fine, the co\u2026",
+            "url": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FalloutS2FLimage3_3000.jpg?quality=90&strip=all&crop=10.049166666667%2C0%2C79.901666666667%2C100&w=1200",
+            "publishedAt": "2026-07-17T14:00:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts gaming division attempts to share some good news amid the fallout of its large-scale reset.\r\nMicrosofts gaming division attempts to share some good ne\u2026 [+3967 chars]",
             "ai_score": 5
         },
         {
