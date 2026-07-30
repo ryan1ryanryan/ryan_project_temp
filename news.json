@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-30 11:56",
+    "last_updated": "2026-07-30 14:06",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "The fight against AI data centers is just beginning",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it\u2026",
+            "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-07-10T16:18:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe fight against AI data centers is just beginning\r\nCommunity pushback from across the US and beyond is making some companies reconsider their data center build\u2026 [+8794 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -437,20 +451,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sheena Vasani",
-            "title": "Nanoleaf\u2019s colorful pegboard and shelf kit is half off",
-            "description": "Nanoleaf\u2019s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half o\u2026",
-            "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nanoleaf-Blocks-Combo-XL-Smarter-Kit-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T19:24:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt can hold everything from headphones to notebooks while rocking your favorite colors.\r\nIt can hold everything from headphones to notebooks while rocking your f\u2026 [+2712 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
@@ -461,6 +461,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/690f/live/0b8f10a0-7ac4-11f1-b541-536d253827b8.png",
             "publishedAt": "2026-07-08T12:28:03Z",
             "content": "Meta is facing a backlash over its new AI tool Muse Image, which can generate pictures using other people's profile pictures without telling them.\r\nIt is one of many text-to-image tools publicly avai\u2026 [+1579 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Nanoleaf\u2019s colorful pegboard and shelf kit is half off",
+            "description": "Nanoleaf\u2019s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half o\u2026",
+            "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nanoleaf-Blocks-Combo-XL-Smarter-Kit-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T19:24:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt can hold everything from headphones to notebooks while rocking your favorite colors.\r\nIt can hold everything from headphones to notebooks while rocking your f\u2026 [+2712 chars]",
             "ai_score": 5
         },
         {
@@ -503,20 +517,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-07-16T12:06:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA.\r\nThe EU says Go\u2026 [+4902 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "The fight against AI data centers is just beginning",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it\u2026",
-            "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-07-10T16:18:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe fight against AI data centers is just beginning\r\nCommunity pushback from across the US and beyond is making some companies reconsider their data center build\u2026 [+8794 chars]",
             "ai_score": 5
         },
         {
