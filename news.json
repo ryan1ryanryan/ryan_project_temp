@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-30 16:31",
+    "last_updated": "2026-07-30 18:20",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -567,6 +567,20 @@
                 "name": "The Verge"
             },
             "author": "David Pierce",
+            "title": "The video game disc is dead",
+            "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
+            "url": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-02T16:31:09Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the digital future of games, the iPhone 18 Pro, and those bizarre BMW headlights.\r\nOn The Vergecast: the digital future of games, the iPhone 18\u2026 [+3086 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
             "title": "The vertical video takeover is here",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
             "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
@@ -601,20 +615,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T12:06:22Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "The video game disc is dead",
-            "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
-            "url": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-02T16:31:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the digital future of games, the iPhone 18 Pro, and those bizarre BMW headlights.\r\nOn The Vergecast: the digital future of games, the iPhone 18\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
