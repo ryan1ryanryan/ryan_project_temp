@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-07-30 14:06",
+    "last_updated": "2026-07-30 16:31",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "The fight against AI data centers is just beginning",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it\u2026",
-            "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-07-10T16:18:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe fight against AI data centers is just beginning\r\nCommunity pushback from across the US and beyond is making some companies reconsider their data center build\u2026 [+8794 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -524,6 +510,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Emma Roth",
+            "title": "The fight against AI data centers is just beginning",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it\u2026",
+            "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-07-10T16:18:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe fight against AI data centers is just beginning\r\nCommunity pushback from across the US and beyond is making some companies reconsider their data center build\u2026 [+8794 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jess Weatherbed",
             "title": "Samsung\u2019s new foldable display is harder to crease and damage",
             "description": "Samsung has unveiled a new flexible display technology for foldable phones that's designed to be slimmer, more durable, and less prone to creasing. The Flex Titanium tech is the culmination of everything that the company has learned over seven generations of \u2026",
@@ -1025,20 +1025,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-            "description": "The AI \u201cstartups\u201d worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-            "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
-            "publishedAt": "2026-07-24T15:00:00Z",
-            "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -1063,6 +1049,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/02/Asha-Sharma-Matt-Booty-crop-1200x675.jpeg",
             "publishedAt": "2026-07-07T12:39:13Z",
             "content": "Much ink has been spilled already about what the latest round of mass layoffs at Xbox means for the future of Microsoft\u2019s gaming business, including by its own leaders. One thing that\u2019s becoming clea\u2026 [+2246 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode",
+            "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+            "description": "The AI \u201cstartups\u201d worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+            "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+            "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
+            "publishedAt": "2026-07-24T15:00:00Z",
+            "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]",
             "ai_score": 5
         },
         {
