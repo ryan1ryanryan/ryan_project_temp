@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-30 00:04",
+    "last_updated": "2026-07-30 03:20",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Razer\u2019s analog Huntsman V3 Pro is over 20 percent off",
+            "description": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That\u2019s slowly changing, with brands introducing adjustable optical switches that are mo\u2026",
+            "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T21:29:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.\r\nThis discounted gaming keyboard features cus\u2026 [+2489 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -171,20 +185,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s analog Huntsman V3 Pro is over 20 percent off",
-            "description": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That\u2019s slowly changing, with brands introducing adjustable optical switches that are mo\u2026",
-            "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T21:29:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.\r\nThis discounted gaming keyboard features cus\u2026 [+2489 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -213,20 +213,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "If Microsoft sold off Xbox, who would even buy it?",
-            "description": "This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she\u2026",
-            "url": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012258/vpavic_4275_20201030_0028.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-08T17:10:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nby\r\nJay Peter\u2026 [+7469 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -237,6 +223,20 @@
             "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
             "publishedAt": "2026-07-26T11:09:00Z",
             "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "If Microsoft sold off Xbox, who would even buy it?",
+            "description": "This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she\u2026",
+            "url": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012258/vpavic_4275_20201030_0028.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-08T17:10:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nby\r\nJay Peter\u2026 [+7469 chars]",
             "ai_score": 5
         },
         {
@@ -594,20 +594,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The vertical video takeover is here",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
-            "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-07-24T17:29:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe vertical video takeover is here\r\nHow TikTok, Instagram, and YouTube copied their way to victory.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added\u2026 [+14618 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
             "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
@@ -615,6 +601,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-23T21:15:49Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons upgraded AI assistant will be able to do more across a wider range of smart home devices.\r\nAmazons upgraded AI assistant will be able to do more across a\u2026 [+3092 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The vertical video takeover is here",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
+            "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-07-24T17:29:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe vertical video takeover is here\r\nHow TikTok, Instagram, and YouTube copied their way to victory.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added\u2026 [+14618 chars]",
             "ai_score": 5
         },
         {
@@ -829,20 +829,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
-            "description": "The aptly-named \u201c2K Megahits 2026 Bundle\u201d from Humble includes 15 Steam games for $15. It\u2019s a smattering of the publisher 2K\u2019s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown. The bundle will be \u2026",
-            "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18971331/BL3_FL4K_Skag.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C93.031429117804&w=1200",
-            "publishedAt": "2026-07-20T20:08:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat it lacks in newer titles, it makes up for with classics like BioShock Infinite and XCOM Enemy Unknown.\r\nWhat it lacks in newer titles, it makes up for with \u2026 [+3599 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -853,6 +839,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
             "publishedAt": "2026-07-23T16:51:40Z",
             "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
+            "description": "The aptly-named \u201c2K Megahits 2026 Bundle\u201d from Humble includes 15 Steam games for $15. It\u2019s a smattering of the publisher 2K\u2019s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown. The bundle will be \u2026",
+            "url": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18971331/BL3_FL4K_Skag.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C93.031429117804&w=1200",
+            "publishedAt": "2026-07-20T20:08:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat it lacks in newer titles, it makes up for with classics like BioShock Infinite and XCOM Enemy Unknown.\r\nWhat it lacks in newer titles, it makes up for with \u2026 [+3599 chars]",
             "ai_score": 5
         },
         {
