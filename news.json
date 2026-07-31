@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-07-31 07:55",
+    "last_updated": "2026-07-31 10:43",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeremy White",
+            "title": "XPeng\u2019s New \u2018Budget\u2019 EV Looks Like the Ferrari Luce",
+            "description": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
+            "url": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
+            "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
+            "publishedAt": "2026-07-16T12:09:08Z",
+            "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,105 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
-            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
-            "publishedAt": "2026-07-20T20:06:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Future of Tech Is Owning Nothing",
-            "description": "Apple\u2019s lease program is just the beginning.",
-            "url": "https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
-            "publishedAt": "2026-07-29T20:50:45Z",
-            "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Can We Not Normalize $5,300 Handheld Gaming PCs?",
-            "description": "You can buy a gaming laptop with a top-end GPU for less.",
-            "url": "https://gizmodo.com/can-we-not-normalize-5300-dollar-handheld-gaming-pcs-2000781709",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
-            "publishedAt": "2026-07-06T14:30:26Z",
-            "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s analog Huntsman V3 Pro is over 20 percent off",
-            "description": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That\u2019s slowly changing, with brands introducing adjustable optical switches that are mo\u2026",
-            "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T21:29:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.\r\nThis discounted gaming keyboard features cus\u2026 [+2489 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Scott Gilbertson",
-            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
-            "publishedAt": "2026-07-26T11:09:00Z",
-            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Discord accidentally banned over 8,000 people for posting grids and other \u2018benign\u2019 images",
-            "description": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, s\u2026",
-            "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-            "publishedAt": "2026-07-07T15:02:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Dude, Where\u2019s My Founder? Ashton Kutcher Leaves VC Firm and Shows Which Way the Wind Is Blowing",
-            "description": "The actor is starting a new firm focused on 'infrastructure, energy and deep tech.'",
-            "url": "https://gizmodo.com/dude-wheres-my-founder-ashton-kutcher-leaves-vc-firm-and-shows-which-way-the-wind-is-blowing-2000780667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/shutterstock_2727277665-1200x675.jpg",
-            "publishedAt": "2026-07-02T16:50:50Z",
-            "content": "Well-known Hollywood actor and lesser-known Silicon Valley investor Ashton Kutcher is leaving the venture capital firm he co-founded more than a decade ago, as he pivots to new bets on the resources \u2026 [+3064 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -125,6 +41,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/katana.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-08T14:43:00Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nTodays roundup covers a wide range of stuff, from Ethernet PoE switches to Teenage Mutant Ninja Turtles 4K Blu-rays.\r\nTodays roundup covers a wide range of stuff\u2026 [+4565 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
+            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
+            "publishedAt": "2026-07-20T20:06:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Future of Tech Is Owning Nothing",
+            "description": "Apple\u2019s lease program is just the beginning.",
+            "url": "https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
+            "publishedAt": "2026-07-29T20:50:45Z",
+            "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
             "ai_score": 5
         },
         {
@@ -217,6 +161,20 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
+            "title": "Can We Not Normalize $5,300 Handheld Gaming PCs?",
+            "description": "You can buy a gaming laptop with a top-end GPU for less.",
+            "url": "https://gizmodo.com/can-we-not-normalize-5300-dollar-handheld-gaming-pcs-2000781709",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
+            "publishedAt": "2026-07-06T14:30:26Z",
+            "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
             "title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
             "description": "Trump\u2019s tariffs and RAM prices mean you shouldn't expect gaming will get any cheaper.",
             "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
@@ -241,16 +199,30 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Razer\u2019s analog Huntsman V3 Pro is over 20 percent off",
+            "description": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That\u2019s slowly changing, with brands introducing adjustable optical switches that are mo\u2026",
+            "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T21:29:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.\r\nThis discounted gaming keyboard features cus\u2026 [+2489 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Jeremy White",
-            "title": "XPeng\u2019s New \u2018Budget\u2019 EV Looks Like the Ferrari Luce",
-            "description": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
-            "url": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
-            "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
-            "publishedAt": "2026-07-16T12:09:08Z",
-            "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
+            "author": "Scott Gilbertson",
+            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
+            "publishedAt": "2026-07-26T11:09:00Z",
+            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
             "ai_score": 5
         },
         {
@@ -325,6 +297,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Discord accidentally banned over 8,000 people for posting grids and other \u2018benign\u2019 images",
+            "description": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, s\u2026",
+            "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+            "publishedAt": "2026-07-07T15:02:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -363,6 +349,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-06-30T17:04:14Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Dude, Where\u2019s My Founder? Ashton Kutcher Leaves VC Firm and Shows Which Way the Wind Is Blowing",
+            "description": "The actor is starting a new firm focused on 'infrastructure, energy and deep tech.'",
+            "url": "https://gizmodo.com/dude-wheres-my-founder-ashton-kutcher-leaves-vc-firm-and-shows-which-way-the-wind-is-blowing-2000780667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/shutterstock_2727277665-1200x675.jpg",
+            "publishedAt": "2026-07-02T16:50:50Z",
+            "content": "Well-known Hollywood actor and lesser-known Silicon Valley investor Ashton Kutcher is leaving the venture capital firm he co-founded more than a decade ago, as he pivots to new bets on the resources \u2026 [+3064 chars]",
             "ai_score": 5
         },
         {
@@ -419,6 +419,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Razer-Blade-16-2026-review-11-1200x675.jpg",
             "publishedAt": "2026-07-09T15:00:02Z",
             "content": "Razers big black rectangle, the Blade 16, is the best it\u2019s ever been. And as you may have guessed, especially if you know anything about the ongoing RAM crisis, the revised Razer Blade 16 for 2026 is\u2026 [+14988 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeff Wise",
+            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
+            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
+            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
+            "publishedAt": "2026-07-30T10:00:00Z",
+            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
             "ai_score": 5
         },
         {
@@ -493,20 +507,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sheena Vasani",
-            "title": "Nanoleaf\u2019s colorful pegboard and shelf kit is half off",
-            "description": "Nanoleaf\u2019s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half o\u2026",
-            "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nanoleaf-Blocks-Combo-XL-Smarter-Kit-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T19:24:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt can hold everything from headphones to notebooks while rocking your favorite colors.\r\nIt can hold everything from headphones to notebooks while rocking your f\u2026 [+2712 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
@@ -517,6 +517,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/690f/live/0b8f10a0-7ac4-11f1-b541-536d253827b8.png",
             "publishedAt": "2026-07-08T12:28:03Z",
             "content": "Meta is facing a backlash over its new AI tool Muse Image, which can generate pictures using other people's profile pictures without telling them.\r\nIt is one of many text-to-image tools publicly avai\u2026 [+1579 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "Nanoleaf\u2019s colorful pegboard and shelf kit is half off",
+            "description": "Nanoleaf\u2019s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half o\u2026",
+            "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nanoleaf-Blocks-Combo-XL-Smarter-Kit-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T19:24:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt can hold everything from headphones to notebooks while rocking your favorite colors.\r\nIt can hold everything from headphones to notebooks while rocking your f\u2026 [+2712 chars]",
             "ai_score": 5
         },
         {
@@ -623,20 +637,6 @@
                 "name": "The Verge"
             },
             "author": "David Pierce",
-            "title": "The video game disc is dead",
-            "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
-            "url": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-02T16:31:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the digital future of games, the iPhone 18 Pro, and those bizarre BMW headlights.\r\nOn The Vergecast: the digital future of games, the iPhone 18\u2026 [+3086 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
             "title": "The vertical video takeover is here",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
             "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
@@ -671,6 +671,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T12:06:22Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The video game disc is dead",
+            "description": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that\u2026",
+            "url": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG-VST-20260702-NewsRoundup-Thumb-16x9-v01-KM.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-02T16:31:09Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: the digital future of games, the iPhone 18 Pro, and those bizarre BMW headlights.\r\nOn The Vergecast: the digital future of games, the iPhone 18\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
@@ -1077,20 +1091,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2265509700-1200x675.jpg",
             "publishedAt": "2026-07-21T17:45:34Z",
             "content": "Iranian forces destroyed Amazon\u2019s central data infrastructure in Bahrain, according to state-aligned media reports.\r\nIran\u2019s Islamic Revolutionary Guard Corps claims to have targeted and destroyed the\u2026 [+2890 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "EA VP Urges Companies To Think About In-Game Ads During Development: \u2018That\u2019s A Huge Opportunity\u2019",
-            "description": "The last un-monetized frontier of gaming: virtual billboards",
-            "url": "https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/07/image-92-1200x675.jpg",
-            "publishedAt": "2026-07-16T14:30:56Z",
-            "content": "Google runs on ads. Facebook runs on ads. Apple runs on fees collected from its App Store which runs on ads. Why not turn gaming into the next great ad-driven business? That\u2019s the logical conclusion \u2026 [+3595 chars]",
             "ai_score": 5
         }
     ]
