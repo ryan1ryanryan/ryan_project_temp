@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-01 10:04",
+    "last_updated": "2026-08-01 11:28",
     "articles": [
         {
             "source": {
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jeremy White",
-            "title": "XPeng\u2019s New \u2018Budget\u2019 EV Looks Like the Ferrari Luce",
-            "description": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
-            "url": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
-            "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
-            "publishedAt": "2026-07-16T12:09:08Z",
-            "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -251,6 +237,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2270910088-1200x675.jpg",
             "publishedAt": "2026-07-30T01:21:51Z",
             "content": "The DSA has struck again and corporations are trembling. No, not the Mamdani DSA, the other DSA, the EU\u2019s Digital Services Act, Europe\u2019s legal framework for regulating the tech industry, which is als\u2026 [+2318 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeremy White",
+            "title": "XPeng\u2019s New \u2018Budget\u2019 EV Looks Like the Ferrari Luce",
+            "description": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
+            "url": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
+            "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
+            "publishedAt": "2026-07-16T12:09:08Z",
+            "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
             "ai_score": 5
         },
         {
@@ -843,20 +843,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
-            "description": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs\u2019 push into robotics.",
-            "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-            "urlToImage": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
-            "publishedAt": "2026-07-30T20:12:57Z",
-            "content": "I was offline last week in my home state of New Jersey, but when I got back to Silicon Valley, everyone was panicking again about how quickly artificial intelligence is advancing. While this is certa\u2026 [+3715 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -867,6 +853,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0109.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-24T20:07:12Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts recent attempts to shore up privacy dont seem to be convincing skeptics.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts from this author will\u2026 [+8718 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff",
+            "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
+            "description": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs\u2019 push into robotics.",
+            "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+            "urlToImage": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
+            "publishedAt": "2026-07-30T20:12:57Z",
+            "content": "I was offline last week in my home state of New Jersey, but when I got back to Silicon Valley, everyone was panicking again about how quickly artificial intelligence is advancing. While this is certa\u2026 [+3715 chars]",
             "ai_score": 5
         },
         {
@@ -1077,20 +1077,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/skyrover-versus-air-photography.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-07-20T22:21:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nby\r\nSean HollisterClose\r\nPosts \u2026 [+4580 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Xreal\u2019s new AR glasses are way cheaper and almost just right",
-            "description": "I love it when a company challenges itself to make a cheaper version of a beloved product. Xreal's $299 A01 Plus is a stripped-down version of its $449 1S that's light on features but with just enough of the 1S' best qualities. These AR glasses are comfortabl\u2026",
-            "url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-10T00:37:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe A01 Plus are flimsier and have fewer features than the 1S, but they might deliver exactly what youre looking for.\r\nThe A01 Plus are flimsier and have fewer f\u2026 [+5804 chars]",
             "ai_score": 5
         }
     ]
