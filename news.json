@@ -1,6 +1,62 @@
 {
-    "last_updated": "2026-08-01 04:25",
+    "last_updated": "2026-08-01 07:33",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Future of Tech Is Owning Nothing",
+            "description": "Apple\u2019s lease program is just the beginning.",
+            "url": "https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
+            "publishedAt": "2026-07-29T20:50:45Z",
+            "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Nena Farrell",
+            "title": "SteelSeries Coupon Codes: 15% Off in July 2026",
+            "description": "Find the best SteelSeries coupon codes, promo codes, and discount codes for May 2026. Get deals on headsets, keyboards, and mice, including first-order and student discounts.",
+            "url": "https://www.wired.com/story/steelseries-coupon-code/",
+            "urlToImage": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/191:100/w_1280,c_limit/WIRED-Coupons-12.jpg",
+            "publishedAt": "2026-07-18T05:00:00Z",
+            "content": "Gaming is better with great gear. A powerful gaming headset and a good keyboard are two must-haves for me, whether Im playing Stardew Valley or firing up my latest unfinished run of Baldurs Gate 3 (I\u2026 [+3497 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Burgess",
+            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
+            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
+            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
+            "publishedAt": "2026-07-17T10:00:00Z",
+            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
+            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
+            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-06-30T17:04:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +69,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -59,20 +115,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Future of Tech Is Owning Nothing",
-            "description": "Apple\u2019s lease program is just the beginning.",
-            "url": "https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
-            "publishedAt": "2026-07-29T20:50:45Z",
-            "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -97,20 +139,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24079609/226331_Logitech_G_Cloud_Gaming_Handheld_CFaulkner_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-28T12:31:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+5385 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Nena Farrell",
-            "title": "SteelSeries Coupon Codes: 15% Off in July 2026",
-            "description": "Find the best SteelSeries coupon codes, promo codes, and discount codes for May 2026. Get deals on headsets, keyboards, and mice, including first-order and student discounts.",
-            "url": "https://www.wired.com/story/steelseries-coupon-code/",
-            "urlToImage": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/191:100/w_1280,c_limit/WIRED-Coupons-12.jpg",
-            "publishedAt": "2026-07-18T05:00:00Z",
-            "content": "Gaming is better with great gear. A powerful gaming headset and a good keyboard are two must-haves for me, whether Im playing Stardew Valley or firing up my latest unfinished run of Baldurs Gate 3 (I\u2026 [+3497 chars]",
             "ai_score": 5
         },
         {
@@ -216,20 +244,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Jeremy White",
-            "title": "XPeng\u2019s New \u2018Budget\u2019 EV Looks Like the Ferrari Luce",
-            "description": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
-            "url": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
-            "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
-            "publishedAt": "2026-07-16T12:09:08Z",
-            "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Scott Gilbertson",
             "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
             "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
@@ -237,6 +251,20 @@
             "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
             "publishedAt": "2026-07-26T11:09:00Z",
             "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeremy White",
+            "title": "XPeng\u2019s New \u2018Budget\u2019 EV Looks Like the Ferrari Luce",
+            "description": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
+            "url": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
+            "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
+            "publishedAt": "2026-07-16T12:09:08Z",
+            "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
             "ai_score": 5
         },
         {
@@ -335,34 +363,6 @@
             "urlToImage": "https://media.wired.com/photos/6a3039f6f5bcaabf4a03a98c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Bernie-Sanders--2233919777.jpg",
             "publishedAt": "2026-06-30T10:30:00Z",
             "content": "Right.\r\nWell, Im not so sure that thats the case.\r\nThe truth is nobody knows exactly what is gonna happen. I mean, just to give you one example of it: There are 6, 7, 8 million people who drive truck\u2026 [+2564 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matt Burgess",
-            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
-            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
-            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
-            "publishedAt": "2026-07-17T10:00:00Z",
-            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Rockstar workers push to unionize ahead of GTA VI\u2019s launch",
-            "description": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a\u2026",
-            "url": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-06-30T17:04:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nStaffers have submitted a request for voluntary recognition of their union.\r\nby\r\nJay\u2026 [+2499 chars]",
             "ai_score": 5
         },
         {
@@ -857,20 +857,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Turn your ordinary bike into an indoor trainer with this Wi-Fi connected smart base",
-            "description": "While the summer months are great for putting in the miles on your favorite bike, it can be frustrating to have to hang it up when the weather turns. This smart bike trainer turns your road bike into an indoor exercise bike, with Wi-Fi and Bluetooth to connec\u2026",
-            "url": "https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Wahoo-Kickr-Core-Casette-deal-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-28T17:48:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus catch discounts on a Razer esports gaming headset, Dells 6K monitor, and Paper Mario for Switch 2.\r\nPlus catch discounts on a Razer esports gaming headset, \u2026 [+3616 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -881,6 +867,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
             "publishedAt": "2026-07-30T20:12:57Z",
             "content": "I was offline last week in my home state of New Jersey, but when I got back to Silicon Valley, everyone was panicking again about how quickly artificial intelligence is advancing. While this is certa\u2026 [+3715 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Turn your ordinary bike into an indoor trainer with this Wi-Fi connected smart base",
+            "description": "While the summer months are great for putting in the miles on your favorite bike, it can be frustrating to have to hang it up when the weather turns. This smart bike trainer turns your road bike into an indoor exercise bike, with Wi-Fi and Bluetooth to connec\u2026",
+            "url": "https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Wahoo-Kickr-Core-Casette-deal-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-28T17:48:03Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus catch discounts on a Razer esports gaming headset, Dells 6K monitor, and Paper Mario for Switch 2.\r\nPlus catch discounts on a Razer esports gaming headset, \u2026 [+3616 chars]",
             "ai_score": 5
         },
         {
