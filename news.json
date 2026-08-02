@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-02 13:25",
+    "last_updated": "2026-08-02 15:06",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -27,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -69,6 +69,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
             "publishedAt": "2026-07-20T20:06:40Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "HP\u2019s HyperX Omen 15 isn\u2019t quite the budget-friendly gaming laptop its predecessor was",
+            "description": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little upgrades \u2026",
+            "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268675_HP_HyperX_Omen_15_gaming_laptop_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-01T06:07:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBut its decent enough for 1080p gaming in our RAMageddon world.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statemen\u2026 [+12869 chars]",
             "ai_score": 5
         },
         {
@@ -956,6 +970,20 @@
         {
             "source": {
                 "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Justin Carter",
+            "title": "\u2018Dungeons & Dragons\u2019 Rolls for \u2018Star Wars\u2019 and \u2018World of Warcraft\u2019",
+            "description": "The popular TTRPG is doing its own version of 'Universes Beyond,' starting with two properties with some tabletop experience.",
+            "url": "https://gizmodo.com/dungeons-dragons-rolls-for-star-wars-and-world-of-warcraft-2000793589",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/dungeons-dragons-wow-1200x675.jpg",
+            "publishedAt": "2026-08-01T14:45:08Z",
+            "content": "Dungeons &amp; Dragons\u00a0can\u2019t stop growing, and at Gen Con 2026, Wizards of the Coast announced some surprising additions to the TTRPG. Taking a page out of Magic: The Gathering\u2019s\u00a0book, D&amp;D\u00a0will e\u2026 [+2377 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CNET"
             },
             "author": "Scott Stein",
@@ -1049,34 +1077,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-10T00:37:09Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe A01 Plus are flimsier and have fewer features than the 1S, but they might deliver exactly what youre looking for.\r\nThe A01 Plus are flimsier and have fewer f\u2026 [+5804 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
-            "description": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs, and an impressive range\u2026",
-            "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268670_Framework_Laptop_13_Pro_laptop_review_ADiBenedetto_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T14:10:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Framework Laptop 13 Pro has it all. But RAMageddon spiked its price.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics\u2026 [+15366 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-            "description": "The AI \u201cstartups\u201d worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-            "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
-            "publishedAt": "2026-07-24T15:00:00Z",
-            "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]",
             "ai_score": 5
         }
     ]
