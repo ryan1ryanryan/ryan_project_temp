@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-02 11:21",
+    "last_updated": "2026-08-02 13:25",
     "articles": [
         {
             "source": {
@@ -1067,16 +1067,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Ece Yildirim",
-            "title": "Iran Claims It \u2018Destroyed\u2019 Amazon\u2019s Central Data Infrastructure In Bahrain",
-            "description": "This marks the fifth time Iranian forces have claimed to target Amazon facilities in the Middle East.",
-            "url": "https://gizmodo.com/iran-claims-it-destroyed-amazons-central-data-infrastructure-in-bahrain-2000788439",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2265509700-1200x675.jpg",
-            "publishedAt": "2026-07-21T17:45:34Z",
-            "content": "Iranian forces destroyed Amazon\u2019s central data infrastructure in Bahrain, according to state-aligned media reports.\r\nIran\u2019s Islamic Revolutionary Guard Corps claims to have targeted and destroyed the\u2026 [+2890 chars]",
+            "author": "Lauren Goode",
+            "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+            "description": "The AI \u201cstartups\u201d worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+            "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+            "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
+            "publishedAt": "2026-07-24T15:00:00Z",
+            "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]",
             "ai_score": 5
         }
     ]
