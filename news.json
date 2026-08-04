@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-04 10:44",
+    "last_updated": "2026-08-04 13:07",
     "articles": [
         {
             "source": {
@@ -69,6 +69,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
             "publishedAt": "2026-07-20T20:06:40Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
+            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
+            "publishedAt": "2026-08-03T11:00:00Z",
+            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
             "ai_score": 5
         },
         {
@@ -622,20 +636,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
-            "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-23T18:33:59Z",
-            "content": "<ul><li></li><li></li></ul>\r\nAfter the governments cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. \r\nAfter the governments cybersecurity concer\u2026 [+3352 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "The vertical video takeover is here",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
@@ -671,6 +671,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T12:06:22Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
+            "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-23T18:33:59Z",
+            "content": "<ul><li></li><li></li></ul>\r\nAfter the governments cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. \r\nAfter the governments cybersecurity concer\u2026 [+3352 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "China\u2019s Alibaba takes another swipe at America\u2019s AI supremacy",
+            "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba sai\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2026-08-03T11:01:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nby\r\nRober\u2026 [+4575 chars]",
             "ai_score": 5
         },
         {
@@ -839,6 +867,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
             "publishedAt": "2026-07-23T16:51:40Z",
             "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Liv McMahon - Technology reporter",
+            "title": "Xbox Series X price hiked by \u00a3170 due to rising memory chip costs",
+            "description": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
+            "url": "https://www.bbc.com/news/articles/czjlvrd9e43o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/08b56a31e485e11e742b96e5a56c615841052c4642fca38d27d992d06fc91860/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1e11eed357185943661986c28410a5eb",
+            "publishedAt": "2026-08-03T11:18:15Z",
+            "content": "Microsoft has increased the price of Xbox consoles worldwide, citing rising memory and storage chip costs.\r\nIts premium Series X console with a disc drive will now cost \u00a3670, when it previously retai\u2026 [+2444 chars]",
             "ai_score": 5
         },
         {
@@ -1035,48 +1077,6 @@
             "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
             "publishedAt": "2026-07-24T15:00:00Z",
             "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Xreal\u2019s new AR glasses are way cheaper and almost just right",
-            "description": "I love it when a company challenges itself to make a cheaper version of a beloved product. Xreal's $299 A01 Plus is a stripped-down version of its $449 1S that's light on features but with just enough of the 1S' best qualities. These AR glasses are comfortabl\u2026",
-            "url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-10T00:37:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe A01 Plus are flimsier and have fewer features than the 1S, but they might deliver exactly what youre looking for.\r\nThe A01 Plus are flimsier and have fewer f\u2026 [+5804 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Iran Claims It \u2018Destroyed\u2019 Amazon\u2019s Central Data Infrastructure In Bahrain",
-            "description": "This marks the fifth time Iranian forces have claimed to target Amazon facilities in the Middle East.",
-            "url": "https://gizmodo.com/iran-claims-it-destroyed-amazons-central-data-infrastructure-in-bahrain-2000788439",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2265509700-1200x675.jpg",
-            "publishedAt": "2026-07-21T17:45:34Z",
-            "content": "Iranian forces destroyed Amazon\u2019s central data infrastructure in Bahrain, according to state-aligned media reports.\r\nIran\u2019s Islamic Revolutionary Guard Corps claims to have targeted and destroyed the\u2026 [+2890 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
-            "description": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs, and an impressive range\u2026",
-            "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268670_Framework_Laptop_13_Pro_laptop_review_ADiBenedetto_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T14:10:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Framework Laptop 13 Pro has it all. But RAMageddon spiked its price.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics\u2026 [+15366 chars]",
             "ai_score": 5
         }
     ]
