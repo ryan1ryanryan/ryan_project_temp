@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-05 17:41",
+    "last_updated": "2026-08-05 19:36",
     "articles": [
         {
             "source": {
@@ -59,20 +59,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
-            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
-            "publishedAt": "2026-07-20T20:06:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -83,6 +69,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
             "publishedAt": "2026-08-03T11:00:00Z",
             "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
+            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
+            "publishedAt": "2026-07-20T20:06:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
             "ai_score": 5
         },
         {
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-            "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
-            "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T14:56:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -251,6 +237,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-1-1200x675.jpg",
             "publishedAt": "2026-07-21T15:30:36Z",
             "content": "Nintendo doesnt believe customers deserve a cut of Trump\u2019s boneheaded tariff scheme. The Mario maker made it clear in a recent legal filing that it doesnt believe you deserve any money back on spiked\u2026 [+3256 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+            "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
+            "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T14:56:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
             "ai_score": 5
         },
         {
@@ -650,34 +650,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
-            "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-23T18:33:59Z",
-            "content": "<ul><li></li><li></li></ul>\r\nAfter the governments cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. \r\nAfter the governments cybersecurity concer\u2026 [+3352 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "China\u2019s Alibaba takes another swipe at America\u2019s AI supremacy",
-            "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba sai\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-            "publishedAt": "2026-08-03T11:01:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nby\r\nRober\u2026 [+4575 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "The fight against AI data centers is just beginning",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it\u2026",
@@ -720,13 +692,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-            "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
-            "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-23T21:15:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons upgraded AI assistant will be able to do more across a wider range of smart home devices.\r\nAmazons upgraded AI assistant will be able to do more across a\u2026 [+3092 chars]",
+            "author": "Hayden Field",
+            "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
+            "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-23T18:33:59Z",
+            "content": "<ul><li></li><li></li></ul>\r\nAfter the governments cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. \r\nAfter the governments cybersecurity concer\u2026 [+3352 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "China\u2019s Alibaba takes another swipe at America\u2019s AI supremacy",
+            "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba sai\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2026-08-03T11:01:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nby\r\nRober\u2026 [+4575 chars]",
             "ai_score": 5
         },
         {
@@ -741,6 +727,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
             "publishedAt": "2026-07-24T17:29:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe vertical video takeover is here\r\nHow TikTok, Instagram, and YouTube copied their way to victory.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added\u2026 [+14618 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+            "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
+            "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-23T21:15:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons upgraded AI assistant will be able to do more across a wider range of smart home devices.\r\nAmazons upgraded AI assistant will be able to do more across a\u2026 [+3092 chars]",
             "ai_score": 5
         },
         {
