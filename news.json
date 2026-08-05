@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-05 12:56",
+    "last_updated": "2026-08-05 15:18",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Discord accidentally banned over 8,000 people for posting grids and other \u2018benign\u2019 images",
+            "description": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, s\u2026",
+            "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+            "publishedAt": "2026-07-07T15:02:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -395,20 +409,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Discord accidentally banned over 8,000 people for posting grids and other \u2018benign\u2019 images",
-            "description": "Discord says a bug affecting its safety system caused it to mistakenly ban more than 8,000 accounts since May. The platform's statement follows a wave of reports from users over the past week, who say they've been banned for posting images containing grids, s\u2026",
-            "url": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-            "publishedAt": "2026-07-07T15:02:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -493,20 +493,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "BeauHD",
-            "title": "Amazon Is Bringing Games to Prime Video",
-            "description": "Amazon is integrating its Luna cloud gaming service into Prime Video, adding a new \"Games\" tab where Prime members can play titles like \"Hogwarts Legacy,\" \"EA Sports FC 26,\" \"Indiana Jones and the Great Circle,\" \"Clue,\" and \"Taboo.\" The games will be availabl\u2026",
-            "url": "https://games.slashdot.org/story/26/07/23/1830257/amazon-is-bringing-games-to-prime-video",
-            "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
-            "publishedAt": "2026-07-23T20:00:00Z",
-            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -517,6 +503,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nomatic.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-08-03T18:07:43Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBack-to-school season also means giveaway season here at The Verge.\r\nBack-to-school season also means giveaway season here at The Verge.\r\nby\r\nCameron FaulknerClo\u2026 [+2525 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Amazon Is Bringing Games to Prime Video",
+            "description": "Amazon is integrating its Luna cloud gaming service into Prime Video, adding a new \"Games\" tab where Prime members can play titles like \"Hogwarts Legacy,\" \"EA Sports FC 26,\" \"Indiana Jones and the Great Circle,\" \"Clue,\" and \"Taboo.\" The games will be availabl\u2026",
+            "url": "https://games.slashdot.org/story/26/07/23/1830257/amazon-is-bringing-games-to-prime-video",
+            "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
+            "publishedAt": "2026-07-23T20:00:00Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
             "ai_score": 5
         },
         {
@@ -664,20 +664,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-            "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
-            "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-23T21:15:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons upgraded AI assistant will be able to do more across a wider range of smart home devices.\r\nAmazons upgraded AI assistant will be able to do more across a\u2026 [+3092 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "David Pierce",
             "title": "The vertical video takeover is here",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
@@ -685,6 +671,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
             "publishedAt": "2026-07-24T17:29:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe vertical video takeover is here\r\nHow TikTok, Instagram, and YouTube copied their way to victory.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added\u2026 [+14618 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+            "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
+            "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-23T21:15:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons upgraded AI assistant will be able to do more across a wider range of smart home devices.\r\nAmazons upgraded AI assistant will be able to do more across a\u2026 [+3092 chars]",
             "ai_score": 5
         },
         {
