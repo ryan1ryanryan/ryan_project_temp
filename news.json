@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-06 04:17",
+    "last_updated": "2026-08-06 07:44",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -27,7 +27,91 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The wireless headset that gets hot-swappable batteries right",
+            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
+            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-20T19:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
+            "description": "Trump\u2019s tariffs and RAM prices mean you shouldn't expect gaming will get any cheaper.",
+            "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-1-1200x675.jpg",
+            "publishedAt": "2026-07-21T15:30:36Z",
+            "content": "Nintendo doesnt believe customers deserve a cut of Trump\u2019s boneheaded tariff scheme. The Mario maker made it clear in a recent legal filing that it doesnt believe you deserve any money back on spiked\u2026 [+3256 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "EU Will Reportedly Label ChatGPT and Roblox \u2018Very Large Online Platforms\u2019 (Derogatory)",
+            "description": "The designation exposes companies to tougher regulations and transparency requirements.",
+            "url": "https://gizmodo.com/eu-will-reportedly-label-chatgpt-and-roblox-very-large-online-platforms-derogatory-2000792681",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2270910088-1200x675.jpg",
+            "publishedAt": "2026-07-30T01:21:51Z",
+            "content": "The DSA has struck again and corporations are trembling. No, not the Mamdani DSA, the other DSA, the EU\u2019s Digital Services Act, Europe\u2019s legal framework for regulating the tech industry, which is als\u2026 [+2318 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeremy White",
+            "title": "XPeng\u2019s New \u2018Budget\u2019 EV Looks Like the Ferrari Luce",
+            "description": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
+            "url": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
+            "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
+            "publishedAt": "2026-07-16T12:09:08Z",
+            "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Inevitably, Ads Have Come to Xbox Game Streaming",
+            "description": "You can now suffer through a Mountain Dew commercial for a quick hour of cloud-based gaming.",
+            "url": "https://gizmodo.com/inevitably-ads-have-come-to-xbox-game-streaming-2000790020",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Game-Pass-Cloud-Gaming-1-1200x675.jpg",
+            "publishedAt": "2026-07-23T21:15:26Z",
+            "content": "Whomever is in charge of idiomatic statements really needs to amend the old death and taxes clich\u00e9 to add another inevitable outcome: ads. Xbox is the latest provider of streaming services to test th\u2026 [+2820 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "The future of physical games is not looking great",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\u2026",
+            "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-17T17:10:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayers and game preservationists might need to prepare for a world without discs.\r\nPlayers and game preservationists might need to prepare for a world without d\u2026 [+10335 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -185,20 +269,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The wireless headset that gets hot-swappable batteries right",
-            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
-            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T19:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -209,20 +279,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/iBuyPower-Trace-X-PC-desktop-review-03-1200x675.jpg",
             "publishedAt": "2026-07-31T14:55:05Z",
             "content": "Have you already given up on modern GPU prices? If not, you may soon have no choice but to accept that this generation of graphics cards is completely unaffordable. As if PC gaming couldnt get any mo\u2026 [+3255 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Can We Not Normalize $5,300 Handheld Gaming PCs?",
-            "description": "You can buy a gaming laptop with a top-end GPU for less.",
-            "url": "https://gizmodo.com/can-we-not-normalize-5300-dollar-handheld-gaming-pcs-2000781709",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
-            "publishedAt": "2026-07-06T14:30:26Z",
-            "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
             "ai_score": 5
         },
         {
@@ -245,12 +301,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
-            "description": "Trump\u2019s tariffs and RAM prices mean you shouldn't expect gaming will get any cheaper.",
-            "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-1-1200x675.jpg",
-            "publishedAt": "2026-07-21T15:30:36Z",
-            "content": "Nintendo doesnt believe customers deserve a cut of Trump\u2019s boneheaded tariff scheme. The Mario maker made it clear in a recent legal filing that it doesnt believe you deserve any money back on spiked\u2026 [+3256 chars]",
+            "title": "Can We Not Normalize $5,300 Handheld Gaming PCs?",
+            "description": "You can buy a gaming laptop with a top-end GPU for less.",
+            "url": "https://gizmodo.com/can-we-not-normalize-5300-dollar-handheld-gaming-pcs-2000781709",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Ayaneo-Next-2-2-1200x675.jpg",
+            "publishedAt": "2026-07-06T14:30:26Z",
+            "content": "The price of mobile gaming has become so irrational that Ayaneo, the maker of boutique gaming devices, imagines it can sell you a handheld that costs more than most ultra-high-end desktops and laptop\u2026 [+2665 chars]",
             "ai_score": 5
         },
         {
@@ -286,34 +342,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Mike Pearl",
-            "title": "EU Will Reportedly Label ChatGPT and Roblox \u2018Very Large Online Platforms\u2019 (Derogatory)",
-            "description": "The designation exposes companies to tougher regulations and transparency requirements.",
-            "url": "https://gizmodo.com/eu-will-reportedly-label-chatgpt-and-roblox-very-large-online-platforms-derogatory-2000792681",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2270910088-1200x675.jpg",
-            "publishedAt": "2026-07-30T01:21:51Z",
-            "content": "The DSA has struck again and corporations are trembling. No, not the Mamdani DSA, the other DSA, the EU\u2019s Digital Services Act, Europe\u2019s legal framework for regulating the tech industry, which is als\u2026 [+2318 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jeremy White",
-            "title": "XPeng\u2019s New \u2018Budget\u2019 EV Looks Like the Ferrari Luce",
-            "description": "The electric L03 is looking to punch above its weight in style and tech as it launches in 60 countries worldwide.",
-            "url": "https://www.wired.com/story/xpeng-new-budget-ev-looks-like-the-ferrari-luce/",
-            "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
-            "publishedAt": "2026-07-16T12:09:08Z",
-            "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "James Pero",
             "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
             "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
@@ -321,20 +349,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
             "publishedAt": "2026-07-17T16:45:27Z",
             "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Inevitably, Ads Have Come to Xbox Game Streaming",
-            "description": "You can now suffer through a Mountain Dew commercial for a quick hour of cloud-based gaming.",
-            "url": "https://gizmodo.com/inevitably-ads-have-come-to-xbox-game-streaming-2000790020",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Game-Pass-Cloud-Gaming-1-1200x675.jpg",
-            "publishedAt": "2026-07-23T21:15:26Z",
-            "content": "Whomever is in charge of idiomatic statements really needs to amend the old death and taxes clich\u00e9 to add another inevitable outcome: ads. Xbox is the latest provider of streaming services to test th\u2026 [+2820 chars]",
             "ai_score": 5
         },
         {
@@ -349,20 +363,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012258/vpavic_4275_20201030_0028.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-08T17:10:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nby\r\nJay Peter\u2026 [+7469 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "The future of physical games is not looking great",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\u2026",
-            "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-17T17:10:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayers and game preservationists might need to prepare for a world without discs.\r\nPlayers and game preservationists might need to prepare for a world without d\u2026 [+10335 chars]",
             "ai_score": 5
         },
         {
@@ -426,20 +426,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Matt Burgess",
-            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
-            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
-            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
-            "publishedAt": "2026-07-17T10:00:00Z",
-            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Joel Khalili",
             "title": "Mistral Is in the Right Place at the Right Time",
             "description": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that\u2019s the the best thing that could have happened.",
@@ -447,6 +433,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
             "publishedAt": "2026-08-04T09:21:11Z",
             "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent\u2026 [+3804 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Burgess",
+            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
+            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
+            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
+            "publishedAt": "2026-07-17T10:00:00Z",
+            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
             "ai_score": 5
         },
         {
@@ -622,20 +622,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The vertical video takeover is here",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
-            "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-07-24T17:29:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe vertical video takeover is here\r\nHow TikTok, Instagram, and YouTube copied their way to victory.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added\u2026 [+14618 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
             "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
@@ -650,6 +636,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "David Pierce",
+            "title": "The vertical video takeover is here",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
+            "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-07-24T17:29:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe vertical video takeover is here\r\nHow TikTok, Instagram, and YouTube copied their way to victory.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added\u2026 [+14618 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Robert Hart",
             "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
             "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
@@ -657,34 +657,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T12:06:22Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Charles Pulliam-Moore",
-            "title": "AI slop movies are the new direct-to-video cash grabs",
-            "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to\u2026",
-            "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&strip=all&crop=10.258176757133%2C0%2C79.483646485734%2C100&w=1200",
-            "publishedAt": "2026-07-15T19:55:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI slop movies are the new direct-to-video cash grabs\r\nProjects like Odysseus: The Fall highlight how the AI hype machine is powered by stunts and stolen valor.\r\u2026 [+6661 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Google ordered to open Android and Search to rivals in Europe",
-            "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could wea\u2026",
-            "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-07-16T12:06:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA.\r\nThe EU says Go\u2026 [+4902 chars]",
             "ai_score": 5
         },
         {
@@ -713,6 +685,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
             "publishedAt": "2026-08-03T11:01:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nby\r\nRober\u2026 [+4575 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "AI slop movies are the new direct-to-video cash grabs",
+            "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to\u2026",
+            "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&strip=all&crop=10.258176757133%2C0%2C79.483646485734%2C100&w=1200",
+            "publishedAt": "2026-07-15T19:55:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI slop movies are the new direct-to-video cash grabs\r\nProjects like Odysseus: The Fall highlight how the AI hype machine is powered by stunts and stolen valor.\r\u2026 [+6661 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Google ordered to open Android and Search to rivals in Europe",
+            "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could wea\u2026",
+            "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-07-16T12:06:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA.\r\nThe EU says Go\u2026 [+4902 chars]",
             "ai_score": 5
         },
         {
