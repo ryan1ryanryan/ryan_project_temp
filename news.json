@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-07 05:44",
+    "last_updated": "2026-08-07 07:20",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "The future of physical games is not looking great",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\u2026",
+            "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-17T17:10:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayers and game preservationists might need to prepare for a world without discs.\r\nPlayers and game preservationists might need to prepare for a world without d\u2026 [+10335 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -349,20 +363,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012258/vpavic_4275_20201030_0028.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-08T17:10:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nby\r\nJay Peter\u2026 [+7469 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "The future of physical games is not looking great",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\u2026",
-            "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-17T17:10:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayers and game preservationists might need to prepare for a world without discs.\r\nPlayers and game preservationists might need to prepare for a world without d\u2026 [+10335 chars]",
             "ai_score": 5
         },
         {
@@ -857,20 +857,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Victoria Song",
-            "title": "With smart glasses, Meta holds all the cards but fails to play them well",
-            "description": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another tra\u2026",
-            "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0109.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-24T20:07:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts recent attempts to shore up privacy dont seem to be convincing skeptics.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts from this author will\u2026 [+8718 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -881,6 +867,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2197460251-1200x675.jpg",
             "publishedAt": "2026-07-22T21:05:33Z",
             "content": "The ill-fated Department of Government Efficiency didn\u2019t actually save the American taxpayers any money, but that doesn\u2019t mean that it didn\u2019t accomplish anything. For instance, it seems at least some\u2026 [+2678 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "With smart glasses, Meta holds all the cards but fails to play them well",
+            "description": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another tra\u2026",
+            "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0109.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-24T20:07:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts recent attempts to shore up privacy dont seem to be convincing skeptics.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts from this author will\u2026 [+8718 chars]",
             "ai_score": 5
         },
         {
