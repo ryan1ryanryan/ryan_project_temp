@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07 00:03",
+    "last_updated": "2026-08-07 03:16",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
-            "description": "Trump\u2019s tariffs and RAM prices mean you shouldn't expect gaming will get any cheaper.",
-            "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-1-1200x675.jpg",
-            "publishedAt": "2026-07-21T15:30:36Z",
-            "content": "Nintendo doesnt believe customers deserve a cut of Trump\u2019s boneheaded tariff scheme. The Mario maker made it clear in a recent legal filing that it doesnt believe you deserve any money back on spiked\u2026 [+3256 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -251,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T14:56:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
+            "description": "Trump\u2019s tariffs and RAM prices mean you shouldn't expect gaming will get any cheaper.",
+            "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-1-1200x675.jpg",
+            "publishedAt": "2026-07-21T15:30:36Z",
+            "content": "Nintendo doesnt believe customers deserve a cut of Trump\u2019s boneheaded tariff scheme. The Mario maker made it clear in a recent legal filing that it doesnt believe you deserve any money back on spiked\u2026 [+3256 chars]",
             "ai_score": 5
         },
         {
@@ -314,20 +314,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "James Pero",
-            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
-            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
-            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
-            "publishedAt": "2026-07-17T16:45:27Z",
-            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Kyle Barr",
             "title": "Inevitably, Ads Have Come to Xbox Game Streaming",
             "description": "You can now suffer through a Mountain Dew commercial for a quick hour of cloud-based gaming.",
@@ -335,6 +321,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Game-Pass-Cloud-Gaming-1-1200x675.jpg",
             "publishedAt": "2026-07-23T21:15:26Z",
             "content": "Whomever is in charge of idiomatic statements really needs to amend the old death and taxes clich\u00e9 to add another inevitable outcome: ads. Xbox is the latest provider of streaming services to test th\u2026 [+2820 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
+            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
+            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
+            "publishedAt": "2026-07-17T16:45:27Z",
+            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
             "ai_score": 5
         },
         {
@@ -479,20 +479,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer Blade 16 (2026) Review: A Gaming Laptop You Can Actually Call \u2018Portable\u2019",
-            "description": "When laptops cost this much, you should damn well want to carry it with you everywhere.",
-            "url": "https://gizmodo.com/razer-blade-16-2026-review-a-gaming-laptop-you-can-actually-call-portable-2000783170",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Razer-Blade-16-2026-review-11-1200x675.jpg",
-            "publishedAt": "2026-07-09T15:00:02Z",
-            "content": "Razers big black rectangle, the Blade 16, is the best it\u2019s ever been. And as you may have guessed, especially if you know anything about the ongoing RAM crisis, the revised Razer Blade 16 for 2026 is\u2026 [+14988 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -503,6 +489,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
             "publishedAt": "2026-07-30T10:00:00Z",
             "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Razer Blade 16 (2026) Review: A Gaming Laptop You Can Actually Call \u2018Portable\u2019",
+            "description": "When laptops cost this much, you should damn well want to carry it with you everywhere.",
+            "url": "https://gizmodo.com/razer-blade-16-2026-review-a-gaming-laptop-you-can-actually-call-portable-2000783170",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Razer-Blade-16-2026-review-11-1200x675.jpg",
+            "publishedAt": "2026-07-09T15:00:02Z",
+            "content": "Razers big black rectangle, the Blade 16, is the best it\u2019s ever been. And as you may have guessed, especially if you know anything about the ongoing RAM crisis, the revised Razer Blade 16 for 2026 is\u2026 [+14988 chars]",
             "ai_score": 5
         },
         {
@@ -651,48 +651,6 @@
                 "name": "The Verge"
             },
             "author": "Emma Roth",
-            "title": "The fight against AI data centers is just beginning",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it\u2026",
-            "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-07-10T16:18:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe fight against AI data centers is just beginning\r\nCommunity pushback from across the US and beyond is making some companies reconsider their data center build\u2026 [+8794 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Samsung\u2019s new foldable display is harder to crease and damage",
-            "description": "Samsung has unveiled a new flexible display technology for foldable phones that's designed to be slimmer, more durable, and less prone to creasing. The Flex Titanium tech is the culmination of everything that the company has learned over seven generations of \u2026",
-            "url": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257844_Samsung_Unpacked_July_2025_AJohnson_0005.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-            "publishedAt": "2026-07-15T10:19:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nb\u2026 [+3522 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "Home Depot\u2019s 12-foot viral skeleton now talks",
-            "description": "The Home Depot is once again upgrading its 12-foot-tall skeleton to help keep the viral piece of Halloween decor popular as spooky season creeps closer. Skelly is borrowing some of the tech introduced in the smaller 6.5-foot Ultra Skelly last year, including \u2026",
-            "url": "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skelly1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-            "publishedAt": "2026-07-14T15:05:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can use your smartphone to speak through Skellys animated mouth and interact with trick-or-treaters.\r\nYou can use your smartphone to speak through Skellys an\u2026 [+2844 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
             "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
             "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
             "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
@@ -727,6 +685,48 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T12:06:22Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "The fight against AI data centers is just beginning",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it\u2026",
+            "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-07-10T16:18:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe fight against AI data centers is just beginning\r\nCommunity pushback from across the US and beyond is making some companies reconsider their data center build\u2026 [+8794 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Samsung\u2019s new foldable display is harder to crease and damage",
+            "description": "Samsung has unveiled a new flexible display technology for foldable phones that's designed to be slimmer, more durable, and less prone to creasing. The Flex Titanium tech is the culmination of everything that the company has learned over seven generations of \u2026",
+            "url": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257844_Samsung_Unpacked_July_2025_AJohnson_0005.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2026-07-15T10:19:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nb\u2026 [+3522 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Home Depot\u2019s 12-foot viral skeleton now talks",
+            "description": "The Home Depot is once again upgrading its 12-foot-tall skeleton to help keep the viral piece of Halloween decor popular as spooky season creeps closer. Skelly is borrowing some of the tech introduced in the smaller 6.5-foot Ultra Skelly last year, including \u2026",
+            "url": "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skelly1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2026-07-14T15:05:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can use your smartphone to speak through Skellys animated mouth and interact with trick-or-treaters.\r\nYou can use your smartphone to speak through Skellys an\u2026 [+2844 chars]",
             "ai_score": 5
         },
         {
