@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07 16:00",
+    "last_updated": "2026-08-07 16:58",
     "articles": [
         {
             "source": {
@@ -942,6 +942,20 @@
         {
             "source": {
                 "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Want to Buy Nvidia\u2019s Graphics Cards at MSRP? Head On Down to Grapevine, Texas",
+            "description": "Or else you may need to spend close to $5,000 on an RTX 5090.",
+            "url": "https://gizmodo.com/want-to-buy-nvidias-graphics-cards-at-msrp-head-on-down-to-grapevine-texas-2000795351",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/nVidia-GeForce-5080-12-1200x675.jpg",
+            "publishedAt": "2026-08-06T15:59:25Z",
+            "content": "The prices of Nvidias RTX 50-series graphics cards have gotten so out of hand that you may need to spend close to $5,000 if you want to buy a top-end RTX 5090 GPU. The only way to ignore this terribl\u2026 [+2843 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "BBC News"
             },
             "author": "Liv McMahon - Technology reporter",
@@ -1021,20 +1035,6 @@
             "urlToImage": "https://i.insider.com/6a4c17f9965805a2c542d5b3?width=1200&format=jpeg",
             "publishedAt": "2026-07-07T14:49:30Z",
             "content": "INA FASSBENDER/AFP via Getty Images\r\n<ul><li>This post originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Mic\u2026 [+3097 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Price-hiked iPads are a little cheaper right now",
-            "description": "A number of Apple products got more expensive last month, so we\u2019re happy to find deals wherever and whenever we can. If you\u2019re searching for a high-end iPad, one of the more notable deals currently happening is on the 13-inch iPad Pro M5 with 512GB of storage\u2026",
-            "url": "https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/apple-ipad-pro-m5-roundup-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-22T19:14:31Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can also grab a four-pack of AirTags for $10 off, or a refurbished PS5 slim from Sony thats $100 less than new.\r\nYou can also grab a four-pack of AirTags for\u2026 [+3433 chars]",
             "ai_score": 5
         }
     ]
