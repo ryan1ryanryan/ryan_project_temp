@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-06 13:00",
+    "last_updated": "2026-08-07 00:03",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-            "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
-            "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T14:56:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -255,16 +241,16 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Scott Gilbertson",
-            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
-            "publishedAt": "2026-07-26T11:09:00Z",
-            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
+            "author": "Cameron Faulkner",
+            "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+            "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
+            "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T14:56:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
             "ai_score": 5
         },
         {
@@ -283,6 +269,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
+            "publishedAt": "2026-07-26T11:09:00Z",
+            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -293,20 +293,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2270910088-1200x675.jpg",
             "publishedAt": "2026-07-30T01:21:51Z",
             "content": "The DSA has struck again and corporations are trembling. No, not the Mamdani DSA, the other DSA, the EU\u2019s Digital Services Act, Europe\u2019s legal framework for regulating the tech industry, which is als\u2026 [+2318 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Inevitably, Ads Have Come to Xbox Game Streaming",
-            "description": "You can now suffer through a Mountain Dew commercial for a quick hour of cloud-based gaming.",
-            "url": "https://gizmodo.com/inevitably-ads-have-come-to-xbox-game-streaming-2000790020",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Game-Pass-Cloud-Gaming-1-1200x675.jpg",
-            "publishedAt": "2026-07-23T21:15:26Z",
-            "content": "Whomever is in charge of idiomatic statements really needs to amend the old death and taxes clich\u00e9 to add another inevitable outcome: ads. Xbox is the latest provider of streaming services to test th\u2026 [+2820 chars]",
             "ai_score": 5
         },
         {
@@ -335,6 +321,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
             "publishedAt": "2026-07-17T16:45:27Z",
             "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Inevitably, Ads Have Come to Xbox Game Streaming",
+            "description": "You can now suffer through a Mountain Dew commercial for a quick hour of cloud-based gaming.",
+            "url": "https://gizmodo.com/inevitably-ads-have-come-to-xbox-game-streaming-2000790020",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Game-Pass-Cloud-Gaming-1-1200x675.jpg",
+            "publishedAt": "2026-07-23T21:15:26Z",
+            "content": "Whomever is in charge of idiomatic statements really needs to amend the old death and taxes clich\u00e9 to add another inevitable outcome: ads. Xbox is the latest provider of streaming services to test th\u2026 [+2820 chars]",
             "ai_score": 5
         },
         {
@@ -384,20 +384,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
-            "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to \u20ac200 or \u00a3170. The 1TB Xbox S\u2026",
-            "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
-            "publishedAt": "2026-08-02T16:18:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nby\r\nTerrenc\u2026 [+2354 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "Palworld\u2019s expanding to mobile with a new MMORPG",
             "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, fre\u2026",
@@ -405,6 +391,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-03T14:50:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPalworld Online will expand on the original game with a new setting and new story elements.\r\nPalworld Online will expand on the original game with a new setting \u2026 [+2111 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
+            "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to \u20ac200 or \u00a3170. The 1TB Xbox S\u2026",
+            "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+            "publishedAt": "2026-08-02T16:18:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nby\r\nTerrenc\u2026 [+2354 chars]",
             "ai_score": 5
         },
         {
@@ -426,20 +426,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Joel Khalili",
-            "title": "Mistral Is in the Right Place at the Right Time",
-            "description": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that\u2019s the the best thing that could have happened.",
-            "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
-            "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
-            "publishedAt": "2026-08-04T09:21:11Z",
-            "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent\u2026 [+3804 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Matt Burgess",
             "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
             "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
@@ -447,6 +433,20 @@
             "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
             "publishedAt": "2026-07-17T10:00:00Z",
             "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Joel Khalili",
+            "title": "Mistral Is in the Right Place at the Right Time",
+            "description": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that\u2019s the the best thing that could have happened.",
+            "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+            "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
+            "publishedAt": "2026-08-04T09:21:11Z",
+            "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent\u2026 [+3804 chars]",
             "ai_score": 5
         },
         {
@@ -479,20 +479,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jeff Wise",
-            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
-            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
-            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
-            "publishedAt": "2026-07-30T10:00:00Z",
-            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -503,6 +489,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Razer-Blade-16-2026-review-11-1200x675.jpg",
             "publishedAt": "2026-07-09T15:00:02Z",
             "content": "Razers big black rectangle, the Blade 16, is the best it\u2019s ever been. And as you may have guessed, especially if you know anything about the ongoing RAM crisis, the revised Razer Blade 16 for 2026 is\u2026 [+14988 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeff Wise",
+            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
+            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
+            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
+            "publishedAt": "2026-07-30T10:00:00Z",
+            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
             "ai_score": 5
         },
         {
@@ -622,76 +622,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Hayden Field",
-            "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
-            "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-23T18:33:59Z",
-            "content": "<ul><li></li><li></li></ul>\r\nAfter the governments cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. \r\nAfter the governments cybersecurity concer\u2026 [+3352 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "China\u2019s Alibaba takes another swipe at America\u2019s AI supremacy",
-            "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba sai\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-            "publishedAt": "2026-08-03T11:01:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nby\r\nRober\u2026 [+4575 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-            "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
-            "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-23T21:15:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons upgraded AI assistant will be able to do more across a wider range of smart home devices.\r\nAmazons upgraded AI assistant will be able to do more across a\u2026 [+3092 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "The vertical video takeover is here",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
-            "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-07-24T17:29:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe vertical video takeover is here\r\nHow TikTok, Instagram, and YouTube copied their way to victory.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added\u2026 [+14618 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
-            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T12:06:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Charles Pulliam-Moore",
             "title": "AI slop movies are the new direct-to-video cash grabs",
             "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to\u2026",
@@ -755,6 +685,76 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skelly1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-07-14T15:05:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can use your smartphone to speak through Skellys animated mouth and interact with trick-or-treaters.\r\nYou can use your smartphone to speak through Skellys an\u2026 [+2844 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+            "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
+            "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-23T21:15:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons upgraded AI assistant will be able to do more across a wider range of smart home devices.\r\nAmazons upgraded AI assistant will be able to do more across a\u2026 [+3092 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The vertical video takeover is here",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
+            "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "publishedAt": "2026-07-24T17:29:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe vertical video takeover is here\r\nHow TikTok, Instagram, and YouTube copied their way to victory.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added\u2026 [+14618 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
+            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T12:06:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
+            "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-23T18:33:59Z",
+            "content": "<ul><li></li><li></li></ul>\r\nAfter the governments cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model. \r\nAfter the governments cybersecurity concer\u2026 [+3352 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "China\u2019s Alibaba takes another swipe at America\u2019s AI supremacy",
+            "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba sai\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "publishedAt": "2026-08-03T11:01:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nby\r\nRober\u2026 [+4575 chars]",
             "ai_score": 5
         },
         {
@@ -857,20 +857,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Victoria Song",
-            "title": "With smart glasses, Meta holds all the cards but fails to play them well",
-            "description": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another tra\u2026",
-            "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0109.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-24T20:07:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts recent attempts to shore up privacy dont seem to be convincing skeptics.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts from this author will\u2026 [+8718 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -881,6 +867,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2197460251-1200x675.jpg",
             "publishedAt": "2026-07-22T21:05:33Z",
             "content": "The ill-fated Department of Government Efficiency didn\u2019t actually save the American taxpayers any money, but that doesn\u2019t mean that it didn\u2019t accomplish anything. For instance, it seems at least some\u2026 [+2678 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "With smart glasses, Meta holds all the cards but fails to play them well",
+            "description": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another tra\u2026",
+            "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0109.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-24T20:07:12Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts recent attempts to shore up privacy dont seem to be convincing skeptics.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts from this author will\u2026 [+8718 chars]",
             "ai_score": 5
         },
         {
