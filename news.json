@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07 09:03",
+    "last_updated": "2026-08-07 10:10",
     "articles": [
         {
             "source": {
@@ -13,35 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jeff Wise",
-            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
-            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
-            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
-            "publishedAt": "2026-07-30T10:00:00Z",
-            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "We\u2019re giving away a back-to-school bag filled with over $800 of free tech",
-            "description": "It\u2019s time for yet another giveaway. We raided The Verge\u2019s closet full of tech in New York City to stuff as much can fit into a Nomatic Messenger Bag. It\u2019s overstuffed, to say the least, and if you\u2019re chosen as the winner of this sweepstakes on August 18th, th\u2026",
-            "url": "https://www.theverge.com/gadgets/972547/back-to-school-giveaway-sweepstakes",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nomatic.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
-            "publishedAt": "2026-08-03T18:07:43Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBack-to-school season also means giveaway season here at The Verge.\r\nBack-to-school season also means giveaway season here at The Verge.\r\nby\r\nCameron FaulknerClo\u2026 [+2525 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -454,20 +426,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Matt Burgess",
-            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
-            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
-            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
-            "publishedAt": "2026-07-17T10:00:00Z",
-            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Joel Khalili",
             "title": "Mistral Is in the Right Place at the Right Time",
             "description": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that\u2019s the the best thing that could have happened.",
@@ -475,6 +433,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
             "publishedAt": "2026-08-04T09:21:11Z",
             "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent\u2026 [+3804 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Burgess",
+            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
+            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
+            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
+            "publishedAt": "2026-07-17T10:00:00Z",
+            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
             "ai_score": 5
         },
         {
@@ -507,6 +479,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeff Wise",
+            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
+            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
+            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
+            "publishedAt": "2026-07-30T10:00:00Z",
+            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -531,6 +517,20 @@
             "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
             "publishedAt": "2026-07-23T20:00:00Z",
             "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "We\u2019re giving away a back-to-school bag filled with over $800 of free tech",
+            "description": "It\u2019s time for yet another giveaway. We raided The Verge\u2019s closet full of tech in New York City to stuff as much can fit into a Nomatic Messenger Bag. It\u2019s overstuffed, to say the least, and if you\u2019re chosen as the winner of this sweepstakes on August 18th, th\u2026",
+            "url": "https://www.theverge.com/gadgets/972547/back-to-school-giveaway-sweepstakes",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nomatic.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
+            "publishedAt": "2026-08-03T18:07:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBack-to-school season also means giveaway season here at The Verge.\r\nBack-to-school season also means giveaway season here at The Verge.\r\nby\r\nCameron FaulknerClo\u2026 [+2525 chars]",
             "ai_score": 5
         },
         {
