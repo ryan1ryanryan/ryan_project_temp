@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-08 13:50",
+    "last_updated": "2026-08-08 14:36",
     "articles": [
         {
             "source": {
@@ -857,6 +857,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Werewolf transformed my old gadgets into USB-C powered ones",
+            "description": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos\u2026 or want to play Japanese SNES games with friends\u2026 or lose the AC adapter for my old external hard disk\u2026 I can now power them with a USB battery instead. None of them came with U\u2026",
+            "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-werewolf-vflex-sean-hollister-1-6.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T14:06:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+6640 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -899,20 +913,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Nintendo beats earnings thanks to US tariff refunds it won\u2019t share with gamers",
-            "description": "Nintendo has smashed its first-quarter earnings estimates for the fiscal year, bolstered by strong games sales and US tariff refunds, though its customers likely won't receive anything from the latter. In its latest financial results, Nintendo reports that op\u2026",
-            "url": "https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKR001_NINTENDO_SWITCH_3_F.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-06T10:58:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOperating profit increased by more than 150 percent, partially because of a $300 million tariff refund.\r\nOperating profit increased by more than 150 percent, par\u2026 [+3081 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -923,6 +923,20 @@
             "urlToImage": "https://s.yimg.com/lo/mysterio/api/08b56a31e485e11e742b96e5a56c615841052c4642fca38d27d992d06fc91860/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1e11eed357185943661986c28410a5eb",
             "publishedAt": "2026-08-03T11:18:15Z",
             "content": "Microsoft has increased the price of Xbox consoles worldwide, citing rising memory and storage chip costs.\r\nIts premium Series X console with a disc drive will now cost \u00a3670, when it previously retai\u2026 [+2444 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Nintendo beats earnings thanks to US tariff refunds it won\u2019t share with gamers",
+            "description": "Nintendo has smashed its first-quarter earnings estimates for the fiscal year, bolstered by strong games sales and US tariff refunds, though its customers likely won't receive anything from the latter. In its latest financial results, Nintendo reports that op\u2026",
+            "url": "https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKR001_NINTENDO_SWITCH_3_F.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-06T10:58:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOperating profit increased by more than 150 percent, partially because of a $300 million tariff refund.\r\nOperating profit increased by more than 150 percent, par\u2026 [+3081 chars]",
             "ai_score": 5
         },
         {
@@ -1035,20 +1049,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/disc-gta-6-1200x675.jpg",
             "publishedAt": "2026-07-13T14:20:17Z",
             "content": "Grand Theft Auto VI starting at $80 might strike some as the latest sign that gaming is becoming increasingly unaffordable. For others, like tech analyst Ben Thompson, the price represents an absolut\u2026 [+2997 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
-            "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
-            "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg",
-            "publishedAt": "2026-08-01T21:03:42Z",
-            "content": "Back at Yebra's centre, the team's work is particularly timely with weather forecasters predicting a super El Nino this summer - which could increase the probability of extreme heat, drought and bush\u2026 [+1853 chars]",
             "ai_score": 5
         }
     ]
