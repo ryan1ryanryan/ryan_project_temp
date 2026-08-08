@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-08 03:30",
+    "last_updated": "2026-08-08 05:01",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Scott Gilbertson",
-            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
-            "publishedAt": "2026-07-26T11:09:00Z",
-            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Logitech\u2019s handheld plans are on ice \u2014 don\u2019t expect a G Cloud 2 soon",
+            "description": "Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not sure when or if Logit\u2026",
+            "url": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24079609/226331_Logitech_G_Cloud_Gaming_Handheld_CFaulkner_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-28T12:31:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+5385 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -118,13 +118,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Logitech\u2019s handheld plans are on ice \u2014 don\u2019t expect a G Cloud 2 soon",
-            "description": "Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not sure when or if Logit\u2026",
-            "url": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24079609/226331_Logitech_G_Cloud_Gaming_Handheld_CFaulkner_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-28T12:31:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+5385 chars]",
+            "author": "Emma Roth",
+            "title": "New York sues Kalshi for allegedly running an \u2018illegal gambling operation\u2019",
+            "description": "New York is suing Kalshi over claims the prediction market is running \"an illegal gambling operation.\" In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming\u2026",
+            "url": "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_C.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+            "publishedAt": "2026-07-31T15:30:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAttorney General Letitia James wants to block Kalshi from operating in the state.\r\nAttorney General Letitia James wants to block Kalshi from operating in the sta\u2026 [+2672 chars]",
             "ai_score": 5
         },
         {
@@ -139,20 +139,6 @@
             "urlToImage": "https://media.wired.com/photos/6a4bdfbb6a49ac9393dae91c/191:100/w_1280,c_limit/Review--Hisense-UR9-RGB-MiniLED.jpg",
             "publishedAt": "2026-07-07T11:01:00Z",
             "content": "RGB Mini-LED TVs have officially arrived, and Hisense's UR9 was the first to hit the market, followed by Sony's Bravia 7 Mark II and TCLs RM9L. I wouldnt blame you if you werent jazzed to learn what \u2026 [+2145 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "New York sues Kalshi for allegedly running an \u2018illegal gambling operation\u2019",
-            "description": "New York is suing Kalshi over claims the prediction market is running \"an illegal gambling operation.\" In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming\u2026",
-            "url": "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_C.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-            "publishedAt": "2026-07-31T15:30:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAttorney General Letitia James wants to block Kalshi from operating in the state.\r\nAttorney General Letitia James wants to block Kalshi from operating in the sta\u2026 [+2672 chars]",
             "ai_score": 5
         },
         {
@@ -251,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T21:29:22Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThis discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.\r\nThis discounted gaming keyboard features cus\u2026 [+2489 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
+            "publishedAt": "2026-07-26T11:09:00Z",
+            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
             "ai_score": 5
         },
         {
@@ -636,34 +636,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Charles Pulliam-Moore",
-            "title": "AI slop movies are the new direct-to-video cash grabs",
-            "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to\u2026",
-            "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&strip=all&crop=10.258176757133%2C0%2C79.483646485734%2C100&w=1200",
-            "publishedAt": "2026-07-15T19:55:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI slop movies are the new direct-to-video cash grabs\r\nProjects like Odysseus: The Fall highlight how the AI hype machine is powered by stunts and stolen valor.\r\u2026 [+6661 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Google ordered to open Android and Search to rivals in Europe",
-            "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could wea\u2026",
-            "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-07-16T12:06:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA.\r\nThe EU says Go\u2026 [+4902 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Hayden Field",
             "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
             "description": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"c\u2026",
@@ -685,6 +657,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
             "publishedAt": "2026-08-03T11:01:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nAlibaba says its latest model can compete with Anthropics Claude Fable 5. \r\nby\r\nRober\u2026 [+4575 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "AI slop movies are the new direct-to-video cash grabs",
+            "description": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to\u2026",
+            "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&strip=all&crop=10.258176757133%2C0%2C79.483646485734%2C100&w=1200",
+            "publishedAt": "2026-07-15T19:55:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI slop movies are the new direct-to-video cash grabs\r\nProjects like Odysseus: The Fall highlight how the AI hype machine is powered by stunts and stolen valor.\r\u2026 [+6661 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Google ordered to open Android and Search to rivals in Europe",
+            "description": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could wea\u2026",
+            "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-07-16T12:06:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA.\r\nThe EU says Go\u2026 [+4902 chars]",
             "ai_score": 5
         },
         {
@@ -829,20 +829,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "DOGE Guys Who Didn\u2019t Save Us Any Money Rake in Cash With New Military Tech Startup",
-            "description": "Wonder how they knew there was an opportunity to cash in?",
-            "url": "https://gizmodo.com/doge-guys-who-didnt-save-us-any-money-rake-in-cash-with-new-military-tech-startup-2000789361",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2197460251-1200x675.jpg",
-            "publishedAt": "2026-07-22T21:05:33Z",
-            "content": "The ill-fated Department of Government Efficiency didn\u2019t actually save the American taxpayers any money, but that doesn\u2019t mean that it didn\u2019t accomplish anything. For instance, it seems at least some\u2026 [+2678 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -853,6 +839,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
             "publishedAt": "2026-07-30T20:12:57Z",
             "content": "I was offline last week in my home state of New Jersey, but when I got back to Silicon Valley, everyone was panicking again about how quickly artificial intelligence is advancing. While this is certa\u2026 [+3715 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "DOGE Guys Who Didn\u2019t Save Us Any Money Rake in Cash With New Military Tech Startup",
+            "description": "Wonder how they knew there was an opportunity to cash in?",
+            "url": "https://gizmodo.com/doge-guys-who-didnt-save-us-any-money-rake-in-cash-with-new-military-tech-startup-2000789361",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2197460251-1200x675.jpg",
+            "publishedAt": "2026-07-22T21:05:33Z",
+            "content": "The ill-fated Department of Government Efficiency didn\u2019t actually save the American taxpayers any money, but that doesn\u2019t mean that it didn\u2019t accomplish anything. For instance, it seems at least some\u2026 [+2678 chars]",
             "ai_score": 5
         },
         {
