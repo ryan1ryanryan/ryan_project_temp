@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-08 10:37",
+    "last_updated": "2026-08-08 11:33",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Joel Khalili",
+            "title": "Mistral Is in the Right Place at the Right Time",
+            "description": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that\u2019s the the best thing that could have happened.",
+            "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+            "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
+            "publishedAt": "2026-08-04T09:21:11Z",
+            "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent\u2026 [+3804 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -405,20 +419,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/discord-chess-ban.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
             "publishedAt": "2026-07-07T15:02:30Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users were banned from Discord after posting chessboards, game textures, and Minecraft inventories.\r\nSome users were banned from Discord after posting chess\u2026 [+2398 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Joel Khalili",
-            "title": "Mistral Is in the Right Place at the Right Time",
-            "description": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that\u2019s the the best thing that could have happened.",
-            "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
-            "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
-            "publishedAt": "2026-08-04T09:21:11Z",
-            "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent\u2026 [+3804 chars]",
             "ai_score": 5
         },
         {
