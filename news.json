@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-08 06:57",
+    "last_updated": "2026-08-08 07:55",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Razer\u2019s new keyboards drop the price on powerful gaming features",
-            "description": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. Th\u2026",
-            "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-30T14:18:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,118 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
+            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
+            "publishedAt": "2026-08-03T11:00:00Z",
+            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Clinton Sparks",
+            "title": "I Built Successful Companies in Music, Gaming and Tech. These Same 3 Skills Will Drive Success In Any Industry",
+            "description": "Turns out the same skills that work in music work just as well in gaming, tech and whatever comes next.",
+            "url": "https://www.entrepreneur.com/building-a-business/i-built-successful-companies-in-music-gaming-and-tech-these-same-3-skills-will-drive-success-in-any-industry",
+            "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/image6-copy.jpg?resize=1024,683",
+            "publishedAt": "2026-07-28T14:00:00Z",
+            "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Youre never really selling a product or a service. Youre selling a feeling.</li><li>When people consistently assoc\u2026 [+6576 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The wireless headset that gets hot-swappable batteries right",
+            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
+            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-20T19:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
+            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
+            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
+            "publishedAt": "2026-07-17T16:45:27Z",
+            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "If Microsoft sold off Xbox, who would even buy it?",
+            "description": "This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she\u2026",
+            "url": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012258/vpavic_4275_20201030_0028.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-08T17:10:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nby\r\nJay Peter\u2026 [+7469 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
+            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
+            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-04T17:35:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Palworld\u2019s expanding to mobile with a new MMORPG",
+            "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, fre\u2026",
+            "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-03T14:50:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPalworld Online will expand on the original game with a new setting and new story elements.\r\nPalworld Online will expand on the original game with a new setting \u2026 [+2111 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Razer\u2019s new keyboards drop the price on powerful gaming features",
+            "description": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. Th\u2026",
+            "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-30T14:18:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
             "ai_score": 5
         },
         {
@@ -55,20 +153,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
             "publishedAt": "2026-07-29T20:50:45Z",
             "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matthew S. Smith",
-            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
-            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
-            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
-            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
-            "publishedAt": "2026-08-03T11:00:00Z",
-            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
             "ai_score": 5
         },
         {
@@ -104,20 +188,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Logitech\u2019s handheld plans are on ice \u2014 don\u2019t expect a G Cloud 2 soon",
-            "description": "Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not sure when or if Logit\u2026",
-            "url": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24079609/226331_Logitech_G_Cloud_Gaming_Handheld_CFaulkner_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-28T12:31:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+5385 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "New York sues Kalshi for allegedly running an \u2018illegal gambling operation\u2019",
             "description": "New York is suing Kalshi over claims the prediction market is running \"an illegal gambling operation.\" In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming\u2026",
@@ -125,6 +195,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_C.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
             "publishedAt": "2026-07-31T15:30:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAttorney General Letitia James wants to block Kalshi from operating in the state.\r\nAttorney General Letitia James wants to block Kalshi from operating in the sta\u2026 [+2672 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Logitech\u2019s handheld plans are on ice \u2014 don\u2019t expect a G Cloud 2 soon",
+            "description": "Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not sure when or if Logit\u2026",
+            "url": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24079609/226331_Logitech_G_Cloud_Gaming_Handheld_CFaulkner_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-28T12:31:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+5385 chars]",
             "ai_score": 5
         },
         {
@@ -153,34 +237,6 @@
             "urlToImage": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/191:100/w_1280,c_limit/WIRED-Coupons-12.jpg",
             "publishedAt": "2026-07-18T05:00:00Z",
             "content": "Gaming is better with great gear. A powerful gaming headset and a good keyboard are two must-haves for me, whether Im playing Stardew Valley or firing up my latest unfinished run of Baldurs Gate 3 (I\u2026 [+3497 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entrepreneur"
-            },
-            "author": "Clinton Sparks",
-            "title": "I Built Successful Companies in Music, Gaming and Tech. These Same 3 Skills Will Drive Success In Any Industry",
-            "description": "Turns out the same skills that work in music work just as well in gaming, tech and whatever comes next.",
-            "url": "https://www.entrepreneur.com/building-a-business/i-built-successful-companies-in-music-gaming-and-tech-these-same-3-skills-will-drive-success-in-any-industry",
-            "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/image6-copy.jpg?resize=1024,683",
-            "publishedAt": "2026-07-28T14:00:00Z",
-            "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Youre never really selling a product or a service. Youre selling a feeling.</li><li>When people consistently assoc\u2026 [+6576 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The wireless headset that gets hot-swappable batteries right",
-            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
-            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T19:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
             "ai_score": 5
         },
         {
@@ -311,34 +367,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
-            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
-            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
-            "publishedAt": "2026-07-17T16:45:27Z",
-            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "If Microsoft sold off Xbox, who would even buy it?",
-            "description": "This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she\u2026",
-            "url": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012258/vpavic_4275_20201030_0028.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-08T17:10:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nThere might not be many takers, though Microsoft could sell it in parts.\r\nby\r\nJay Peter\u2026 [+7469 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -349,34 +377,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-17T17:10:12Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayers and game preservationists might need to prepare for a world without discs.\r\nPlayers and game preservationists might need to prepare for a world without d\u2026 [+10335 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
-            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
-            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-04T17:35:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Palworld\u2019s expanding to mobile with a new MMORPG",
-            "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, fre\u2026",
-            "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-03T14:50:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPalworld Online will expand on the original game with a new setting and new story elements.\r\nPalworld Online will expand on the original game with a new setting \u2026 [+2111 chars]",
             "ai_score": 5
         },
         {
