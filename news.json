@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-08 08:45",
+    "last_updated": "2026-08-08 09:42",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -1039,16 +1039,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Windows Central"
+                "id": "bbc-news",
+                "name": "BBC News"
             },
-            "author": "ben.wilson@windowscentral.com (Ben Wilson) , Ben Wilson",
-            "title": "Alienware made an \"entry-level\" gaming laptop with RTX 5050 graphics \u2014 but this 15-inch PC needs more than NVIDIA's clever upscaling tech to offset its downsides.",
-            "description": "The Alienware 15 gaming laptop with RTX 5050 graphics delivers capable gaming performance with NVIDIA's DLSS tech, but loud fans and tight storage hold it back.",
-            "url": "https://www.windowscentral.com/hardware/dell/alienware-15-amd-2026-review",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DC4UiazxNmHps5bqYGbfUJ-2000-80.jpg",
-            "publishedAt": "2026-07-15T16:44:31Z",
-            "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.An entry-level Alie\u2026 [+10850 chars]",
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+            "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+            "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg",
+            "publishedAt": "2026-08-01T21:03:42Z",
+            "content": "Back at Yebra's centre, the team's work is particularly timely with weather forecasters predicting a super El Nino this summer - which could increase the probability of extreme heat, drought and bush\u2026 [+1853 chars]",
             "ai_score": 5
         }
     ]
