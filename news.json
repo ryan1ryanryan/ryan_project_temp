@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-09 20:37",
+    "last_updated": "2026-08-09 21:36",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Samsung\u2019s new foldable display is harder to crease and damage",
+            "description": "Samsung has unveiled a new flexible display technology for foldable phones that's designed to be slimmer, more durable, and less prone to creasing. The Flex Titanium tech is the culmination of everything that the company has learned over seven generations of \u2026",
+            "url": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257844_Samsung_Unpacked_July_2025_AJohnson_0005.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2026-07-15T10:19:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nb\u2026 [+3522 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -720,20 +734,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Samsung\u2019s new foldable display is harder to crease and damage",
-            "description": "Samsung has unveiled a new flexible display technology for foldable phones that's designed to be slimmer, more durable, and less prone to creasing. The Flex Titanium tech is the culmination of everything that the company has learned over seven generations of \u2026",
-            "url": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257844_Samsung_Unpacked_July_2025_AJohnson_0005.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-            "publishedAt": "2026-07-15T10:19:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nb\u2026 [+3522 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "Home Depot\u2019s 12-foot viral skeleton now talks",
             "description": "The Home Depot is once again upgrading its 12-foot-tall skeleton to help keep the viral piece of Halloween decor popular as spooky season creeps closer. Skelly is borrowing some of the tech introduced in the smaller 6.5-foot Ultra Skelly last year, including \u2026",
@@ -857,20 +857,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "DOGE Guys Who Didn\u2019t Save Us Any Money Rake in Cash With New Military Tech Startup",
-            "description": "Wonder how they knew there was an opportunity to cash in?",
-            "url": "https://gizmodo.com/doge-guys-who-didnt-save-us-any-money-rake-in-cash-with-new-military-tech-startup-2000789361",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2197460251-1200x675.jpg",
-            "publishedAt": "2026-07-22T21:05:33Z",
-            "content": "The ill-fated Department of Government Efficiency didn\u2019t actually save the American taxpayers any money, but that doesn\u2019t mean that it didn\u2019t accomplish anything. For instance, it seems at least some\u2026 [+2678 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -881,6 +867,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-werewolf-vflex-sean-hollister-1-6.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-07T14:06:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+6640 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "DOGE Guys Who Didn\u2019t Save Us Any Money Rake in Cash With New Military Tech Startup",
+            "description": "Wonder how they knew there was an opportunity to cash in?",
+            "url": "https://gizmodo.com/doge-guys-who-didnt-save-us-any-money-rake-in-cash-with-new-military-tech-startup-2000789361",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2197460251-1200x675.jpg",
+            "publishedAt": "2026-07-22T21:05:33Z",
+            "content": "The ill-fated Department of Government Efficiency didn\u2019t actually save the American taxpayers any money, but that doesn\u2019t mean that it didn\u2019t accomplish anything. For instance, it seems at least some\u2026 [+2678 chars]",
             "ai_score": 5
         },
         {
