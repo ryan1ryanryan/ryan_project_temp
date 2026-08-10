@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-09 23:35",
+    "last_updated": "2026-08-10 01:52",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -507,20 +507,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
-            "description": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' for\u2026",
-            "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1409.jpg?quality=90&strip=all&crop=6%2C10.988783655458%2C94%2C73.822367063059&w=1200",
-            "publishedAt": "2026-07-10T22:38:51Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIts planning to deauthorize one prominent testing lab in China, too.\r\nIts planning to deauthorize one prominent testing lab in China, too.\r\nby\r\nSean HollisterClose\r\nPosts\u2026 [+4540 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -531,6 +517,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-green.jpg",
             "publishedAt": "2026-07-29T21:01:34Z",
             "content": "Microsoft reported a huge jump in profits last quarter, but not in its gaming division. Xbox trailed the tech giant\u2019s other divisions with a double-digit decline in revenue year-over-year. The number\u2026 [+1988 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+            "description": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' for\u2026",
+            "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1409.jpg?quality=90&strip=all&crop=6%2C10.988783655458%2C94%2C73.822367063059&w=1200",
+            "publishedAt": "2026-07-10T22:38:51Z",
+            "content": "<ul><li></li><li></li></ul>\r\nIts planning to deauthorize one prominent testing lab in China, too.\r\nIts planning to deauthorize one prominent testing lab in China, too.\r\nby\r\nSean HollisterClose\r\nPosts\u2026 [+4540 chars]",
             "ai_score": 5
         },
         {
