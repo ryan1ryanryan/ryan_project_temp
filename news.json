@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11 11:04",
+    "last_updated": "2026-08-11 11:56",
     "articles": [
         {
             "source": {
@@ -410,20 +410,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Razer Blade 16 (2026) Review: A Gaming Laptop You Can Actually Call \u2018Portable\u2019",
-            "description": "When laptops cost this much, you should damn well want to carry it with you everywhere.",
-            "url": "https://gizmodo.com/razer-blade-16-2026-review-a-gaming-laptop-you-can-actually-call-portable-2000783170",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Razer-Blade-16-2026-review-11-1200x675.jpg",
-            "publishedAt": "2026-07-09T15:00:02Z",
-            "content": "Razers big black rectangle, the Blade 16, is the best it\u2019s ever been. And as you may have guessed, especially if you know anything about the ongoing RAM crisis, the revised Razer Blade 16 for 2026 is\u2026 [+14988 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Slashdot.org"
             },
             "author": "BeauHD",
@@ -717,16 +703,16 @@
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "MacRumors"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Teen who helped improve tech for disabled honoured",
-            "description": "Harchie Sagoo, who had cerebral palsy, was a key product tester for Bristol-based Smartbox.",
-            "url": "https://www.bbc.co.uk/news/articles/cnv9np04rl8o",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf4c/live/dd89ef60-7b84-11f1-a1ec-ff686fe2c542.jpg",
-            "publishedAt": "2026-07-09T16:07:00Z",
-            "content": "Harchie's dad, who lives in Nottingham, said his son was born a healthy baby.\r\nBut following a visit to his parents in Spain, his son was left with lesions on his brain which affected his gross and f\u2026 [+824 chars]",
+            "author": "Juli Clover",
+            "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+            "description": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg. Apple has proposed several offers and is now in early settlement talks with the DOJ.\n\n\n\n\n\nThe DOJ sued Apple for antitrust violations in 2024 as part of an\u2026",
+            "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+            "urlToImage": "https://images.macrumors.com/t/4pW4bOoAEoSVo5KIJv-hK1K2H1I=/2500x/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+            "publishedAt": "2026-07-17T14:50:48Z",
+            "content": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg. Apple has proposed several offers and is now in early settlement talks with the DOJ.\r\nThe DOJ s\u2026 [+823 chars]",
             "ai_score": 5
         },
         {
@@ -741,20 +727,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/winamp-1200x675.jpg",
             "publishedAt": "2026-07-30T19:40:27Z",
             "content": "This week brought the news that Winampremember Winamp?is planning to relaunch next year as a sort of one-player-for-everything app, with an integrated streaming service provided by French company Dee\u2026 [+5305 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-            "description": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg. Apple has proposed several offers and is now in early settlement talks with the DOJ.\n\n\n\n\n\nThe DOJ sued Apple for antitrust violations in 2024 as part of an\u2026",
-            "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-            "urlToImage": "https://images.macrumors.com/t/4pW4bOoAEoSVo5KIJv-hK1K2H1I=/2500x/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-            "publishedAt": "2026-07-17T14:50:48Z",
-            "content": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg. Apple has proposed several offers and is now in early settlement talks with the DOJ.\r\nThe DOJ s\u2026 [+823 chars]",
             "ai_score": 5
         },
         {
@@ -1105,6 +1077,48 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/skyrover-versus-air-photography.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-07-20T22:21:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nby\r\nSean HollisterClose\r\nPosts \u2026 [+4580 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Iran Claims It \u2018Destroyed\u2019 Amazon\u2019s Central Data Infrastructure In Bahrain",
+            "description": "This marks the fifth time Iranian forces have claimed to target Amazon facilities in the Middle East.",
+            "url": "https://gizmodo.com/iran-claims-it-destroyed-amazons-central-data-infrastructure-in-bahrain-2000788439",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2265509700-1200x675.jpg",
+            "publishedAt": "2026-07-21T17:45:34Z",
+            "content": "Iranian forces destroyed Amazon\u2019s central data infrastructure in Bahrain, according to state-aligned media reports.\r\nIran\u2019s Islamic Revolutionary Guard Corps claims to have targeted and destroyed the\u2026 [+2890 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
+            "description": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs, and an impressive range\u2026",
+            "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268670_Framework_Laptop_13_Pro_laptop_review_ADiBenedetto_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T14:10:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Framework Laptop 13 Pro has it all. But RAMageddon spiked its price.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics\u2026 [+15366 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "EA VP Urges Companies To Think About In-Game Ads During Development: \u2018That\u2019s A Huge Opportunity\u2019",
+            "description": "The last un-monetized frontier of gaming: virtual billboards",
+            "url": "https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/07/image-92-1200x675.jpg",
+            "publishedAt": "2026-07-16T14:30:56Z",
+            "content": "Google runs on ads. Facebook runs on ads. Apple runs on fees collected from its App Store which runs on ads. Why not turn gaming into the next great ad-driven business? That\u2019s the logical conclusion \u2026 [+3595 chars]",
             "ai_score": 5
         }
     ]
