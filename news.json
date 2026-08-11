@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-11 22:46",
+    "last_updated": "2026-08-11 23:45",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
-            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
-            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-04T17:35:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -363,6 +349,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-17T17:10:12Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayers and game preservationists might need to prepare for a world without discs.\r\nPlayers and game preservationists might need to prepare for a world without d\u2026 [+10335 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
+            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
+            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-04T17:35:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
             "ai_score": 5
         },
         {
