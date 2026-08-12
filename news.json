@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-12 10:09",
+    "last_updated": "2026-08-12 11:50",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
-            "description": "Trump\u2019s tariffs and RAM prices mean you shouldn't expect gaming will get any cheaper.",
-            "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-1-1200x675.jpg",
-            "publishedAt": "2026-07-21T15:30:36Z",
-            "content": "Nintendo doesnt believe customers deserve a cut of Trump\u2019s boneheaded tariff scheme. The Mario maker made it clear in a recent legal filing that it doesnt believe you deserve any money back on spiked\u2026 [+3256 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -195,6 +181,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/iBuyPower-Trace-X-PC-desktop-review-03-1200x675.jpg",
             "publishedAt": "2026-07-31T14:55:05Z",
             "content": "Have you already given up on modern GPU prices? If not, you may soon have no choice but to accept that this generation of graphics cards is completely unaffordable. As if PC gaming couldnt get any mo\u2026 [+3255 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
+            "description": "Trump\u2019s tariffs and RAM prices mean you shouldn't expect gaming will get any cheaper.",
+            "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-1-1200x675.jpg",
+            "publishedAt": "2026-07-21T15:30:36Z",
+            "content": "Nintendo doesnt believe customers deserve a cut of Trump\u2019s boneheaded tariff scheme. The Mario maker made it clear in a recent legal filing that it doesnt believe you deserve any money back on spiked\u2026 [+3256 chars]",
             "ai_score": 5
         },
         {
@@ -858,20 +858,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "DOGE Guys Who Didn\u2019t Save Us Any Money Rake in Cash With New Military Tech Startup",
-            "description": "Wonder how they knew there was an opportunity to cash in?",
-            "url": "https://gizmodo.com/doge-guys-who-didnt-save-us-any-money-rake-in-cash-with-new-military-tech-startup-2000789361",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2197460251-1200x675.jpg",
-            "publishedAt": "2026-07-22T21:05:33Z",
-            "content": "The ill-fated Department of Government Efficiency didn\u2019t actually save the American taxpayers any money, but that doesn\u2019t mean that it didn\u2019t accomplish anything. For instance, it seems at least some\u2026 [+2678 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Kotaku"
             },
             "author": "Rebekah Valentine",
@@ -881,6 +867,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
             "publishedAt": "2026-07-23T16:51:40Z",
             "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "DOGE Guys Who Didn\u2019t Save Us Any Money Rake in Cash With New Military Tech Startup",
+            "description": "Wonder how they knew there was an opportunity to cash in?",
+            "url": "https://gizmodo.com/doge-guys-who-didnt-save-us-any-money-rake-in-cash-with-new-military-tech-startup-2000789361",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2197460251-1200x675.jpg",
+            "publishedAt": "2026-07-22T21:05:33Z",
+            "content": "The ill-fated Department of Government Efficiency didn\u2019t actually save the American taxpayers any money, but that doesn\u2019t mean that it didn\u2019t accomplish anything. For instance, it seems at least some\u2026 [+2678 chars]",
             "ai_score": 5
         },
         {
