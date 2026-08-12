@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-12 08:24",
+    "last_updated": "2026-08-12 10:09",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
+            "description": "Trump\u2019s tariffs and RAM prices mean you shouldn't expect gaming will get any cheaper.",
+            "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-1-1200x675.jpg",
+            "publishedAt": "2026-07-21T15:30:36Z",
+            "content": "Nintendo doesnt believe customers deserve a cut of Trump\u2019s boneheaded tariff scheme. The Mario maker made it clear in a recent legal filing that it doesnt believe you deserve any money back on spiked\u2026 [+3256 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,91 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
-            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T12:49:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The wireless headset that gets hot-swappable batteries right",
-            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
-            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T19:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-            "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
-            "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T14:56:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
-            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
-            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
-            "publishedAt": "2026-08-10T20:22:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Meredith Haggerty",
-            "title": "Trying to explain One Night Only\u2019s tech-enforced sex dystopia",
-            "description": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditio\u2026",
-            "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/image-7.png?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
-            "publishedAt": "2026-08-05T21:09:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nby\r\nMeredit\u2026 [+6762 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
-            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
-            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
-            "publishedAt": "2026-07-17T16:45:27Z",
-            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -227,6 +157,34 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
+            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T12:49:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The wireless headset that gets hot-swappable batteries right",
+            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
+            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-20T19:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -241,16 +199,30 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Kyle Barr",
-            "title": "Nintendo Makes It Clear You Were Never Going to Get a Tariff Refund",
-            "description": "Trump\u2019s tariffs and RAM prices mean you shouldn't expect gaming will get any cheaper.",
-            "url": "https://gizmodo.com/nintendo-makes-it-clear-you-were-never-going-to-get-a-tariff-refund-2000788452",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Donkey-Kong-Switch-2-1-1200x675.jpg",
-            "publishedAt": "2026-07-21T15:30:36Z",
-            "content": "Nintendo doesnt believe customers deserve a cut of Trump\u2019s boneheaded tariff scheme. The Mario maker made it clear in a recent legal filing that it doesnt believe you deserve any money back on spiked\u2026 [+3256 chars]",
+            "author": "Cameron Faulkner",
+            "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+            "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
+            "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T14:56:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
+            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
+            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
+            "publishedAt": "2026-08-10T20:22:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
             "ai_score": 5
         },
         {
@@ -311,6 +283,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Meredith Haggerty",
+            "title": "Trying to explain One Night Only\u2019s tech-enforced sex dystopia",
+            "description": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditio\u2026",
+            "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/image-7.png?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+            "publishedAt": "2026-08-05T21:09:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nby\r\nMeredit\u2026 [+6762 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -321,6 +307,20 @@
             "urlToImage": "https://media.wired.com/photos/6a57a68bb4d9b6f52c4df6bc/191:100/w_1280,c_limit/Purple-City%20Driving-1-1_1_resized.jpg",
             "publishedAt": "2026-07-16T12:09:08Z",
             "content": "As you walk into XPeng's Munich showcase event, you're greeted by, I kid you not, a giant wooden Trojan horse. Not exactly a subtle message from a Chinese brand announcing its first-ever global relea\u2026 [+2752 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
+            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
+            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
+            "publishedAt": "2026-07-17T16:45:27Z",
+            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
             "ai_score": 5
         },
         {
@@ -706,20 +706,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "Keychron\u2019s wireless Hall effect keyboard is back to its lowest price",
-            "description": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don\u2019t need to compromise on quality to get a good deal. Keychron\u2019s aluminum-clad K2 HE with a 75-percent layout is down to $103.99 (was $130) at Amazon, wh\u2026",
-            "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/keychron.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T14:27:23Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found a good gaming laptop for $1,099, plus deals on Sonys latest wired and wireless InZone headsets.\r\nWe also found a good gaming laptop for $1,099, plu\u2026 [+4534 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Emma Roth",
             "title": "The fight against AI data centers is just beginning",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it\u2026",
@@ -755,6 +741,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skelly1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
             "publishedAt": "2026-07-14T15:05:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can use your smartphone to speak through Skellys animated mouth and interact with trick-or-treaters.\r\nYou can use your smartphone to speak through Skellys an\u2026 [+2844 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Keychron\u2019s wireless Hall effect keyboard is back to its lowest price",
+            "description": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don\u2019t need to compromise on quality to get a good deal. Keychron\u2019s aluminum-clad K2 HE with a 75-percent layout is down to $103.99 (was $130) at Amazon, wh\u2026",
+            "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/keychron.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T14:27:23Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found a good gaming laptop for $1,099, plus deals on Sonys latest wired and wireless InZone headsets.\r\nWe also found a good gaming laptop for $1,099, plu\u2026 [+4534 chars]",
             "ai_score": 5
         },
         {
