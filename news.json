@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12 20:48",
+    "last_updated": "2026-08-12 21:49",
     "articles": [
         {
             "source": {
@@ -1081,20 +1081,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Sarah E. Needleman",
-            "title": "IBM's CEO just showed what taking accountability looks like",
-            "description": "Current and former tech leaders say the CEO's candid response to the tech giant's disappointing quarter offers a lesson for handling bad news.",
-            "url": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-facing-leadership-test-accountability-2026-7#article",
-            "urlToImage": "https://i.insider.com/6a56b562ee481f523866ed90?width=1200&format=jpeg",
-            "publishedAt": "2026-07-15T09:56:01Z",
-            "content": "IBM CEO Arvind Krishna is widely credited with turning the company around since becoming CEO in 2020.Alex Wong/Getty Images\r\n<ul><li>IBM CEO Arvind Krishna owned the shortfall that triggered the stoc\u2026 [+4511 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -1105,6 +1091,20 @@
             "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
             "publishedAt": "2026-07-24T15:00:00Z",
             "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah E. Needleman",
+            "title": "IBM's CEO just showed what taking accountability looks like",
+            "description": "Current and former tech leaders say the CEO's candid response to the tech giant's disappointing quarter offers a lesson for handling bad news.",
+            "url": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-facing-leadership-test-accountability-2026-7#article",
+            "urlToImage": "https://i.insider.com/6a56b562ee481f523866ed90?width=1200&format=jpeg",
+            "publishedAt": "2026-07-15T09:56:01Z",
+            "content": "IBM CEO Arvind Krishna is widely credited with turning the company around since becoming CEO in 2020.Alex Wong/Getty Images\r\n<ul><li>IBM CEO Arvind Krishna owned the shortfall that triggered the stoc\u2026 [+4511 chars]",
             "ai_score": 5
         },
         {
