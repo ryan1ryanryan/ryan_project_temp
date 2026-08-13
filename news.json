@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-13 22:46",
+    "last_updated": "2026-08-13 23:45",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
-            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T12:49:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -160,13 +146,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "The wireless headset that gets hot-swappable batteries right",
-            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
-            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T19:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "author": "Emma Roth",
+            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
+            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T12:49:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
             "ai_score": 5
         },
         {
@@ -181,6 +167,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/iBuyPower-Trace-X-PC-desktop-review-03-1200x675.jpg",
             "publishedAt": "2026-07-31T14:55:05Z",
             "content": "Have you already given up on modern GPU prices? If not, you may soon have no choice but to accept that this generation of graphics cards is completely unaffordable. As if PC gaming couldnt get any mo\u2026 [+3255 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The wireless headset that gets hot-swappable batteries right",
+            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
+            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-20T19:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
             "ai_score": 5
         },
         {
