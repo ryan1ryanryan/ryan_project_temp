@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13 20:47",
+    "last_updated": "2026-08-13 21:49",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -535,20 +535,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Alex Valdes",
-            "title": "Back-to-School Shoppers Are Using More Tech Tools but Buying Fewer Tech Goods",
-            "description": "A survey found that parents are increasingly going online to find deals in a tough economy.",
-            "url": "https://www.cnet.com/tech/computing/back-to-school-shoppers-buying-less-tech/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/ca0e77778003740c1f5cc3931553744f38116254/hub/2024/07/30/76c7b206-aa73-4b0a-9aef-9306985d2907/gettyimages-1302654529.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-07-12T21:13:32Z",
-            "content": "Back to school doesn't mean back to tech upgrades. As inflation rises without wage growth matching it, and consumer confidence worsens, parents are going online more to find deals, even if they aren'\u2026 [+3857 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -927,20 +913,6 @@
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Get inside access to the new super-elite: The tech billionaires",
-            "description": "A new breed of tech billionaires are building their own countries, replacing democracy as we know it and targeting the global financial system. Matt Shea goes inside their world.",
-            "url": "https://www.bbc.co.uk/iplayer/episode/m002z1j2/the-tech-billionaire-takeover?at_mid=CPeN9Np5Nr&at_campaign=The_Tech_Billionaire_Takeover&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1j2&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Tech_Billionaire_Takeover&at_bbc_team=BBC",
-            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0ny0sl7.jpg",
-            "publishedAt": "2026-07-11T23:01:00Z",
-            "content": "A new breed of tech billionaires are building their own countries, replacing democracy as we know it and targeting the global financial system. Matt Shea goes inside their world.\u00a0More",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1025,6 +997,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters, Victoria Song, Nathan Edwards, Jacob Kastrenakes, David Imel",
+            "title": "Made by Google 2026 live blog: Let\u2019s watch Trevor Noah talk about the Pixel 11",
+            "description": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show wa\u2026",
+            "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+            "publishedAt": "2026-08-12T21:33:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMade by Google 2026 live blog: Lets watch Trevor Noah talk about the Pixel 11\r\nWere ready for some bad jokes during Googles celebrity-packed live show.\r\nby\r\nJay \u2026 [+5364 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
@@ -1067,20 +1053,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Tim Paradis",
-            "title": "Welcome to the era of the forever layoff",
-            "description": "Tech layoffs are becoming a recurring feature of the AI era as companies repeatedly reshape their workforces while investing in the tech.",
-            "url": "https://www.businessinsider.com/why-tech-companies-keep-doing-layoffs-ai-2026-7#article",
-            "urlToImage": "https://i.insider.com/6a513336daf4d560957bf1c4?width=1200&format=jpeg",
-            "publishedAt": "2026-07-12T09:47:01Z",
-            "content": "For some tech firms, layoffs are a way of \"continuous tuning,\" as business priorities change.Getty Images; Tyler Le/BI\r\n<ul><li>Tech layoffs are a recurring feature of the AI era.</li><li>Companies a\u2026 [+6407 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -1119,6 +1091,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/skyrover-versus-air-photography.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-07-20T22:21:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nby\r\nSean HollisterClose\r\nPosts \u2026 [+4580 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
+            "description": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs, and an impressive range\u2026",
+            "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268670_Framework_Laptop_13_Pro_laptop_review_ADiBenedetto_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T14:10:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Framework Laptop 13 Pro has it all. But RAMageddon spiked its price.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics\u2026 [+15366 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Iran Claims It \u2018Destroyed\u2019 Amazon\u2019s Central Data Infrastructure In Bahrain",
+            "description": "This marks the fifth time Iranian forces have claimed to target Amazon facilities in the Middle East.",
+            "url": "https://gizmodo.com/iran-claims-it-destroyed-amazons-central-data-infrastructure-in-bahrain-2000788439",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2265509700-1200x675.jpg",
+            "publishedAt": "2026-07-21T17:45:34Z",
+            "content": "Iranian forces destroyed Amazon\u2019s central data infrastructure in Bahrain, according to state-aligned media reports.\r\nIran\u2019s Islamic Revolutionary Guard Corps claims to have targeted and destroyed the\u2026 [+2890 chars]",
             "ai_score": 5
         }
     ]
