@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-14 02:01",
+    "last_updated": "2026-08-14 04:18",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Future of Tech Is Owning Nothing",
+            "description": "Apple\u2019s lease program is just the beginning.",
+            "url": "https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
+            "publishedAt": "2026-07-29T20:50:45Z",
+            "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,20 +41,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Future of Tech Is Owning Nothing",
-            "description": "Apple\u2019s lease program is just the beginning.",
-            "url": "https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
-            "publishedAt": "2026-07-29T20:50:45Z",
-            "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
             "ai_score": 5
         },
         {
@@ -801,20 +801,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "The EU Just Took A Major Step Towards A \u201cSocial Media Plus\u201d Ban For Minors",
-            "description": "The ban will impact beyond just social media, EU authorities said.",
-            "url": "https://gizmodo.com/the-eu-just-took-a-major-step-towards-a-social-media-plus-ban-for-minors-2000784876",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2285277287-1200x675.jpg",
-            "publishedAt": "2026-07-13T20:30:02Z",
-            "content": "The European Union is months away from a final bill for a social media ban that is looking likely to be one of the strictest introduced thus far worldwide.\r\nOn Monday, European Commission President U\u2026 [+5676 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -829,16 +815,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Sean Hollister",
-            "title": "Werewolf transformed my old gadgets into USB-C powered ones",
-            "description": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos\u2026 or want to play Japanese SNES games with friends\u2026 or lose the AC adapter for my old external hard disk\u2026 I can now power them with a USB battery instead. None of them came with U\u2026",
-            "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-werewolf-vflex-sean-hollister-1-6.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T14:06:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+6640 chars]",
+            "author": "Ece Yildirim",
+            "title": "The EU Just Took A Major Step Towards A \u201cSocial Media Plus\u201d Ban For Minors",
+            "description": "The ban will impact beyond just social media, EU authorities said.",
+            "url": "https://gizmodo.com/the-eu-just-took-a-major-step-towards-a-social-media-plus-ban-for-minors-2000784876",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2285277287-1200x675.jpg",
+            "publishedAt": "2026-07-13T20:30:02Z",
+            "content": "The European Union is months away from a final bill for a social media ban that is looking likely to be one of the strictest introduced thus far worldwide.\r\nOn Monday, European Commission President U\u2026 [+5676 chars]",
             "ai_score": 5
         },
         {
@@ -853,6 +839,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
             "publishedAt": "2026-07-23T16:51:40Z",
             "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Werewolf transformed my old gadgets into USB-C powered ones",
+            "description": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos\u2026 or want to play Japanese SNES games with friends\u2026 or lose the AC adapter for my old external hard disk\u2026 I can now power them with a USB battery instead. None of them came with U\u2026",
+            "url": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-werewolf-vflex-sean-hollister-1-6.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T14:06:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+6640 chars]",
             "ai_score": 5
         },
         {
