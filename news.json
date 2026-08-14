@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-14 20:35",
+    "last_updated": "2026-08-14 21:29",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -227,20 +227,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Scott Gilbertson",
-            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
-            "publishedAt": "2026-07-26T11:09:00Z",
-            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -251,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T21:29:22Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThis discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.\r\nThis discounted gaming keyboard features cus\u2026 [+2489 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+            "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+            "urlToImage": "https://media.wired.com/photos/6a656c3b058eb027ca64bec5/191:100/w_1280,c_limit/The-Best-Backpacking-Sleeping-Pads.jpg",
+            "publishedAt": "2026-07-26T11:09:00Z",
+            "content": "Here are some general guidelines to keep in mind when shopping for a new sleeping pad. When backpacking, we suggest sticking with inflatable pads or self-inflating pads (though these are generally he\u2026 [+2342 chars]",
             "ai_score": 5
         },
         {
@@ -419,6 +419,20 @@
             "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
             "publishedAt": "2026-07-17T10:00:00Z",
             "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Netflix is closing two game studios",
+            "description": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and\u2026",
+            "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-13T20:53:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNight School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games.\r\nNight School Studio and Moonloot Games are being shu\u2026 [+2679 chars]",
             "ai_score": 5
         },
         {
@@ -1091,20 +1105,6 @@
             "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
             "publishedAt": "2026-07-24T15:00:00Z",
             "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Sarah E. Needleman",
-            "title": "IBM's CEO just showed what taking accountability looks like",
-            "description": "Current and former tech leaders say the CEO's candid response to the tech giant's disappointing quarter offers a lesson for handling bad news.",
-            "url": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-facing-leadership-test-accountability-2026-7#article",
-            "urlToImage": "https://i.insider.com/6a56b562ee481f523866ed90?width=1200&format=jpeg",
-            "publishedAt": "2026-07-15T09:56:01Z",
-            "content": "IBM CEO Arvind Krishna is widely credited with turning the company around since becoming CEO in 2020.Alex Wong/Getty Images\r\n<ul><li>IBM CEO Arvind Krishna owned the shortfall that triggered the stoc\u2026 [+4511 chars]",
             "ai_score": 5
         }
     ]
