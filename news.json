@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-08-14 18:58",
+    "last_updated": "2026-08-14 19:54",
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Kyle Barr",
-            "title": "Graphics Cards Could Get Even More Expensive, and It\u2019s Not Just Nvidia",
-            "description": "At this point, PC gaming is becoming a pure luxury.",
-            "url": "https://gizmodo.com/graphics-cards-could-get-even-more-expensive-and-its-not-just-nvidia-2000793403",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/iBuyPower-Trace-X-PC-desktop-review-03-1200x675.jpg",
-            "publishedAt": "2026-07-31T14:55:05Z",
-            "content": "Have you already given up on modern GPU prices? If not, you may soon have no choice but to accept that this generation of graphics cards is completely unaffordable. As if PC gaming couldnt get any mo\u2026 [+3255 chars]",
+            "author": "Stevie Bonifield",
+            "title": "4GB graphics cards are back",
+            "description": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASR\u2026",
+            "url": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-28T15:52:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
             "ai_score": 8
         },
         {
@@ -27,20 +27,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "4GB graphics cards are back",
-            "description": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASR\u2026",
-            "url": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-28T15:52:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
             "ai_score": 5
         },
         {
@@ -181,6 +167,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-20T19:18:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Graphics Cards Could Get Even More Expensive, and It\u2019s Not Just Nvidia",
+            "description": "At this point, PC gaming is becoming a pure luxury.",
+            "url": "https://gizmodo.com/graphics-cards-could-get-even-more-expensive-and-its-not-just-nvidia-2000793403",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/iBuyPower-Trace-X-PC-desktop-review-03-1200x675.jpg",
+            "publishedAt": "2026-07-31T14:55:05Z",
+            "content": "Have you already given up on modern GPU prices? If not, you may soon have no choice but to accept that this generation of graphics cards is completely unaffordable. As if PC gaming couldnt get any mo\u2026 [+3255 chars]",
             "ai_score": 5
         },
         {
