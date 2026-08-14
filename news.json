@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-14 11:47",
+    "last_updated": "2026-08-14 13:10",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
+            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
+            "publishedAt": "2026-08-03T11:00:00Z",
+            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,20 +55,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
             "publishedAt": "2026-07-29T20:50:45Z",
             "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matthew S. Smith",
-            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
-            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
-            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
-            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
-            "publishedAt": "2026-08-03T11:00:00Z",
-            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
             "ai_score": 5
         },
         {
@@ -157,20 +157,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Graphics Cards Could Get Even More Expensive, and It\u2019s Not Just Nvidia",
-            "description": "At this point, PC gaming is becoming a pure luxury.",
-            "url": "https://gizmodo.com/graphics-cards-could-get-even-more-expensive-and-its-not-just-nvidia-2000793403",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/iBuyPower-Trace-X-PC-desktop-review-03-1200x675.jpg",
-            "publishedAt": "2026-07-31T14:55:05Z",
-            "content": "Have you already given up on modern GPU prices? If not, you may soon have no choice but to accept that this generation of graphics cards is completely unaffordable. As if PC gaming couldnt get any mo\u2026 [+3255 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -181,6 +167,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-20T19:18:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Graphics Cards Could Get Even More Expensive, and It\u2019s Not Just Nvidia",
+            "description": "At this point, PC gaming is becoming a pure luxury.",
+            "url": "https://gizmodo.com/graphics-cards-could-get-even-more-expensive-and-its-not-just-nvidia-2000793403",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/iBuyPower-Trace-X-PC-desktop-review-03-1200x675.jpg",
+            "publishedAt": "2026-07-31T14:55:05Z",
+            "content": "Have you already given up on modern GPU prices? If not, you may soon have no choice but to accept that this generation of graphics cards is completely unaffordable. As if PC gaming couldnt get any mo\u2026 [+3255 chars]",
             "ai_score": 5
         },
         {
@@ -1025,20 +1025,6 @@
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
-            "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
-            "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg",
-            "publishedAt": "2026-08-01T21:03:42Z",
-            "content": "Back at Yebra's centre, the team's work is particularly timely with weather forecasters predicting a super El Nino this summer - which could increase the probability of extreme heat, drought and bush\u2026 [+1853 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1049,6 +1035,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/06/DataCenterPhoto-1200x675.jpeg",
             "publishedAt": "2026-08-10T20:45:37Z",
             "content": "Tech companies are spending many billions of dollars on massive data center projects across the country amid the ongoing AI boom, but not everyone is willing to sell.\r\nAn 82-year-old Kentucky farmer \u2026 [+3663 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+            "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+            "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg",
+            "publishedAt": "2026-08-01T21:03:42Z",
+            "content": "Back at Yebra's centre, the team's work is particularly timely with weather forecasters predicting a super El Nino this summer - which could increase the probability of extreme heat, drought and bush\u2026 [+1853 chars]",
             "ai_score": 5
         },
         {
@@ -1105,20 +1105,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/skyrover-versus-air-photography.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-07-20T22:21:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nby\r\nSean HollisterClose\r\nPosts \u2026 [+4580 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
-            "description": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs, and an impressive range\u2026",
-            "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268670_Framework_Laptop_13_Pro_laptop_review_ADiBenedetto_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T14:10:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Framework Laptop 13 Pro has it all. But RAMageddon spiked its price.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics\u2026 [+15366 chars]",
             "ai_score": 5
         }
     ]
