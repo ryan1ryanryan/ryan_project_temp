@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-14 04:18",
+    "last_updated": "2026-08-14 06:18",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Future of Tech Is Owning Nothing",
-            "description": "Apple\u2019s lease program is just the beginning.",
-            "url": "https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
-            "publishedAt": "2026-07-29T20:50:45Z",
-            "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Future of Tech Is Owning Nothing",
+            "description": "Apple\u2019s lease program is just the beginning.",
+            "url": "https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
+            "publishedAt": "2026-07-29T20:50:45Z",
+            "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
             "ai_score": 5
         },
         {
