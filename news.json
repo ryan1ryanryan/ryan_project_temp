@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-15 12:41",
+    "last_updated": "2026-08-15 13:34",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -899,20 +899,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Nintendo beats earnings thanks to US tariff refunds it won\u2019t share with gamers",
-            "description": "Nintendo has smashed its first-quarter earnings estimates for the fiscal year, bolstered by strong games sales and US tariff refunds, though its customers likely won't receive anything from the latter. In its latest financial results, Nintendo reports that op\u2026",
-            "url": "https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKR001_NINTENDO_SWITCH_3_F.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-06T10:58:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOperating profit increased by more than 150 percent, partially because of a $300 million tariff refund.\r\nOperating profit increased by more than 150 percent, par\u2026 [+3081 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -923,6 +909,20 @@
             "urlToImage": "https://s.yimg.com/lo/mysterio/api/08b56a31e485e11e742b96e5a56c615841052c4642fca38d27d992d06fc91860/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1e11eed357185943661986c28410a5eb",
             "publishedAt": "2026-08-03T11:18:15Z",
             "content": "Microsoft has increased the price of Xbox consoles worldwide, citing rising memory and storage chip costs.\r\nIts premium Series X console with a disc drive will now cost \u00a3670, when it previously retai\u2026 [+2444 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Nintendo beats earnings thanks to US tariff refunds it won\u2019t share with gamers",
+            "description": "Nintendo has smashed its first-quarter earnings estimates for the fiscal year, bolstered by strong games sales and US tariff refunds, though its customers likely won't receive anything from the latter. In its latest financial results, Nintendo reports that op\u2026",
+            "url": "https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKR001_NINTENDO_SWITCH_3_F.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-06T10:58:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOperating profit increased by more than 150 percent, partially because of a $300 million tariff refund.\r\nOperating profit increased by more than 150 percent, par\u2026 [+3081 chars]",
             "ai_score": 5
         },
         {
