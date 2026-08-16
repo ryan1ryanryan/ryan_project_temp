@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-16 11:24",
+    "last_updated": "2026-08-16 12:43",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
+            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
+            "publishedAt": "2026-08-03T11:00:00Z",
+            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,20 +55,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
             "publishedAt": "2026-07-29T20:50:45Z",
             "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matthew S. Smith",
-            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
-            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
-            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
-            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
-            "publishedAt": "2026-08-03T11:00:00Z",
-            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
             "ai_score": 5
         },
         {
@@ -157,20 +157,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The wireless headset that gets hot-swappable batteries right",
-            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
-            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T19:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -181,6 +167,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/iBuyPower-Trace-X-PC-desktop-review-03-1200x675.jpg",
             "publishedAt": "2026-07-31T14:55:05Z",
             "content": "Have you already given up on modern GPU prices? If not, you may soon have no choice but to accept that this generation of graphics cards is completely unaffordable. As if PC gaming couldnt get any mo\u2026 [+3255 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The wireless headset that gets hot-swappable batteries right",
+            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
+            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-20T19:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
             "ai_score": 5
         },
         {
@@ -580,6 +580,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Robert Hart",
+            "title": "Rogue AI aren\u2019t science fiction anymore",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
+            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-14T15:16:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRogue AI arent science fiction anymore\r\nFor years, fears about AI systems slipping human control were dismissed as speculative. \r\nby\r\nRobert HartClose\r\nPosts fro\u2026 [+12676 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Emma Roth",
             "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
             "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
@@ -727,20 +741,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-07-16T12:06:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA.\r\nThe EU says Go\u2026 [+4902 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Samsung\u2019s new foldable display is harder to crease and damage",
-            "description": "Samsung has unveiled a new flexible display technology for foldable phones that's designed to be slimmer, more durable, and less prone to creasing. The Flex Titanium tech is the culmination of everything that the company has learned over seven generations of \u2026",
-            "url": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257844_Samsung_Unpacked_July_2025_AJohnson_0005.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-            "publishedAt": "2026-07-15T10:19:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nThe Flex Titanium display tech is slim, strong, and reduces crease visibility.\r\nb\u2026 [+3522 chars]",
             "ai_score": 5
         },
         {
@@ -1053,20 +1053,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Sarah E. Needleman",
-            "title": "IBM's CEO just showed what taking accountability looks like",
-            "description": "Current and former tech leaders say the CEO's candid response to the tech giant's disappointing quarter offers a lesson for handling bad news.",
-            "url": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-facing-leadership-test-accountability-2026-7#article",
-            "urlToImage": "https://i.insider.com/6a56b562ee481f523866ed90?width=1200&format=jpeg",
-            "publishedAt": "2026-07-15T09:56:01Z",
-            "content": "IBM CEO Arvind Krishna is widely credited with turning the company around since becoming CEO in 2020.Alex Wong/Getty Images\r\n<ul><li>IBM CEO Arvind Krishna owned the shortfall that triggered the stoc\u2026 [+4511 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1105,6 +1091,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2265509700-1200x675.jpg",
             "publishedAt": "2026-07-21T17:45:34Z",
             "content": "Iranian forces destroyed Amazon\u2019s central data infrastructure in Bahrain, according to state-aligned media reports.\r\nIran\u2019s Islamic Revolutionary Guard Corps claims to have targeted and destroyed the\u2026 [+2890 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "EA VP Urges Companies To Think About In-Game Ads During Development: \u2018That\u2019s A Huge Opportunity\u2019",
+            "description": "The last un-monetized frontier of gaming: virtual billboards",
+            "url": "https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/07/image-92-1200x675.jpg",
+            "publishedAt": "2026-07-16T14:30:56Z",
+            "content": "Google runs on ads. Facebook runs on ads. Apple runs on fees collected from its App Store which runs on ads. Why not turn gaming into the next great ad-driven business? That\u2019s the logical conclusion \u2026 [+3595 chars]",
             "ai_score": 5
         }
     ]
