@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-08-17 21:31",
+    "last_updated": "2026-08-17 22:28",
     "articles": [
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Cameron Faulkner",
-            "title": "The wireless headset that gets hot-swappable batteries right",
-            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
-            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T19:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "author": "Matt Burgess",
+            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
+            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
+            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
+            "publishedAt": "2026-07-17T10:00:00Z",
+            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
             "ai_score": 8
         },
         {
@@ -167,6 +167,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-10T12:49:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The wireless headset that gets hot-swappable batteries right",
+            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
+            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-20T19:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
             "ai_score": 5
         },
         {
@@ -391,20 +405,6 @@
             "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
             "publishedAt": "2026-08-04T09:21:11Z",
             "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent\u2026 [+3804 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matt Burgess",
-            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
-            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
-            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
-            "publishedAt": "2026-07-17T10:00:00Z",
-            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
             "ai_score": 5
         },
         {
