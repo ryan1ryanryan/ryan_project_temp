@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-18 16:36",
+    "last_updated": "2026-08-18 17:31",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "4GB graphics cards are back",
-            "description": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASR\u2026",
-            "url": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-28T15:52:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "4GB graphics cards are back",
+            "description": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASR\u2026",
+            "url": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-28T15:52:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
             "ai_score": 5
         },
         {
@@ -314,20 +314,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "James Pero",
-            "title": "Asus ROG Kithara Review: A Huge Gaming Headset With Even Bigger Sound",
-            "description": "Asus ROG's Kithara gaming headset is as big as it is expensive, but it does deliver excellent sound.",
-            "url": "https://gizmodo.com/asus-rog-kithara-review-a-huge-gaming-headset-with-even-bigger-sound-2000786042",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/kithara-FI-1200x675.jpg",
-            "publishedAt": "2026-07-17T16:45:27Z",
-            "content": "If there\u2019s one thing this past year has taught me about gaming hardware, it\u2019s that headsets are going premium. Sony has its Inzone H9 II, which goes big on hi-fi sound and ANC but also has an MSRP of\u2026 [+9670 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Kyle Barr",
             "title": "Samsung Odyssey G80HS Monitor Review: 6K Isn\u2019t the Future of Gaming",
             "description": "Is 6K the next 4K? Only if you care about the most minute details you can see on a paltry few PC titles.",
@@ -335,20 +321,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Samsung-Odyssey-G8-G80HS-review-02-1200x675.jpg",
             "publishedAt": "2026-08-10T18:05:15Z",
             "content": "Lets get the main thing out of the way: You do not need a 6K monitor for gaming.\r\nI spent so many hours with the recently released Samsung Odyssey G80HS 6K monitor with the few games available that a\u2026 [+12549 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "The future of physical games is not looking great",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\u2026",
-            "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-17T17:10:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayers and game preservationists might need to prepare for a world without discs.\r\nPlayers and game preservationists might need to prepare for a world without d\u2026 [+10335 chars]",
             "ai_score": 5
         },
         {
@@ -405,20 +377,6 @@
             "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
             "publishedAt": "2026-08-04T09:21:11Z",
             "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent\u2026 [+3804 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matt Burgess",
-            "title": "San Francisco Demands Apple and Google Delete AI \u2018Nudify\u2019 Apps From App Stores",
-            "description": "The City Attorney\u2019s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 \u201cface-swap\u201d apps that are overwhelmingly used to target women and girls.",
-            "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-            "urlToImage": "https://media.wired.com/photos/6a59432865c28720eb4e8366/191:100/w_1280,c_limit/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
-            "publishedAt": "2026-07-17T10:00:00Z",
-            "content": "Apple and Google have been ordered to take down apps that can nudify or undress people and told that they must stop profiting from the harmful technology, according to cease-and-desist letters sent t\u2026 [+3493 chars]",
             "ai_score": 5
         },
         {
@@ -759,20 +717,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
-            "description": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg. Apple has proposed several offers and is now in early settlement talks with the DOJ.\n\n\n\n\n\nThe DOJ sued Apple for antitrust violations in 2024 as part of an\u2026",
-            "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
-            "urlToImage": "https://images.macrumors.com/t/4pW4bOoAEoSVo5KIJv-hK1K2H1I=/2500x/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
-            "publishedAt": "2026-07-17T14:50:48Z",
-            "content": "Apple is working to settle an antitrust lawsuit with the U.S. Department of Justice, reports Bloomberg. Apple has proposed several offers and is now in early settlement talks with the DOJ.\r\nThe DOJ s\u2026 [+823 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -909,20 +853,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKR001_NINTENDO_SWITCH_3_F.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-06T10:58:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOperating profit increased by more than 150 percent, partially because of a $300 million tariff refund.\r\nOperating profit increased by more than 150 percent, par\u2026 [+3081 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Bethesda teases Fallout 5 soon after Xbox\u2019s mass layoffs",
-            "description": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Entertainment. Now, in an attempt to show that things are still running fine, the co\u2026",
-            "url": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/FalloutS2FLimage3_3000.jpg?quality=90&strip=all&crop=10.049166666667%2C0%2C79.901666666667%2C100&w=1200",
-            "publishedAt": "2026-07-17T14:00:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts gaming division attempts to share some good news amid the fallout of its large-scale reset.\r\nMicrosofts gaming division attempts to share some good ne\u2026 [+3967 chars]",
             "ai_score": 5
         },
         {
@@ -1077,6 +1007,76 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2265509700-1200x675.jpg",
             "publishedAt": "2026-07-21T17:45:34Z",
             "content": "Iranian forces destroyed Amazon\u2019s central data infrastructure in Bahrain, according to state-aligned media reports.\r\nIran\u2019s Islamic Revolutionary Guard Corps claims to have targeted and destroyed the\u2026 [+2890 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Justin Pot",
+            "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How",
+            "description": "There are endless ways to record and transcribe your virtual meetings with AI. Here\u2019s an option that\u2019s free and open source.",
+            "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+            "urlToImage": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/191:100/w_1280,c_limit/FreeTranscribe.jpg",
+            "publishedAt": "2026-08-09T10:30:00Z",
+            "content": "It's perhaps the least hyped, and most useful, feature of the AI age: transcription. As a young journalist, I dreamed of a computer that could turn recordings into text. Now we have that, and it's am\u2026 [+1831 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "Running DOOM on a Cheap 104-in-One Handheld",
+            "description": "Taking a break from putting DOOM on devices that absolutely were never conceived for use as gaming devices, [Aaron Christophel] recently got enticed by some cheapo handheld gaming systems at \u2026read more",
+            "url": "https://hackaday.com/2026/08/11/running-doom-on-a-cheap-104-in-one-handheld/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/08/doom-ingame-on-hardware_aaron_christophel_github.jpg",
+            "publishedAt": "2026-08-11T11:00:18Z",
+            "content": "Taking a break from putting DOOM on devices that absolutely were never conceived for use as gaming devices, [Aaron Christophel] recently got enticed by some cheapo handheld gaming systems at his loca\u2026 [+1406 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "John Walker",
+            "title": "Devolver Digital Wants To Go Private Again Following A 95 Percent Collapse In Its Share Price",
+            "description": "The Skate Story and Serious Sam publisher blames the volatile gaming market",
+            "url": "https://kotaku.com/devolver-digital-stock-exchange-share-price-baby-steps-skate-story-2000722147",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/08/talos-princple-2.jpg",
+            "publishedAt": "2026-08-06T13:30:33Z",
+            "content": "It seemed like an odd decision at the time, when indie publisher Devolver (Hotline Miami,\u00a0Talos Principle,\u00a0Baby Steps) announced it was going to launch an IPO. Listing itself on the London Stock Exch\u2026 [+3260 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Rebekah Valentine",
+            "title": "Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now",
+            "description": "With the closing of the market today comes the second-biggest acquisition in gaming history",
+            "url": "https://kotaku.com/electronic-arts-officially-belongs-saudi-arabia-jared-kushner-now-2000721666",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/08/EA-logo-generic-red-1200x675.jpg",
+            "publishedAt": "2026-08-04T20:19:04Z",
+            "content": "Electronic Arts has officially been sold for $55 billion, with the company going private in the second-largest deal in gaming history.\r\nEA\u2019s sale goes to a collective consisting of the Saudi Arabia P\u2026 [+1807 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelly Burch",
+            "title": "My parents thought I was wasting my life playing video games. I became a millionaire by 27.",
+            "description": "Dima Beseda says his parents worried about how much he played World of Warcraft. He later turned gaming into a career and became a millionaire.",
+            "url": "https://www.businessinsider.com/college-dropout-gaming-business-millionaire-2026-8#article",
+            "urlToImage": "https://i.insider.com/6a7f2cbae3df4d0cbe686059?width=1200&format=jpeg",
+            "publishedAt": "2026-08-17T12:18:01Z",
+            "content": "Dima Beseda became a millionaire by age 27.Courtesy of Dima Beseda\r\n<ul><li>Dima Beseda loved how games like \"World of Warcraft\" gave him clear goals and objectives.</li><li>He skipped university to \u2026 [+3521 chars]",
             "ai_score": 5
         }
     ]
