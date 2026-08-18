@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18 21:28",
+    "last_updated": "2026-08-18 22:28",
     "articles": [
         {
             "source": {
@@ -731,20 +731,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Ben Shimkus",
-            "title": "Roblox wants kids to vibe-code their own video games",
-            "description": "Roblox is testing Build, an AI tool that turns a written prompt into a playable video game inside its mobile app.",
-            "url": "https://www.businessinsider.com/roblox-kids-vibe-code-video-games-2026-7#article",
-            "urlToImage": "https://i.insider.com/6a5a68b7ce52cb26b8390c9e?width=1200&format=jpeg",
-            "publishedAt": "2026-07-17T20:07:25Z",
-            "content": "Gaming platform Roblox says it will let users vibe-code a new game through their phones.Hannah Peters/Getty Images\r\n<ul><li>Roblox announced Build, its AI-powered, in-phone-app tool.</li><li>Users ca\u2026 [+1804 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1077,6 +1063,20 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/08/EA-logo-generic-red-1200x675.jpg",
             "publishedAt": "2026-08-04T20:19:04Z",
             "content": "Electronic Arts has officially been sold for $55 billion, with the company going private in the second-largest deal in gaming history.\r\nEA\u2019s sale goes to a collective consisting of the Saudi Arabia P\u2026 [+1807 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelly Burch",
+            "title": "My parents thought I was wasting my life playing video games. I became a millionaire by 27.",
+            "description": "Dima Beseda says his parents worried about how much he played World of Warcraft. He later turned gaming into a career and became a millionaire.",
+            "url": "https://www.businessinsider.com/college-dropout-gaming-business-millionaire-2026-8#article",
+            "urlToImage": "https://i.insider.com/6a7f2cbae3df4d0cbe686059?width=1200&format=jpeg",
+            "publishedAt": "2026-08-17T12:18:01Z",
+            "content": "Dima Beseda became a millionaire by age 27.Courtesy of Dima Beseda\r\n<ul><li>Dima Beseda loved how games like \"World of Warcraft\" gave him clear goals and objectives.</li><li>He skipped university to \u2026 [+3521 chars]",
             "ai_score": 5
         }
     ]
