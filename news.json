@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-18 22:28",
+    "last_updated": "2026-08-18 23:26",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Xbox Revenue Dropped $1.7 Billion Last Year",
+            "description": "Microsoft's gaming division had a very bad quarter",
+            "url": "https://kotaku.com/xbox-revenue-dropped-1-7-billion-last-year-2000720316",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-green.jpg",
+            "publishedAt": "2026-07-29T21:01:34Z",
+            "content": "Microsoft reported a huge jump in profits last quarter, but not in its gaming division. Xbox trailed the tech giant\u2019s other divisions with a double-digit decline in revenue year-over-year. The number\u2026 [+1988 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -489,20 +503,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b730/live/951cf6c0-9248-11f1-b2ab-0dd01740f9f6.jpg",
             "publishedAt": "2026-08-08T01:40:21Z",
             "content": "Luckily I'm out with my photography-loving best friend, who helps adjust the settings on the camera and gets snapping while I'm otherwise engaged on the dancefloor.\r\nThe mere sight of us pulling out \u2026 [+1600 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Xbox Revenue Dropped $1.7 Billion Last Year",
-            "description": "Microsoft's gaming division had a very bad quarter",
-            "url": "https://kotaku.com/xbox-revenue-dropped-1-7-billion-last-year-2000720316",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-green.jpg",
-            "publishedAt": "2026-07-29T21:01:34Z",
-            "content": "Microsoft reported a huge jump in profits last quarter, but not in its gaming division. Xbox trailed the tech giant\u2019s other divisions with a double-digit decline in revenue year-over-year. The number\u2026 [+1988 chars]",
             "ai_score": 5
         },
         {
