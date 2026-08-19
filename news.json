@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-08-19 01:19",
+    "last_updated": "2026-08-19 03:01",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "4GB graphics cards are back",
-            "description": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASR\u2026",
-            "url": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-28T15:52:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matthew S. Smith",
-            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
-            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
-            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
-            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
-            "publishedAt": "2026-08-03T11:00:00Z",
-            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "4GB graphics cards are back",
+            "description": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASR\u2026",
+            "url": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-28T15:52:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
             "ai_score": 5
         },
         {
@@ -55,6 +41,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
             "publishedAt": "2026-07-29T20:50:45Z",
             "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
+            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
+            "publishedAt": "2026-08-03T11:00:00Z",
+            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
             "ai_score": 5
         },
         {
@@ -202,20 +202,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
-            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
-            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
-            "publishedAt": "2026-08-10T20:22:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Cameron Faulkner",
             "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
             "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
@@ -223,6 +209,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T14:56:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
+            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
+            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
+            "publishedAt": "2026-08-10T20:22:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
             "ai_score": 5
         },
         {
