@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20 18:43",
+    "last_updated": "2026-08-20 19:35",
     "articles": [
         {
             "source": {
@@ -815,20 +815,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Rebekah Valentine",
-            "title": "Xbox Has Started Testing Free Cloud Gaming With Ads: \u2018Advertising Has Existed In Gaming For Decades\u2019",
-            "description": "'Up to two' minutes' worth of ads in exchange for an hour of gaming",
-            "url": "https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
-            "publishedAt": "2026-07-23T16:51:40Z",
-            "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -839,6 +825,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0109.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-24T20:07:12Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts recent attempts to shore up privacy dont seem to be convincing skeptics.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts from this author will\u2026 [+8718 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Rebekah Valentine",
+            "title": "Xbox Has Started Testing Free Cloud Gaming With Ads: \u2018Advertising Has Existed In Gaming For Decades\u2019",
+            "description": "'Up to two' minutes' worth of ads in exchange for an hour of gaming",
+            "url": "https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
+            "publishedAt": "2026-07-23T16:51:40Z",
+            "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
             "ai_score": 5
         },
         {
@@ -986,6 +986,20 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
+            "author": "Kyle Barr",
+            "title": "Valve Leaks Almost Everything About the Steam Frame, Except for the One Big Thing",
+            "description": "Valve will even tell you how to unbox, set up, and wear your headset like a real weirdo.",
+            "url": "https://gizmodo.com/valve-leaks-almost-everything-about-the-steam-frame-except-for-the-one-big-thing-2000800541",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Valve-Steam-Frame-1-1200x675.jpg",
+            "publishedAt": "2026-08-19T19:15:37Z",
+            "content": "The Steam Frame launch is so imminent that Valve accidentally shared a mountain of videos sharing how to unbox, set up, and use the gaming-focused VR headset. Valves design chops already have us exci\u2026 [+3786 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
             "author": "Justin Carter",
             "title": "\u2018Dungeons & Dragons\u2019 Rolls for \u2018Star Wars\u2019 and \u2018World of Warcraft\u2019",
             "description": "The popular TTRPG is doing its own version of 'Universes Beyond,' starting with two properties with some tabletop experience.",
@@ -1067,6 +1081,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Dire Forecast Predicts 39 Million Fewer Consoles Sold If PS6 And Xbox Helix Are $1,000",
+            "description": "Console gaming could continue to shrink if something doesn't change",
+            "url": "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/08/GettyImages-477358798-1200x675.jpg",
+            "publishedAt": "2026-08-19T18:45:31Z",
+            "content": "Cheap consoles mean more players. The Wii proved that as competition brought prices down amid the peak of the Xbox 360 and PS3 generations, and the inverse is likely to be true if Sony and Microsoft \u2026 [+2257 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -1077,34 +1105,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/skyrover-versus-air-photography.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-07-20T22:21:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nXtra and Skyrover might soon be effectively banned from the US.\r\nby\r\nSean HollisterClose\r\nPosts \u2026 [+4580 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
-            "description": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs, and an impressive range\u2026",
-            "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268670_Framework_Laptop_13_Pro_laptop_review_ADiBenedetto_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T14:10:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Framework Laptop 13 Pro has it all. But RAMageddon spiked its price.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics\u2026 [+15366 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Iran Claims It \u2018Destroyed\u2019 Amazon\u2019s Central Data Infrastructure In Bahrain",
-            "description": "This marks the fifth time Iranian forces have claimed to target Amazon facilities in the Middle East.",
-            "url": "https://gizmodo.com/iran-claims-it-destroyed-amazons-central-data-infrastructure-in-bahrain-2000788439",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2265509700-1200x675.jpg",
-            "publishedAt": "2026-07-21T17:45:34Z",
-            "content": "Iranian forces destroyed Amazon\u2019s central data infrastructure in Bahrain, according to state-aligned media reports.\r\nIran\u2019s Islamic Revolutionary Guard Corps claims to have targeted and destroyed the\u2026 [+2890 chars]",
             "ai_score": 5
         }
     ]
