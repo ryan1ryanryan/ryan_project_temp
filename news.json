@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20 14:40",
+    "last_updated": "2026-08-20 15:38",
     "articles": [
         {
             "source": {
@@ -13,21 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Razer\u2019s new keyboards drop the price on powerful gaming features",
-            "description": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. Th\u2026",
-            "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-30T14:18:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Razer\u2019s new keyboards drop the price on powerful gaming features",
+            "description": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. Th\u2026",
+            "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-30T14:18:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
             "ai_score": 5
         },
         {
@@ -580,48 +580,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "AI detectors are creating a new era of distrust",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
-            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T19:23:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Apple trained its own AI model for China with help from Alibaba",
-            "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-14T09:21:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Rogue AI aren\u2019t science fiction anymore",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
-            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-14T15:16:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRogue AI arent science fiction anymore\r\nFor years, fears about AI systems slipping human control were dismissed as speculative. \r\nby\r\nRobert HartClose\r\nPosts fro\u2026 [+12676 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jennifer Pattison Tuohy",
             "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
             "description": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health iss\u2026",
@@ -713,6 +671,48 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_ON-AIR.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-14T19:42:34Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHopefully they dont mind.\r\nHopefully they dont mind.\r\nby\r\nDominic PrestonClose\r\nPosts from this author will be added to your daily email digest and your homepage\u2026 [+2878 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AI detectors are creating a new era of distrust",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
+            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T19:23:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Apple trained its own AI model for China with help from Alibaba",
+            "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-14T09:21:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Rogue AI aren\u2019t science fiction anymore",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
+            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-14T15:16:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRogue AI arent science fiction anymore\r\nFor years, fears about AI systems slipping human control were dismissed as speculative. \r\nby\r\nRobert HartClose\r\nPosts fro\u2026 [+12676 chars]",
             "ai_score": 5
         },
         {
