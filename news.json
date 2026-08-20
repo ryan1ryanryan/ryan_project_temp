@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-20 19:35",
+    "last_updated": "2026-08-20 20:32",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Biggest Innovation in Desktop CPUs May Come to Gaming Laptops, Too",
+            "description": "Gamers have more than one reason to care about Intel\u2019s next-gen laptop chips.",
+            "url": "https://gizmodo.com/the-biggest-innovation-in-desktop-cpus-may-come-to-gaming-laptops-too-2000800281",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-09-1200x675.jpg",
+            "publishedAt": "2026-08-19T14:15:44Z",
+            "content": "AMD remains the unquestioned king of gaming desktop processors, in large part thanks to an innovative way of stacking CPU memory to boost performance. A multitude of leaks suggests Intel is taking th\u2026 [+2450 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -125,20 +139,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24079609/226331_Logitech_G_Cloud_Gaming_Handheld_CFaulkner_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-28T12:31:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\n80 percent bought it, tried it, and then it ended up in a drawer.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+5385 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Biggest Innovation in Desktop CPUs May Come to Gaming Laptops, Too",
-            "description": "Gamers have more than one reason to care about Intel\u2019s next-gen laptop chips.",
-            "url": "https://gizmodo.com/the-biggest-innovation-in-desktop-cpus-may-come-to-gaming-laptops-too-2000800281",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-09-1200x675.jpg",
-            "publishedAt": "2026-08-19T14:15:44Z",
-            "content": "AMD remains the unquestioned king of gaming desktop processors, in large part thanks to an innovative way of stacking CPU memory to boost performance. A multitude of leaks suggests Intel is taking th\u2026 [+2450 chars]",
             "ai_score": 5
         },
         {
