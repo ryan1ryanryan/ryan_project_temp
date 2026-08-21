@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-08-21 21:29",
+    "last_updated": "2026-08-21 22:29",
     "articles": [
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
-            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
-            "publishedAt": "2026-07-20T20:06:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
+            "author": "Antonio G. Di Benedetto",
+            "title": "Razer\u2019s new keyboards drop the price on powerful gaming features",
+            "description": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. Th\u2026",
+            "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-30T14:18:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
             "ai_score": 8
         },
         {
@@ -27,20 +27,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Razer\u2019s new keyboards drop the price on powerful gaming features",
-            "description": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. Th\u2026",
-            "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-30T14:18:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
             "ai_score": 5
         },
         {
@@ -83,6 +69,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
             "publishedAt": "2026-08-03T11:00:00Z",
             "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+            "description": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next screen with the echo\u2026",
+            "url": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/psornament.jpg?quality=90&strip=all&crop=0%2C10.742156686491%2C100%2C78.515686627017&w=1200",
+            "publishedAt": "2026-07-20T20:06:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $28.99 replica plays the signature boot sound, and reminds me of my first-ever DIY tech repair.\r\nThe $28.99 replica plays the signature boot sound, and remin\u2026 [+3951 chars]",
             "ai_score": 5
         },
         {
@@ -706,20 +706,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "AI detectors are creating a new era of distrust",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
-            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T19:23:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "Apple trained its own AI model for China with help from Alibaba",
             "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
@@ -727,6 +713,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-14T09:21:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AI detectors are creating a new era of distrust",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
+            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T19:23:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
             "ai_score": 5
         },
         {
@@ -811,6 +811,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/winamp-1200x675.jpg",
             "publishedAt": "2026-07-30T19:40:27Z",
             "content": "This week brought the news that Winampremember Winamp?is planning to relaunch next year as a sort of one-player-for-everything app, with an integrated streaming service provided by French company Dee\u2026 [+5305 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Tyler Graham",
+            "title": "HP Introduces First HyperX Open-Back Headset, Lightweight Carbon Fiber Mouse and More",
+            "description": "I got a glimpse at the latest HyperX gaming peripherals. Here\u2019s what stood out, from new devices to tweaks to existing fan favorites.",
+            "url": "https://www.cnet.com/tech/computing/hp-introduces-first-hyperx-open-back-headset-lightweight-carbon-fiber-mouse-and-more-2/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/HyperX-Open-back-headset.jpg",
+            "publishedAt": "2026-08-20T22:00:00Z",
+            "content": "HP might not be ready to bring any new gaming laptops or desktop computers into the fray just yet, but it debuted a healthy heaping of new peripherals under its HyperX gaming brand to keep casuals, h\u2026 [+7561 chars]",
             "ai_score": 5
         },
         {
@@ -1105,20 +1119,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/06/DataCenterPhoto-1200x675.jpeg",
             "publishedAt": "2026-08-10T20:45:37Z",
             "content": "Tech companies are spending many billions of dollars on massive data center projects across the country amid the ongoing AI boom, but not everyone is willing to sell.\r\nAn 82-year-old Kentucky farmer \u2026 [+3663 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-            "description": "The AI \u201cstartups\u201d worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-            "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
-            "publishedAt": "2026-07-24T15:00:00Z",
-            "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]",
             "ai_score": 5
         }
     ]
