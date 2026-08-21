@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20 23:30",
+    "last_updated": "2026-08-21 01:21",
     "articles": [
         {
             "source": {
@@ -130,20 +130,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Biggest Innovation in Desktop CPUs May Come to Gaming Laptops, Too",
-            "description": "Gamers have more than one reason to care about Intel\u2019s next-gen laptop chips.",
-            "url": "https://gizmodo.com/the-biggest-innovation-in-desktop-cpus-may-come-to-gaming-laptops-too-2000800281",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-09-1200x675.jpg",
-            "publishedAt": "2026-08-19T14:15:44Z",
-            "content": "AMD remains the unquestioned king of gaming desktop processors, in large part thanks to an innovative way of stacking CPU memory to boost performance. A multitude of leaks suggests Intel is taking th\u2026 [+2450 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Entrepreneur"
             },
             "author": "Clinton Sparks",
@@ -153,6 +139,20 @@
             "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/image6-copy.jpg?resize=1024,683",
             "publishedAt": "2026-07-28T14:00:00Z",
             "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>Youre never really selling a product or a service. Youre selling a feeling.</li><li>When people consistently assoc\u2026 [+6576 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Biggest Innovation in Desktop CPUs May Come to Gaming Laptops, Too",
+            "description": "Gamers have more than one reason to care about Intel\u2019s next-gen laptop chips.",
+            "url": "https://gizmodo.com/the-biggest-innovation-in-desktop-cpus-may-come-to-gaming-laptops-too-2000800281",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-09-1200x675.jpg",
+            "publishedAt": "2026-08-19T14:15:44Z",
+            "content": "AMD remains the unquestioned king of gaming desktop processors, in large part thanks to an innovative way of stacking CPU memory to boost performance. A multitude of leaks suggests Intel is taking th\u2026 [+2450 chars]",
             "ai_score": 5
         },
         {
@@ -1039,20 +1039,6 @@
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
-            "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
-            "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg",
-            "publishedAt": "2026-08-01T21:03:42Z",
-            "content": "Back at Yebra's centre, the team's work is particularly timely with weather forecasters predicting a super El Nino this summer - which could increase the probability of extreme heat, drought and bush\u2026 [+1853 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1063,6 +1049,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/06/DataCenterPhoto-1200x675.jpeg",
             "publishedAt": "2026-08-10T20:45:37Z",
             "content": "Tech companies are spending many billions of dollars on massive data center projects across the country amid the ongoing AI boom, but not everyone is willing to sell.\r\nAn 82-year-old Kentucky farmer \u2026 [+3663 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+            "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+            "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg",
+            "publishedAt": "2026-08-01T21:03:42Z",
+            "content": "Back at Yebra's centre, the team's work is particularly timely with weather forecasters predicting a super El Nino this summer - which could increase the probability of extreme heat, drought and bush\u2026 [+1853 chars]",
             "ai_score": 5
         },
         {
