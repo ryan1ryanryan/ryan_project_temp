@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-22 14:26",
+    "last_updated": "2026-08-22 15:25",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Valve Leaks Almost Everything About the Steam Frame, Except for the One Big Thing",
-            "description": "Valve will even tell you how to unbox, set up, and wear your headset like a real weirdo.",
-            "url": "https://gizmodo.com/valve-leaks-almost-everything-about-the-steam-frame-except-for-the-one-big-thing-2000800541",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Valve-Steam-Frame-1-1200x675.jpg",
-            "publishedAt": "2026-08-19T19:15:37Z",
-            "content": "The Steam Frame launch is so imminent that Valve accidentally shared a mountain of videos sharing how to unbox, set up, and use the gaming-focused VR headset. Valves design chops already have us exci\u2026 [+3786 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -958,20 +944,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Brad Bourque",
-            "title": "Samsung\u2019s Galaxy Buds 3 Pro are almost half off today",
-            "description": "If you\u2019re looking for a feature-packed pair of earbuds that won\u2019t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That\u2019s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99\u2026",
-            "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-Galaxy-Buds-3-Pro-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-18T17:47:04Z",
-            "content": "The Galaxy Buds 3 Pro in black.\r\n\n\nIf you\u2019re looking for a feature-packed pair of earbuds that won\u2019t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That\u2019s $40 lowe\u2026 [+3433 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "LG\u2019s new OLED breakthrough can boost display lifespans",
             "description": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less innovative Pixel Patterning), \u2026",
@@ -979,6 +951,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/LG-Display-FLiPP-OLED-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-20T09:11:26Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe FLiPP tech should also be brighter, more energy efficient, and virtually any size.\r\nThe FLiPP tech should also be brighter, more energy efficient, and virtua\u2026 [+2407 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Samsung\u2019s Galaxy Buds 3 Pro are almost half off today",
+            "description": "If you\u2019re looking for a feature-packed pair of earbuds that won\u2019t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That\u2019s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99\u2026",
+            "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-Galaxy-Buds-3-Pro-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-18T17:47:04Z",
+            "content": "The Galaxy Buds 3 Pro in black.\r\n\n\nIf you\u2019re looking for a feature-packed pair of earbuds that won\u2019t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That\u2019s $40 lowe\u2026 [+3433 chars]",
             "ai_score": 5
         },
         {
@@ -1035,6 +1021,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/apple-ipad-pro-m5-roundup-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-22T19:14:31Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can also grab a four-pack of AirTags for $10 off, or a refurbished PS5 slim from Sony thats $100 less than new.\r\nYou can also grab a four-pack of AirTags for\u2026 [+3433 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Valve Leaks Almost Everything About the Steam Frame, Except for the One Big Thing",
+            "description": "Valve will even tell you how to unbox, set up, and wear your headset like a real weirdo.",
+            "url": "https://gizmodo.com/valve-leaks-almost-everything-about-the-steam-frame-except-for-the-one-big-thing-2000800541",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Valve-Steam-Frame-1-1200x675.jpg",
+            "publishedAt": "2026-08-19T19:15:37Z",
+            "content": "The Steam Frame launch is so imminent that Valve accidentally shared a mountain of videos sharing how to unbox, set up, and use the gaming-focused VR headset. Valves design chops already have us exci\u2026 [+3786 chars]",
             "ai_score": 5
         },
         {
