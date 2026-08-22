@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-22 07:37",
+    "last_updated": "2026-08-22 08:34",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "PlayStation\u2019s wireless gaming speakers launch in November",
+            "description": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studi\u2026",
+            "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-18T17:18:57Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
+            "ai_score": 5
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,132 +41,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-07-28T15:52:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
-            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T12:49:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The wireless headset that gets hot-swappable batteries right",
-            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
-            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T19:18:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Razer Is Back With Another Insufferably Cute Gaming Headset",
-            "description": "There's a new puppy-eared gaming headset for the Sanrio stans.",
-            "url": "https://gizmodo.com/razer-is-back-with-another-insufferably-cute-gaming-headset-2000799462",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/supreme-analogue-pocket-1200x675.jpg",
-            "publishedAt": "2026-08-17T18:30:35Z",
-            "content": "If you thought Razer reached peak cuteness with its Cinnamoroll-themed collection, you may want to think again. Razer sees its own puppy-ear-clad gaming headset and is raising that cutesy-ass gambit \u2026 [+1395 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-            "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
-            "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T14:56:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Inevitably, Ads Have Come to Xbox Game Streaming",
-            "description": "You can now suffer through a Mountain Dew commercial for a quick hour of cloud-based gaming.",
-            "url": "https://gizmodo.com/inevitably-ads-have-come-to-xbox-game-streaming-2000790020",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Game-Pass-Cloud-Gaming-1-1200x675.jpg",
-            "publishedAt": "2026-07-23T21:15:26Z",
-            "content": "Whomever is in charge of idiomatic statements really needs to amend the old death and taxes clich\u00e9 to add another inevitable outcome: ads. Xbox is the latest provider of streaming services to test th\u2026 [+2820 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Meredith Haggerty",
-            "title": "Trying to explain One Night Only\u2019s tech-enforced sex dystopia",
-            "description": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditio\u2026",
-            "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/image-7.png?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
-            "publishedAt": "2026-08-05T21:09:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nby\r\nMeredit\u2026 [+6762 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
-            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
-            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-04T17:35:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jeff Wise",
-            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
-            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
-            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
-            "publishedAt": "2026-07-30T10:00:00Z",
-            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "PlayStation\u2019s wireless gaming speakers launch in November",
-            "description": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studi\u2026",
-            "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-18T17:18:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
             "ai_score": 5
         },
         {
@@ -269,6 +157,34 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
+            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T12:49:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The wireless headset that gets hot-swappable batteries right",
+            "description": "New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other hand, could save you far more than just milliseconds: It has the \u2026",
+            "url": "https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268648_Glorious_GHS_InfinitePlay_headset_CFaulkner_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-20T19:18:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGlorious made swapping batteries faster and easier (and more fun) in a $230 headset than its $400 competitors.\r\nGlorious made swapping batteries faster and easie\u2026 [+4239 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -279,6 +195,34 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/iBuyPower-Trace-X-PC-desktop-review-03-1200x675.jpg",
             "publishedAt": "2026-07-31T14:55:05Z",
             "content": "Have you already given up on modern GPU prices? If not, you may soon have no choice but to accept that this generation of graphics cards is completely unaffordable. As if PC gaming couldnt get any mo\u2026 [+3255 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Razer Is Back With Another Insufferably Cute Gaming Headset",
+            "description": "There's a new puppy-eared gaming headset for the Sanrio stans.",
+            "url": "https://gizmodo.com/razer-is-back-with-another-insufferably-cute-gaming-headset-2000799462",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/supreme-analogue-pocket-1200x675.jpg",
+            "publishedAt": "2026-08-17T18:30:35Z",
+            "content": "If you thought Razer reached peak cuteness with its Cinnamoroll-themed collection, you may want to think again. Razer sees its own puppy-ear-clad gaming headset and is raising that cutesy-ass gambit \u2026 [+1395 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+            "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
+            "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T14:56:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
             "ai_score": 5
         },
         {
@@ -367,6 +311,34 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Inevitably, Ads Have Come to Xbox Game Streaming",
+            "description": "You can now suffer through a Mountain Dew commercial for a quick hour of cloud-based gaming.",
+            "url": "https://gizmodo.com/inevitably-ads-have-come-to-xbox-game-streaming-2000790020",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Game-Pass-Cloud-Gaming-1-1200x675.jpg",
+            "publishedAt": "2026-07-23T21:15:26Z",
+            "content": "Whomever is in charge of idiomatic statements really needs to amend the old death and taxes clich\u00e9 to add another inevitable outcome: ads. Xbox is the latest provider of streaming services to test th\u2026 [+2820 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Meredith Haggerty",
+            "title": "Trying to explain One Night Only\u2019s tech-enforced sex dystopia",
+            "description": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditio\u2026",
+            "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/image-7.png?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+            "publishedAt": "2026-08-05T21:09:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nby\r\nMeredit\u2026 [+6762 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -391,6 +363,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Samsung-Odyssey-G8-G80HS-review-02-1200x675.jpg",
             "publishedAt": "2026-08-10T18:05:15Z",
             "content": "Lets get the main thing out of the way: You do not need a 6K monitor for gaming.\r\nI spent so many hours with the recently released Samsung Odyssey G80HS 6K monitor with the few games available that a\u2026 [+12549 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
+            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
+            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-04T17:35:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
             "ai_score": 5
         },
         {
@@ -461,6 +447,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-13T20:53:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNight School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games.\r\nNight School Studio and Moonloot Games are being shu\u2026 [+2679 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeff Wise",
+            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
+            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
+            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
+            "publishedAt": "2026-07-30T10:00:00Z",
+            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
             "ai_score": 5
         },
         {
