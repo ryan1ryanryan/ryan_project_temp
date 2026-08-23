@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-08-23 05:33",
+    "last_updated": "2026-08-23 06:45",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kara Verlaney",
+            "title": "The Verge Guide to Pets",
+            "description": "Ah, the relationship between animals and the technology they can\u2019t quite understand.\u00a0 Today, it seems like there\u2019s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and enterta\u2026",
+            "url": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-18T12:01:28Z",
+            "content": "Ah, the relationship between animals and the technology they can\u2019t quite understand.\u00a0\n\nToday, it seems like there\u2019s a high-tech solution to every element of pet ownership, with devices on the market \u2026 [+1115 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -559,20 +573,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-green.jpg",
             "publishedAt": "2026-07-29T21:01:34Z",
             "content": "Microsoft reported a huge jump in profits last quarter, but not in its gaming division. Xbox trailed the tech giant\u2019s other divisions with a double-digit decline in revenue year-over-year. The number\u2026 [+1988 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Kara Verlaney",
-            "title": "The Verge Guide to Pets",
-            "description": "Ah, the relationship between animals and the technology they can\u2019t quite understand.\u00a0 Today, it seems like there\u2019s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and enterta\u2026",
-            "url": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-18T12:01:28Z",
-            "content": "Ah, the relationship between animals and the technology they can\u2019t quite understand.\u00a0\n\nToday, it seems like there\u2019s a high-tech solution to every element of pet ownership, with devices on the market \u2026 [+1115 chars]",
             "ai_score": 5
         },
         {
