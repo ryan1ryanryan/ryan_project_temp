@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-24 13:56",
+    "last_updated": "2026-08-24 14:47",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "PlayStation\u2019s wireless gaming speakers launch in November",
-            "description": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studi\u2026",
-            "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-18T17:18:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "PlayStation\u2019s wireless gaming speakers launch in November",
+            "description": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studi\u2026",
+            "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-18T17:18:57Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
             "ai_score": 5
         },
         {
@@ -440,20 +440,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Nena Farrell",
-            "title": "Best Early Tech Labor Day Sales I\u2019d Shop Myself (2026): AirTags, Dyson, and More",
-            "description": "From the best Dyson vacuum to the best wireless headphones and earbuds we\u2019ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
-            "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg",
-            "publishedAt": "2026-08-21T09:37:00Z",
-            "content": "It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't sto\u2026 [+784 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Jeff Wise",
             "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
             "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
@@ -461,6 +447,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
             "publishedAt": "2026-07-30T10:00:00Z",
             "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Nena Farrell",
+            "title": "Best Early Tech Labor Day Sales I\u2019d Shop Myself (2026): AirTags, Dyson, and More",
+            "description": "From the best Dyson vacuum to the best wireless headphones and earbuds we\u2019ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
+            "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg",
+            "publishedAt": "2026-08-21T09:37:00Z",
+            "content": "It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't sto\u2026 [+784 chars]",
             "ai_score": 5
         },
         {
