@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-24 22:31",
+    "last_updated": "2026-08-24 23:26",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -283,20 +283,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Inevitably, Ads Have Come to Xbox Game Streaming",
-            "description": "You can now suffer through a Mountain Dew commercial for a quick hour of cloud-based gaming.",
-            "url": "https://gizmodo.com/inevitably-ads-have-come-to-xbox-game-streaming-2000790020",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Xbox-Game-Pass-Cloud-Gaming-1-1200x675.jpg",
-            "publishedAt": "2026-07-23T21:15:26Z",
-            "content": "Whomever is in charge of idiomatic statements really needs to amend the old death and taxes clich\u00e9 to add another inevitable outcome: ads. Xbox is the latest provider of streaming services to test th\u2026 [+2820 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -465,20 +451,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "BeauHD",
-            "title": "Amazon Is Bringing Games to Prime Video",
-            "description": "Amazon is integrating its Luna cloud gaming service into Prime Video, adding a new \"Games\" tab where Prime members can play titles like \"Hogwarts Legacy,\" \"EA Sports FC 26,\" \"Indiana Jones and the Great Circle,\" \"Clue,\" and \"Taboo.\" The games will be availabl\u2026",
-            "url": "https://games.slashdot.org/story/26/07/23/1830257/amazon-is-bringing-games-to-prime-video",
-            "urlToImage": "https://a.fsdn.com/sd/topics/games_64.png",
-            "publishedAt": "2026-07-23T20:00:00Z",
-            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -643,20 +615,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T12:06:22Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-            "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, whil\u2026",
-            "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-23T21:15:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons upgraded AI assistant will be able to do more across a wider range of smart home devices.\r\nAmazons upgraded AI assistant will be able to do more across a\u2026 [+3092 chars]",
             "ai_score": 5
         },
         {
@@ -1105,6 +1063,48 @@
             "urlToImage": "https://media.wired.com/photos/6a88c764f06dc0383e8c9d25/191:100/w_1280,c_limit/GettyImages-964985876-resized.jpg",
             "publishedAt": "2026-08-21T23:10:00Z",
             "content": "Government regulators have spent the last year asking serious questions about Teslas electronic, retractable door handles, a cool-looking automotive design flourish that has since been imitated by pl\u2026 [+2758 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Justin Pot",
+            "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How",
+            "description": "There are endless ways to record and transcribe your virtual meetings with AI. Here\u2019s an option that\u2019s free and open source.",
+            "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+            "urlToImage": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/191:100/w_1280,c_limit/FreeTranscribe.jpg",
+            "publishedAt": "2026-08-09T10:30:00Z",
+            "content": "It's perhaps the least hyped, and most useful, feature of the AI age: transcription. As a young journalist, I dreamed of a computer that could turn recordings into text. Now we have that, and it's am\u2026 [+1831 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "My big, fat, technophobic cat",
+            "description": "My cat Pablo is a voluptuous boy. His primordial pouch, originally thought to protect cats' squishy insides, hangs low and wobbles to and fro. Once, when he was five or six, a vet sternly sat my spouse and me down, gravely stating, \"He's simply too young to b\u2026",
+            "url": "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268664_Pablo_pet_tech_AKrales_0032.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-20T18:29:18Z",
+            "content": "<ul><li></li><li></li></ul>\r\nIve tried nearly everything under the sun to get my cat Pablo to lose weight. Im not winning this battle.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts f\u2026 [+10257 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "Running DOOM on a Cheap 104-in-One Handheld",
+            "description": "Taking a break from putting DOOM on devices that absolutely were never conceived for use as gaming devices, [Aaron Christophel] recently got enticed by some cheapo handheld gaming systems at \u2026read more",
+            "url": "https://hackaday.com/2026/08/11/running-doom-on-a-cheap-104-in-one-handheld/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/08/doom-ingame-on-hardware_aaron_christophel_github.jpg",
+            "publishedAt": "2026-08-11T11:00:18Z",
+            "content": "Taking a break from putting DOOM on devices that absolutely were never conceived for use as gaming devices, [Aaron Christophel] recently got enticed by some cheapo handheld gaming systems at his loca\u2026 [+1406 chars]",
             "ai_score": 5
         }
     ]
