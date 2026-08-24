@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-24 10:41",
+    "last_updated": "2026-08-24 11:33",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -871,20 +871,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Rebekah Valentine",
-            "title": "Xbox Has Started Testing Free Cloud Gaming With Ads: \u2018Advertising Has Existed In Gaming For Decades\u2019",
-            "description": "'Up to two' minutes' worth of ads in exchange for an hour of gaming",
-            "url": "https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
-            "publishedAt": "2026-07-23T16:51:40Z",
-            "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -895,6 +881,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
             "publishedAt": "2026-07-30T20:12:57Z",
             "content": "I was offline last week in my home state of New Jersey, but when I got back to Silicon Valley, everyone was panicking again about how quickly artificial intelligence is advancing. While this is certa\u2026 [+3715 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Rebekah Valentine",
+            "title": "Xbox Has Started Testing Free Cloud Gaming With Ads: \u2018Advertising Has Existed In Gaming For Decades\u2019",
+            "description": "'Up to two' minutes' worth of ads in exchange for an hour of gaming",
+            "url": "https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
+            "publishedAt": "2026-07-23T16:51:40Z",
+            "content": "Xbox has announced it is kicking off a limited test with Xbox Insiders for ad-supported, free game streaming with select titles.\r\nThose participating in the test will have the option to stream certai\u2026 [+2270 chars]",
             "ai_score": 5
         },
         {
