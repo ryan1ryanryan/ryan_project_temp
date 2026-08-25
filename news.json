@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-25 20:33",
+    "last_updated": "2026-08-25 21:33",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -760,6 +760,20 @@
         {
             "source": {
                 "id": null,
+                "name": "CNET"
+            },
+            "author": "Alex Valdes",
+            "title": "Apple Reportedly Will Raise iPhone Prices, but Just How Much?",
+            "description": "The Cupertino giant apparently will match, if not exceed, what Google and Samsung did with their phone pricing.",
+            "url": "https://www.cnet.com/tech/mobile/apple-reportedly-will-raise-iphone-prices-but-just-how-much/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/3210c052-6403-4592-88cf-ecbbeaa983e4.jpg",
+            "publishedAt": "2026-08-24T21:17:20Z",
+            "content": "New iPhones are likely coming next month, and so are higher prices. Shoppers should expect hikes of at least $100 on the iPhone 18 Pro and other products launching at Apple\u2019s annual September event, \u2026 [+2994 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Tom Hawking",
@@ -1077,20 +1091,6 @@
             "urlToImage": "https://media.wired.com/photos/6a88c764f06dc0383e8c9d25/191:100/w_1280,c_limit/GettyImages-964985876-resized.jpg",
             "publishedAt": "2026-08-21T23:10:00Z",
             "content": "Government regulators have spent the last year asking serious questions about Teslas electronic, retractable door handles, a cool-looking automotive design flourish that has since been imitated by pl\u2026 [+2758 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Justin Pot",
-            "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How",
-            "description": "There are endless ways to record and transcribe your virtual meetings with AI. Here\u2019s an option that\u2019s free and open source.",
-            "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
-            "urlToImage": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/191:100/w_1280,c_limit/FreeTranscribe.jpg",
-            "publishedAt": "2026-08-09T10:30:00Z",
-            "content": "It's perhaps the least hyped, and most useful, feature of the AI age: transcription. As a young journalist, I dreamed of a computer that could turn recordings into text. Now we have that, and it's am\u2026 [+1831 chars]",
             "ai_score": 5
         }
     ]
