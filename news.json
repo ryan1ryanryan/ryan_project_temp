@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-08-25 17:36",
+    "last_updated": "2026-08-25 18:43",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "U.S. Government Lab Reportedly Probing Chinese Lidar Security Risks on Behalf of Private Industry",
-            "description": "The tests come as some American automakers are exploring the possibility of using the cheaper tech in their cars.",
-            "url": "https://gizmodo.com/u-s-government-lab-reportedly-probing-chinese-lidar-security-risks-on-behalf-of-private-industry-2000801788",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/waymo-robotaxi-1200x675.jpg",
-            "publishedAt": "2026-08-21T21:23:30Z",
-            "content": "More affordable lidar sensors from China are looking increasingly appealing to American automakers. But a Department of Energy lab is reportedly looking into whether the technology could pose nationa\u2026 [+2871 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -419,6 +405,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
             "publishedAt": "2026-08-04T09:21:11Z",
             "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent\u2026 [+3804 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "U.S. Government Lab Reportedly Probing Chinese Lidar Security Risks on Behalf of Private Industry",
+            "description": "The tests come as some American automakers are exploring the possibility of using the cheaper tech in their cars.",
+            "url": "https://gizmodo.com/u-s-government-lab-reportedly-probing-chinese-lidar-security-risks-on-behalf-of-private-industry-2000801788",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/waymo-robotaxi-1200x675.jpg",
+            "publishedAt": "2026-08-21T21:23:30Z",
+            "content": "More affordable lidar sensors from China are looking increasingly appealing to American automakers. But a Department of Energy lab is reportedly looking into whether the technology could pose nationa\u2026 [+2871 chars]",
             "ai_score": 5
         },
         {
@@ -1091,20 +1091,6 @@
             "urlToImage": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/191:100/w_1280,c_limit/FreeTranscribe.jpg",
             "publishedAt": "2026-08-09T10:30:00Z",
             "content": "It's perhaps the least hyped, and most useful, feature of the AI age: transcription. As a young journalist, I dreamed of a computer that could turn recordings into text. Now we have that, and it's am\u2026 [+1831 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Victoria Song",
-            "title": "My big, fat, technophobic cat",
-            "description": "My cat Pablo is a voluptuous boy. His primordial pouch, originally thought to protect cats' squishy insides, hangs low and wobbles to and fro. Once, when he was five or six, a vet sternly sat my spouse and me down, gravely stating, \"He's simply too young to b\u2026",
-            "url": "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268664_Pablo_pet_tech_AKrales_0032.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-20T18:29:18Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIve tried nearly everything under the sun to get my cat Pablo to lose weight. Im not winning this battle.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts f\u2026 [+10257 chars]",
             "ai_score": 5
         }
     ]
