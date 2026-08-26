@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-26 11:34",
+    "last_updated": "2026-08-26 12:56",
     "articles": [
         {
             "source": {
@@ -440,20 +440,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Nena Farrell",
-            "title": "Best Early Tech Labor Day Sales I\u2019d Shop Myself (2026): AirTags, Dyson, and More",
-            "description": "From the best Dyson vacuum to the best wireless headphones and earbuds we\u2019ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
-            "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg",
-            "publishedAt": "2026-08-21T09:37:00Z",
-            "content": "It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't sto\u2026 [+784 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Jeff Wise",
             "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
             "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
@@ -461,6 +447,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
             "publishedAt": "2026-07-30T10:00:00Z",
             "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Nena Farrell",
+            "title": "Best Early Tech Labor Day Sales I\u2019d Shop Myself (2026): AirTags, Dyson, and More",
+            "description": "From the best Dyson vacuum to the best wireless headphones and earbuds we\u2019ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
+            "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg",
+            "publishedAt": "2026-08-21T09:37:00Z",
+            "content": "It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't sto\u2026 [+784 chars]",
             "ai_score": 5
         },
         {
@@ -1105,20 +1105,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/08/talos-princple-2.jpg",
             "publishedAt": "2026-08-06T13:30:33Z",
             "content": "It seemed like an odd decision at the time, when indie publisher Devolver (Hotline Miami,\u00a0Talos Principle,\u00a0Baby Steps) announced it was going to launch an IPO. Listing itself on the London Stock Exch\u2026 [+3260 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Rebekah Valentine",
-            "title": "Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now",
-            "description": "With the closing of the market today comes the second-biggest acquisition in gaming history",
-            "url": "https://kotaku.com/electronic-arts-officially-belongs-saudi-arabia-jared-kushner-now-2000721666",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/08/EA-logo-generic-red-1200x675.jpg",
-            "publishedAt": "2026-08-04T20:19:04Z",
-            "content": "Electronic Arts has officially been sold for $55 billion, with the company going private in the second-largest deal in gaming history.\r\nEA\u2019s sale goes to a collective consisting of the Saudi Arabia P\u2026 [+1807 chars]",
             "ai_score": 5
         }
     ]
