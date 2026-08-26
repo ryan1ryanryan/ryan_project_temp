@@ -1,76 +1,6 @@
 {
-    "last_updated": "2026-08-26 07:51",
+    "last_updated": "2026-08-26 08:48",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
-            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T12:49:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
-            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
-            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
-            "publishedAt": "2026-08-24T12:30:32Z",
-            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Meredith Haggerty",
-            "title": "Trying to explain One Night Only\u2019s tech-enforced sex dystopia",
-            "description": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditio\u2026",
-            "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/image-7.png?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
-            "publishedAt": "2026-08-05T21:09:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nby\r\nMeredit\u2026 [+6762 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Samsung Odyssey G80HS Monitor Review: 6K Isn\u2019t the Future of Gaming",
-            "description": "Is 6K the next 4K? Only if you care about the most minute details you can see on a paltry few PC titles.",
-            "url": "https://gizmodo.com/samsung-odyssey-g80hs-monitor-review-6k-isnt-the-future-of-gaming-2000796172",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Samsung-Odyssey-G8-G80HS-review-02-1200x675.jpg",
-            "publishedAt": "2026-08-10T18:05:15Z",
-            "content": "Lets get the main thing out of the way: You do not need a 6K monitor for gaming.\r\nI spent so many hours with the recently released Samsung Odyssey G80HS 6K monitor with the few games available that a\u2026 [+12549 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
-            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
-            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-04T17:35:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -213,6 +143,34 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
+            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T12:49:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
+            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
+            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
+            "publishedAt": "2026-08-24T12:30:32Z",
+            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -342,6 +300,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Meredith Haggerty",
+            "title": "Trying to explain One Night Only\u2019s tech-enforced sex dystopia",
+            "description": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditio\u2026",
+            "url": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/image-7.png?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+            "publishedAt": "2026-08-05T21:09:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nThe one night a year single people are legally allowed to have sex. Huh??\r\nby\r\nMeredit\u2026 [+6762 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Emma Roth",
             "title": "Watch Valve set up the Steam Frame in its own leaked videos",
             "description": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hard\u2026",
@@ -349,6 +321,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
             "publishedAt": "2026-08-19T18:16:27Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLeaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories.\r\nLeaked demonstrations show how to use the Steam Frame with its w\u2026 [+3088 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Samsung Odyssey G80HS Monitor Review: 6K Isn\u2019t the Future of Gaming",
+            "description": "Is 6K the next 4K? Only if you care about the most minute details you can see on a paltry few PC titles.",
+            "url": "https://gizmodo.com/samsung-odyssey-g80hs-monitor-review-6k-isnt-the-future-of-gaming-2000796172",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Samsung-Odyssey-G8-G80HS-review-02-1200x675.jpg",
+            "publishedAt": "2026-08-10T18:05:15Z",
+            "content": "Lets get the main thing out of the way: You do not need a 6K monitor for gaming.\r\nI spent so many hours with the recently released Samsung Odyssey G80HS 6K monitor with the few games available that a\u2026 [+12549 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
+            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
+            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-04T17:35:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
             "ai_score": 5
         },
         {
@@ -608,20 +608,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "David Pierce",
-            "title": "The vertical video takeover is here",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. Ho\u2026",
-            "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-07-24T17:29:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe vertical video takeover is here\r\nHow TikTok, Instagram, and YouTube copied their way to victory.\r\nby\r\nDavid PierceClose\r\nPosts from this author will be added\u2026 [+14618 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
             "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
@@ -829,20 +815,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Victoria Song",
-            "title": "With smart glasses, Meta holds all the cards but fails to play them well",
-            "description": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another tra\u2026",
-            "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0109.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-24T20:07:12Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts recent attempts to shore up privacy dont seem to be convincing skeptics.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts from this author will\u2026 [+8718 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -1028,20 +1000,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Lauren Goode",
-            "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-            "description": "The AI \u201cstartups\u201d worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-            "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
-            "publishedAt": "2026-07-24T15:00:00Z",
-            "content": "A huge debate is brewing in Silicon Valley over the proliferation of Chinese-made artificial intelligence tools, particularly open-weight AI systems that, by some measures, can compete with or even o\u2026 [+3449 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Maxwell Zeff",
             "title": "Silicon Valley Doesn't Get Why You Hate AI",
             "description": "Technology leaders don\u2019t seem to understand society\u2019s gripes about AI, but boy, are they posting through it.",
@@ -1077,6 +1035,90 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268670_Framework_Laptop_13_Pro_laptop_review_ADiBenedetto_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-27T14:10:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Framework Laptop 13 Pro has it all. But RAMageddon spiked its price.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics\u2026 [+15366 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "Tesla\u2019s Door Handles Lead to Its Biggest Recall Yet",
+            "description": "A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates\u2014but they will also require physical warning stickers and camera-related updates.",
+            "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+            "urlToImage": "https://media.wired.com/photos/6a88c764f06dc0383e8c9d25/191:100/w_1280,c_limit/GettyImages-964985876-resized.jpg",
+            "publishedAt": "2026-08-21T23:10:00Z",
+            "content": "Government regulators have spent the last year asking serious questions about Teslas electronic, retractable door handles, a cool-looking automotive design flourish that has since been imitated by pl\u2026 [+2758 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Justin Pot",
+            "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription\u2014Here\u2019s How",
+            "description": "There are endless ways to record and transcribe your virtual meetings with AI. Here\u2019s an option that\u2019s free and open source.",
+            "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+            "urlToImage": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/191:100/w_1280,c_limit/FreeTranscribe.jpg",
+            "publishedAt": "2026-08-09T10:30:00Z",
+            "content": "It's perhaps the least hyped, and most useful, feature of the AI age: transcription. As a young journalist, I dreamed of a computer that could turn recordings into text. Now we have that, and it's am\u2026 [+1831 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Victoria Song",
+            "title": "My big, fat, technophobic cat",
+            "description": "My cat Pablo is a voluptuous boy. His primordial pouch, originally thought to protect cats' squishy insides, hangs low and wobbles to and fro. Once, when he was five or six, a vet sternly sat my spouse and me down, gravely stating, \"He's simply too young to b\u2026",
+            "url": "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268664_Pablo_pet_tech_AKrales_0032.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-20T18:29:18Z",
+            "content": "<ul><li></li><li></li></ul>\r\nIve tried nearly everything under the sun to get my cat Pablo to lose weight. Im not winning this battle.\r\nby\r\nVictoria SongClose\r\nSenior Reviewer, Wearable Tech\r\nPosts f\u2026 [+10257 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "Running DOOM on a Cheap 104-in-One Handheld",
+            "description": "Taking a break from putting DOOM on devices that absolutely were never conceived for use as gaming devices, [Aaron Christophel] recently got enticed by some cheapo handheld gaming systems at \u2026read more",
+            "url": "https://hackaday.com/2026/08/11/running-doom-on-a-cheap-104-in-one-handheld/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2026/08/doom-ingame-on-hardware_aaron_christophel_github.jpg",
+            "publishedAt": "2026-08-11T11:00:18Z",
+            "content": "Taking a break from putting DOOM on devices that absolutely were never conceived for use as gaming devices, [Aaron Christophel] recently got enticed by some cheapo handheld gaming systems at his loca\u2026 [+1406 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "John Walker",
+            "title": "Devolver Digital Wants To Go Private Again Following A 95 Percent Collapse In Its Share Price",
+            "description": "The Skate Story and Serious Sam publisher blames the volatile gaming market",
+            "url": "https://kotaku.com/devolver-digital-stock-exchange-share-price-baby-steps-skate-story-2000722147",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/08/talos-princple-2.jpg",
+            "publishedAt": "2026-08-06T13:30:33Z",
+            "content": "It seemed like an odd decision at the time, when indie publisher Devolver (Hotline Miami,\u00a0Talos Principle,\u00a0Baby Steps) announced it was going to launch an IPO. Listing itself on the London Stock Exch\u2026 [+3260 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Rebekah Valentine",
+            "title": "Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now",
+            "description": "With the closing of the market today comes the second-biggest acquisition in gaming history",
+            "url": "https://kotaku.com/electronic-arts-officially-belongs-saudi-arabia-jared-kushner-now-2000721666",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/08/EA-logo-generic-red-1200x675.jpg",
+            "publishedAt": "2026-08-04T20:19:04Z",
+            "content": "Electronic Arts has officially been sold for $55 billion, with the company going private in the second-largest deal in gaming history.\r\nEA\u2019s sale goes to a collective consisting of the Saudi Arabia P\u2026 [+1807 chars]",
             "ai_score": 5
         }
     ]
