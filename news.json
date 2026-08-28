@@ -1,104 +1,6 @@
 {
-    "last_updated": "2026-08-28 13:57",
+    "last_updated": "2026-08-28 23:30",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "4GB graphics cards are back",
-            "description": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASR\u2026",
-            "url": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-28T15:52:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
-            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T12:49:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
-            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
-            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
-            "publishedAt": "2026-08-24T12:30:32Z",
-            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
-            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
-            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
-            "publishedAt": "2026-08-17T15:20:23Z",
-            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
-            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
-            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
-            "publishedAt": "2026-08-21T14:10:15Z",
-            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
-            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
-            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
-            "publishedAt": "2026-08-10T20:22:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
-            "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to \u20ac200 or \u00a3170. The 1TB Xbox S\u2026",
-            "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
-            "publishedAt": "2026-08-02T16:18:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nby\r\nTerrenc\u2026 [+2354 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -111,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -125,6 +27,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "4GB graphics cards are back",
+            "description": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASR\u2026",
+            "url": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/asrock-amd-radeon-rx-9050-4gb-wide.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-07-28T15:52:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB of VRAM.\r\nASRocks Radeon RX 9050 is the first modern GPU in years to include only 4GB\u2026 [+2362 chars]",
             "ai_score": 5
         },
         {
@@ -269,6 +185,34 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
+            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T12:49:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
+            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
+            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
+            "publishedAt": "2026-08-24T12:30:32Z",
+            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -297,16 +241,30 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Cameron Faulkner",
-            "title": "Samsung\u2019s 27-inch QD-OLED gaming monitor is priced right at $299.99",
-            "description": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung\u2019s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon.\u2026",
-            "url": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsungg50sf.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T14:56:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a $20 four-pack of Find My trackers, PS5 physical and digital games, and Logitechs MX Vertical.\r\nWe also found deals on a $20 four-pack of\u2026 [+4024 chars]",
+            "author": "Kyle Barr",
+            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
+            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
+            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
+            "publishedAt": "2026-08-17T15:20:23Z",
+            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
+            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
+            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
+            "publishedAt": "2026-08-21T14:10:15Z",
+            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
             "ai_score": 5
         },
         {
@@ -314,13 +272,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s analog Huntsman V3 Pro is over 20 percent off",
-            "description": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That\u2019s slowly changing, with brands introducing adjustable optical switches that are mo\u2026",
-            "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Razer-Huntsman-V3-Pro-TKL-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T21:29:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThis discounted gaming keyboard features customizable analog switches and advanced features for competitive gamers.\r\nThis discounted gaming keyboard features cus\u2026 [+2489 chars]",
+            "author": "Andrew Liszewski",
+            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
+            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
+            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
+            "publishedAt": "2026-08-10T20:22:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
             "ai_score": 5
         },
         {
@@ -395,6 +353,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Samsung\u2019s Revised Odyssey Monitors Opt for Excess in Every Direction",
+            "description": "A new super-speedy Odyssey OLED G9 ultrawide is somehow less exciting than a \u2018triple-mode\u2019 monitor.",
+            "url": "https://gizmodo.com/samsungs-revised-odyssey-monitors-opt-for-excess-in-every-direction-2000803817",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/2027-Odyssey-OLED-G7_G75SJ_-Interior-1200x675.jpg",
+            "publishedAt": "2026-08-27T14:50:42Z",
+            "content": "Youve got to hand it to the Samsung monitor team: They dont think small. After trying to make 6K resolution work for gaming (spoiler alert, its not the new 4K), the Korean screen giant is proposing y\u2026 [+3409 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -405,6 +377,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-03T14:50:29Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPalworld Online will expand on the original game with a new setting and new story elements.\r\nPalworld Online will expand on the original game with a new setting \u2026 [+2111 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
+            "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to \u20ac200 or \u00a3170. The 1TB Xbox S\u2026",
+            "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+            "publishedAt": "2026-08-02T16:18:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nby\r\nTerrenc\u2026 [+2354 chars]",
             "ai_score": 5
         },
         {
@@ -503,6 +489,20 @@
             "urlToImage": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg",
             "publishedAt": "2026-08-21T09:37:00Z",
             "content": "It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't sto\u2026 [+784 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Has Social Media For Children Just Changed Forever?",
+            "description": "Tech giant Meta will pay up to $18billion to settle claims its platforms harm children",
+            "url": "https://www.bbc.co.uk/sounds/play/p0p64vfj?at_campaign=rss",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg",
+            "publishedAt": "2026-08-27T16:04:00Z",
+            "content": "Available for over a year\r\nToday, we discuss Metas decision to agree to an $18 billion settlement resolving claims from 29 US states that Facebook and Instagram harmed children.\r\nTechnology and AI ed\u2026 [+1426 chars]",
             "ai_score": 5
         },
         {
@@ -608,6 +608,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Stevie Bonifield",
+            "title": "Google launches Pok\u00e9mon Sleep special-edition Fitbit Air",
+            "description": "The latest special-edition of Google's Fitbit Air is inspired by the Pok\u00e9mon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and gold of a Pok\u00e9mon card pretty closely. The s\u2026",
+            "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/pokemon-sleep-fitbit-air-hero.webp?quality=90&strip=all&crop=0%2C3.4434152235199%2C100%2C93.11316955296&w=1200",
+            "publishedAt": "2026-08-27T14:58:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can wear a snoozing Pikachu on your wrist while tracking sleep, steps, and workouts.\r\nYou can wear a snoozing Pikachu on your wrist while tracking sleep, ste\u2026 [+2797 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Andrew Liszewski",
             "title": "Genki\u2019s new customizable controller has a big screen and adjustable buttons",
             "description": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta lo\u2026",
@@ -636,20 +650,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sheena Vasani",
-            "title": "Nanoleaf\u2019s colorful pegboard and shelf kit is half off",
-            "description": "Nanoleaf\u2019s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half o\u2026",
-            "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nanoleaf-Blocks-Combo-XL-Smarter-Kit-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T19:24:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt can hold everything from headphones to notebooks while rocking your favorite colors.\r\nIt can hold everything from headphones to notebooks while rocking your f\u2026 [+2712 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Cameron Faulkner",
             "title": "The Switch 2\u2019s $50 price increase is happening next week",
             "description": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That\u2019s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a game will go from $449\u2026",
@@ -671,20 +671,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-17T10:50:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWhiskers AI-powered litter robot thinks my cats swapped bodies\r\nThe $899 Litter-Robot 5 Pro is a great pooper-scooper wrapped in AI that just doesnt work.\r\nby\r\nJ\u2026 [+12435 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
-            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T12:06:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]",
             "ai_score": 5
         },
         {
@@ -727,6 +713,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_ON-AIR.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-14T19:42:34Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHopefully they dont mind.\r\nHopefully they dont mind.\r\nby\r\nDominic PrestonClose\r\nPosts from this author will be added to your daily email digest and your homepage\u2026 [+2878 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
+            "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone \u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-27T16:20:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nby\r\nRobert HartClose\r\nPosts from this author \u2026 [+5467 chars]",
             "ai_score": 5
         },
         {
@@ -839,6 +839,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
             "publishedAt": "2026-08-25T20:38:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIf the Pony Island 2 trailer sparked your curiosity, one of Mullins earlier mind-bending games is discounted.\r\nIf the Pony Island 2 trailer sparked your curiosit\u2026 [+2181 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Trump Reportedly Flirting With A New Round Of Tariffs On Gaming Hardware",
+            "description": "Console prices are already going up due to RAMageddon",
+            "url": "https://kotaku.com/trump-reportedly-flirting-with-a-new-round-of-tariffs-on-gaming-hardware-2000728863",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/04/ca86d289e7ac3ef0b304360ca1c737c4.jpg",
+            "publishedAt": "2026-08-27T15:40:24Z",
+            "content": "We might be in for a sequel to one of the Trump administration\u2019s most unpopular policies: tech tariffs. The president is reportedly eyeing a new round of import taxes on hardware that would include t\u2026 [+2075 chars]",
             "ai_score": 5
         },
         {
@@ -972,6 +986,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Jay Peters",
+            "title": "The biggest video game of all time looks like a movie",
+            "description": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestig\u2026",
+            "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&strip=all&crop=0%2C3.3036486111791%2C100%2C93.392702777642&w=1200",
+            "publishedAt": "2026-08-27T23:22:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRockstars GTA VI preview further blurs the lines between Hollywood and gaming.\r\nRockstars GTA VI preview further blurs the lines between Hollywood and gaming.\r\nb\u2026 [+4421 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Brad Bourque",
             "title": "Samsung\u2019s Galaxy Buds 3 Pro are almost half off today",
             "description": "If you\u2019re looking for a feature-packed pair of earbuds that won\u2019t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That\u2019s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99\u2026",
@@ -1035,48 +1063,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Valve-Steam-Frame-1-1200x675.jpg",
             "publishedAt": "2026-08-19T19:15:37Z",
             "content": "The Steam Frame launch is so imminent that Valve accidentally shared a mountain of videos sharing how to unbox, set up, and use the gaming-focused VR headset. Valves design chops already have us exci\u2026 [+3786 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Justin Carter",
-            "title": "\u2018Dungeons & Dragons\u2019 Rolls for \u2018Star Wars\u2019 and \u2018World of Warcraft\u2019",
-            "description": "The popular TTRPG is doing its own version of 'Universes Beyond,' starting with two properties with some tabletop experience.",
-            "url": "https://gizmodo.com/dungeons-dragons-rolls-for-star-wars-and-world-of-warcraft-2000793589",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/dungeons-dragons-wow-1200x675.jpg",
-            "publishedAt": "2026-08-01T14:45:08Z",
-            "content": "Dungeons &amp; Dragons\u00a0can\u2019t stop growing, and at Gen Con 2026, Wizards of the Coast announced some surprising additions to the TTRPG. Taking a page out of Magic: The Gathering\u2019s\u00a0book, D&amp;D\u00a0will e\u2026 [+2377 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters, Victoria Song, Nathan Edwards, Jacob Kastrenakes, David Imel",
-            "title": "Made by Google 2026 live blog: Let\u2019s watch Trevor Noah talk about the Pixel 11",
-            "description": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show wa\u2026",
-            "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
-            "publishedAt": "2026-08-12T21:33:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMade by Google 2026 live blog: Lets watch Trevor Noah talk about the Pixel 11\r\nWere ready for some bad jokes during Googles celebrity-packed live show.\r\nby\r\nJay \u2026 [+5364 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "\u2018You Can\u2019t Get Food Out of a Data Center\u2019: Family Rejects Tech Company\u2019s $26 Million Offer for Their Farm",
-            "description": "82-year-old Ida Huddleston calls the Kentucky data center project a 'scam.'",
-            "url": "https://gizmodo.com/you-cant-get-food-out-of-a-data-center-family-rejects-26-million-offer-to-sell-their-farm-to-a-data-center-2000796744",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/DataCenterPhoto-1200x675.jpeg",
-            "publishedAt": "2026-08-10T20:45:37Z",
-            "content": "Tech companies are spending many billions of dollars on massive data center projects across the country amid the ongoing AI boom, but not everyone is willing to sell.\r\nAn 82-year-old Kentucky farmer \u2026 [+3663 chars]",
             "ai_score": 5
         }
     ]
