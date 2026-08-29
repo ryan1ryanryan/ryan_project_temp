@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-29 19:45",
+    "last_updated": "2026-08-29 22:29",
     "articles": [
         {
             "source": {
@@ -885,6 +885,20 @@
         },
         {
             "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nikita Grant",
+            "title": "How AI data centers are making everything more expensive",
+            "description": "AI data centers are causing a memory chip shortage, which is making phones, laptops, cameras, and consoles more expensive.",
+            "url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8#article",
+            "urlToImage": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
+            "publishedAt": "2026-08-28T21:26:32Z",
+            "content": "The rapid growth of AI data centers is creating a shortage of the memory chips used in everyday devices like laptops, phones, cameras, and gaming consoles. The world's three largest memory chipmakers\u2026 [+404 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -1035,20 +1049,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-Galaxy-Buds-3-Pro-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-18T17:47:04Z",
             "content": "The Galaxy Buds 3 Pro in black.\r\n\n\nIf you\u2019re looking for a feature-packed pair of earbuds that won\u2019t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That\u2019s $40 lowe\u2026 [+3433 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "Liv McMahon - Technology reporter",
-            "title": "Xbox Series X price hiked by \u00a3170 due to rising memory chip costs",
-            "description": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
-            "url": "https://www.bbc.com/news/articles/czjlvrd9e43o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/08b56a31e485e11e742b96e5a56c615841052c4642fca38d27d992d06fc91860/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1e11eed357185943661986c28410a5eb",
-            "publishedAt": "2026-08-03T11:18:15Z",
-            "content": "Microsoft has increased the price of Xbox consoles worldwide, citing rising memory and storage chip costs.\r\nIts premium Series X console with a disc drive will now cost \u00a3670, when it previously retai\u2026 [+2444 chars]",
             "ai_score": 5
         }
     ]
