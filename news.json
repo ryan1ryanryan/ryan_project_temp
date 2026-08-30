@@ -1,6 +1,76 @@
 {
-    "last_updated": "2026-08-30 01:11",
+    "last_updated": "2026-08-30 08:06",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "GeForce Now is getting support for the Steam Controller",
+            "description": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on\u2026",
+            "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-25T16:47:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLater this year, youll be able to play games on Nvidias cloud gaming service using Valves new gamepad.\r\nLater this year, youll be able to play games on Nvidias c\u2026 [+2716 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
+            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T12:49:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
+            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
+            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
+            "publishedAt": "2026-08-24T12:30:32Z",
+            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
+            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
+            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
+            "publishedAt": "2026-08-17T15:20:23Z",
+            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
+            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
+            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
+            "publishedAt": "2026-08-10T20:22:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -87,20 +157,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "GeForce Now is getting support for the Steam Controller",
-            "description": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on\u2026",
-            "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-25T16:47:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLater this year, youll be able to play games on Nvidias cloud gaming service using Valves new gamepad.\r\nLater this year, youll be able to play games on Nvidias c\u2026 [+2716 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -157,34 +213,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
-            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T12:49:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
-            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
-            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
-            "publishedAt": "2026-08-24T12:30:32Z",
-            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -217,40 +245,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
-            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
-            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
-            "publishedAt": "2026-08-17T15:20:23Z",
-            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
             "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
             "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
             "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
             "publishedAt": "2026-08-21T14:10:15Z",
             "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
-            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
-            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
-            "publishedAt": "2026-08-10T20:22:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
             "ai_score": 5
         },
         {
