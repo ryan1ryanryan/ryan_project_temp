@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-30 13:46",
+    "last_updated": "2026-08-30 18:01",
     "articles": [
         {
             "source": {
@@ -454,20 +454,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Jeff Wise",
-            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
-            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
-            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
-            "publishedAt": "2026-07-30T10:00:00Z",
-            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Nena Farrell",
             "title": "Best Early Tech Labor Day Sales I\u2019d Shop Myself (2026): AirTags, Dyson, and More",
             "description": "From the best Dyson vacuum to the best wireless headphones and earbuds we\u2019ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
@@ -475,6 +461,20 @@
             "urlToImage": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg",
             "publishedAt": "2026-08-21T09:37:00Z",
             "content": "It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't sto\u2026 [+784 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeff Wise",
+            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
+            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
+            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
+            "publishedAt": "2026-07-30T10:00:00Z",
+            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
             "ai_score": 5
         },
         {
@@ -650,6 +650,48 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Robert Hart",
+            "title": "Rogue AI aren\u2019t science fiction anymore",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
+            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-14T15:16:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRogue AI arent science fiction anymore\r\nFor years, fears about AI systems slipping human control were dismissed as speculative. \r\nby\r\nRobert HartClose\r\nPosts fro\u2026 [+12676 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Apple trained its own AI model for China with help from Alibaba",
+            "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-14T09:21:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AI detectors are creating a new era of distrust",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
+            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T19:23:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jennifer Pattison Tuohy",
             "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
             "description": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health iss\u2026",
@@ -727,48 +769,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
             "publishedAt": "2026-08-28T17:20:08Z",
             "content": "<ul><li></li><li></li></ul>\r\nChinas robots race ahead\r\nBots were breaking records and breaking down at Beijings World Humanoid Robot Games.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added\u2026 [+8563 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Rogue AI aren\u2019t science fiction anymore",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
-            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-14T15:16:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRogue AI arent science fiction anymore\r\nFor years, fears about AI systems slipping human control were dismissed as speculative. \r\nby\r\nRobert HartClose\r\nPosts fro\u2026 [+12676 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Apple trained its own AI model for China with help from Alibaba",
-            "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-14T09:21:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "AI detectors are creating a new era of distrust",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
-            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T19:23:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
             "ai_score": 5
         },
         {
@@ -927,20 +927,6 @@
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Esports Nations Cup delayed to 2027 as Iran conflict continues",
-            "description": "Organisers say postponing the contest will allow them to lay on the event fans deserve.",
-            "url": "https://www.bbc.co.uk/news/articles/cr7kdp2edk0o",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/88e36390-9af3-11f1-930b-57cfba7235f9.jpg",
-            "publishedAt": "2026-08-18T11:41:54Z",
-            "content": "The first Esports Nations Cup (ENC), set to be held in Saudi Arabia later this year, has been delayed until 2027.\r\nThe competitive video gaming event, which brings together players representing diffe\u2026 [+1031 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -951,6 +937,20 @@
             "urlToImage": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
             "publishedAt": "2026-07-30T20:12:57Z",
             "content": "I was offline last week in my home state of New Jersey, but when I got back to Silicon Valley, everyone was panicking again about how quickly artificial intelligence is advancing. While this is certa\u2026 [+3715 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Esports Nations Cup delayed to 2027 as Iran conflict continues",
+            "description": "Organisers say postponing the contest will allow them to lay on the event fans deserve.",
+            "url": "https://www.bbc.co.uk/news/articles/cr7kdp2edk0o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/88e36390-9af3-11f1-930b-57cfba7235f9.jpg",
+            "publishedAt": "2026-08-18T11:41:54Z",
+            "content": "The first Esports Nations Cup (ENC), set to be held in Saudi Arabia later this year, has been delayed until 2027.\r\nThe competitive video gaming event, which brings together players representing diffe\u2026 [+1031 chars]",
             "ai_score": 5
         },
         {
