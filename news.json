@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-31 18:56",
+    "last_updated": "2026-08-31 23:11",
     "articles": [
         {
             "source": {
@@ -773,6 +773,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+            "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
+            "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-30T19:14:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -1021,20 +1035,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
             "publishedAt": "2026-08-12T21:33:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nMade by Google 2026 live blog: Lets watch Trevor Noah talk about the Pixel 11\r\nWere ready for some bad jokes during Googles celebrity-packed live show.\r\nby\r\nJay \u2026 [+5364 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
-            "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
-            "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg",
-            "publishedAt": "2026-08-01T21:03:42Z",
-            "content": "Back at Yebra's centre, the team's work is particularly timely with weather forecasters predicting a super El Nino this summer - which could increase the probability of extreme heat, drought and bush\u2026 [+1853 chars]",
             "ai_score": 5
         }
     ]
