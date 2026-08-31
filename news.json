@@ -1,90 +1,6 @@
 {
-    "last_updated": "2026-08-31 11:28",
+    "last_updated": "2026-08-31 18:56",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
-            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
-            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
-            "publishedAt": "2026-08-24T12:30:32Z",
-            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
-            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
-            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
-            "publishedAt": "2026-08-17T15:20:23Z",
-            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
-            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
-            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
-            "publishedAt": "2026-08-21T14:10:15Z",
-            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
-            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
-            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
-            "publishedAt": "2026-08-10T20:22:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
-            "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to \u20ac200 or \u00a3170. The 1TB Xbox S\u2026",
-            "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
-            "publishedAt": "2026-08-02T16:18:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nby\r\nTerrenc\u2026 [+2354 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Netflix is closing two game studios",
-            "description": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and\u2026",
-            "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-13T20:53:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNight School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games.\r\nNight School Studio and Moonloot Games are being shu\u2026 [+2679 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -245,6 +161,20 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
+            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
+            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
+            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
+            "publishedAt": "2026-08-24T12:30:32Z",
+            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
             "title": "Graphics Cards Could Get Even More Expensive, and It\u2019s Not Just Nvidia",
             "description": "At this point, PC gaming is becoming a pure luxury.",
             "url": "https://gizmodo.com/graphics-cards-could-get-even-more-expensive-and-its-not-just-nvidia-2000793403",
@@ -265,6 +195,48 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/supreme-analogue-pocket-1200x675.jpg",
             "publishedAt": "2026-08-17T18:30:35Z",
             "content": "If you thought Razer reached peak cuteness with its Cinnamoroll-themed collection, you may want to think again. Razer sees its own puppy-ear-clad gaming headset and is raising that cutesy-ass gambit \u2026 [+1395 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
+            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
+            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
+            "publishedAt": "2026-08-17T15:20:23Z",
+            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
+            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
+            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
+            "publishedAt": "2026-08-21T14:10:15Z",
+            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
+            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
+            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
+            "publishedAt": "2026-08-10T20:22:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
             "ai_score": 5
         },
         {
@@ -370,6 +342,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Terrence O\u2019Brien",
+            "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
+            "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to \u20ac200 or \u00a3170. The 1TB Xbox S\u2026",
+            "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+            "publishedAt": "2026-08-02T16:18:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nby\r\nTerrenc\u2026 [+2354 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Stevie Bonifield",
             "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
             "description": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its la\u2026",
@@ -419,6 +405,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/07/waymo-robotaxi-1200x675.jpg",
             "publishedAt": "2026-08-21T21:23:30Z",
             "content": "More affordable lidar sensors from China are looking increasingly appealing to American automakers. But a Department of Energy lab is reportedly looking into whether the technology could pose nationa\u2026 [+2871 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Netflix is closing two game studios",
+            "description": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and\u2026",
+            "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-13T20:53:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNight School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games.\r\nNight School Studio and Moonloot Games are being shu\u2026 [+2679 chars]",
             "ai_score": 5
         },
         {
