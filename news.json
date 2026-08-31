@@ -1,6 +1,90 @@
 {
-    "last_updated": "2026-08-31 04:06",
+    "last_updated": "2026-08-31 11:28",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
+            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
+            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
+            "publishedAt": "2026-08-24T12:30:32Z",
+            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
+            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
+            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
+            "publishedAt": "2026-08-17T15:20:23Z",
+            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
+            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
+            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
+            "publishedAt": "2026-08-21T14:10:15Z",
+            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
+            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
+            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
+            "publishedAt": "2026-08-10T20:22:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
+            "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to \u20ac200 or \u00a3170. The 1TB Xbox S\u2026",
+            "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+            "publishedAt": "2026-08-02T16:18:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nby\r\nTerrenc\u2026 [+2354 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Netflix is closing two game studios",
+            "description": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and\u2026",
+            "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-13T20:53:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNight School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games.\r\nNight School Studio and Moonloot Games are being shu\u2026 [+2679 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,20 +111,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-07-30T14:18:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Future of Tech Is Owning Nothing",
-            "description": "Apple\u2019s lease program is just the beginning.",
-            "url": "https://gizmodo.com/the-future-of-tech-is-owning-nothing-2000792593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-14-1200x675.jpg",
-            "publishedAt": "2026-07-29T20:50:45Z",
-            "content": "Do you think you already have too many monthly subscriptions? Better buckle up. Apple, with its new Apple Upgrade program, has opened the floodgates for an all-leased future, where you wont actually \u2026 [+3728 chars]",
             "ai_score": 5
         },
         {
@@ -175,20 +245,6 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
-            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
-            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
-            "publishedAt": "2026-08-24T12:30:32Z",
-            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
             "title": "Graphics Cards Could Get Even More Expensive, and It\u2019s Not Just Nvidia",
             "description": "At this point, PC gaming is becoming a pure luxury.",
             "url": "https://gizmodo.com/graphics-cards-could-get-even-more-expensive-and-its-not-just-nvidia-2000793403",
@@ -209,62 +265,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/supreme-analogue-pocket-1200x675.jpg",
             "publishedAt": "2026-08-17T18:30:35Z",
             "content": "If you thought Razer reached peak cuteness with its Cinnamoroll-themed collection, you may want to think again. Razer sees its own puppy-ear-clad gaming headset and is raising that cutesy-ass gambit \u2026 [+1395 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
-            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
-            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
-            "publishedAt": "2026-08-17T15:20:23Z",
-            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
-            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
-            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
-            "publishedAt": "2026-08-21T14:10:15Z",
-            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
-            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
-            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
-            "publishedAt": "2026-08-10T20:22:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "EU Will Reportedly Label ChatGPT and Roblox \u2018Very Large Online Platforms\u2019 (Derogatory)",
-            "description": "The designation exposes companies to tougher regulations and transparency requirements.",
-            "url": "https://gizmodo.com/eu-will-reportedly-label-chatgpt-and-roblox-very-large-online-platforms-derogatory-2000792681",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2270910088-1200x675.jpg",
-            "publishedAt": "2026-07-30T01:21:51Z",
-            "content": "The DSA has struck again and corporations are trembling. No, not the Mamdani DSA, the other DSA, the EU\u2019s Digital Services Act, Europe\u2019s legal framework for regulating the tech industry, which is als\u2026 [+2318 chars]",
             "ai_score": 5
         },
         {
@@ -370,20 +370,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170",
-            "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to \u20ac200 or \u00a3170. The 1TB Xbox S\u2026",
-            "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
-            "publishedAt": "2026-08-02T16:18:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nMicrosofts struggling console continues to see unprecedented price bumps.\r\nby\r\nTerrenc\u2026 [+2354 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
             "description": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its la\u2026",
@@ -437,20 +423,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Netflix is closing two game studios",
-            "description": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and\u2026",
-            "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-13T20:53:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNight School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games.\r\nNight School Studio and Moonloot Games are being shu\u2026 [+2679 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -461,20 +433,6 @@
             "urlToImage": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg",
             "publishedAt": "2026-08-21T09:37:00Z",
             "content": "It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't sto\u2026 [+784 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jeff Wise",
-            "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
-            "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
-            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-            "urlToImage": "https://media.wired.com/photos/6a6a6d259beb8cd00d662700/191:100/w_1280,c_limit/072926_gps-jamming-roswell-flight.jpg",
-            "publishedAt": "2026-07-30T10:00:00Z",
-            "content": "At midnight on May 14, eight minutes after Clark and Kawsara took off from Roswell, they told Albuquerque Center that theyd lost their GPS. Unable to navigate on their own, they asked that the contro\u2026 [+2753 chars]",
             "ai_score": 5
         },
         {
@@ -549,20 +507,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Xbox Revenue Dropped $1.7 Billion Last Year",
-            "description": "Microsoft's gaming division had a very bad quarter",
-            "url": "https://kotaku.com/xbox-revenue-dropped-1-7-billion-last-year-2000720316",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/06/xbox-green.jpg",
-            "publishedAt": "2026-07-29T21:01:34Z",
-            "content": "Microsoft reported a huge jump in profits last quarter, but not in its gaming division. Xbox trailed the tech giant\u2019s other divisions with a double-digit decline in revenue year-over-year. The number\u2026 [+1988 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -573,20 +517,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-18T12:01:28Z",
             "content": "Ah, the relationship between animals and the technology they can\u2019t quite understand.\u00a0\n\nToday, it seems like there\u2019s a high-tech solution to every element of pet ownership, with devices on the market \u2026 [+1115 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
-            "description": "Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game has gone from a source for funny, glitch-fueled videos to a wo\u2026",
-            "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cyberpunk2077screenshot.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-07-29T21:02:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts well worth the $20 price of admission to check out Night Citys updated world and story.\r\nIts well worth the $20 price of admission to check out Night Citys u\u2026 [+2990 chars]",
             "ai_score": 5
         },
         {
@@ -643,48 +573,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&strip=all&crop=0%2C10.741445188627%2C100%2C78.517109622746&w=1200",
             "publishedAt": "2026-08-25T18:25:35Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\n$500 will be the new normal price for the console, or more if you buy one of the bundles.\r\n$500 will be the new normal price for the console, or more if you buy \u2026 [+2657 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Rogue AI aren\u2019t science fiction anymore",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
-            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-14T15:16:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRogue AI arent science fiction anymore\r\nFor years, fears about AI systems slipping human control were dismissed as speculative. \r\nby\r\nRobert HartClose\r\nPosts fro\u2026 [+12676 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Apple trained its own AI model for China with help from Alibaba",
-            "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-14T09:21:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "AI detectors are creating a new era of distrust",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
-            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T19:23:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
             "ai_score": 5
         },
         {
@@ -769,6 +657,48 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
             "publishedAt": "2026-08-28T17:20:08Z",
             "content": "<ul><li></li><li></li></ul>\r\nChinas robots race ahead\r\nBots were breaking records and breaking down at Beijings World Humanoid Robot Games.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added\u2026 [+8563 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Rogue AI aren\u2019t science fiction anymore",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
+            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-14T15:16:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRogue AI arent science fiction anymore\r\nFor years, fears about AI systems slipping human control were dismissed as speculative. \r\nby\r\nRobert HartClose\r\nPosts fro\u2026 [+12676 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Apple trained its own AI model for China with help from Alibaba",
+            "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-14T09:21:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AI detectors are creating a new era of distrust",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
+            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T19:23:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
             "ai_score": 5
         },
         {
@@ -1035,6 +965,76 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/nVidia-GeForce-5080-12-1200x675.jpg",
             "publishedAt": "2026-08-06T15:59:25Z",
             "content": "The prices of Nvidias RTX 50-series graphics cards have gotten so out of hand that you may need to spend close to $5,000 if you want to buy a top-end RTX 5090 GPU. The only way to ignore this terribl\u2026 [+2843 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Nintendo beats earnings thanks to US tariff refunds it won\u2019t share with gamers",
+            "description": "Nintendo has smashed its first-quarter earnings estimates for the fiscal year, bolstered by strong games sales and US tariff refunds, though its customers likely won't receive anything from the latter. In its latest financial results, Nintendo reports that op\u2026",
+            "url": "https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKR001_NINTENDO_SWITCH_3_F.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-06T10:58:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOperating profit increased by more than 150 percent, partially because of a $300 million tariff refund.\r\nOperating profit increased by more than 150 percent, par\u2026 [+3081 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Valve Leaks Almost Everything About the Steam Frame, Except for the One Big Thing",
+            "description": "Valve will even tell you how to unbox, set up, and wear your headset like a real weirdo.",
+            "url": "https://gizmodo.com/valve-leaks-almost-everything-about-the-steam-frame-except-for-the-one-big-thing-2000800541",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Valve-Steam-Frame-1-1200x675.jpg",
+            "publishedAt": "2026-08-19T19:15:37Z",
+            "content": "The Steam Frame launch is so imminent that Valve accidentally shared a mountain of videos sharing how to unbox, set up, and use the gaming-focused VR headset. Valves design chops already have us exci\u2026 [+3786 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Justin Carter",
+            "title": "\u2018Dungeons & Dragons\u2019 Rolls for \u2018Star Wars\u2019 and \u2018World of Warcraft\u2019",
+            "description": "The popular TTRPG is doing its own version of 'Universes Beyond,' starting with two properties with some tabletop experience.",
+            "url": "https://gizmodo.com/dungeons-dragons-rolls-for-star-wars-and-world-of-warcraft-2000793589",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/dungeons-dragons-wow-1200x675.jpg",
+            "publishedAt": "2026-08-01T14:45:08Z",
+            "content": "Dungeons &amp; Dragons\u00a0can\u2019t stop growing, and at Gen Con 2026, Wizards of the Coast announced some surprising additions to the TTRPG. Taking a page out of Magic: The Gathering\u2019s\u00a0book, D&amp;D\u00a0will e\u2026 [+2377 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters, Victoria Song, Nathan Edwards, Jacob Kastrenakes, David Imel",
+            "title": "Made by Google 2026 live blog: Let\u2019s watch Trevor Noah talk about the Pixel 11",
+            "description": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show wa\u2026",
+            "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+            "publishedAt": "2026-08-12T21:33:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMade by Google 2026 live blog: Lets watch Trevor Noah talk about the Pixel 11\r\nWere ready for some bad jokes during Googles celebrity-packed live show.\r\nby\r\nJay \u2026 [+5364 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+            "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+            "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/546e/live/139754d0-8cb5-11f1-b49b-bb9fc846a015.jpg",
+            "publishedAt": "2026-08-01T21:03:42Z",
+            "content": "Back at Yebra's centre, the team's work is particularly timely with weather forecasters predicting a super El Nino this summer - which could increase the probability of extreme heat, drought and bush\u2026 [+1853 chars]",
             "ai_score": 5
         }
     ]
