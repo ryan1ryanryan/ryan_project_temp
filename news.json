@@ -1,104 +1,6 @@
 {
-    "last_updated": "2026-09-01 09:18",
+    "last_updated": "2026-09-01 14:38",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matthew S. Smith",
-            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
-            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
-            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
-            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
-            "publishedAt": "2026-08-03T11:00:00Z",
-            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
-            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T12:49:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
-            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
-            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
-            "publishedAt": "2026-08-17T15:20:23Z",
-            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
-            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
-            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
-            "publishedAt": "2026-08-21T14:10:15Z",
-            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
-            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
-            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-04T17:35:04Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Palworld\u2019s expanding to mobile with a new MMORPG",
-            "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, fre\u2026",
-            "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-03T14:50:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPalworld Online will expand on the original game with a new setting and new story elements.\r\nPalworld Online will expand on the original game with a new setting \u2026 [+2111 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "When Is The PS6 Coming Out? Not Even Sony Has Decided The Date, Yet",
-            "description": "Scheduling is happening amid an unprecedented cost crisis for gaming",
-            "url": "https://kotaku.com/the-ps6-launch-date-is-still-up-in-the-air-2000725002",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg",
-            "publishedAt": "2026-08-17T14:50:03Z",
-            "content": "The PlayStation 6 was at one point rumored to be circling a holiday 2027 launch window. Some believe it\u2019s now moved into 2028, the year Sony is ending disc support for new PlayStation games. Accordin\u2026 [+1429 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -111,20 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Razer\u2019s new keyboards drop the price on powerful gaming features",
-            "description": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. Th\u2026",
-            "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268673_Razer_Huntsman_V3_HE_Magnetic_mechanical_keyboards_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-30T14:18:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Huntsman V3 HE Magnetic TKL and Mini look like most other Razer boards (a little ugly), but theyre loaded up with competitive gaming tech.\r\nThe Huntsman V3 H\u2026 [+6198 chars]",
+            "author": "Matthew S. Smith",
+            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
+            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
+            "publishedAt": "2026-08-03T11:00:00Z",
+            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
             "ai_score": 5
         },
         {
@@ -227,6 +129,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
+            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T12:49:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -255,6 +171,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
+            "description": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every m\u2026",
+            "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-31T14:06:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe governor on 3D-printed guns, AI and data center backlash, and who protects kids online.\r\nIf you buy something from a Verge link, Vox Media may earn a commiss\u2026 [+51441 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -265,6 +195,34 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/supreme-analogue-pocket-1200x675.jpg",
             "publishedAt": "2026-08-17T18:30:35Z",
             "content": "If you thought Razer reached peak cuteness with its Cinnamoroll-themed collection, you may want to think again. Razer sees its own puppy-ear-clad gaming headset and is raising that cutesy-ass gambit \u2026 [+1395 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
+            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
+            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
+            "publishedAt": "2026-08-17T15:20:23Z",
+            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
+            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
+            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
+            "publishedAt": "2026-08-21T14:10:15Z",
+            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
             "ai_score": 5
         },
         {
@@ -339,6 +297,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Lenovo\u2019s Legion Go S with SteamOS is down to its lowest price ever",
+            "description": "Memory and storage prices will be inflated for the foreseeable future, so we\u2019re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for c\u2026",
+            "url": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1210.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-04T17:35:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Steam Deck OLED recently got a price bump, but the next best SteamOS handheld just got cheaper.\r\nThe Steam Deck OLED recently got a price bump, but the next \u2026 [+2305 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -349,6 +321,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/2027-Odyssey-OLED-G7_G75SJ_-Interior-1200x675.jpg",
             "publishedAt": "2026-08-27T14:50:42Z",
             "content": "Youve got to hand it to the Samsung monitor team: They dont think small. After trying to make 6K resolution work for gaming (spoiler alert, its not the new 4K), the Korean screen giant is proposing y\u2026 [+3409 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Palworld\u2019s expanding to mobile with a new MMORPG",
+            "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, fre\u2026",
+            "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-03T14:50:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPalworld Online will expand on the original game with a new setting and new story elements.\r\nPalworld Online will expand on the original game with a new setting \u2026 [+2111 chars]",
             "ai_score": 5
         },
         {
@@ -391,6 +377,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2022/11/5c28e2ddb5ce1bf8fb9f2064ad3dff31-e1787066763778-1200x675.jpg",
             "publishedAt": "2026-08-18T15:55:54Z",
             "content": "Apple appears to be sending out a large wave of warnings to users it believes were targeted by mercenary spyware.\r\nAccording to TechCrunch, the company started sending out its latest round of notific\u2026 [+2995 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Poco\u2019s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer",
+            "description": "Xiaomi spinoff brand Poco has partnered with Bose for the second year in a row for its flagship F9 Pro and Ultra phones. The F9 phones double down on amped up audio, with a light-up subwoofer built into the Ultra, along with extremely bright displays, enormou\u2026",
+            "url": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/poco-f9-pro-ultra-4.jpg?quality=90&strip=all&crop=0%2C10.727971269358%2C100%2C78.544057461284&w=1200",
+            "publishedAt": "2026-08-31T13:28:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nby\r\nDominic Prest\u2026 [+4518 chars]",
             "ai_score": 5
         },
         {
@@ -475,6 +475,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nomatic.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
             "publishedAt": "2026-08-03T18:07:43Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBack-to-school season also means giveaway season here at The Verge.\r\nBack-to-school season also means giveaway season here at The Verge.\r\nby\r\nCameron FaulknerClo\u2026 [+2525 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "When Is The PS6 Coming Out? Not Even Sony Has Decided The Date, Yet",
+            "description": "Scheduling is happening amid an unprecedented cost crisis for gaming",
+            "url": "https://kotaku.com/the-ps6-launch-date-is-still-up-in-the-air-2000725002",
+            "urlToImage": "https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg",
+            "publishedAt": "2026-08-17T14:50:03Z",
+            "content": "The PlayStation 6 was at one point rumored to be circling a holiday 2027 launch window. Some believe it\u2019s now moved into 2028, the year Sony is ending disc support for new PlayStation games. Accordin\u2026 [+1429 chars]",
             "ai_score": 5
         },
         {
@@ -664,6 +678,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Emma Roth",
+            "title": "AI detectors are creating a new era of distrust",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
+            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T19:23:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Robert Hart",
             "title": "Rogue AI aren\u2019t science fiction anymore",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
@@ -685,20 +713,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-14T09:21:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "AI detectors are creating a new era of distrust",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
-            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T19:23:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
             "ai_score": 5
         },
         {
@@ -762,20 +776,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Brad Bourque",
-            "title": "At just $8, you owe it to yourself to grab Inscryption",
-            "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven\u2019t heard of him, get a crash course with a fantastic discount on Inscryption. H\u2026",
-            "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
-            "publishedAt": "2026-08-25T20:38:37Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf the Pony Island 2 trailer sparked your curiosity, one of Mullins earlier mind-bending games is discounted.\r\nIf the Pony Island 2 trailer sparked your curiosit\u2026 [+2181 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
             "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
@@ -783,6 +783,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-30T19:14:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "At just $8, you owe it to yourself to grab Inscryption",
+            "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven\u2019t heard of him, get a crash course with a fantastic discount on Inscryption. H\u2026",
+            "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
+            "publishedAt": "2026-08-25T20:38:37Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf the Pony Island 2 trailer sparked your curiosity, one of Mullins earlier mind-bending games is discounted.\r\nIf the Pony Island 2 trailer sparked your curiosit\u2026 [+2181 chars]",
             "ai_score": 5
         },
         {
@@ -830,20 +844,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom Hawking",
-            "title": "Can Winamp Ride the Retro Tech Wave All the Way Onto Spotify\u2019s Private Beach?",
-            "description": "The relaunched music player wants to be a one-stop shop for music.",
-            "url": "https://gizmodo.com/can-winamp-ride-the-retro-tech-wave-all-the-way-onto-spotifys-private-beach-2000792989",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/winamp-1200x675.jpg",
-            "publishedAt": "2026-07-30T19:40:27Z",
-            "content": "This week brought the news that Winampremember Winamp?is planning to relaunch next year as a sort of one-player-for-everything app, with an integrated streaming service provided by French company Dee\u2026 [+5305 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "Tyler Graham",
@@ -867,20 +867,6 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/HyperX-Open-back-headset.jpg",
             "publishedAt": "2026-08-20T18:30:13Z",
             "content": "HP might not be ready to bring any new gaming laptops or desktop computers into the fray just yet, but it debuted a healthy heaping of new peripherals under its HyperX gaming brand to keep casuals, h\u2026 [+7561 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
-            "description": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs\u2019 push into robotics.",
-            "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-            "urlToImage": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
-            "publishedAt": "2026-07-30T20:12:57Z",
-            "content": "I was offline last week in my home state of New Jersey, but when I got back to Silicon Valley, everyone was panicking again about how quickly artificial intelligence is advancing. While this is certa\u2026 [+3715 chars]",
             "ai_score": 5
         },
         {
@@ -923,6 +909,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/LG-Display-FLiPP-OLED-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-20T09:11:26Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe FLiPP tech should also be brighter, more energy efficient, and virtually any size.\r\nThe FLiPP tech should also be brighter, more energy efficient, and virtua\u2026 [+2407 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Raymond Wong, Kyle Barr, James Pero, Matt Wille, and Wes Davis",
+            "title": "Live Updates From IFA 2026 in Berlin ",
+            "description": "Follow along with the Gizmodo crew as we cover all the consumer electronics news announcements coming out of IFA 2026 in Berlin.",
+            "url": "https://gizmodo.com/live-updates-from-ifa-2026-in-berlin-2000800025",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Gizmodo_IFA2026_FeaturedImage_Live-1200x675.jpg",
+            "publishedAt": "2026-08-31T12:00:08Z",
+            "content": "Before \u201ctechtember\u201d and \u201ctechtober\u201d hit, we have one big tech show to get through: IFA 2026.\r\nGizmodo\u2019s Kyle Barr and Wes Davis are returning to Berlin to check out the \u201cInnovation For All\u201d consumer \u2026 [+795 chars]",
             "ai_score": 5
         },
         {
