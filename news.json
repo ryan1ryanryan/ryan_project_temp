@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-01 14:38",
+    "last_updated": "2026-09-01 18:15",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -157,6 +157,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Car owners want tech they can ignore",
+            "description": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to\u2026",
+            "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/2027MercedesBenzCLA3505.jpg?quality=90&strip=all&crop=0%2C5.724295186124%2C100%2C88.551409627752&w=1200",
+            "publishedAt": "2026-08-31T17:11:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can keep your passenger screens.\r\nYou can keep your passenger screens.\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email \u2026 [+4572 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -237,6 +251,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
             "publishedAt": "2026-08-10T20:22:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Meet the Google Exec Trying to Convince a Skeptical Gaming Industry to Love AI",
+            "description": "Everybody agrees the games industry needs to change to survive. Google is trying to fix it with AI.",
+            "url": "https://gizmodo.com/meet-the-google-exec-trying-to-convince-a-skeptical-gaming-industry-to-love-ai-2000804493",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Google-Cloud-Exec-Jack-Buser-1-1200x675.jpg",
+            "publishedAt": "2026-08-31T17:00:13Z",
+            "content": "In a gold rush, the people who get rich arent the grubby prospectors digging for those nuggets in the muck; it\u2019s the men who sell the shovels. In that vein, Google, with generative tools like Genie, \u2026 [+18941 chars]",
             "ai_score": 5
         },
         {
@@ -594,6 +622,48 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Robert Hart",
+            "title": "Rogue AI aren\u2019t science fiction anymore",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
+            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-14T15:16:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRogue AI arent science fiction anymore\r\nFor years, fears about AI systems slipping human control were dismissed as speculative. \r\nby\r\nRobert HartClose\r\nPosts fro\u2026 [+12676 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Apple trained its own AI model for China with help from Alibaba",
+            "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-14T09:21:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AI detectors are creating a new era of distrust",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
+            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T19:23:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jennifer Pattison Tuohy",
             "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
             "description": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health iss\u2026",
@@ -678,48 +748,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "AI detectors are creating a new era of distrust",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
-            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T19:23:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Rogue AI aren\u2019t science fiction anymore",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
-            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-14T15:16:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nRogue AI arent science fiction anymore\r\nFor years, fears about AI systems slipping human control were dismissed as speculative. \r\nby\r\nRobert HartClose\r\nPosts fro\u2026 [+12676 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Apple trained its own AI model for China with help from Alibaba",
-            "description": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-14T09:21:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "China\u2019s Alibaba takes another swipe at America\u2019s AI supremacy",
             "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba sai\u2026",
@@ -741,6 +769,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-13T00:39:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter reports that some cops misused tracking data it collects, Flock is rolling out policy changes.\r\nAfter reports that some cops misused tracking data it colle\u2026 [+7228 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Sony\u2019s WH-1000XM5 headphones are back down to their lowest price",
+            "description": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morning. The comfy over-ear headphones offer some of the best so\u2026",
+            "url": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/sonyxm5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-31T15:31:59Z",
+            "content": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morn\u2026 [+4144 chars]",
             "ai_score": 5
         },
         {
@@ -776,20 +818,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-            "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
-            "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-30T19:14:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Brad Bourque",
             "title": "At just $8, you owe it to yourself to grab Inscryption",
             "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven\u2019t heard of him, get a crash course with a fantastic discount on Inscryption. H\u2026",
@@ -797,6 +825,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
             "publishedAt": "2026-08-25T20:38:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIf the Pony Island 2 trailer sparked your curiosity, one of Mullins earlier mind-bending games is discounted.\r\nIf the Pony Island 2 trailer sparked your curiosit\u2026 [+2181 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+            "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
+            "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-30T19:14:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
             "ai_score": 5
         },
         {
@@ -849,9 +891,9 @@
             "author": "Tyler Graham",
             "title": "HP Introduces First HyperX Open-Back Headset, Lightweight Carbon Fiber Mouse and More",
             "description": "I got a glimpse at the latest HyperX gaming peripherals. Here\u2019s what stood out, from new devices to tweaks to existing fan favorites.",
-            "url": "https://www.cnet.com/tech/computing/hp-introduces-first-hyperx-open-back-headset-lightweight-carbon-fiber-mouse-and-more-2/",
+            "url": "https://www.cnet.com/tech/computing/hp-introduces-first-hyperx-open-back-headset-lightweight-carbon-fiber-mouse-and-more/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/HyperX-Open-back-headset.jpg",
-            "publishedAt": "2026-08-20T22:00:00Z",
+            "publishedAt": "2026-08-20T18:30:13Z",
             "content": "HP might not be ready to bring any new gaming laptops or desktop computers into the fray just yet, but it debuted a healthy heaping of new peripherals under its HyperX gaming brand to keep casuals, h\u2026 [+7561 chars]",
             "ai_score": 5
         },
@@ -863,9 +905,9 @@
             "author": "Tyler Graham",
             "title": "HP Introduces First HyperX Open-Back Headset, Lightweight Carbon Fiber Mouse and More",
             "description": "I got a glimpse at the latest HyperX gaming peripherals. Here\u2019s what stood out, from new devices to tweaks to existing fan favorites.",
-            "url": "https://www.cnet.com/tech/computing/hp-introduces-first-hyperx-open-back-headset-lightweight-carbon-fiber-mouse-and-more/",
+            "url": "https://www.cnet.com/tech/computing/hp-introduces-first-hyperx-open-back-headset-lightweight-carbon-fiber-mouse-and-more-2/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/HyperX-Open-back-headset.jpg",
-            "publishedAt": "2026-08-20T18:30:13Z",
+            "publishedAt": "2026-08-20T22:00:00Z",
             "content": "HP might not be ready to bring any new gaming laptops or desktop computers into the fray just yet, but it debuted a healthy heaping of new peripherals under its HyperX gaming brand to keep casuals, h\u2026 [+7561 chars]",
             "ai_score": 5
         },
@@ -993,48 +1035,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKR001_NINTENDO_SWITCH_3_F.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-06T10:58:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOperating profit increased by more than 150 percent, partially because of a $300 million tariff refund.\r\nOperating profit increased by more than 150 percent, par\u2026 [+3081 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Valve Leaks Almost Everything About the Steam Frame, Except for the One Big Thing",
-            "description": "Valve will even tell you how to unbox, set up, and wear your headset like a real weirdo.",
-            "url": "https://gizmodo.com/valve-leaks-almost-everything-about-the-steam-frame-except-for-the-one-big-thing-2000800541",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Valve-Steam-Frame-1-1200x675.jpg",
-            "publishedAt": "2026-08-19T19:15:37Z",
-            "content": "The Steam Frame launch is so imminent that Valve accidentally shared a mountain of videos sharing how to unbox, set up, and use the gaming-focused VR headset. Valves design chops already have us exci\u2026 [+3786 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Justin Carter",
-            "title": "\u2018Dungeons & Dragons\u2019 Rolls for \u2018Star Wars\u2019 and \u2018World of Warcraft\u2019",
-            "description": "The popular TTRPG is doing its own version of 'Universes Beyond,' starting with two properties with some tabletop experience.",
-            "url": "https://gizmodo.com/dungeons-dragons-rolls-for-star-wars-and-world-of-warcraft-2000793589",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/dungeons-dragons-wow-1200x675.jpg",
-            "publishedAt": "2026-08-01T14:45:08Z",
-            "content": "Dungeons &amp; Dragons\u00a0can\u2019t stop growing, and at Gen Con 2026, Wizards of the Coast announced some surprising additions to the TTRPG. Taking a page out of Magic: The Gathering\u2019s\u00a0book, D&amp;D\u00a0will e\u2026 [+2377 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters, Victoria Song, Nathan Edwards, Jacob Kastrenakes, David Imel",
-            "title": "Made by Google 2026 live blog: Let\u2019s watch Trevor Noah talk about the Pixel 11",
-            "description": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show wa\u2026",
-            "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
-            "publishedAt": "2026-08-12T21:33:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMade by Google 2026 live blog: Lets watch Trevor Noah talk about the Pixel 11\r\nWere ready for some bad jokes during Googles celebrity-packed live show.\r\nby\r\nJay \u2026 [+5364 chars]",
             "ai_score": 5
         }
     ]
