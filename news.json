@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-09-01 18:15",
+    "last_updated": "2026-09-01 21:41",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
+            "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord r\u2026",
+            "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
+            "publishedAt": "2026-08-28T16:22:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nModders are applying an unofficial version of DLSS 5s AI rendering to games like Control, Skyrim, GTA, and more.\r\nModders are applying an unofficial version of D\u2026 [+4070 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,20 +55,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268675_HP_HyperX_Omen_15_gaming_laptop_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-01T06:07:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBut its decent enough for 1080p gaming in our RAMageddon world.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statemen\u2026 [+12869 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
-            "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord r\u2026",
-            "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
-            "publishedAt": "2026-08-28T16:22:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nModders are applying an unofficial version of DLSS 5s AI rendering to games like Control, Skyrim, GTA, and more.\r\nModders are applying an unofficial version of D\u2026 [+4070 chars]",
             "ai_score": 5
         },
         {
@@ -787,20 +787,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Keychron\u2019s wireless Hall effect keyboard is back to its lowest price",
-            "description": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don\u2019t need to compromise on quality to get a good deal. Keychron\u2019s aluminum-clad K2 HE with a 75-percent layout is down to $103.99 (was $130) at Amazon, wh\u2026",
-            "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/keychron.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T14:27:23Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found a good gaming laptop for $1,099, plus deals on Sonys latest wired and wireless InZone headsets.\r\nWe also found a good gaming laptop for $1,099, plu\u2026 [+4534 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -811,6 +797,20 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/pixel-11-pro-gaming.jpg",
             "publishedAt": "2026-08-26T13:05:40Z",
             "content": "In 2025, I lauded the Google Pixel 10 Pro for its bright, vibrant display that was great to game on. Now, its successor has arrived, and although it looks identical \u2014 with some slight hardware change\u2026 [+9280 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Keychron\u2019s wireless Hall effect keyboard is back to its lowest price",
+            "description": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don\u2019t need to compromise on quality to get a good deal. Keychron\u2019s aluminum-clad K2 HE with a 75-percent layout is down to $103.99 (was $130) at Amazon, wh\u2026",
+            "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/keychron.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T14:27:23Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found a good gaming laptop for $1,099, plus deals on Sonys latest wired and wireless InZone headsets.\r\nWe also found a good gaming laptop for $1,099, plu\u2026 [+4534 chars]",
             "ai_score": 5
         },
         {
