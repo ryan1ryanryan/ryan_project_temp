@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-02 03:15",
+    "last_updated": "2026-09-02 08:33",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matthew S. Smith",
-            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
-            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
-            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
-            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
-            "publishedAt": "2026-08-03T11:00:00Z",
-            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,90 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Alienware AW3926QW Review: 39 Inches of Gaming Glory",
+            "description": "Alienware\u2019s latest OLED gaming monitor explores a new size and resolution for ultrawide monitors, and I have a feeling PC gamers are going to love it.",
+            "url": "https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/",
+            "urlToImage": "https://media.wired.com/photos/6a8fae4843f0eb43b71996fc/191:100/w_1280,c_limit/Review--Alienware-5K-OLED-Ultrawide-Gaming-Monitor.jpg",
+            "publishedAt": "2026-08-27T13:00:00Z",
+            "content": "The AW3926QW has an RGB stripe tandem OLED panel produced by LG. At the moment, its one of just two ultrawide monitors to offer the panel, which is also available from LGs UltraGear Evo GX9. I recent\u2026 [+2202 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
+            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
+            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
+            "publishedAt": "2026-08-24T12:30:32Z",
+            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Samsung Odyssey G80HS Monitor Review: 6K Isn\u2019t the Future of Gaming",
+            "description": "Is 6K the next 4K? Only if you care about the most minute details you can see on a paltry few PC titles.",
+            "url": "https://gizmodo.com/samsung-odyssey-g80hs-monitor-review-6k-isnt-the-future-of-gaming-2000796172",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Samsung-Odyssey-G8-G80HS-review-02-1200x675.jpg",
+            "publishedAt": "2026-08-10T18:05:15Z",
+            "content": "Lets get the main thing out of the way: You do not need a 6K monitor for gaming.\r\nI spent so many hours with the recently released Samsung Odyssey G80HS 6K monitor with the few games available that a\u2026 [+12549 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Palworld\u2019s expanding to mobile with a new MMORPG",
+            "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, fre\u2026",
+            "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-03T14:50:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPalworld Online will expand on the original game with a new setting and new story elements.\r\nPalworld Online will expand on the original game with a new setting \u2026 [+2111 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ellyn Lapointe",
+            "title": "Just How Bad Are AI Data Centers for Your Local Water?",
+            "description": "Communities say AI is draining their water supplies, but the tech industry begs to differ. Gizmodo asked experts for their honest assessments.",
+            "url": "https://gizmodo.com/just-how-bad-are-ai-data-centers-for-your-local-water-2000795372",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/data-center-protest-sign-1-1200x675.jpg",
+            "publishedAt": "2026-08-08T10:00:14Z",
+            "content": "The proliferation of AI data centers has spurred protests across the United States. Last month, communities that had long fought separate battles against Big Tech\u2019s intrusion into their hometowns org\u2026 [+10749 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+            "description": "We\u2019ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware\u2019s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
+            "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+            "urlToImage": "https://media.wired.com/photos/6a6d7adfbf60ddac0daed495/191:100/w_1280,c_limit/Review--Alienware-27-QD-OLED-Gaming-Monitor-(AW2726DM).jpg",
+            "publishedAt": "2026-08-03T11:00:00Z",
+            "content": "This type of QD-OLED arranges pixels in a way thats different from LCD, which can cause issues when viewing small text. You may notice color fringing visible as an odd burst of green or purple fillin\u2026 [+2921 chars]",
             "ai_score": 5
         },
         {
@@ -69,20 +139,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-25T16:47:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLater this year, youll be able to play games on Nvidias cloud gaming service using Valves new gamepad.\r\nLater this year, youll be able to play games on Nvidias c\u2026 [+2716 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matthew S. Smith",
-            "title": "Alienware AW3926QW Review: 39 Inches of Gaming Glory",
-            "description": "Alienware\u2019s latest OLED gaming monitor explores a new size and resolution for ultrawide monitors, and I have a feeling PC gamers are going to love it.",
-            "url": "https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/",
-            "urlToImage": "https://media.wired.com/photos/6a8fae4843f0eb43b71996fc/191:100/w_1280,c_limit/Review--Alienware-5K-OLED-Ultrawide-Gaming-Monitor.jpg",
-            "publishedAt": "2026-08-27T13:00:00Z",
-            "content": "The AW3926QW has an RGB stripe tandem OLED panel produced by LG. At the moment, its one of just two ultrawide monitors to offer the panel, which is also available from LGs UltraGear Evo GX9. I recent\u2026 [+2202 chars]",
             "ai_score": 5
         },
         {
@@ -139,20 +195,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-10T12:49:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
-            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
-            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
-            "publishedAt": "2026-08-24T12:30:32Z",
-            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
             "ai_score": 5
         },
         {
@@ -311,20 +353,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Samsung Odyssey G80HS Monitor Review: 6K Isn\u2019t the Future of Gaming",
-            "description": "Is 6K the next 4K? Only if you care about the most minute details you can see on a paltry few PC titles.",
-            "url": "https://gizmodo.com/samsung-odyssey-g80hs-monitor-review-6k-isnt-the-future-of-gaming-2000796172",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Samsung-Odyssey-G8-G80HS-review-02-1200x675.jpg",
-            "publishedAt": "2026-08-10T18:05:15Z",
-            "content": "Lets get the main thing out of the way: You do not need a 6K monitor for gaming.\r\nI spent so many hours with the recently released Samsung Odyssey G80HS 6K monitor with the few games available that a\u2026 [+12549 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -349,20 +377,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/2027-Odyssey-OLED-G7_G75SJ_-Interior-1200x675.jpg",
             "publishedAt": "2026-08-27T14:50:42Z",
             "content": "Youve got to hand it to the Samsung monitor team: They dont think small. After trying to make 6K resolution work for gaming (spoiler alert, its not the new 4K), the Korean screen giant is proposing y\u2026 [+3409 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Palworld\u2019s expanding to mobile with a new MMORPG",
-            "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, fre\u2026",
-            "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/palworld-online-announcement.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-03T14:50:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPalworld Online will expand on the original game with a new setting and new story elements.\r\nPalworld Online will expand on the original game with a new setting \u2026 [+2111 chars]",
             "ai_score": 5
         },
         {
@@ -517,20 +531,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg",
             "publishedAt": "2026-08-17T14:50:03Z",
             "content": "The PlayStation 6 was at one point rumored to be circling a holiday 2027 launch window. Some believe it\u2019s now moved into 2028, the year Sony is ending disc support for new PlayStation games. Accordin\u2026 [+1429 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ellyn Lapointe",
-            "title": "Just How Bad Are AI Data Centers for Your Local Water?",
-            "description": "Communities say AI is draining their water supplies, but the tech industry begs to differ. Gizmodo asked experts for their honest assessments.",
-            "url": "https://gizmodo.com/just-how-bad-are-ai-data-centers-for-your-local-water-2000795372",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/data-center-protest-sign-1-1200x675.jpg",
-            "publishedAt": "2026-08-08T10:00:14Z",
-            "content": "The proliferation of AI data centers has spurred protests across the United States. Last month, communities that had long fought separate battles against Big Tech\u2019s intrusion into their hometowns org\u2026 [+10749 chars]",
             "ai_score": 5
         },
         {
@@ -706,6 +706,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Emma Roth",
+            "title": "AI detectors are creating a new era of distrust",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
+            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T19:23:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Robert Hart",
             "title": "Rogue AI aren\u2019t science fiction anymore",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
@@ -727,20 +741,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-14T09:21:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "AI detectors are creating a new era of distrust",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
-            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T19:23:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
             "ai_score": 5
         },
         {
@@ -818,20 +818,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Brad Bourque",
-            "title": "At just $8, you owe it to yourself to grab Inscryption",
-            "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven\u2019t heard of him, get a crash course with a fantastic discount on Inscryption. H\u2026",
-            "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
-            "publishedAt": "2026-08-25T20:38:37Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf the Pony Island 2 trailer sparked your curiosity, one of Mullins earlier mind-bending games is discounted.\r\nIf the Pony Island 2 trailer sparked your curiosit\u2026 [+2181 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
             "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
@@ -839,6 +825,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-30T19:14:08Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "At just $8, you owe it to yourself to grab Inscryption",
+            "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven\u2019t heard of him, get a crash course with a fantastic discount on Inscryption. H\u2026",
+            "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
+            "publishedAt": "2026-08-25T20:38:37Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf the Pony Island 2 trailer sparked your curiosity, one of Mullins earlier mind-bending games is discounted.\r\nIf the Pony Island 2 trailer sparked your curiosit\u2026 [+2181 chars]",
             "ai_score": 5
         },
         {
