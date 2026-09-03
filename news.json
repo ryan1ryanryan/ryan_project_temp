@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-03 17:37",
+    "last_updated": "2026-09-03 20:39",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -286,6 +286,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Emma Roth",
+            "title": "Watch Valve set up the Steam Frame in its own leaked videos",
+            "description": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hard\u2026",
+            "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
+            "publishedAt": "2026-08-19T18:16:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLeaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories.\r\nLeaked demonstrations show how to use the Steam Frame with its w\u2026 [+3088 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Meredith Haggerty",
             "title": "Trying to explain One Night Only\u2019s tech-enforced sex dystopia",
             "description": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditio\u2026",
@@ -297,16 +311,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Emma Roth",
-            "title": "Watch Valve set up the Steam Frame in its own leaked videos",
-            "description": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hard\u2026",
-            "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
-            "publishedAt": "2026-08-19T18:16:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLeaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories.\r\nLeaked demonstrations show how to use the Steam Frame with its w\u2026 [+3088 chars]",
+            "author": "AJ Dellinger",
+            "title": "Bill Simmons\u2019 Cozy Relationship With Tech Companies Is Blowing Up in His Face",
+            "description": "The Podfather got an offer he should have refused.",
+            "url": "https://gizmodo.com/bill-simmons-cozy-relationship-with-tech-companies-is-blowing-up-in-his-face-2000806349",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/bill-simmons-openAI-spotify-1200x675.jpg",
+            "publishedAt": "2026-09-02T19:15:39Z",
+            "content": "Bill Simmons was re-apexing, but he\u2019s now experiencing one of the top seven falloffs of all time. The sports columnist turned media empire empresario has had a hell of a week, catching flak first fro\u2026 [+5282 chars]",
             "ai_score": 5
         },
         {
@@ -591,6 +605,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+            "title": "Qualcomm's Adreno 'Neural Fusion' GPU will lean on AI to upgrade phone gaming",
+            "description": "Qualcomm's Adreno 'Neural Fusion' GPU could be the exact graphical boom for gaming on phones that I've been waiting for, but let's not get ahead of ourselves.",
+            "url": "https://www.androidcentral.com/phones/qualcomm/qualcomms-adreno-neural-fusion-gpu-will-lean-on-ai-to-make-phone-gaming-better",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PKnRSEhxpU6QUKNXnvz8kJ-2048-80.jpg",
+            "publishedAt": "2026-09-02T17:36:50Z",
+            "content": "What you need to know\r\n<ul><li>Qualcomm continues to tease its next Snapdragon debut with the Adreno Neural Fusion GPU.</li><li>The company says this chip utilizes AI-drive rendering tech, placing st\u2026 [+3528 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -734,20 +762,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "AI detectors are creating a new era of distrust",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
-            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T19:23:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "Rogue AI aren\u2019t science fiction anymore",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
@@ -769,6 +783,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-14T09:21:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AI detectors are creating a new era of distrust",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
+            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T19:23:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
             "ai_score": 5
         },
         {
@@ -860,20 +888,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-            "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
-            "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-30T19:14:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Brad Bourque",
             "title": "At just $8, you owe it to yourself to grab Inscryption",
             "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven\u2019t heard of him, get a crash course with a fantastic discount on Inscryption. H\u2026",
@@ -881,6 +895,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
             "publishedAt": "2026-08-25T20:38:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIf the Pony Island 2 trailer sparked your curiosity, one of Mullins earlier mind-bending games is discounted.\r\nIf the Pony Island 2 trailer sparked your curiosit\u2026 [+2181 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+            "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
+            "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-30T19:14:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
             "ai_score": 5
         },
         {
@@ -979,20 +1007,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-werewolf-vflex-sean-hollister-1-6.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-07T14:06:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nGot gadgets with barrel jacks? The VFLEX can probably USB-C them.\r\nby\r\nSean HollisterClose\r\nPo\u2026 [+6640 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "LG\u2019s new OLED breakthrough can boost display lifespans",
-            "description": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less innovative Pixel Patterning), \u2026",
-            "url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/LG-Display-FLiPP-OLED-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-20T09:11:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe FLiPP tech should also be brighter, more energy efficient, and virtually any size.\r\nThe FLiPP tech should also be brighter, more energy efficient, and virtua\u2026 [+2407 chars]",
             "ai_score": 5
         }
     ]
