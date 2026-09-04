@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-04 00:59",
+    "last_updated": "2026-09-04 05:38",
     "articles": [
         {
             "source": {
@@ -87,6 +87,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jason Cockerham",
+            "title": "I\u2019m Honestly Shocked Every Gaming Desk Doesn\u2019t Have This Feature",
+            "description": "The Boulies MagVida has an absolutely unique way to keep your tech and cables tidy.",
+            "url": "https://www.cnet.com/tech/gaming/this-gaming-desk-has-a-game-changing-feature/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/MagVida-black_1.jpeg",
+            "publishedAt": "2026-09-03T01:49:00Z",
+            "content": "Its sadly all too rare these days for me to test a product with a feature that genuinely surprises me with just how useful it is. Recently, though, I came across one in the Boulies MagVida gaming des\u2026 [+4743 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -129,20 +143,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
-            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
-            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T12:49:11Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -153,6 +153,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-09-1200x675.jpg",
             "publishedAt": "2026-08-19T14:15:44Z",
             "content": "AMD remains the unquestioned king of gaming desktop processors, in large part thanks to an innovative way of stacking CPU memory to boost performance. A multitude of leaks suggests Intel is taking th\u2026 [+2450 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+            "description": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included custom\u2026",
+            "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-10T12:49:11Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
             "ai_score": 5
         },
         {
@@ -748,20 +762,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "AI detectors are creating a new era of distrust",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
-            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-07T19:23:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "Rogue AI aren\u2019t science fiction anymore",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
@@ -783,6 +783,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-14T09:21:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "AI detectors are creating a new era of distrust",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here\u2026",
+            "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-07T19:23:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI detectors are creating a new era of distrust\r\nTools that promise to detect AI writing can be dubious, but educators and publishers are using them anyway.\r\nby\r\u2026 [+9297 chars]",
             "ai_score": 5
         },
         {
@@ -874,20 +888,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Terrence O\u2019Brien",
-            "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-            "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
-            "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-30T19:14:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Brad Bourque",
             "title": "At just $8, you owe it to yourself to grab Inscryption",
             "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven\u2019t heard of him, get a crash course with a fantastic discount on Inscryption. H\u2026",
@@ -895,6 +895,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
             "publishedAt": "2026-08-25T20:38:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIf the Pony Island 2 trailer sparked your curiosity, one of Mullins earlier mind-bending games is discounted.\r\nIf the Pony Island 2 trailer sparked your curiosit\u2026 [+2181 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+            "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
+            "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-30T19:14:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
             "ai_score": 5
         },
         {
