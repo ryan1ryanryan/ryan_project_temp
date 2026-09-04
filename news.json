@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-04 21:21",
+    "last_updated": "2026-09-04 23:50",
     "articles": [
         {
             "source": {
@@ -241,6 +241,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
+            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
+            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
+            "publishedAt": "2026-08-10T20:22:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -265,20 +279,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
             "publishedAt": "2026-08-21T14:10:15Z",
             "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "GuliKit\u2019s new Switch controller features next-generation anti-drift thumbsticks",
-            "description": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max \u2026",
-            "url": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikit1.jpg?quality=90&strip=all&crop=0%2C10.724356076163%2C100%2C78.551287847674&w=1200",
-            "publishedAt": "2026-08-10T20:22:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ES Max uses a new kind of tunneling magnetoresistance thumbsticks that are more responsive and precise.\r\nThe ES Max uses a new kind of tunneling magnetoresis\u2026 [+2879 chars]",
             "ai_score": 5
         },
         {
@@ -447,6 +447,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-02T14:58:15Z",
             "content": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you\u2019re willing to spend a bit more. | Image: The Verge\r\n\n\nVerge readers can get a discount on Belkin\u2019s SoundForm Mini \u2026 [+4362 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
+            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+            "description": "This week on \u201cUncanny Valley,\u201d we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
+            "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+            "urlToImage": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+            "publishedAt": "2026-09-03T21:48:24Z",
+            "content": "Leah Feiger: All right. Do you guys remember George Santos?\r\nBrian Barrett: How could I forget?\r\nZo\u00eb Schiffer: Absolutely do, but wow, did not expect we would be talking about him again this soon, I \u2026 [+2617 chars]",
             "ai_score": 5
         },
         {
@@ -993,20 +1007,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2025/04/ca86d289e7ac3ef0b304360ca1c737c4.jpg",
             "publishedAt": "2026-08-27T15:40:24Z",
             "content": "We might be in for a sequel to one of the Trump administration\u2019s most unpopular policies: tech tariffs. The president is reportedly eyeing a new round of import taxes on hardware that would include t\u2026 [+2075 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Nikita Grant",
-            "title": "How AI data centers are making everything more expensive",
-            "description": "AI data centers are causing a memory chip shortage, which is making phones, laptops, cameras, and consoles more expensive.",
-            "url": "https://www.businessinsider.com/how-ai-data-centers-are-making-everything-more-expensive-2026-8#article",
-            "urlToImage": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
-            "publishedAt": "2026-08-28T21:26:32Z",
-            "content": "The rapid growth of AI data centers is creating a shortage of the memory chips used in everyday devices like laptops, phones, cameras, and gaming consoles. The world's three largest memory chipmakers\u2026 [+404 chars]",
             "ai_score": 5
         }
     ]
