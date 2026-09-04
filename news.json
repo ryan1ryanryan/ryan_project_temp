@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-04 18:13",
+    "last_updated": "2026-09-04 21:21",
     "articles": [
         {
             "source": {
@@ -157,20 +157,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Biggest Innovation in Desktop CPUs May Come to Gaming Laptops, Too",
-            "description": "Gamers have more than one reason to care about Intel\u2019s next-gen laptop chips.",
-            "url": "https://gizmodo.com/the-biggest-innovation-in-desktop-cpus-may-come-to-gaming-laptops-too-2000800281",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-09-1200x675.jpg",
-            "publishedAt": "2026-08-19T14:15:44Z",
-            "content": "AMD remains the unquestioned king of gaming desktop processors, in large part thanks to an innovative way of stacking CPU memory to boost performance. A multitude of leaks suggests Intel is taking th\u2026 [+2450 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -181,6 +167,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-10T12:49:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The Biggest Innovation in Desktop CPUs May Come to Gaming Laptops, Too",
+            "description": "Gamers have more than one reason to care about Intel\u2019s next-gen laptop chips.",
+            "url": "https://gizmodo.com/the-biggest-innovation-in-desktop-cpus-may-come-to-gaming-laptops-too-2000800281",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-09-1200x675.jpg",
+            "publishedAt": "2026-08-19T14:15:44Z",
+            "content": "AMD remains the unquestioned king of gaming desktop processors, in large part thanks to an innovative way of stacking CPU memory to boost performance. A multitude of leaks suggests Intel is taking th\u2026 [+2450 chars]",
             "ai_score": 5
         },
         {
@@ -591,6 +591,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Google DeepMind Just Rolled Out Its Most Accurate AI Global Weather Model",
+            "description": "The tech giant claims WeatherNext 3 can deliver up to 50% more accurate precipitation forecasts a day or more in advance.",
+            "url": "https://gizmodo.com/google-deepmind-just-rolled-out-its-most-accurate-ai-global-weather-model-2000807015",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/GettyImages-2177657481-1200x675.jpg",
+            "publishedAt": "2026-09-03T19:55:16Z",
+            "content": "In the year 2026, predicting hyper-local weather is still tricky, even though it impacts everything from supply chains and sporting events to tourism and energy production. Now, Google says its lates\u2026 [+3436 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
@@ -993,34 +1007,6 @@
             "urlToImage": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
             "publishedAt": "2026-08-28T21:26:32Z",
             "content": "The rapid growth of AI data centers is creating a shortage of the memory chips used in everyday devices like laptops, phones, cameras, and gaming consoles. The world's three largest memory chipmakers\u2026 [+404 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Alex Valdes",
-            "title": "Apple Reportedly Will Raise iPhone Prices, but Just How Much?",
-            "description": "The Cupertino giant apparently will match, if not exceed, what Google and Samsung did with their phone pricing.",
-            "url": "https://www.cnet.com/tech/mobile/apple-reportedly-will-raise-iphone-prices-but-just-how-much/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/3210c052-6403-4592-88cf-ecbbeaa983e4.jpg",
-            "publishedAt": "2026-08-24T21:17:20Z",
-            "content": "New iPhones are likely coming next month, and so are higher prices. Shoppers should expect hikes of at least $100 on the iPhone 18 Pro and other products launching at Apple\u2019s annual September event, \u2026 [+2994 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Peter Kafka",
-            "title": "The Feds took their best shot at Big Tech. They missed.",
-            "description": "The government can make Big Tech pay. But it can't make it smaller, which was the point.",
-            "url": "https://www.businessinsider.com/google-antitrust-ruling-big-tech-victory-2026-9#article",
-            "urlToImage": "https://i.insider.com/6a9988d83c906e69480d5c4a?width=1200&format=jpeg",
-            "publishedAt": "2026-09-03T14:59:03Z",
-            "content": "Two different federal judges have ruled that Google boss Sundar Pichai runs a monopoly. That doesn't seem like it's going to slow his company down.Bloomberg/Getty Images\r\n<ul><li>A federal judge says\u2026 [+3632 chars]",
             "ai_score": 5
         }
     ]
