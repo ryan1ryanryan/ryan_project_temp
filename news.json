@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-05 15:53",
+    "last_updated": "2026-09-05 18:01",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
-            "description": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month. The kernel-level protection feature is designed to stop malicious code or drivers running on a Windows 11 machine, but Microsoft previously \u2026",
-            "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T08:57:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMemory integrity could get enabled on your device next month, unless youve already disabled it.\r\nMemory integrity could get enabled on your device next month, un\u2026 [+2728 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,6 +41,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/XGP_TCL-PARTNER-a9a894bf85566ec68565.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-09-04T13:25:09Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.\r\nXbox Cloud Gaming is coming to more TVs, just a\u2026 [+2887 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
+            "description": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month. The kernel-level protection feature is designed to stop malicious code or drivers running on a Windows 11 machine, but Microsoft previously \u2026",
+            "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-02T08:57:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMemory integrity could get enabled on your device next month, unless youve already disabled it.\r\nMemory integrity could get enabled on your device next month, un\u2026 [+2728 chars]",
             "ai_score": 5
         },
         {
