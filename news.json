@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-06 14:03",
+    "last_updated": "2026-09-06 16:53",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "PlayStation\u2019s wireless gaming speakers launch in November",
-            "description": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studi\u2026",
-            "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-18T17:18:57Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
+            "ai_score": 9
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "PlayStation\u2019s wireless gaming speakers launch in November",
+            "description": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studi\u2026",
+            "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-18T17:18:57Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
             "ai_score": 5
         },
         {
@@ -437,20 +437,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
-            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-            "description": "This week on \u201cUncanny Valley,\u201d we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
-            "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-            "urlToImage": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
-            "publishedAt": "2026-09-03T21:48:24Z",
-            "content": "Leah Feiger: All right. Do you guys remember George Santos?\r\nBrian Barrett: How could I forget?\r\nZo\u00eb Schiffer: Absolutely do, but wow, did not expect we would be talking about him again this soon, I \u2026 [+2617 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -461,6 +447,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-02T14:58:15Z",
             "content": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you\u2019re willing to spend a bit more. | Image: The Verge\r\n\n\nVerge readers can get a discount on Belkin\u2019s SoundForm Mini \u2026 [+4362 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
+            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+            "description": "This week on \u201cUncanny Valley,\u201d we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
+            "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+            "urlToImage": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+            "publishedAt": "2026-09-03T21:48:24Z",
+            "content": "Leah Feiger: All right. Do you guys remember George Santos?\r\nBrian Barrett: How could I forget?\r\nZo\u00eb Schiffer: Absolutely do, but wow, did not expect we would be talking about him again this soon, I \u2026 [+2617 chars]",
             "ai_score": 5
         },
         {
