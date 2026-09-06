@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-06 00:41",
+    "last_updated": "2026-09-06 05:38",
     "articles": [
         {
             "source": {
@@ -13,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "AMD Has Its Own RTX Spark PCs (And It Still Won\u2019t Show Them to You)",
+            "description": "HP will make a laptop with AMD\u2019s best APU that can\u2014hopefully\u2014manage AI and gaming all in one.",
+            "url": "https://gizmodo.com/amd-has-its-own-rtx-spark-pcs-and-it-still-wont-show-them-to-you-2000807352",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
+            "publishedAt": "2026-09-04T12:55:14Z",
+            "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -83,20 +97,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
             "publishedAt": "2026-09-02T09:14:55Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nby\r\nDominic Preston\u2026 [+3556 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "AMD Has Its Own RTX Spark PCs (And It Still Won\u2019t Show Them to You)",
-            "description": "HP will make a laptop with AMD\u2019s best APU that can\u2014hopefully\u2014manage AI and gaming all in one.",
-            "url": "https://gizmodo.com/amd-has-its-own-rtx-spark-pcs-and-it-still-wont-show-them-to-you-2000807352",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
-            "publishedAt": "2026-09-04T12:55:14Z",
-            "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
             "ai_score": 5
         },
         {
