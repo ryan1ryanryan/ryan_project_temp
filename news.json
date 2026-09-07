@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-07 15:04",
+    "last_updated": "2026-09-07 19:10",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "The best tech and gadgets announced at IFA so far",
-            "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best ne\u2026",
-            "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
-            "publishedAt": "2026-09-02T16:43:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "The best tech and gadgets announced at IFA so far",
+            "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best ne\u2026",
+            "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
+            "publishedAt": "2026-09-02T16:43:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
             "ai_score": 5
         },
         {
@@ -650,6 +650,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "John.Higgins",
+            "title": "Six years later, Sony revisits its legendary XM4 headphones",
+            "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, th\u2026",
+            "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-04T23:33:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C.\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing \u2026 [+4732 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Stevie Bonifield",
             "title": "Google launches Pok\u00e9mon Sleep special-edition Fitbit Air",
             "description": "The latest special-edition of Google's Fitbit Air is inspired by the Pok\u00e9mon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and gold of a Pok\u00e9mon card pretty closely. The s\u2026",
@@ -857,6 +871,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Tyler Lacoma",
+            "title": "My Favorite Home Security Reveal at IFA Was AI, but Not How You Think",
+            "description": "Free, custom AI learning tech in home security could be closer than we thought.",
+            "url": "https://www.cnet.com/home/security/my-favorite-home-security-reveal-at-ifa-was-ai-but-not-how-you-think/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Reolink-Dual-Camera-IFA.jpg",
+            "publishedAt": "2026-09-06T17:52:04Z",
+            "content": "Artificial intelligence features moved rapidly into the home security world in the past couple of years, adding capabilities I couldn\u2019t have imagined, like the ability to detect packages at your fron\u2026 [+3767 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -979,48 +1007,6 @@
             "urlToImage": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
             "publishedAt": "2026-08-28T21:26:32Z",
             "content": "The rapid growth of AI data centers is creating a shortage of the memory chips used in everyday devices like laptops, phones, cameras, and gaming consoles. The world's three largest memory chipmakers\u2026 [+404 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Alex Valdes",
-            "title": "Apple Reportedly Will Raise iPhone Prices, but Just How Much?",
-            "description": "The Cupertino giant apparently will match, if not exceed, what Google and Samsung did with their phone pricing.",
-            "url": "https://www.cnet.com/tech/mobile/apple-reportedly-will-raise-iphone-prices-but-just-how-much/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/3210c052-6403-4592-88cf-ecbbeaa983e4.jpg",
-            "publishedAt": "2026-08-24T21:17:20Z",
-            "content": "New iPhones are likely coming next month, and so are higher prices. Shoppers should expect hikes of at least $100 on the iPhone 18 Pro and other products launching at Apple\u2019s annual September event, \u2026 [+2994 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Peter Kafka",
-            "title": "The Feds took their best shot at Big Tech. They missed.",
-            "description": "The government can make Big Tech pay. But it can't make it smaller, which was the point.",
-            "url": "https://www.businessinsider.com/google-antitrust-ruling-big-tech-victory-2026-9#article",
-            "urlToImage": "https://i.insider.com/6a9988d83c906e69480d5c4a?width=1200&format=jpeg",
-            "publishedAt": "2026-09-03T14:59:03Z",
-            "content": "Two different federal judges have ruled that Google boss Sundar Pichai runs a monopoly. That doesn't seem like it's going to slow his company down.Bloomberg/Getty Images\r\n<ul><li>A federal judge says\u2026 [+3632 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Tyler Graham",
-            "title": "HP Introduces First HyperX Open-Back Headset, Lightweight Carbon Fiber Mouse and More",
-            "description": "I got a glimpse at the latest HyperX gaming peripherals. Here\u2019s what stood out, from new devices to tweaks to existing fan favorites.",
-            "url": "https://www.cnet.com/tech/computing/hp-introduces-first-hyperx-open-back-headset-lightweight-carbon-fiber-mouse-and-more/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/HyperX-Open-back-headset.jpg",
-            "publishedAt": "2026-08-20T18:30:13Z",
-            "content": "HP might not be ready to bring any new gaming laptops or desktop computers into the fray just yet, but it debuted a healthy heaping of new peripherals under its HyperX gaming brand to keep casuals, h\u2026 [+7561 chars]",
             "ai_score": 5
         }
     ]
