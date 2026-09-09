@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-09-09 17:41",
+    "last_updated": "2026-09-09 20:40",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
+            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
+            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
+            "publishedAt": "2026-09-08T14:40:53Z",
+            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,20 +41,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
-            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
-            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
-            "publishedAt": "2026-09-08T14:40:53Z",
-            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
             "ai_score": 5
         },
         {
@@ -622,6 +622,20 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
+            "author": "AJ Dellinger",
+            "title": "Tech CEOs Are This Fall\u2019s Favorite Movie Villains",
+            "description": "Finally, a villain we can agree on.",
+            "url": "https://gizmodo.com/tech-ceos-are-this-falls-favorite-movie-villains-2000808640",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/holmes-1200x675.jpg",
+            "publishedAt": "2026-09-08T19:30:40Z",
+            "content": "We live in a time of complicated villains, bad guys with backstories that help us understand how they got to the dark point that we meet them at. So it\u2019s nice to know that this fall, we can all go to\u2026 [+4810 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
             "author": "Ellyn Lapointe",
             "title": "Just How Bad Are AI Data Centers for Your Local Water?",
             "description": "Communities say AI is draining their water supplies, but the tech industry begs to differ. Gizmodo asked experts for their honest assessments.",
@@ -930,20 +944,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "Sony\u2019s WH-1000XM5 headphones are back down to their lowest price",
-            "description": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morning. The comfy over-ear headphones offer some of the best so\u2026",
-            "url": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/sonyxm5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-31T15:31:59Z",
-            "content": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morn\u2026 [+4144 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Lauren Feiner",
             "title": "Flock CEO: \u2018We got this one wrong\u2019",
             "description": "Surveillance tech company Flock is rolling out updates to address reports of cops across the country abusing its tools to stalk ex-romantic partners and others. CEO Garrett Langley is delivering a mea culpa, and in an interview with The Verge, says he's chang\u2026",
@@ -951,6 +951,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-13T00:39:56Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter reports that some cops misused tracking data it collects, Flock is rolling out policy changes.\r\nAfter reports that some cops misused tracking data it colle\u2026 [+7228 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Sony\u2019s WH-1000XM5 headphones are back down to their lowest price",
+            "description": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morning. The comfy over-ear headphones offer some of the best so\u2026",
+            "url": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/sonyxm5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-31T15:31:59Z",
+            "content": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morn\u2026 [+4144 chars]",
             "ai_score": 5
         },
         {
@@ -993,48 +1007,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/keychron.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-10T14:27:23Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found a good gaming laptop for $1,099, plus deals on Sonys latest wired and wireless InZone headsets.\r\nWe also found a good gaming laptop for $1,099, plu\u2026 [+4534 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Trump Reportedly Flirting With A New Round Of Tariffs On Gaming Hardware",
-            "description": "Console prices are already going up due to RAMageddon",
-            "url": "https://kotaku.com/trump-reportedly-flirting-with-a-new-round-of-tariffs-on-gaming-hardware-2000728863",
-            "urlToImage": "https://kotaku.com/app/uploads/2025/04/ca86d289e7ac3ef0b304360ca1c737c4.jpg",
-            "publishedAt": "2026-08-27T15:40:24Z",
-            "content": "We might be in for a sequel to one of the Trump administration\u2019s most unpopular policies: tech tariffs. The president is reportedly eyeing a new round of import taxes on hardware that would include t\u2026 [+2075 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-            "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-L\u2026",
-            "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-30T19:14:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nThe archive includes basically every title uploaded between 2003 and 2013.\r\nby\r\nTerre\u2026 [+1896 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "At just $8, you owe it to yourself to grab Inscryption",
-            "description": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven\u2019t heard of him, get a crash course with a fantastic discount on Inscryption. H\u2026",
-            "url": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
-            "publishedAt": "2026-08-25T20:38:37Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIf the Pony Island 2 trailer sparked your curiosity, one of Mullins earlier mind-bending games is discounted.\r\nIf the Pony Island 2 trailer sparked your curiosit\u2026 [+2181 chars]",
             "ai_score": 5
         }
     ]
