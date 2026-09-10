@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-09-09 23:02",
+    "last_updated": "2026-09-10 01:02",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Does Google even want to win at AI?",
+            "description": "Today on Decoder, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about a question that\u2019s been rocketing around the tech industry for the past week: Is Google losing the AI race? That\u2019s because last week Google announced a bombshell reorganizat\u2026",
+            "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-13T14:10:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIs the shakeup at Google DeepMind a strategy or a crisis?\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your homepag\u2026 [+33973 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -804,20 +818,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Nilay Patel",
-            "title": "Does Google even want to win at AI?",
-            "description": "Today on Decoder, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about a question that\u2019s been rocketing around the tech industry for the past week: Is Google losing the AI race? That\u2019s because last week Google announced a bombshell reorganizat\u2026",
-            "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-13T14:10:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIs the shakeup at Google DeepMind a strategy or a crisis?\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your homepag\u2026 [+33973 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Dominic Preston",
             "title": "I ruined my cats\u2019 toilet time with a motion-activated neon litter box sign",
             "description": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is,\u2026",
@@ -930,20 +930,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "Flock CEO: \u2018We got this one wrong\u2019",
-            "description": "Surveillance tech company Flock is rolling out updates to address reports of cops across the country abusing its tools to stalk ex-romantic partners and others. CEO Garrett Langley is delivering a mea culpa, and in an interview with The Verge, says he's chang\u2026",
-            "url": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-13T00:39:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter reports that some cops misused tracking data it collects, Flock is rolling out policy changes.\r\nAfter reports that some cops misused tracking data it colle\u2026 [+7228 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Cameron Faulkner",
             "title": "Sony\u2019s WH-1000XM5 headphones are back down to their lowest price",
             "description": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morning. The comfy over-ear headphones offer some of the best so\u2026",
@@ -951,6 +937,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/sonyxm5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-31T15:31:59Z",
             "content": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morn\u2026 [+4144 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Flock CEO: \u2018We got this one wrong\u2019",
+            "description": "Surveillance tech company Flock is rolling out updates to address reports of cops across the country abusing its tools to stalk ex-romantic partners and others. CEO Garrett Langley is delivering a mea culpa, and in an interview with The Verge, says he's chang\u2026",
+            "url": "https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-13T00:39:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter reports that some cops misused tracking data it collects, Flock is rolling out policy changes.\r\nAfter reports that some cops misused tracking data it colle\u2026 [+7228 chars]",
             "ai_score": 5
         },
         {
