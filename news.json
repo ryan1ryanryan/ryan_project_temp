@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-09-10 05:49",
+    "last_updated": "2026-09-10 10:51",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
+            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
+            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
+            "publishedAt": "2026-09-08T14:40:53Z",
+            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,6 +27,62 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-10T12:49:11Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nThe incident impacts customers who ordered Steam devices in Europe.\r\nby\r\nEmma RothClose\r\nPos\u2026 [+2534 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
+            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
+            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
+            "publishedAt": "2026-08-24T12:30:32Z",
+            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
+            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-08T20:39:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+            "description": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its la\u2026",
+            "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-26T21:46:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe chip company made over $96 billion in the past quarter, most of it from its data center business.\r\nThe chip company made over $96 billion in the past quarter\u2026 [+2268 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Apple Is Sending Out a Huge Wave of Spyware Warnings. You Should Take Them Seriously",
+            "description": "The tech giant is alerting users it believes were targeted by highly sophisticated mercenary spyware.",
+            "url": "https://gizmodo.com/apple-is-sending-out-a-huge-wave-of-spyware-warnings-you-should-take-them-seriously-2000799891",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/11/5c28e2ddb5ce1bf8fb9f2064ad3dff31-e1787066763778-1200x675.jpg",
+            "publishedAt": "2026-08-18T15:55:54Z",
+            "content": "Apple appears to be sending out a large wave of warnings to users it believes were targeted by mercenary spyware.\r\nAccording to TechCrunch, the company started sending out its latest round of notific\u2026 [+2995 chars]",
             "ai_score": 8
         },
         {
@@ -41,20 +111,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
-            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
-            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
-            "publishedAt": "2026-09-08T14:40:53Z",
-            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
             "ai_score": 5
         },
         {
@@ -241,20 +297,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
-            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
-            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
-            "publishedAt": "2026-08-24T12:30:32Z",
-            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -293,20 +335,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/supreme-analogue-pocket-1200x675.jpg",
             "publishedAt": "2026-08-17T18:30:35Z",
             "content": "If you thought Razer reached peak cuteness with its Cinnamoroll-themed collection, you may want to think again. Razer sees its own puppy-ear-clad gaming headset and is raising that cutesy-ass gambit \u2026 [+1395 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
-            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-08T20:39:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
             "ai_score": 5
         },
         {
@@ -437,30 +465,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-            "description": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its la\u2026",
-            "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-26T21:46:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe chip company made over $96 billion in the past quarter, most of it from its data center business.\r\nThe chip company made over $96 billion in the past quarter\u2026 [+2268 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Apple Is Sending Out a Huge Wave of Spyware Warnings. You Should Take Them Seriously",
-            "description": "The tech giant is alerting users it believes were targeted by highly sophisticated mercenary spyware.",
-            "url": "https://gizmodo.com/apple-is-sending-out-a-huge-wave-of-spyware-warnings-you-should-take-them-seriously-2000799891",
-            "urlToImage": "https://gizmodo.com/app/uploads/2022/11/5c28e2ddb5ce1bf8fb9f2064ad3dff31-e1787066763778-1200x675.jpg",
-            "publishedAt": "2026-08-18T15:55:54Z",
-            "content": "Apple appears to be sending out a large wave of warnings to users it believes were targeted by mercenary spyware.\r\nAccording to TechCrunch, the company started sending out its latest round of notific\u2026 [+2995 chars]",
+            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
+            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+            "description": "This week on \u201cUncanny Valley,\u201d we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
+            "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+            "urlToImage": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+            "publishedAt": "2026-09-03T21:48:24Z",
+            "content": "Leah Feiger: All right. Do you guys remember George Santos?\r\nBrian Barrett: How could I forget?\r\nZo\u00eb Schiffer: Absolutely do, but wow, did not expect we would be talking about him again this soon, I \u2026 [+2617 chars]",
             "ai_score": 5
         },
         {
@@ -475,20 +489,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-02T14:58:15Z",
             "content": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you\u2019re willing to spend a bit more. | Image: The Verge\r\n\n\nVerge readers can get a discount on Belkin\u2019s SoundForm Mini \u2026 [+4362 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
-            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-            "description": "This week on \u201cUncanny Valley,\u201d we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
-            "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-            "urlToImage": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
-            "publishedAt": "2026-09-03T21:48:24Z",
-            "content": "Leah Feiger: All right. Do you guys remember George Santos?\r\nBrian Barrett: How could I forget?\r\nZo\u00eb Schiffer: Absolutely do, but wow, did not expect we would be talking about him again this soon, I \u2026 [+2617 chars]",
             "ai_score": 5
         },
         {
