@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-10 14:57",
+    "last_updated": "2026-09-10 18:13",
     "articles": [
         {
             "source": {
@@ -405,6 +405,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
             "publishedAt": "2026-08-19T18:16:27Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLeaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories.\r\nLeaked demonstrations show how to use the Steam Frame with its w\u2026 [+3088 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox is bringing back startup animations from its console history",
+            "description": "Microsoft is starting to test some new Xbox console features with Insiders. Testers will be able to try out custom Xbox boot animations from the past, more personalization options for badges, a new local search feature, improved Remote Play quality, the abili\u2026",
+            "url": "https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Startup-animation-3556b14f2bb0ba04f6ac.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-09-09T16:25:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders will also be able to test a new search feature, improved Remote Play quality, and clearer voice chat.\r\nXbox Insiders will also be able to test a ne\u2026 [+2861 chars]",
             "ai_score": 5
         },
         {
@@ -993,20 +1007,6 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/pixel-11-pro-gaming.jpg",
             "publishedAt": "2026-08-26T13:05:40Z",
             "content": "In 2025, I lauded the Google Pixel 10 Pro for its bright, vibrant display that was great to game on. Now, its successor has arrived, and although it looks identical \u2014 with some slight hardware change\u2026 [+9280 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Keychron\u2019s wireless Hall effect keyboard is back to its lowest price",
-            "description": "Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don\u2019t need to compromise on quality to get a good deal. Keychron\u2019s aluminum-clad K2 HE with a 75-percent layout is down to $103.99 (was $130) at Amazon, wh\u2026",
-            "url": "https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/keychron.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-10T14:27:23Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found a good gaming laptop for $1,099, plus deals on Sonys latest wired and wireless InZone headsets.\r\nWe also found a good gaming laptop for $1,099, plu\u2026 [+4534 chars]",
             "ai_score": 5
         }
     ]
