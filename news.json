@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-12 15:11",
+    "last_updated": "2026-09-12 18:13",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -479,20 +479,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
-            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-            "description": "This week on \u201cUncanny Valley,\u201d we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
-            "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-            "urlToImage": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
-            "publishedAt": "2026-09-03T21:48:24Z",
-            "content": "Leah Feiger: All right. Do you guys remember George Santos?\r\nBrian Barrett: How could I forget?\r\nZo\u00eb Schiffer: Absolutely do, but wow, did not expect we would be talking about him again this soon, I \u2026 [+2617 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -503,6 +489,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/poco-f9-pro-ultra-4.jpg?quality=90&strip=all&crop=0%2C10.727971269358%2C100%2C78.544057461284&w=1200",
             "publishedAt": "2026-08-31T13:28:10Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nby\r\nDominic Prest\u2026 [+4518 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
+            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+            "description": "This week on \u201cUncanny Valley,\u201d we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
+            "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+            "urlToImage": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+            "publishedAt": "2026-09-03T21:48:24Z",
+            "content": "Leah Feiger: All right. Do you guys remember George Santos?\r\nBrian Barrett: How could I forget?\r\nZo\u00eb Schiffer: Absolutely do, but wow, did not expect we would be talking about him again this soon, I \u2026 [+2617 chars]",
             "ai_score": 5
         },
         {
