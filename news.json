@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-13 18:00",
+    "last_updated": "2026-09-13 20:31",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "The best tech and gadgets announced at IFA so far",
-            "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best ne\u2026",
-            "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
-            "publishedAt": "2026-09-02T16:43:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "The best tech and gadgets announced at IFA so far",
+            "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best ne\u2026",
+            "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
+            "publishedAt": "2026-09-02T16:43:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
             "ai_score": 5
         },
         {
@@ -329,12 +329,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
-            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
-            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
-            "publishedAt": "2026-08-21T14:10:15Z",
-            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
+            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
+            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
+            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
+            "publishedAt": "2026-08-17T15:20:23Z",
+            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
             "ai_score": 5
         },
         {
@@ -343,12 +343,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
-            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
-            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
-            "publishedAt": "2026-08-17T15:20:23Z",
-            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
+            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
+            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
+            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
+            "publishedAt": "2026-08-21T14:10:15Z",
+            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
             "ai_score": 5
         },
         {
@@ -454,6 +454,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Terrence O\u2019Brien",
+            "title": "StarCraft returns in 2030 as an open-world shooter",
+            "description": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard\u2026",
+            "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STC2026_GalleryIMG_0008_PT6120_rgba.webp?quality=90&strip=all&crop=10.208333333333%2C0%2C79.583333333333%2C100&w=1200",
+            "publishedAt": "2026-09-12T20:08:09Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\n10 years after the last StarCraft II expansion pack the series is finally being brought back to life.\r\n10 years after the last StarCraft II expansion pack the se\u2026 [+2423 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Stevie Bonifield",
             "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
             "description": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its la\u2026",
@@ -479,20 +493,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Apple Is Sending Out a Huge Wave of Spyware Warnings. You Should Take Them Seriously",
-            "description": "The tech giant is alerting users it believes were targeted by highly sophisticated mercenary spyware.",
-            "url": "https://gizmodo.com/apple-is-sending-out-a-huge-wave-of-spyware-warnings-you-should-take-them-seriously-2000799891",
-            "urlToImage": "https://gizmodo.com/app/uploads/2022/11/5c28e2ddb5ce1bf8fb9f2064ad3dff31-e1787066763778-1200x675.jpg",
-            "publishedAt": "2026-08-18T15:55:54Z",
-            "content": "Apple appears to be sending out a large wave of warnings to users it believes were targeted by mercenary spyware.\r\nAccording to TechCrunch, the company started sending out its latest round of notific\u2026 [+2995 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -503,6 +503,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-02T14:58:15Z",
             "content": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you\u2019re willing to spend a bit more. | Image: The Verge\r\n\n\nVerge readers can get a discount on Belkin\u2019s SoundForm Mini \u2026 [+4362 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Apple Is Sending Out a Huge Wave of Spyware Warnings. You Should Take Them Seriously",
+            "description": "The tech giant is alerting users it believes were targeted by highly sophisticated mercenary spyware.",
+            "url": "https://gizmodo.com/apple-is-sending-out-a-huge-wave-of-spyware-warnings-you-should-take-them-seriously-2000799891",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/11/5c28e2ddb5ce1bf8fb9f2064ad3dff31-e1787066763778-1200x675.jpg",
+            "publishedAt": "2026-08-18T15:55:54Z",
+            "content": "Apple appears to be sending out a large wave of warnings to users it believes were targeted by mercenary spyware.\r\nAccording to TechCrunch, the company started sending out its latest round of notific\u2026 [+2995 chars]",
             "ai_score": 5
         },
         {
@@ -580,20 +594,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Netflix is closing two game studios",
-            "description": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and\u2026",
-            "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-13T20:53:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNight School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games.\r\nNight School Studio and Moonloot Games are being shu\u2026 [+2679 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Cameron Faulkner",
             "title": "JBL\u2019s soundbar with detachable rear speakers is over $300 off",
             "description": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular \u2026",
@@ -601,6 +601,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jbllead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-08T15:03:07Z",
             "content": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of t\u2026 [+3730 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Netflix is closing two game studios",
+            "description": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and\u2026",
+            "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-13T20:53:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNight School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games.\r\nNight School Studio and Moonloot Games are being shu\u2026 [+2679 chars]",
             "ai_score": 5
         },
         {
@@ -776,20 +790,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "Microsoft\u2019s 25th anniversary Xbox will cost $899",
-            "description": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder emails starting today. T\u2026",
-            "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-26T14:18:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nby\r\nStevie \u2026 [+2634 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "Genki\u2019s new customizable controller has a big screen and adjustable buttons",
             "description": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta lo\u2026",
@@ -797,6 +797,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/genki_manta1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-20T14:34:32Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Manta launches on Kickstarter today with a focus on tailoring the controllers functionality and feel for each game.\r\nThe Manta launches on Kickstarter today \u2026 [+3676 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Microsoft\u2019s 25th anniversary Xbox will cost $899",
+            "description": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder emails starting today. T\u2026",
+            "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-26T14:18:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nby\r\nStevie \u2026 [+2634 chars]",
             "ai_score": 5
         },
         {
@@ -846,20 +860,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "Google dodges another breakup attempt",
-            "description": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would ad\u2026",
-            "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T15:42:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle stymied competition for ad tech services for years, the judge previously ruled.\r\nGoogle stymied competition for ad tech services for years, the judge prev\u2026 [+4071 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "Rogue AI aren\u2019t science fiction anymore",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
@@ -881,6 +881,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-14T09:21:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Google dodges another breakup attempt",
+            "description": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would ad\u2026",
+            "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-02T15:42:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle stymied competition for ad tech services for years, the judge previously ruled.\r\nGoogle stymied competition for ad tech services for years, the judge prev\u2026 [+4071 chars]",
             "ai_score": 5
         },
         {
@@ -979,20 +993,6 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Reolink-Dual-Camera-IFA.jpg",
             "publishedAt": "2026-09-06T17:52:04Z",
             "content": "Artificial intelligence features moved rapidly into the home security world in the past couple of years, adding capabilities I couldn\u2019t have imagined, like the ability to detect packages at your fron\u2026 [+3767 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Geoffrey Morrison",
-            "title": "This Gorgeous UST Projector Has a High-Tech Secret",
-            "description": "The LuxVision from AWOL has a gorgeous design, impressive specs and an eyebrow-raising refresh rate.",
-            "url": "https://www.cnet.com/tech/home-entertainment/awol-luxvision-ultra-short-throw-projector-lens-shift-120hz/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/AWOL-LuxVision-1-of-5.jpg",
-            "publishedAt": "2026-09-07T15:29:18Z",
-            "content": "The LuxVision is the new flagship ultrashort-throw projector from AWOL Vision. Not surprisingly, the specs are impressive. A stated 6,000 lumens is certainly possible, given how bright the company\u2019s \u2026 [+3000 chars]",
             "ai_score": 5
         }
     ]
