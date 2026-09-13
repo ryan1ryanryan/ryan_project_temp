@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-13 03:34",
+    "last_updated": "2026-09-13 09:09",
     "articles": [
         {
             "source": {
@@ -13,7 +13,77 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
+            "description": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month. The kernel-level protection feature is designed to stop malicious code or drivers running on a Windows 11 machine, but Microsoft previously \u2026",
+            "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-02T08:57:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMemory integrity could get enabled on your device next month, unless youve already disabled it.\r\nMemory integrity could get enabled on your device next month, un\u2026 [+2728 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "My favorite gaming earbuds got their first discount",
+            "description": "Asus\u2019 Cetra Open wireless earbuds are some of the best that I\u2019ve tested, despite being open-style earbuds. Their drivers sit outside of your ear, which allows outside sounds to mix with audio coming from your console. Some gamers may not want this, but it wor\u2026",
+            "url": "https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268381_Asus_Cetra_Wireless_earbuds_CFaulkner_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-09T13:53:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpen-style earbuds with great comfort, solid sound quality, and a USB-C transmitter that allows passthrough charging.\r\nOpen-style earbuds with great comfort, sol\u2026 [+2390 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
+            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
+            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
+            "publishedAt": "2026-09-03T11:13:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Ikea\u2019s Xbox collection includes a giant thumbstick stool",
+            "description": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand,\u2026",
+            "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-26T09:08:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\u2026 [+4287 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
+            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
+            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
+            "publishedAt": "2026-08-21T14:10:15Z",
+            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,20 +125,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/XGP_TCL-PARTNER-a9a894bf85566ec68565.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-09-04T13:25:09Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.\r\nXbox Cloud Gaming is coming to more TVs, just a\u2026 [+2887 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
-            "description": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month. The kernel-level protection feature is designed to stop malicious code or drivers running on a Windows 11 machine, but Microsoft previously \u2026",
-            "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T08:57:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMemory integrity could get enabled on your device next month, unless youve already disabled it.\r\nMemory integrity could get enabled on your device next month, un\u2026 [+2728 chars]",
             "ai_score": 5
         },
         {
@@ -153,48 +209,6 @@
             "urlToImage": "https://media.wired.com/photos/6a8fae4843f0eb43b71996fc/191:100/w_1280,c_limit/Review--Alienware-5K-OLED-Ultrawide-Gaming-Monitor.jpg",
             "publishedAt": "2026-08-27T13:00:00Z",
             "content": "The AW3926QW has an RGB stripe tandem OLED panel produced by LG. At the moment, its one of just two ultrawide monitors to offer the panel, which is also available from LGs UltraGear Evo GX9. I recent\u2026 [+2202 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "My favorite gaming earbuds got their first discount",
-            "description": "Asus\u2019 Cetra Open wireless earbuds are some of the best that I\u2019ve tested, despite being open-style earbuds. Their drivers sit outside of your ear, which allows outside sounds to mix with audio coming from your console. Some gamers may not want this, but it wor\u2026",
-            "url": "https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268381_Asus_Cetra_Wireless_earbuds_CFaulkner_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-09T13:53:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOpen-style earbuds with great comfort, solid sound quality, and a USB-C transmitter that allows passthrough charging.\r\nOpen-style earbuds with great comfort, sol\u2026 [+2390 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
-            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
-            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
-            "publishedAt": "2026-09-03T11:13:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Ikea\u2019s Xbox collection includes a giant thumbstick stool",
-            "description": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand,\u2026",
-            "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-26T09:08:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\u2026 [+4287 chars]",
             "ai_score": 5
         },
         {
@@ -343,40 +357,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
-            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
-            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
-            "publishedAt": "2026-08-21T14:10:15Z",
-            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
             "title": "Meet the Google Exec Trying to Convince a Skeptical Gaming Industry to Love AI",
             "description": "Everybody agrees the games industry needs to change to survive. Google is trying to fix it with AI.",
             "url": "https://gizmodo.com/meet-the-google-exec-trying-to-convince-a-skeptical-gaming-industry-to-love-ai-2000804493",
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Google-Cloud-Exec-Jack-Buser-1-1200x675.jpg",
             "publishedAt": "2026-08-31T17:00:13Z",
             "content": "In a gold rush, the people who get rich arent the grubby prospectors digging for those nuggets in the muck; it\u2019s the men who sell the shovels. In that vein, Google, with generative tools like Genie, \u2026 [+18941 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Heir to Groupon Fortune Becomes the Face of Nepo Baby Plague",
-            "description": "The tech kids are not alright.",
-            "url": "https://gizmodo.com/heir-to-groupon-fortune-becomes-the-face-of-nepo-baby-plague-2000804445",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2280250979-1200x675.jpg",
-            "publishedAt": "2026-08-28T19:00:30Z",
-            "content": "Stella Lefty is speed-running the nepo baby arc. If you haven\u2019t heard of Stella, you can be forgiven. The 24-year-old country singer appeared seemingly out of nowhere as a fully formed artist who dro\u2026 [+3455 chars]",
             "ai_score": 5
         },
         {
@@ -391,6 +377,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
             "publishedAt": "2026-08-19T18:16:27Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLeaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories.\r\nLeaked demonstrations show how to use the Steam Frame with its w\u2026 [+3088 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Heir to Groupon Fortune Becomes the Face of Nepo Baby Plague",
+            "description": "The tech kids are not alright.",
+            "url": "https://gizmodo.com/heir-to-groupon-fortune-becomes-the-face-of-nepo-baby-plague-2000804445",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/GettyImages-2280250979-1200x675.jpg",
+            "publishedAt": "2026-08-28T19:00:30Z",
+            "content": "Stella Lefty is speed-running the nepo baby arc. If you haven\u2019t heard of Stella, you can be forgiven. The 24-year-old country singer appeared seemingly out of nowhere as a fully formed artist who dro\u2026 [+3455 chars]",
             "ai_score": 5
         },
         {
@@ -549,20 +549,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "U.S. Government Lab Reportedly Probing Chinese Lidar Security Risks on Behalf of Private Industry",
-            "description": "The tests come as some American automakers are exploring the possibility of using the cheaper tech in their cars.",
-            "url": "https://gizmodo.com/u-s-government-lab-reportedly-probing-chinese-lidar-security-risks-on-behalf-of-private-industry-2000801788",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/waymo-robotaxi-1200x675.jpg",
-            "publishedAt": "2026-08-21T21:23:30Z",
-            "content": "More affordable lidar sensors from China are looking increasingly appealing to American automakers. But a Department of Energy lab is reportedly looking into whether the technology could pose nationa\u2026 [+2871 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
@@ -573,6 +559,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
             "publishedAt": "2026-09-04T11:48:24Z",
             "content": "Xbox is introducing strict monthly time limits for Game Pass subscribers who stream games online through its cloud gaming service.\r\nThe changes, which come into effect in November, will see a subscri\u2026 [+2117 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "U.S. Government Lab Reportedly Probing Chinese Lidar Security Risks on Behalf of Private Industry",
+            "description": "The tests come as some American automakers are exploring the possibility of using the cheaper tech in their cars.",
+            "url": "https://gizmodo.com/u-s-government-lab-reportedly-probing-chinese-lidar-security-risks-on-behalf-of-private-industry-2000801788",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/waymo-robotaxi-1200x675.jpg",
+            "publishedAt": "2026-08-21T21:23:30Z",
+            "content": "More affordable lidar sensors from China are looking increasingly appealing to American automakers. But a Department of Energy lab is reportedly looking into whether the technology could pose nationa\u2026 [+2871 chars]",
             "ai_score": 5
         },
         {
@@ -734,20 +734,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "Schools are catching on to Big Tech\u2019s playbook",
-            "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the \u2026",
-            "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-10T19:49:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEducators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny.\r\nEducators were quick to adopt tech-backed coding curricula, bu\u2026 [+7405 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "John.Higgins",
             "title": "Six years later, Sony revisits its legendary XM4 headphones",
             "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, th\u2026",
@@ -755,6 +741,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-04T23:33:55Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C.\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing \u2026 [+4732 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Schools are catching on to Big Tech\u2019s playbook",
+            "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the \u2026",
+            "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-09-10T19:49:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEducators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny.\r\nEducators were quick to adopt tech-backed coding curricula, bu\u2026 [+7405 chars]",
             "ai_score": 5
         },
         {
