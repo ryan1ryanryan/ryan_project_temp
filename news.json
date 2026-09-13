@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-12 23:52",
+    "last_updated": "2026-09-13 03:34",
     "articles": [
         {
             "source": {
@@ -76,20 +76,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Emma Roth",
-            "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
-            "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord r\u2026",
-            "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
-            "publishedAt": "2026-08-28T16:22:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nModders are applying an unofficial version of DLSS 5s AI rendering to games like Control, Skyrim, GTA, and more.\r\nModders are applying an unofficial version of D\u2026 [+4070 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Dominic Preston",
             "title": "Acer\u2019s new concept hardware is a gaming handheld with a keyboard",
             "description": "For the last few years, PC gamers on the go have had a choice: Buy a gaming laptop, or pick up one of the many Steam Deck-inspired handhelds that are a fraction of the size but a lot less versatile. Acer's latest concept device, Project DualPlay Mini, is an a\u2026",
@@ -97,6 +83,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
             "publishedAt": "2026-09-02T09:14:55Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nby\r\nDominic Preston\u2026 [+3556 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
+            "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord r\u2026",
+            "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
+            "publishedAt": "2026-08-28T16:22:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nModders are applying an unofficial version of DLSS 5s AI rendering to games like Control, Skyrim, GTA, and more.\r\nModders are applying an unofficial version of D\u2026 [+4070 chars]",
             "ai_score": 5
         },
         {
@@ -734,20 +734,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "John.Higgins",
-            "title": "Six years later, Sony revisits its legendary XM4 headphones",
-            "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, th\u2026",
-            "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-04T23:33:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C.\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing \u2026 [+4732 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Lauren Feiner",
             "title": "Schools are catching on to Big Tech\u2019s playbook",
             "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the \u2026",
@@ -755,6 +741,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-09-10T19:49:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEducators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny.\r\nEducators were quick to adopt tech-backed coding curricula, bu\u2026 [+7405 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "John.Higgins",
+            "title": "Six years later, Sony revisits its legendary XM4 headphones",
+            "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, th\u2026",
+            "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-04T23:33:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C.\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing \u2026 [+4732 chars]",
             "ai_score": 5
         },
         {
