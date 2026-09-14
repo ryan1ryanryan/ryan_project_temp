@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-14 00:51",
+    "last_updated": "2026-09-14 05:56",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -129,20 +129,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "GeForce Now is getting support for the Steam Controller",
-            "description": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on\u2026",
-            "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-25T16:47:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLater this year, youll be able to play games on Nvidias cloud gaming service using Valves new gamepad.\r\nLater this year, youll be able to play games on Nvidias c\u2026 [+2716 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -153,6 +139,20 @@
             "urlToImage": "https://media.wired.com/photos/6a8fae4843f0eb43b71996fc/191:100/w_1280,c_limit/Review--Alienware-5K-OLED-Ultrawide-Gaming-Monitor.jpg",
             "publishedAt": "2026-08-27T13:00:00Z",
             "content": "The AW3926QW has an RGB stripe tandem OLED panel produced by LG. At the moment, its one of just two ultrawide monitors to offer the panel, which is also available from LGs UltraGear Evo GX9. I recent\u2026 [+2202 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "GeForce Now is getting support for the Steam Controller",
+            "description": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on\u2026",
+            "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-25T16:47:15Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLater this year, youll be able to play games on Nvidias cloud gaming service using Valves new gamepad.\r\nLater this year, youll be able to play games on Nvidias c\u2026 [+2716 chars]",
             "ai_score": 5
         },
         {
@@ -329,12 +329,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
-            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
-            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
-            "publishedAt": "2026-08-21T14:10:15Z",
-            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
+            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
+            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
+            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
+            "publishedAt": "2026-08-17T15:20:23Z",
+            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
             "ai_score": 5
         },
         {
@@ -343,12 +343,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
-            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
-            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
-            "publishedAt": "2026-08-17T15:20:23Z",
-            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
+            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
+            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
+            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
+            "publishedAt": "2026-08-21T14:10:15Z",
+            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
             "ai_score": 5
         },
         {
@@ -482,20 +482,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Dominic Preston",
-            "title": "Poco\u2019s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer",
-            "description": "Xiaomi spinoff brand Poco has partnered with Bose for the second year in a row for its flagship F9 Pro and Ultra phones. The F9 phones double down on amped up audio, with a light-up subwoofer built into the Ultra, along with extremely bright displays, enormou\u2026",
-            "url": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/poco-f9-pro-ultra-4.jpg?quality=90&strip=all&crop=0%2C10.727971269358%2C100%2C78.544057461284&w=1200",
-            "publishedAt": "2026-08-31T13:28:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nby\r\nDominic Prest\u2026 [+4518 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Cameron Faulkner",
             "title": "Belkin\u2019s kid-friendly wireless headphones are 25 percent off",
             "description": "Verge readers can get a discount on Belkin\u2019s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a mode that lets them beam audio (wired or wirelessly) to a second pair without extr\u2026",
@@ -503,6 +489,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-02T14:58:15Z",
             "content": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you\u2019re willing to spend a bit more. | Image: The Verge\r\n\n\nVerge readers can get a discount on Belkin\u2019s SoundForm Mini \u2026 [+4362 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Poco\u2019s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer",
+            "description": "Xiaomi spinoff brand Poco has partnered with Bose for the second year in a row for its flagship F9 Pro and Ultra phones. The F9 phones double down on amped up audio, with a light-up subwoofer built into the Ultra, along with extremely bright displays, enormou\u2026",
+            "url": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/poco-f9-pro-ultra-4.jpg?quality=90&strip=all&crop=0%2C10.727971269358%2C100%2C78.544057461284&w=1200",
+            "publishedAt": "2026-08-31T13:28:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nby\r\nDominic Prest\u2026 [+4518 chars]",
             "ai_score": 5
         },
         {
@@ -594,20 +594,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "JBL\u2019s soundbar with detachable rear speakers is over $300 off",
-            "description": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular \u2026",
-            "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jbllead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-08T15:03:07Z",
-            "content": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of t\u2026 [+3730 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Netflix is closing two game studios",
             "description": "Netflix plans to shut down two of its gaming studios as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and\u2026",
@@ -615,6 +601,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814434/OXENFREEII_rileyjacobbridge_EN.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-13T20:53:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNight School Studio and Moonloot Games are being shut down as Netflix focuses more on TV-based party games.\r\nNight School Studio and Moonloot Games are being shu\u2026 [+2679 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "JBL\u2019s soundbar with detachable rear speakers is over $300 off",
+            "description": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular \u2026",
+            "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jbllead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-08T15:03:07Z",
+            "content": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of t\u2026 [+3730 chars]",
             "ai_score": 5
         },
         {
@@ -790,20 +790,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Stevie Bonifield",
-            "title": "Microsoft\u2019s 25th anniversary Xbox will cost $899",
-            "description": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder emails starting today. T\u2026",
-            "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-08-26T14:18:20Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nby\r\nStevie \u2026 [+2634 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "Genki\u2019s new customizable controller has a big screen and adjustable buttons",
             "description": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta lo\u2026",
@@ -811,6 +797,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/genki_manta1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-20T14:34:32Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Manta launches on Kickstarter today with a focus on tailoring the controllers functionality and feel for each game.\r\nThe Manta launches on Kickstarter today \u2026 [+3676 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Microsoft\u2019s 25th anniversary Xbox will cost $899",
+            "description": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder emails starting today. T\u2026",
+            "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-26T14:18:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nby\r\nStevie \u2026 [+2634 chars]",
             "ai_score": 5
         },
         {
@@ -860,20 +860,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Lauren Feiner",
-            "title": "Google dodges another breakup attempt",
-            "description": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would ad\u2026",
-            "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T15:42:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle stymied competition for ad tech services for years, the judge previously ruled.\r\nGoogle stymied competition for ad tech services for years, the judge prev\u2026 [+4071 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Robert Hart",
             "title": "Rogue AI aren\u2019t science fiction anymore",
             "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started\u2026",
@@ -895,6 +881,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-14T09:21:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.\r\nThe rare US-China partnership comes as Apple pre\u2026 [+2690 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Google dodges another breakup attempt",
+            "description": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would ad\u2026",
+            "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-02T15:42:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle stymied competition for ad tech services for years, the judge previously ruled.\r\nGoogle stymied competition for ad tech services for years, the judge prev\u2026 [+4071 chars]",
             "ai_score": 5
         },
         {
