@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-09-16 18:45",
+    "last_updated": "2026-09-16 21:59",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
+            "description": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every m\u2026",
+            "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-31T14:06:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe governor on 3D-printed guns, AI and data center backlash, and who protects kids online.\r\nIf you buy something from a Verge link, Vox Media may earn a commiss\u2026 [+51441 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -174,20 +188,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
-            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
-            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
-            "publishedAt": "2026-09-03T11:13:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "Ikea\u2019s Xbox collection includes a giant thumbstick stool",
             "description": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand,\u2026",
@@ -195,6 +195,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-26T09:08:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\u2026 [+4287 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
+            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
+            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
+            "publishedAt": "2026-09-03T11:13:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
             "ai_score": 5
         },
         {
@@ -311,20 +325,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
-            "description": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every m\u2026",
-            "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-31T14:06:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe governor on 3D-printed guns, AI and data center backlash, and who protects kids online.\r\nIf you buy something from a Verge link, Vox Media may earn a commiss\u2026 [+51441 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -371,12 +371,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
-            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
-            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
-            "publishedAt": "2026-08-17T15:20:23Z",
-            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
+            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
+            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
+            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
+            "publishedAt": "2026-08-21T14:10:15Z",
+            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
             "ai_score": 5
         },
         {
@@ -385,12 +385,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
-            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
-            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
-            "publishedAt": "2026-08-21T14:10:15Z",
-            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
+            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
+            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
+            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
+            "publishedAt": "2026-08-17T15:20:23Z",
+            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
             "ai_score": 5
         },
         {
@@ -930,13 +930,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Liszewski",
-            "title": "Genki\u2019s new customizable controller has a big screen and adjustable buttons",
-            "description": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta lo\u2026",
-            "url": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/genki_manta1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-20T14:34:32Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Manta launches on Kickstarter today with a focus on tailoring the controllers functionality and feel for each game.\r\nThe Manta launches on Kickstarter today \u2026 [+3676 chars]",
+            "author": "Stevie Bonifield",
+            "title": "Microsoft\u2019s 25th anniversary Xbox will cost $899",
+            "description": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder emails starting today. T\u2026",
+            "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/X25-Collection-44fa4f8521aeaf755181.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-08-26T14:18:20Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nThe translucent green special-edition Xbox Series X launches in November.\r\nby\r\nStevie \u2026 [+2634 chars]",
             "ai_score": 5
         }
     ]
