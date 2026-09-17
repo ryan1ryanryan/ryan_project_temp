@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-09-17 00:13",
+    "last_updated": "2026-09-17 05:52",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Kara Verlaney",
+            "title": "The Verge Guide to Pets",
+            "description": "Ah, the relationship between animals and the technology they can\u2019t quite understand.\u00a0 Today, it seems like there\u2019s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and enterta\u2026",
+            "url": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-18T12:01:28Z",
+            "content": "Ah, the relationship between animals and the technology they can\u2019t quite understand.\u00a0\n\nToday, it seems like there\u2019s a high-tech solution to every element of pet ownership, with devices on the market \u2026 [+1115 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -174,20 +188,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
-            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
-            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
-            "publishedAt": "2026-09-03T11:13:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "Ikea\u2019s Xbox collection includes a giant thumbstick stool",
             "description": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand,\u2026",
@@ -195,6 +195,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-26T09:08:48Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\u2026 [+4287 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
+            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
+            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
+            "publishedAt": "2026-09-03T11:13:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
             "ai_score": 5
         },
         {
@@ -371,12 +385,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
-            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
-            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
-            "publishedAt": "2026-08-21T14:10:15Z",
-            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
+            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
+            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
+            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
+            "publishedAt": "2026-08-17T15:20:23Z",
+            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
             "ai_score": 5
         },
         {
@@ -385,12 +399,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Kyle Barr",
-            "title": "Can Intel Save the Suffocating Gaming Handheld Scene?",
-            "description": "The next 'budget' handheld PC may rely on cheap chips and software tricks.",
-            "url": "https://gizmodo.com/can-intel-save-the-suffocating-gaming-handheld-scene-2000799356",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/MSI-Claw-8-EX-AI-16-1200x675.jpg",
-            "publishedAt": "2026-08-17T15:20:23Z",
-            "content": "The obscene cost of memory has neutered most of the enthusiasm for the burgeoning handheld PC space. Intel may prove our best hope for lower-cost gaming platforms, though it may require dialing back \u2026 [+3012 chars]",
+            "title": "HyperX\u2019s Open Gaming Headset Might Prove You Don\u2019t Need ANC",
+            "description": "HP's HyperX Cloud Alpha Air is yet another headset that helps you avoid gamer sweats for less.",
+            "url": "https://gizmodo.com/hyperxs-open-gaming-headset-might-prove-you-dont-need-anc-2000801487",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/HyperX-Cloud-Atlas-Air-1-1200x675.jpg",
+            "publishedAt": "2026-08-21T14:10:15Z",
+            "content": "HP\u2019s latest headset is doing a little more with lessliterallythanks to the cheese grater holes punched into the side of each earcup. The HyperX Cloud Alpha Air, a relatively affordable open-backed he\u2026 [+3332 chars]",
             "ai_score": 5
         },
         {
@@ -650,20 +664,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Ece Yildirim",
-            "title": "Meta Is Hoping You\u2019ll Pay for More AI Features on Instagram",
-            "description": "The tech giant is launching a paid subscription for more AI usage on Instagram, Facebook and WhatsApp.",
-            "url": "https://gizmodo.com/meta-is-hoping-youll-pay-for-more-ai-features-on-instagram-2000812018",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/shutterstock_2450982865-1200x675.jpg",
-            "publishedAt": "2026-09-15T22:25:02Z",
-            "content": "On Tuesday, Meta officially launched a paid subscription service called Meta One, promising a range of AI-related new features on Instagram, Facebook and WhatsApp.\r\nUnlike some of its past attempts a\u2026 [+3040 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Kyle Barr",
             "title": "Maingear Zero (2026) Review: PC Gaming Bliss With a Price Tag to Make You Cry",
             "description": "Maingear's latest Zero desktop both looks better and is easier to use than most pre-configured PCs.",
@@ -671,6 +671,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Maingear-Zero-PC-2-1200x675.jpg",
             "publishedAt": "2026-09-13T12:30:41Z",
             "content": "Out of all pre-built PC makers out there right now, Maingear can claim to sit apart for two main reasons. Firstly, their gaming-ready pre-configs always contain some modicum of extra flair with a lac\u2026 [+13326 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Meta Is Hoping You\u2019ll Pay for More AI Features on Instagram",
+            "description": "The tech giant is launching a paid subscription for more AI usage on Instagram, Facebook and WhatsApp.",
+            "url": "https://gizmodo.com/meta-is-hoping-youll-pay-for-more-ai-features-on-instagram-2000812018",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/shutterstock_2450982865-1200x675.jpg",
+            "publishedAt": "2026-09-15T22:25:02Z",
+            "content": "On Tuesday, Meta officially launched a paid subscription service called Meta One, promising a range of AI-related new features on Instagram, Facebook and WhatsApp.\r\nUnlike some of its past attempts a\u2026 [+3040 chars]",
             "ai_score": 5
         },
         {
@@ -811,20 +825,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Steam-Frame-review-20-1200x675.jpg",
             "publishedAt": "2026-09-14T17:00:30Z",
             "content": "Valve wants to reset the clock on VR. The $1,060 Steam Frame is pure virtual reality gaming goodness in a costly frame. Theres no hint of the metaverse, no talk of spatial computing,\u201d and no pretendi\u2026 [+17767 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Kara Verlaney",
-            "title": "The Verge Guide to Pets",
-            "description": "Ah, the relationship between animals and the technology they can\u2019t quite understand.\u00a0 Today, it seems like there\u2019s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and enterta\u2026",
-            "url": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-18T12:01:28Z",
-            "content": "Ah, the relationship between animals and the technology they can\u2019t quite understand.\u00a0\n\nToday, it seems like there\u2019s a high-tech solution to every element of pet ownership, with devices on the market \u2026 [+1115 chars]",
             "ai_score": 5
         },
         {
