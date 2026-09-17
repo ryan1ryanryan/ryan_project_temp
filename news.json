@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-17 20:06",
+    "last_updated": "2026-09-17 23:29",
     "articles": [
         {
             "source": {
@@ -844,6 +844,34 @@
         {
             "source": {
                 "id": null,
+                "name": "CNET"
+            },
+            "author": "Laura Michelle Davis",
+            "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
+            "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
+            "publishedAt": "2026-09-16T23:03:14Z",
+            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Laura Michelle Davis",
+            "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
+            "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
+            "publishedAt": "2026-09-16T23:03:14Z",
+            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Android Central"
             },
             "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
@@ -895,34 +923,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-09-14T17:02:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now register your interest to buy Valves new VR headset.\r\nYou can now register your interest to buy Valves new VR headset.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+5302 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "John.Higgins",
-            "title": "Six years later, Sony revisits its legendary XM4 headphones",
-            "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, th\u2026",
-            "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-04T23:33:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C.\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing \u2026 [+4732 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Valve has ported Half-Life: Alyx to ARM, and it\u2019s free with Steam Frame",
-            "description": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every\u2026",
-            "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23079447/half_life_alyx_vr_004.0.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-09-14T16:19:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nby\r\nS\u2026 [+4221 chars]",
             "ai_score": 5
         }
     ]
