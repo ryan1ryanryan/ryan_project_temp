@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-18 17:35",
+    "last_updated": "2026-09-18 20:34",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Dominic Preston",
-            "title": "Poco\u2019s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer",
-            "description": "Xiaomi spinoff brand Poco has partnered with Bose for the second year in a row for its flagship F9 Pro and Ultra phones. The F9 phones double down on amped up audio, with a light-up subwoofer built into the Ultra, along with extremely bright displays, enormou\u2026",
-            "url": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/poco-f9-pro-ultra-4.jpg?quality=90&strip=all&crop=0%2C10.727971269358%2C100%2C78.544057461284&w=1200",
-            "publishedAt": "2026-08-31T13:28:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nby\r\nDominic Prest\u2026 [+4518 chars]",
-            "ai_score": 9
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-08-18T17:18:57Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys Pulse Elevate speakers, which have studio-inspired planar magnetic drivers, will be available soon for $219.99.\r\nSonys Pulse Elevate speakers, which have s\u2026 [+2381 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming",
+            "description": "Microsoft is partnering with TCL to bring its Xbox app to supported TCL smart TVs. The Xbox app lets you connect to Xbox Cloud Gaming and stream Game Pass titles or select games you own as part of a subscription. The Xbox app will arrive on TCL TVs at some po\u2026",
+            "url": "https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/XGP_TCL-PARTNER-a9a894bf85566ec68565.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-09-04T13:25:09Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.\r\nXbox Cloud Gaming is coming to more TVs, just a\u2026 [+2887 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,20 +55,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
             "publishedAt": "2026-09-08T14:40:53Z",
             "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming",
-            "description": "Microsoft is partnering with TCL to bring its Xbox app to supported TCL smart TVs. The Xbox app lets you connect to Xbox Cloud Gaming and stream Game Pass titles or select games you own as part of a subscription. The Xbox app will arrive on TCL TVs at some po\u2026",
-            "url": "https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/XGP_TCL-PARTNER-a9a894bf85566ec68565.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-09-04T13:25:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.\r\nXbox Cloud Gaming is coming to more TVs, just a\u2026 [+2887 chars]",
             "ai_score": 5
         },
         {
@@ -619,16 +605,16 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
-            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-            "description": "This week on \u201cUncanny Valley,\u201d we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
-            "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-            "urlToImage": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
-            "publishedAt": "2026-09-03T21:48:24Z",
-            "content": "Leah Feiger: All right. Do you guys remember George Santos?\r\nBrian Barrett: How could I forget?\r\nZo\u00eb Schiffer: Absolutely do, but wow, did not expect we would be talking about him again this soon, I \u2026 [+2617 chars]",
+            "author": "Dominic Preston",
+            "title": "Poco\u2019s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer",
+            "description": "Xiaomi spinoff brand Poco has partnered with Bose for the second year in a row for its flagship F9 Pro and Ultra phones. The F9 phones double down on amped up audio, with a light-up subwoofer built into the Ultra, along with extremely bright displays, enormou\u2026",
+            "url": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/poco-f9-pro-ultra-4.jpg?quality=90&strip=all&crop=0%2C10.727971269358%2C100%2C78.544057461284&w=1200",
+            "publishedAt": "2026-08-31T13:28:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nby\r\nDominic Prest\u2026 [+4518 chars]",
             "ai_score": 5
         },
         {
@@ -643,6 +629,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2022/11/5c28e2ddb5ce1bf8fb9f2064ad3dff31-e1787066763778-1200x675.jpg",
             "publishedAt": "2026-08-18T15:55:54Z",
             "content": "Apple appears to be sending out a large wave of warnings to users it believes were targeted by mercenary spyware.\r\nAccording to TechCrunch, the company started sending out its latest round of notific\u2026 [+2995 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
+            "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+            "description": "This week on \u201cUncanny Valley,\u201d we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
+            "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+            "urlToImage": "https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+            "publishedAt": "2026-09-03T21:48:24Z",
+            "content": "Leah Feiger: All right. Do you guys remember George Santos?\r\nBrian Barrett: How could I forget?\r\nZo\u00eb Schiffer: Absolutely do, but wow, did not expect we would be talking about him again this soon, I \u2026 [+2617 chars]",
             "ai_score": 5
         },
         {
