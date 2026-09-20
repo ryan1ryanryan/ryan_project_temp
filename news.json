@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-20 00:47",
+    "last_updated": "2026-09-20 05:50",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 5
+            "ai_score": 9
         },
         {
             "source": {
@@ -717,20 +717,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Nena Farrell",
-            "title": "Best Early Tech Labor Day Sales I\u2019d Shop Myself (2026): AirTags, Dyson, and More",
-            "description": "From the best Dyson vacuum to the best wireless headphones and earbuds we\u2019ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
-            "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
-            "urlToImage": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg",
-            "publishedAt": "2026-08-21T09:37:00Z",
-            "content": "It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't sto\u2026 [+784 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
@@ -741,6 +727,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg",
             "publishedAt": "2026-08-27T16:04:00Z",
             "content": "Available for over a year\r\nToday, we discuss Metas decision to agree to an $18 billion settlement resolving claims from 29 US states that Facebook and Instagram harmed children.\r\nTechnology and AI ed\u2026 [+1426 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Nena Farrell",
+            "title": "Best Early Tech Labor Day Sales I\u2019d Shop Myself (2026): AirTags, Dyson, and More",
+            "description": "From the best Dyson vacuum to the best wireless headphones and earbuds we\u2019ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
+            "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
+            "urlToImage": "https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg",
+            "publishedAt": "2026-08-21T09:37:00Z",
+            "content": "It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't sto\u2026 [+784 chars]",
             "ai_score": 5
         },
         {
