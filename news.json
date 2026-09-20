@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-20 18:04",
+    "last_updated": "2026-09-20 20:47",
     "articles": [
         {
             "source": {
@@ -200,20 +200,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Biggest Innovation in Desktop CPUs May Come to Gaming Laptops, Too",
-            "description": "Gamers have more than one reason to care about Intel\u2019s next-gen laptop chips.",
-            "url": "https://gizmodo.com/the-biggest-innovation-in-desktop-cpus-may-come-to-gaming-laptops-too-2000800281",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/05/Alienware-16-Area-51-2026-review-09-1200x675.jpg",
-            "publishedAt": "2026-08-19T14:15:44Z",
-            "content": "AMD remains the unquestioned king of gaming desktop processors, in large part thanks to an innovative way of stacking CPU memory to boost performance. A multitude of leaks suggests Intel is taking th\u2026 [+2450 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "Omar Gallaga",
@@ -405,20 +391,6 @@
             "urlToImage": "https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/191:100/w_1280,c_limit/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg",
             "publishedAt": "2026-09-15T11:00:00Z",
             "content": "In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home \u2026 [+4074 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Watch Valve set up the Steam Frame in its own leaked videos",
-            "description": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hard\u2026",
-            "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
-            "publishedAt": "2026-08-19T18:16:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLeaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories.\r\nLeaked demonstrations show how to use the Steam Frame with its w\u2026 [+3088 chars]",
             "ai_score": 5
         },
         {
@@ -895,6 +867,48 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23079447/half_life_alyx_vr_004.0.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
             "publishedAt": "2026-09-14T16:19:36Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nby\r\nS\u2026 [+4221 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Schools are catching on to Big Tech\u2019s playbook",
+            "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the \u2026",
+            "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-09-10T19:49:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEducators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny.\r\nEducators were quick to adopt tech-backed coding curricula, bu\u2026 [+7405 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Google launches Pok\u00e9mon Sleep special-edition Fitbit Air",
+            "description": "The latest special-edition of Google's Fitbit Air is inspired by the Pok\u00e9mon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and gold of a Pok\u00e9mon card pretty closely. The s\u2026",
+            "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/pokemon-sleep-fitbit-air-hero.webp?quality=90&strip=all&crop=0%2C3.4434152235199%2C100%2C93.11316955296&w=1200",
+            "publishedAt": "2026-08-27T14:58:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can wear a snoozing Pikachu on your wrist while tracking sleep, steps, and workouts.\r\nYou can wear a snoozing Pikachu on your wrist while tracking sleep, ste\u2026 [+2797 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Thomas Ricker",
+            "title": "Here\u2019s the first 4K 120Hz UST projector with optical lens shift",
+            "description": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO\u2026",
+            "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Man-Cave.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-09-03T08:31:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNo digital trickery to degrade image quality.\r\nNo digital trickery to degrade image quality.\r\nby\r\nThomas RickerClose\r\nPosts from this author will be added to you\u2026 [+2713 chars]",
             "ai_score": 5
         }
     ]
