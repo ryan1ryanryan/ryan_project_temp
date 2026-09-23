@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-09-23 10:58",
+    "last_updated": "2026-09-23 15:25",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
-            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
-            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
-            "publishedAt": "2026-09-08T14:40:53Z",
-            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
-            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-08T20:39:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
+            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
+            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
+            "publishedAt": "2026-09-08T14:40:53Z",
+            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
             "ai_score": 5
         },
         {
@@ -167,6 +153,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268381_Asus_Cetra_Wireless_earbuds_CFaulkner_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-09T13:53:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOpen-style earbuds with great comfort, solid sound quality, and a USB-C transmitter that allows passthrough charging.\r\nOpen-style earbuds with great comfort, sol\u2026 [+2390 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
+            "description": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox hi\u2026",
+            "url": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-22T14:01:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nby\r\nTom WarrenClose\r\nPosts from this \u2026 [+3288 chars]",
             "ai_score": 5
         },
         {
@@ -349,6 +349,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Beats-Powerbeats-Pro-2-8-1200x675.jpg",
             "publishedAt": "2026-09-13T19:44:53Z",
             "content": "Did you ever drive a Scion? Status-obsessed people may have scoffed at your budget-friendly car, but you probably knew at the time it was just a Toyota with a different nameplate on it. According to \u2026 [+1890 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
+            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-08T20:39:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
             "ai_score": 5
         },
         {
@@ -853,20 +867,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-09-14T17:02:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now register your interest to buy Valves new VR headset.\r\nYou can now register your interest to buy Valves new VR headset.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+5302 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "Schools are catching on to Big Tech\u2019s playbook",
-            "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the \u2026",
-            "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-10T19:49:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEducators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny.\r\nEducators were quick to adopt tech-backed coding curricula, bu\u2026 [+7405 chars]",
             "ai_score": 5
         }
     ]
