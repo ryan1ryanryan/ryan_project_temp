@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-22 21:52",
+    "last_updated": "2026-09-23 00:06",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming",
-            "description": "Microsoft is partnering with TCL to bring its Xbox app to supported TCL smart TVs. The Xbox app lets you connect to Xbox Cloud Gaming and stream Game Pass titles or select games you own as part of a subscription. The Xbox app will arrive on TCL TVs at some po\u2026",
-            "url": "https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/XGP_TCL-PARTNER-a9a894bf85566ec68565.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-09-04T13:25:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.\r\nXbox Cloud Gaming is coming to more TVs, just a\u2026 [+2887 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,6 +27,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
             "publishedAt": "2026-09-08T14:40:53Z",
             "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming",
+            "description": "Microsoft is partnering with TCL to bring its Xbox app to supported TCL smart TVs. The Xbox app lets you connect to Xbox Cloud Gaming and stream Game Pass titles or select games you own as part of a subscription. The Xbox app will arrive on TCL TVs at some po\u2026",
+            "url": "https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/XGP_TCL-PARTNER-a9a894bf85566ec68565.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-09-04T13:25:09Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.\r\nXbox Cloud Gaming is coming to more TVs, just a\u2026 [+2887 chars]",
             "ai_score": 5
         },
         {
@@ -619,20 +619,6 @@
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-            "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
-            "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
-            "publishedAt": "2026-09-04T11:48:24Z",
-            "content": "Xbox is introducing strict monthly time limits for Game Pass subscribers who stream games online through its cloud gaming service.\r\nThe changes, which come into effect in November, will see a subscri\u2026 [+2117 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -643,6 +629,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Maingear-Zero-PC-2-1200x675.jpg",
             "publishedAt": "2026-09-13T12:30:41Z",
             "content": "Out of all pre-built PC makers out there right now, Maingear can claim to sit apart for two main reasons. Firstly, their gaming-ready pre-configs always contain some modicum of extra flair with a lac\u2026 [+13326 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+            "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+            "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
+            "publishedAt": "2026-09-04T11:48:24Z",
+            "content": "Xbox is introducing strict monthly time limits for Game Pass subscribers who stream games online through its cloud gaming service.\r\nThe changes, which come into effect in November, will see a subscri\u2026 [+2117 chars]",
             "ai_score": 5
         },
         {
@@ -839,20 +839,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Amazon-Fire-TV-Stick-4K-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-10T16:58:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWith bonus deals on Resident Evil Requiem for PC, a two-pack of Ring alarm sensors, and a Lenovo Android tablet.\r\nWith bonus deals on Resident Evil Requiem for P\u2026 [+3200 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Valve\u2019s Steam Frame costs $1,059",
-            "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will\u2026",
-            "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-09-14T17:02:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now register your interest to buy Valves new VR headset.\r\nYou can now register your interest to buy Valves new VR headset.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+5302 chars]",
             "ai_score": 5
         },
         {
