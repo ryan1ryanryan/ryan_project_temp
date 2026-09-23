@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-23 19:32",
+    "last_updated": "2026-09-23 22:47",
     "articles": [
         {
             "source": {
@@ -13,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
+            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
+            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-22T20:58:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
@@ -647,20 +661,6 @@
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-            "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
-            "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
-            "publishedAt": "2026-09-04T11:48:24Z",
-            "content": "Xbox is introducing strict monthly time limits for Game Pass subscribers who stream games online through its cloud gaming service.\r\nThe changes, which come into effect in November, will see a subscri\u2026 [+2117 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -671,6 +671,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Maingear-Zero-PC-2-1200x675.jpg",
             "publishedAt": "2026-09-13T12:30:41Z",
             "content": "Out of all pre-built PC makers out there right now, Maingear can claim to sit apart for two main reasons. Firstly, their gaming-ready pre-configs always contain some modicum of extra flair with a lac\u2026 [+13326 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+            "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+            "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
+            "publishedAt": "2026-09-04T11:48:24Z",
+            "content": "Xbox is introducing strict monthly time limits for Game Pass subscribers who stream games online through its cloud gaming service.\r\nThe changes, which come into effect in November, will see a subscri\u2026 [+2117 chars]",
             "ai_score": 5
         },
         {
@@ -832,34 +846,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "John.Higgins",
-            "title": "Six years later, Sony revisits its legendary XM4 headphones",
-            "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, th\u2026",
-            "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-04T23:33:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C.\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing \u2026 [+4732 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Valve has ported Half-Life: Alyx to ARM, and it\u2019s free with Steam Frame",
-            "description": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every\u2026",
-            "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23079447/half_life_alyx_vr_004.0.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-09-14T16:19:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nby\r\nS\u2026 [+4221 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Brad Bourque",
             "title": "Amazon\u2019s Fire TV Stick 4K is over half off at under $20",
             "description": "Looking to take full advantage of your 4K television, but your current streaming stick doesn\u2019t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at checkout. \u2026",
@@ -867,6 +853,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Amazon-Fire-TV-Stick-4K-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-10T16:58:44Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWith bonus deals on Resident Evil Requiem for PC, a two-pack of Ring alarm sensors, and a Lenovo Android tablet.\r\nWith bonus deals on Resident Evil Requiem for P\u2026 [+3200 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "John.Higgins",
+            "title": "Six years later, Sony revisits its legendary XM4 headphones",
+            "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, th\u2026",
+            "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-04T23:33:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C.\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing \u2026 [+4732 chars]",
             "ai_score": 5
         }
     ]
