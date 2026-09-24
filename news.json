@@ -1,174 +1,6 @@
 {
-    "last_updated": "2026-09-24 07:22",
+    "last_updated": "2026-09-24 13:21",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
-            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
-            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-22T20:58:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
-            "description": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month. The kernel-level protection feature is designed to stop malicious code or drivers running on a Windows 11 machine, but Microsoft previously \u2026",
-            "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T08:57:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMemory integrity could get enabled on your device next month, unless youve already disabled it.\r\nMemory integrity could get enabled on your device next month, un\u2026 [+2728 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Dominic Preston",
-            "title": "Acer\u2019s new concept hardware is a gaming handheld with a keyboard",
-            "description": "For the last few years, PC gamers on the go have had a choice: Buy a gaming laptop, or pick up one of the many Steam Deck-inspired handhelds that are a fraction of the size but a lot less versatile. Acer's latest concept device, Project DualPlay Mini, is an a\u2026",
-            "url": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
-            "publishedAt": "2026-09-02T09:14:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nby\r\nDominic Preston\u2026 [+3556 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
-            "description": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox hi\u2026",
-            "url": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-22T14:01:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nby\r\nTom WarrenClose\r\nPosts from this \u2026 [+3288 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Ikea\u2019s Xbox collection includes a giant thumbstick stool",
-            "description": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand,\u2026",
-            "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-26T09:08:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\u2026 [+4287 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
-            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
-            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
-            "publishedAt": "2026-09-03T11:13:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
-            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
-            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
-            "publishedAt": "2026-08-24T12:30:32Z",
-            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "Car owners want tech they can ignore",
-            "description": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to\u2026",
-            "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/2027MercedesBenzCLA3505.jpg?quality=90&strip=all&crop=0%2C5.724295186124%2C100%2C88.551409627752&w=1200",
-            "publishedAt": "2026-08-31T17:11:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can keep your passenger screens.\r\nYou can keep your passenger screens.\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email \u2026 [+4572 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nick Statt, Greg Ott, Nilay Patel",
-            "title": "Why the current tech backlash feels different",
-            "description": "This interview has been lightly edited for length and clarity.\u00a0 Nick Statt: Hello and welcome to Decoder, Nilay\u2019s show about big ideas and other problems. This is Nick Statt, senior producer. And I\u2019m joined by our brand-new supervising producer, Greg Ott. Gre\u2026",
-            "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-10T13:49:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnswering your Decoder questions about surveillance, AI coverage, and the Nilay rant.\r\nby\r\nNick StattClose\r\nPosts from this author will be added to your daily em\u2026 [+53326 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
-            "description": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every m\u2026",
-            "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-31T14:06:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe governor on 3D-printed guns, AI and data center backlash, and who protects kids online.\r\nIf you buy something from a Verge link, Vox Media may earn a commiss\u2026 [+51441 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Valve\u2019s virtual reality plans hit actual reality",
-            "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
-            "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-09-14T19:48:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Samsung\u2019s Revised Odyssey Monitors Opt for Excess in Every Direction",
-            "description": "A new super-speedy Odyssey OLED G9 ultrawide is somehow less exciting than a \u2018triple-mode\u2019 monitor.",
-            "url": "https://gizmodo.com/samsungs-revised-odyssey-monitors-opt-for-excess-in-every-direction-2000803817",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/2027-Odyssey-OLED-G7_G75SJ_-Interior-1200x675.jpg",
-            "publishedAt": "2026-08-27T14:50:42Z",
-            "content": "Youve got to hand it to the Samsung monitor team: They dont think small. After trying to make 6K resolution work for gaming (spoiler alert, its not the new 4K), the Korean screen giant is proposing y\u2026 [+3409 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -181,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
+            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
+            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-22T20:58:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
@@ -209,6 +55,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/XGP_TCL-PARTNER-a9a894bf85566ec68565.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-09-04T13:25:09Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.\r\nXbox Cloud Gaming is coming to more TVs, just a\u2026 [+2887 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
+            "description": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month. The kernel-level protection feature is designed to stop malicious code or drivers running on a Windows 11 machine, but Microsoft previously \u2026",
+            "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-02T08:57:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMemory integrity could get enabled on your device next month, unless youve already disabled it.\r\nMemory integrity could get enabled on your device next month, un\u2026 [+2728 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Acer\u2019s new concept hardware is a gaming handheld with a keyboard",
+            "description": "For the last few years, PC gamers on the go have had a choice: Buy a gaming laptop, or pick up one of the many Steam Deck-inspired handhelds that are a fraction of the size but a lot less versatile. Acer's latest concept device, Project DualPlay Mini, is an a\u2026",
+            "url": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
+            "publishedAt": "2026-09-02T09:14:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nby\r\nDominic Preston\u2026 [+3556 chars]",
             "ai_score": 5
         },
         {
@@ -300,6 +174,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Tom Warren",
+            "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
+            "description": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox hi\u2026",
+            "url": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-22T14:01:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nby\r\nTom WarrenClose\r\nPosts from this \u2026 [+3288 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Dominic Preston",
             "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
             "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video cap\u2026",
@@ -314,6 +202,34 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Jess Weatherbed",
+            "title": "Ikea\u2019s Xbox collection includes a giant thumbstick stool",
+            "description": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand,\u2026",
+            "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-26T09:08:48Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\nThe Yxstaby collection features a range of gaming-inspired furniture and decor.\r\u2026 [+4287 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
+            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
+            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
+            "publishedAt": "2026-09-03T11:13:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Cameron Faulkner",
             "title": "Alienware\u2019s refurbished 16 Aurora is almost $200 off at Woot",
             "description": "Gaming laptop deals aren\u2019t what they used to be (stares daggers at RAMageddon), which is why I consider Woot\u2019s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia\u2019s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIE\u2026",
@@ -321,6 +237,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-04T15:08:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOther deals include a tiny, well-design dishwasher for van/RV life, a great, big Zeppelin speaker, and more.\r\nOther deals include a tiny, well-design dishwasher \u2026 [+4895 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
+            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
+            "publishedAt": "2026-09-16T20:01:25Z",
+            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
             "ai_score": 5
         },
         {
@@ -356,20 +286,6 @@
                 "id": null,
                 "name": "CNET"
             },
-            "author": "Omar Gallaga",
-            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
-            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
-            "publishedAt": "2026-09-16T20:01:25Z",
-            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
             "author": "David Lumb",
             "title": "2027 Android Phones Could Boost Gaming Graphics and AI Tasks With Arm\u2019s New Chip Tech",
             "description": "Advancements in AI-based upscaling and frame rate upgrade mobile gaming performance and power efficiency.",
@@ -377,6 +293,62 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/7aa31242-0099-484b-be98-39a8b7c24812.jpg",
             "publishedAt": "2026-09-07T22:04:50Z",
             "content": "Arm debuted its new CSS for Mobile 2 technology for chipmakers to include on future silicon powering smartphones. The primary upgrade is around the GPU, which has been redesigned to allow AI to upsca\u2026 [+3816 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "MSI Crosshair 16 HX E14W Review: Beating the RAMpocalpyse Requires Compromise",
+            "description": "The MSI Crosshair is every inch the budget gaming laptop you expect, but it has a few surprises in store.",
+            "url": "https://gizmodo.com/msi-crosshair-16-hx-e14w-review-beating-the-rampocalpyse-requires-compromise-2000801667",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/MSI-Crosshair-16-HX-E14W-review-12-1200x675.jpg",
+            "publishedAt": "2026-08-24T12:30:32Z",
+            "content": "When were discussing budget laptops to buy in 2026, we would normally try to emphasize a minimum expectation for specs. If youre gunning for a gaming machine, you want a certain amount of memory to g\u2026 [+13751 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Car owners want tech they can ignore",
+            "description": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to\u2026",
+            "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/2027MercedesBenzCLA3505.jpg?quality=90&strip=all&crop=0%2C5.724295186124%2C100%2C88.551409627752&w=1200",
+            "publishedAt": "2026-08-31T17:11:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can keep your passenger screens.\r\nYou can keep your passenger screens.\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email \u2026 [+4572 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nick Statt, Greg Ott, Nilay Patel",
+            "title": "Why the current tech backlash feels different",
+            "description": "This interview has been lightly edited for length and clarity.\u00a0 Nick Statt: Hello and welcome to Decoder, Nilay\u2019s show about big ideas and other problems. This is Nick Statt, senior producer. And I\u2019m joined by our brand-new supervising producer, Greg Ott. Gre\u2026",
+            "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-10T13:49:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnswering your Decoder questions about surveillance, AI coverage, and the Nilay rant.\r\nby\r\nNick StattClose\r\nPosts from this author will be added to your daily em\u2026 [+53326 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
+            "description": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every m\u2026",
+            "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-31T14:06:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe governor on 3D-printed guns, AI and data center backlash, and who protects kids online.\r\nIf you buy something from a Verge link, Vox Media may earn a commiss\u2026 [+51441 chars]",
             "ai_score": 5
         },
         {
@@ -454,6 +426,20 @@
                 "id": "wired",
                 "name": "Wired"
             },
+            "author": "Emi Nietfeld",
+            "title": "She\u2019s 28, Loves God and Her Family, and Might Be the Reason You Can\u2019t Have Kids",
+            "description": "No IVF. No surrogacy. No polygenic tests. Emma Waters is leading a national fight against fertility tech\u2014with her hot husband\u2019s permission, of course.",
+            "url": "https://www.wired.com/story/emma-waters-fertility-tech/",
+            "urlToImage": "https://media.wired.com/photos/6aac4dc6e2c208e563f307c2/191:100/w_1280,c_limit/Grunwald_EmmaWaters_06.jpg",
+            "publishedAt": "2026-09-23T10:00:00Z",
+            "content": "Theres a glaring gap between what Waters professesthat a womans highest calling is the homeand what she does, which is support her family financially while being way more influential and successful t\u2026 [+2877 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
             "author": "Js Tan, Clarissa Redwine",
             "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
             "description": "Following mass layoffs in 2022 and 2023, many tech workers turned against their employers. When liberal politicians also rallied against Silicon Valley, their backers turned to Donald Trump.",
@@ -461,6 +447,20 @@
             "urlToImage": "https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/191:100/w_1280,c_limit/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg",
             "publishedAt": "2026-09-15T11:00:00Z",
             "content": "In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home \u2026 [+4074 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Valve\u2019s virtual reality plans hit actual reality",
+            "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
+            "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-09-14T19:48:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
             "ai_score": 5
         },
         {
@@ -545,6 +545,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Steam-Frame-Wearing-1-1200x675.jpg",
             "publishedAt": "2026-09-14T17:00:20Z",
             "content": "Has the price of the $1,050 Steam Machine got you feeling gloomy about the price of gaming hardware? Valve\u2019s Steam Frame VR headset will cost nearly the same amount for its lowest-end memory spec. If\u2026 [+3840 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Samsung\u2019s Revised Odyssey Monitors Opt for Excess in Every Direction",
+            "description": "A new super-speedy Odyssey OLED G9 ultrawide is somehow less exciting than a \u2018triple-mode\u2019 monitor.",
+            "url": "https://gizmodo.com/samsungs-revised-odyssey-monitors-opt-for-excess-in-every-direction-2000803817",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/08/2027-Odyssey-OLED-G7_G75SJ_-Interior-1200x675.jpg",
+            "publishedAt": "2026-08-27T14:50:42Z",
+            "content": "Youve got to hand it to the Samsung monitor team: They dont think small. After trying to make 6K resolution work for gaming (spoiler alert, its not the new 4K), the Korean screen giant is proposing y\u2026 [+3409 chars]",
             "ai_score": 5
         },
         {
@@ -661,20 +675,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Maingear Zero (2026) Review: PC Gaming Bliss With a Price Tag to Make You Cry",
-            "description": "Maingear's latest Zero desktop both looks better and is easier to use than most pre-configured PCs.",
-            "url": "https://gizmodo.com/maingear-zero-2026-review-pc-gaming-bliss-with-a-price-tag-to-make-you-cry-2000810060",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Maingear-Zero-PC-2-1200x675.jpg",
-            "publishedAt": "2026-09-13T12:30:41Z",
-            "content": "Out of all pre-built PC makers out there right now, Maingear can claim to sit apart for two main reasons. Firstly, their gaming-ready pre-configs always contain some modicum of extra flair with a lac\u2026 [+13326 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
@@ -685,6 +685,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
             "publishedAt": "2026-09-04T11:48:24Z",
             "content": "Xbox is introducing strict monthly time limits for Game Pass subscribers who stream games online through its cloud gaming service.\r\nThe changes, which come into effect in November, will see a subscri\u2026 [+2117 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Maingear Zero (2026) Review: PC Gaming Bliss With a Price Tag to Make You Cry",
+            "description": "Maingear's latest Zero desktop both looks better and is easier to use than most pre-configured PCs.",
+            "url": "https://gizmodo.com/maingear-zero-2026-review-pc-gaming-bliss-with-a-price-tag-to-make-you-cry-2000810060",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Maingear-Zero-PC-2-1200x675.jpg",
+            "publishedAt": "2026-09-13T12:30:41Z",
+            "content": "Out of all pre-built PC makers out there right now, Maingear can claim to sit apart for two main reasons. Firstly, their gaming-ready pre-configs always contain some modicum of extra flair with a lac\u2026 [+13326 chars]",
             "ai_score": 5
         },
         {
@@ -839,20 +853,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0%2C3.342396806572%2C100%2C93.315206386856&w=1200",
             "publishedAt": "2026-09-03T14:54:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPAIR is designed to get your desktop and laptop working together on local AI tasks when not in use.\r\nPAIR is designed to get your desktop and laptop working toge\u2026 [+4060 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Amazon\u2019s Fire TV Stick 4K is over half off at under $20",
-            "description": "Looking to take full advantage of your 4K television, but your current streaming stick doesn\u2019t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at checkout. \u2026",
-            "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Amazon-Fire-TV-Stick-4K-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-10T16:58:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith bonus deals on Resident Evil Requiem for PC, a two-pack of Ring alarm sensors, and a Lenovo Android tablet.\r\nWith bonus deals on Resident Evil Requiem for P\u2026 [+3200 chars]",
             "ai_score": 5
         },
         {
