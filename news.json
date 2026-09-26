@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-26 18:26",
+    "last_updated": "2026-09-26 21:56",
     "articles": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matthew S. Smith",
-            "title": "Alienware AW3926QW Review: 39 Inches of Gaming Glory",
-            "description": "Alienware\u2019s latest OLED gaming monitor explores a new size and resolution for ultrawide monitors, and I have a feeling PC gamers are going to love it.",
-            "url": "https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/",
-            "urlToImage": "https://media.wired.com/photos/6a8fae4843f0eb43b71996fc/191:100/w_1280,c_limit/Review--Alienware-5K-OLED-Ultrawide-Gaming-Monitor.jpg",
-            "publishedAt": "2026-08-27T13:00:00Z",
-            "content": "The AW3926QW has an RGB stripe tandem OLED panel produced by LG. At the moment, its one of just two ultrawide monitors to offer the panel, which is also available from LGs UltraGear Evo GX9. I recent\u2026 [+2202 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -153,6 +139,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-25T16:47:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLater this year, youll be able to play games on Nvidias cloud gaming service using Valves new gamepad.\r\nLater this year, youll be able to play games on Nvidias c\u2026 [+2716 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matthew S. Smith",
+            "title": "Alienware AW3926QW Review: 39 Inches of Gaming Glory",
+            "description": "Alienware\u2019s latest OLED gaming monitor explores a new size and resolution for ultrawide monitors, and I have a feeling PC gamers are going to love it.",
+            "url": "https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/",
+            "urlToImage": "https://media.wired.com/photos/6a8fae4843f0eb43b71996fc/191:100/w_1280,c_limit/Review--Alienware-5K-OLED-Ultrawide-Gaming-Monitor.jpg",
+            "publishedAt": "2026-08-27T13:00:00Z",
+            "content": "The AW3926QW has an RGB stripe tandem OLED panel produced by LG. At the moment, its one of just two ultrawide monitors to offer the panel, which is also available from LGs UltraGear Evo GX9. I recent\u2026 [+2202 chars]",
             "ai_score": 5
         },
         {
