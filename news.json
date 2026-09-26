@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-26 05:57",
+    "last_updated": "2026-09-26 10:59",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
-            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
-            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-22T20:58:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,104 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
+            "ai_score": 9
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+            "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video cap\u2026",
+            "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-09-22T16:25:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are two flagship Snapdragon chips this year, but good luck spotting the difference.\r\nThere are two flagship Snapdragon chips this year, but good luck spott\u2026 [+3199 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Car owners want tech they can ignore",
+            "description": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to\u2026",
+            "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/2027MercedesBenzCLA3505.jpg?quality=90&strip=all&crop=0%2C5.724295186124%2C100%2C88.551409627752&w=1200",
+            "publishedAt": "2026-08-31T17:11:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can keep your passenger screens.\r\nYou can keep your passenger screens.\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email \u2026 [+4572 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
+            "description": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every m\u2026",
+            "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-31T14:06:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe governor on 3D-printed guns, AI and data center backlash, and who protects kids online.\r\nIf you buy something from a Verge link, Vox Media may earn a commiss\u2026 [+51441 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+            "description": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since\u2026",
+            "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-21T15:13:33Z",
+            "content": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depe\u2026 [+4221 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "The Xbox reset gets ugly",
+            "description": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises around, and continued its Xbox \"reset.\" L\u2026",
+            "url": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-24T16:00:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother round of cuts leaves big questions over the future of Game Pass and the Xbox platform.\r\nAnother round of cuts leaves big questions over the future of Gam\u2026 [+9925 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Js Tan, Clarissa Redwine",
+            "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
+            "description": "Following mass layoffs in 2022 and 2023, many tech workers turned against their employers. When liberal politicians also rallied against Silicon Valley, their backers turned to Donald Trump.",
+            "url": "https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/",
+            "urlToImage": "https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/191:100/w_1280,c_limit/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg",
+            "publishedAt": "2026-09-15T11:00:00Z",
+            "content": "In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home \u2026 [+4074 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
+            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
+            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-22T20:58:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
@@ -188,20 +272,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Dominic Preston",
-            "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-            "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video cap\u2026",
-            "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-09-22T16:25:43Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are two flagship Snapdragon chips this year, but good luck spotting the difference.\r\nThere are two flagship Snapdragon chips this year, but good luck spott\u2026 [+3199 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "Ikea\u2019s Xbox collection includes a giant thumbstick stool",
             "description": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand,\u2026",
@@ -241,6 +311,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
+            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
+            "publishedAt": "2026-09-16T20:01:25Z",
+            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -272,20 +356,6 @@
                 "id": null,
                 "name": "CNET"
             },
-            "author": "Omar Gallaga",
-            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
-            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
-            "publishedAt": "2026-09-16T20:01:25Z",
-            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
             "author": "David Lumb",
             "title": "2027 Android Phones Could Boost Gaming Graphics and AI Tasks With Arm\u2019s New Chip Tech",
             "description": "Advancements in AI-based upscaling and frame rate upgrade mobile gaming performance and power efficiency.",
@@ -293,20 +363,6 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/7aa31242-0099-484b-be98-39a8b7c24812.jpg",
             "publishedAt": "2026-09-07T22:04:50Z",
             "content": "Arm debuted its new CSS for Mobile 2 technology for chipmakers to include on future silicon powering smartphones. The primary upgrade is around the GPU, which has been redesigned to allow AI to upsca\u2026 [+3816 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew J. Hawkins",
-            "title": "Car owners want tech they can ignore",
-            "description": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to\u2026",
-            "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/2027MercedesBenzCLA3505.jpg?quality=90&strip=all&crop=0%2C5.724295186124%2C100%2C88.551409627752&w=1200",
-            "publishedAt": "2026-08-31T17:11:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can keep your passenger screens.\r\nYou can keep your passenger screens.\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email \u2026 [+4572 chars]",
             "ai_score": 5
         },
         {
@@ -325,34 +381,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
-            "description": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every m\u2026",
-            "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-31T14:06:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe governor on 3D-printed guns, AI and data center backlash, and who protects kids online.\r\nIf you buy something from a Verge link, Vox Media may earn a commiss\u2026 [+51441 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-            "description": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since\u2026",
-            "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-21T15:13:33Z",
-            "content": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depe\u2026 [+4221 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -363,20 +391,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Beats-Powerbeats-Pro-2-8-1200x675.jpg",
             "publishedAt": "2026-09-13T19:44:53Z",
             "content": "Did you ever drive a Scion? Status-obsessed people may have scoffed at your budget-friendly car, but you probably knew at the time it was just a Toyota with a different nameplate on it. According to \u2026 [+1890 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "The Xbox reset gets ugly",
-            "description": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises around, and continued its Xbox \"reset.\" L\u2026",
-            "url": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-24T16:00:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother round of cuts leaves big questions over the future of Game Pass and the Xbox platform.\r\nAnother round of cuts leaves big questions over the future of Gam\u2026 [+9925 chars]",
             "ai_score": 5
         },
         {
@@ -433,20 +447,6 @@
             "urlToImage": "https://media.wired.com/photos/6aac4dc6e2c208e563f307c2/191:100/w_1280,c_limit/Grunwald_EmmaWaters_06.jpg",
             "publishedAt": "2026-09-23T10:00:00Z",
             "content": "Theres a glaring gap between what Waters professesthat a womans highest calling is the homeand what she does, which is support her family financially while being way more influential and successful t\u2026 [+2877 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Js Tan, Clarissa Redwine",
-            "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
-            "description": "Following mass layoffs in 2022 and 2023, many tech workers turned against their employers. When liberal politicians also rallied against Silicon Valley, their backers turned to Donald Trump.",
-            "url": "https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/",
-            "urlToImage": "https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/191:100/w_1280,c_limit/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg",
-            "publishedAt": "2026-09-15T11:00:00Z",
-            "content": "In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home \u2026 [+4074 chars]",
             "ai_score": 5
         },
         {
