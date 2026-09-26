@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-09-26 14:57",
+    "last_updated": "2026-09-26 18:26",
     "articles": [
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "wired",
+                "name": "Wired"
             },
-            "author": "Dominic Preston",
-            "title": "Acer\u2019s new concept hardware is a gaming handheld with a keyboard",
-            "description": "For the last few years, PC gamers on the go have had a choice: Buy a gaming laptop, or pick up one of the many Steam Deck-inspired handhelds that are a fraction of the size but a lot less versatile. Acer's latest concept device, Project DualPlay Mini, is an a\u2026",
-            "url": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
-            "publishedAt": "2026-09-02T09:14:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nby\r\nDominic Preston\u2026 [+3556 chars]",
+            "author": "Matthew S. Smith",
+            "title": "Alienware AW3926QW Review: 39 Inches of Gaming Glory",
+            "description": "Alienware\u2019s latest OLED gaming monitor explores a new size and resolution for ultrawide monitors, and I have a feeling PC gamers are going to love it.",
+            "url": "https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/",
+            "urlToImage": "https://media.wired.com/photos/6a8fae4843f0eb43b71996fc/191:100/w_1280,c_limit/Review--Alienware-5K-OLED-Ultrawide-Gaming-Monitor.jpg",
+            "publishedAt": "2026-08-27T13:00:00Z",
+            "content": "The AW3926QW has an RGB stripe tandem OLED panel produced by LG. At the moment, its one of just two ultrawide monitors to offer the panel, which is also available from LGs UltraGear Evo GX9. I recent\u2026 [+2202 chars]",
             "ai_score": 8
         },
         {
@@ -90,6 +90,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Dominic Preston",
+            "title": "Acer\u2019s new concept hardware is a gaming handheld with a keyboard",
+            "description": "For the last few years, PC gamers on the go have had a choice: Buy a gaming laptop, or pick up one of the many Steam Deck-inspired handhelds that are a fraction of the size but a lot less versatile. Acer's latest concept device, Project DualPlay Mini, is an a\u2026",
+            "url": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
+            "publishedAt": "2026-09-02T09:14:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nby\r\nDominic Preston\u2026 [+3556 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Emma Roth",
             "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
             "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord r\u2026",
@@ -139,20 +153,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-08-25T16:47:15Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLater this year, youll be able to play games on Nvidias cloud gaming service using Valves new gamepad.\r\nLater this year, youll be able to play games on Nvidias c\u2026 [+2716 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Matthew S. Smith",
-            "title": "Alienware AW3926QW Review: 39 Inches of Gaming Glory",
-            "description": "Alienware\u2019s latest OLED gaming monitor explores a new size and resolution for ultrawide monitors, and I have a feeling PC gamers are going to love it.",
-            "url": "https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/",
-            "urlToImage": "https://media.wired.com/photos/6a8fae4843f0eb43b71996fc/191:100/w_1280,c_limit/Review--Alienware-5K-OLED-Ultrawide-Gaming-Monitor.jpg",
-            "publishedAt": "2026-08-27T13:00:00Z",
-            "content": "The AW3926QW has an RGB stripe tandem OLED panel produced by LG. At the moment, its one of just two ultrawide monitors to offer the panel, which is also available from LGs UltraGear Evo GX9. I recent\u2026 [+2202 chars]",
             "ai_score": 5
         },
         {
