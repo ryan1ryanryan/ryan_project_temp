@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-09-26 00:34",
+    "last_updated": "2026-09-26 05:57",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "The best tech and gadgets announced at IFA so far",
-            "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best ne\u2026",
-            "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
-            "publishedAt": "2026-09-02T16:43:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,6 +13,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "The best tech and gadgets announced at IFA so far",
+            "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best ne\u2026",
+            "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
+            "publishedAt": "2026-09-02T16:43:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
             "ai_score": 5
         },
         {
@@ -608,20 +608,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Dominic Preston",
-            "title": "Poco\u2019s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer",
-            "description": "Xiaomi spinoff brand Poco has partnered with Bose for the second year in a row for its flagship F9 Pro and Ultra phones. The F9 phones double down on amped up audio, with a light-up subwoofer built into the Ultra, along with extremely bright displays, enormou\u2026",
-            "url": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/poco-f9-pro-ultra-4.jpg?quality=90&strip=all&crop=0%2C10.727971269358%2C100%2C78.544057461284&w=1200",
-            "publishedAt": "2026-08-31T13:28:10Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nby\r\nDominic Prest\u2026 [+4518 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Cameron Faulkner",
             "title": "Belkin\u2019s kid-friendly wireless headphones are 25 percent off",
             "description": "Verge readers can get a discount on Belkin\u2019s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a mode that lets them beam audio (wired or wirelessly) to a second pair without extr\u2026",
@@ -629,6 +615,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-02T14:58:15Z",
             "content": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you\u2019re willing to spend a bit more. | Image: The Verge\r\n\n\nVerge readers can get a discount on Belkin\u2019s SoundForm Mini \u2026 [+4362 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Poco\u2019s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer",
+            "description": "Xiaomi spinoff brand Poco has partnered with Bose for the second year in a row for its flagship F9 Pro and Ultra phones. The F9 phones double down on amped up audio, with a light-up subwoofer built into the Ultra, along with extremely bright displays, enormou\u2026",
+            "url": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/poco-f9-pro-ultra-4.jpg?quality=90&strip=all&crop=0%2C10.727971269358%2C100%2C78.544057461284&w=1200",
+            "publishedAt": "2026-08-31T13:28:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nThe cheaper F9 Pro packs the same screen, but simpler stereo speakers.\r\nby\r\nDominic Prest\u2026 [+4518 chars]",
             "ai_score": 5
         },
         {
@@ -815,6 +815,20 @@
         },
         {
             "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Trump and Xi toast new chapter in friendship at White House state dinner",
+            "description": "The lavish state dinner included tech billionaires, red tablecloths, bok choy and festive toasts.",
+            "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fea/live/5081d7b0-b8a4-11f1-8257-a79ccb54f692.jpg",
+            "publishedAt": "2026-09-25T05:42:45Z",
+            "content": "When the BBC entered the dining hall for the dinner, SpaceX CEO Elon Musk was standing over a table and appeared to be telling an entertaining story that had two others nearby barreled over with laug\u2026 [+1386 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -853,20 +867,6 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/PKnRSEhxpU6QUKNXnvz8kJ-2048-80.jpg",
             "publishedAt": "2026-09-02T17:36:50Z",
             "content": "What you need to know\r\n<ul><li>Qualcomm continues to tease its next Snapdragon debut with the Adreno Neural Fusion GPU.</li><li>The company says this chip utilizes AI-drive rendering tech, placing st\u2026 [+3528 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-            "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PA\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0%2C3.342396806572%2C100%2C93.315206386856&w=1200",
-            "publishedAt": "2026-09-03T14:54:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPAIR is designed to get your desktop and laptop working together on local AI tasks when not in use.\r\nPAIR is designed to get your desktop and laptop working toge\u2026 [+4060 chars]",
             "ai_score": 5
         }
     ]
