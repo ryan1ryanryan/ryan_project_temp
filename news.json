@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-27 21:02",
+    "last_updated": "2026-09-27 23:48",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -87,20 +87,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
-            "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord r\u2026",
-            "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
-            "publishedAt": "2026-08-28T16:22:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nModders are applying an unofficial version of DLSS 5s AI rendering to games like Control, Skyrim, GTA, and more.\r\nModders are applying an unofficial version of D\u2026 [+4070 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -111,6 +97,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
             "publishedAt": "2026-09-04T12:55:14Z",
             "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
+            "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord r\u2026",
+            "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
+            "publishedAt": "2026-08-28T16:22:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nModders are applying an unofficial version of DLSS 5s AI rendering to games like Control, Skyrim, GTA, and more.\r\nModders are applying an unofficial version of D\u2026 [+4070 chars]",
             "ai_score": 5
         },
         {
@@ -819,6 +819,20 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
+            "title": "Young people in China are fangirling over a professor who gets their anxiety",
+            "description": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+            "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0ca/live/4a526d50-b8ea-11f1-ba42-19e1456ae537.jpg",
+            "publishedAt": "2026-09-26T22:02:18Z",
+            "content": "In Sinapore, Xiang spoke of the recognition young people seek in today's China, where they often look to systems for approval - from competitive exams to secure jobs - and how that approval becomes a\u2026 [+1355 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
             "title": "Trump and Xi toast new chapter in friendship at White House state dinner",
             "description": "The lavish state dinner included tech billionaires, red tablecloths, bok choy and festive toasts.",
             "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
@@ -853,20 +867,6 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
             "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
-            "title": "Qualcomm's Adreno 'Neural Fusion' GPU will lean on AI to upgrade phone gaming",
-            "description": "Qualcomm's Adreno 'Neural Fusion' GPU could be the exact graphical boom for gaming on phones that I've been waiting for, but let's not get ahead of ourselves.",
-            "url": "https://www.androidcentral.com/phones/qualcomm/qualcomms-adreno-neural-fusion-gpu-will-lean-on-ai-to-make-phone-gaming-better",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PKnRSEhxpU6QUKNXnvz8kJ-2048-80.jpg",
-            "publishedAt": "2026-09-02T17:36:50Z",
-            "content": "What you need to know\r\n<ul><li>Qualcomm continues to tease its next Snapdragon debut with the Adreno Neural Fusion GPU.</li><li>The company says this chip utilizes AI-drive rendering tech, placing st\u2026 [+3528 chars]",
             "ai_score": 5
         }
     ]
