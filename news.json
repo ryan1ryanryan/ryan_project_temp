@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-28 04:03",
+    "last_updated": "2026-09-28 10:53",
     "articles": [
         {
             "source": {
@@ -27,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,7 +41,7 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
             "publishedAt": "2026-09-08T14:40:53Z",
             "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,7 +55,119 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/XGP_TCL-PARTNER-a9a894bf85566ec68565.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-09-04T13:25:09Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.\r\nXbox Cloud Gaming is coming to more TVs, just a\u2026 [+2887 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "AMD Has Its Own RTX Spark PCs (And It Still Won\u2019t Show Them to You)",
+            "description": "HP will make a laptop with AMD\u2019s best APU that can\u2014hopefully\u2014manage AI and gaming all in one.",
+            "url": "https://gizmodo.com/amd-has-its-own-rtx-spark-pcs-and-it-still-wont-show-them-to-you-2000807352",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
+            "publishedAt": "2026-09-04T12:55:14Z",
+            "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+            "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video cap\u2026",
+            "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-09-22T16:25:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are two flagship Snapdragon chips this year, but good luck spotting the difference.\r\nThere are two flagship Snapdragon chips this year, but good luck spott\u2026 [+3199 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
+            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
+            "publishedAt": "2026-09-16T20:01:25Z",
+            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Apple is reportedly working on iPhone game controllers",
+            "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported f\u2026",
+            "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+            "publishedAt": "2026-09-13T18:30:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe accessories would likely be sold under the Beats brand.\r\nThe accessories would likely be sold under the Beats brand.\r\nby\r\nTerrence O'BrienClose\r\nPosts from t\u2026 [+2486 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Car owners want tech they can ignore",
+            "description": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to\u2026",
+            "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/2027MercedesBenzCLA3505.jpg?quality=90&strip=all&crop=0%2C5.724295186124%2C100%2C88.551409627752&w=1200",
+            "publishedAt": "2026-08-31T17:11:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can keep your passenger screens.\r\nYou can keep your passenger screens.\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email \u2026 [+4572 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+            "description": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since\u2026",
+            "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-21T15:13:33Z",
+            "content": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depe\u2026 [+4221 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
+            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-08T20:39:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Emi Nietfeld",
+            "title": "She\u2019s 28, Loves God and Her Family, and Might Be the Reason You Can\u2019t Have Kids",
+            "description": "No IVF. No surrogacy. No polygenic tests. Emma Waters is leading a national fight against fertility tech\u2014with her hot husband\u2019s permission, of course.",
+            "url": "https://www.wired.com/story/emma-waters-fertility-tech/",
+            "urlToImage": "https://media.wired.com/photos/6aac4dc6e2c208e563f307c2/191:100/w_1280,c_limit/Grunwald_EmmaWaters_06.jpg",
+            "publishedAt": "2026-09-23T10:00:00Z",
+            "content": "Theres a glaring gap between what Waters professesthat a womans highest calling is the homeand what she does, which is support her family financially while being way more influential and successful t\u2026 [+2877 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -83,20 +195,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
             "publishedAt": "2026-09-02T09:14:55Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nby\r\nDominic Preston\u2026 [+3556 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "AMD Has Its Own RTX Spark PCs (And It Still Won\u2019t Show Them to You)",
-            "description": "HP will make a laptop with AMD\u2019s best APU that can\u2014hopefully\u2014manage AI and gaming all in one.",
-            "url": "https://gizmodo.com/amd-has-its-own-rtx-spark-pcs-and-it-still-wont-show-them-to-you-2000807352",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
-            "publishedAt": "2026-09-04T12:55:14Z",
-            "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
             "ai_score": 5
         },
         {
@@ -174,20 +272,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Dominic Preston",
-            "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-            "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video cap\u2026",
-            "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-09-22T16:25:43Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are two flagship Snapdragon chips this year, but good luck spotting the difference.\r\nThere are two flagship Snapdragon chips this year, but good luck spott\u2026 [+3199 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tom Warren",
             "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
             "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
@@ -209,34 +293,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-04T15:08:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOther deals include a tiny, well-design dishwasher for van/RV life, a great, big Zeppelin speaker, and more.\r\nOther deals include a tiny, well-design dishwasher \u2026 [+4895 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
-            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
-            "publishedAt": "2026-09-16T20:01:25Z",
-            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Apple is reportedly working on iPhone game controllers",
-            "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported f\u2026",
-            "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
-            "publishedAt": "2026-09-13T18:30:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe accessories would likely be sold under the Beats brand.\r\nThe accessories would likely be sold under the Beats brand.\r\nby\r\nTerrence O'BrienClose\r\nPosts from t\u2026 [+2486 chars]",
             "ai_score": 5
         },
         {
@@ -272,20 +328,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew J. Hawkins",
-            "title": "Car owners want tech they can ignore",
-            "description": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to\u2026",
-            "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/2027MercedesBenzCLA3505.jpg?quality=90&strip=all&crop=0%2C5.724295186124%2C100%2C88.551409627752&w=1200",
-            "publishedAt": "2026-08-31T17:11:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can keep your passenger screens.\r\nYou can keep your passenger screens.\r\nby\r\nAndrew J. HawkinsClose\r\nPosts from this author will be added to your daily email \u2026 [+4572 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Nick Statt, Greg Ott, Nilay Patel",
             "title": "Why the current tech backlash feels different",
             "description": "This interview has been lightly edited for length and clarity.\u00a0 Nick Statt: Hello and welcome to Decoder, Nilay\u2019s show about big ideas and other problems. This is Nick Statt, senior producer. And I\u2019m joined by our brand-new supervising producer, Greg Ott. Gre\u2026",
@@ -311,20 +353,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-            "description": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since\u2026",
-            "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-21T15:13:33Z",
-            "content": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depe\u2026 [+4221 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -335,20 +363,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Beats-Powerbeats-Pro-2-8-1200x675.jpg",
             "publishedAt": "2026-09-13T19:44:53Z",
             "content": "Did you ever drive a Scion? Status-obsessed people may have scoffed at your budget-friendly car, but you probably knew at the time it was just a Toyota with a different nameplate on it. According to \u2026 [+1890 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
-            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-08T20:39:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
             "ai_score": 5
         },
         {
@@ -391,20 +405,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Google-Cloud-Exec-Jack-Buser-1-1200x675.jpg",
             "publishedAt": "2026-08-31T17:00:13Z",
             "content": "In a gold rush, the people who get rich arent the grubby prospectors digging for those nuggets in the muck; it\u2019s the men who sell the shovels. In that vein, Google, with generative tools like Genie, \u2026 [+18941 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Emi Nietfeld",
-            "title": "She\u2019s 28, Loves God and Her Family, and Might Be the Reason You Can\u2019t Have Kids",
-            "description": "No IVF. No surrogacy. No polygenic tests. Emma Waters is leading a national fight against fertility tech\u2014with her hot husband\u2019s permission, of course.",
-            "url": "https://www.wired.com/story/emma-waters-fertility-tech/",
-            "urlToImage": "https://media.wired.com/photos/6aac4dc6e2c208e563f307c2/191:100/w_1280,c_limit/Grunwald_EmmaWaters_06.jpg",
-            "publishedAt": "2026-09-23T10:00:00Z",
-            "content": "Theres a glaring gap between what Waters professesthat a womans highest calling is the homeand what she does, which is support her family financially while being way more influential and successful t\u2026 [+2877 chars]",
             "ai_score": 5
         },
         {
@@ -860,13 +860,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "John.Higgins",
-            "title": "Six years later, Sony revisits its legendary XM4 headphones",
-            "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, th\u2026",
-            "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-04T23:33:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C.\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing \u2026 [+4732 chars]",
+            "author": "Antonio G. Di Benedetto",
+            "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+            "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PA\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0%2C3.342396806572%2C100%2C93.315206386856&w=1200",
+            "publishedAt": "2026-09-03T14:54:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPAIR is designed to get your desktop and laptop working together on local AI tasks when not in use.\r\nPAIR is designed to get your desktop and laptop working toge\u2026 [+4060 chars]",
             "ai_score": 5
         },
         {
@@ -874,13 +874,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Valve has ported Half-Life: Alyx to ARM, and it\u2019s free with Steam Frame",
-            "description": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every\u2026",
-            "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23079447/half_life_alyx_vr_004.0.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-09-14T16:19:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nby\r\nS\u2026 [+4221 chars]",
+            "author": "John.Higgins",
+            "title": "Six years later, Sony revisits its legendary XM4 headphones",
+            "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, th\u2026",
+            "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-04T23:33:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C.\r\nAfter the WH-1000XM4 were discontinued in 2025, Sony is bringing \u2026 [+4732 chars]",
             "ai_score": 5
         }
     ]
