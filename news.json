@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-29 17:49",
+    "last_updated": "2026-09-29 22:01",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 5
+            "ai_score": 9
         },
         {
             "source": {
@@ -87,20 +87,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
-            "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord r\u2026",
-            "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
-            "publishedAt": "2026-08-28T16:22:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nModders are applying an unofficial version of DLSS 5s AI rendering to games like Control, Skyrim, GTA, and more.\r\nModders are applying an unofficial version of D\u2026 [+4070 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -111,6 +97,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
             "publishedAt": "2026-09-04T12:55:14Z",
             "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
+            "description": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord r\u2026",
+            "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0%2C4.1233622463598%2C100%2C91.75327550728&w=1200",
+            "publishedAt": "2026-08-28T16:22:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nModders are applying an unofficial version of DLSS 5s AI rendering to games like Control, Skyrim, GTA, and more.\r\nModders are applying an unofficial version of D\u2026 [+4070 chars]",
             "ai_score": 5
         },
         {
@@ -174,20 +174,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "Alienware\u2019s refurbished 16 Aurora is almost $200 off at Woot",
-            "description": "Gaming laptop deals aren\u2019t what they used to be (stares daggers at RAMageddon), which is why I consider Woot\u2019s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia\u2019s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIE\u2026",
-            "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-04T15:08:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOther deals include a tiny, well-design dishwasher for van/RV life, a great, big Zeppelin speaker, and more.\r\nOther deals include a tiny, well-design dishwasher \u2026 [+4895 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Tom Warren",
             "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
             "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
@@ -195,6 +181,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
             "publishedAt": "2026-09-03T11:13:02Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Alienware\u2019s refurbished 16 Aurora is almost $200 off at Woot",
+            "description": "Gaming laptop deals aren\u2019t what they used to be (stares daggers at RAMageddon), which is why I consider Woot\u2019s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia\u2019s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIE\u2026",
+            "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-04T15:08:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOther deals include a tiny, well-design dishwasher for van/RV life, a great, big Zeppelin speaker, and more.\r\nOther deals include a tiny, well-design dishwasher \u2026 [+4895 chars]",
             "ai_score": 5
         },
         {
@@ -426,20 +426,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Xbox is bringing back startup animations from its console history",
-            "description": "Microsoft is starting to test some new Xbox console features with Insiders. Testers will be able to try out custom Xbox boot animations from the past, more personalization options for badges, a new local search feature, improved Remote Play quality, the abili\u2026",
-            "url": "https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Startup-animation-3556b14f2bb0ba04f6ac.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-09-09T16:25:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders will also be able to test a new search feature, improved Remote Play quality, and clearer voice chat.\r\nXbox Insiders will also be able to test a ne\u2026 [+2861 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sean Hollister",
             "title": "Valve\u2019s virtual reality plans hit actual reality",
             "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
@@ -447,6 +433,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-09-14T19:48:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox is bringing back startup animations from its console history",
+            "description": "Microsoft is starting to test some new Xbox console features with Insiders. Testers will be able to try out custom Xbox boot animations from the past, more personalization options for badges, a new local search feature, improved Remote Play quality, the abili\u2026",
+            "url": "https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Startup-animation-3556b14f2bb0ba04f6ac.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-09-09T16:25:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders will also be able to test a new search feature, improved Remote Play quality, and clearer voice chat.\r\nXbox Insiders will also be able to test a ne\u2026 [+2861 chars]",
             "ai_score": 5
         },
         {
@@ -494,20 +494,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Watch the New Trailer for the Explosive Documentary on Elon Musk",
-            "description": "The tech oligarch has threatened legal action against the filmmakers.",
-            "url": "https://gizmodo.com/elon-musk-documentary-movie-trailer-2000816878",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/musk-official-trailer-1200x675.jpeg",
-            "publishedAt": "2026-09-24T17:25:44Z",
-            "content": "The first full trailer for the new documentary about billionaire Elon Musk is here. And it\u2019s clearly going to be quite a doozy.\r\nThe film, simply titled Musk, is directed by Alex Gibney, who\u2019s known \u2026 [+2696 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "Omar Gallaga",
@@ -517,6 +503,20 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/gettyimages-2285284367.jpg",
             "publishedAt": "2026-09-18T19:32:13Z",
             "content": "A new proposal this week from the European Commission, if enacted, would set some of the tightest restrictions yet on technology products, from social media to games to AI chatbots.\r\nThe EU Kids Act \u2026 [+4792 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Watch the New Trailer for the Explosive Documentary on Elon Musk",
+            "description": "The tech oligarch has threatened legal action against the filmmakers.",
+            "url": "https://gizmodo.com/elon-musk-documentary-movie-trailer-2000816878",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/musk-official-trailer-1200x675.jpeg",
+            "publishedAt": "2026-09-24T17:25:44Z",
+            "content": "The first full trailer for the new documentary about billionaire Elon Musk is here. And it\u2019s clearly going to be quite a doozy.\r\nThe film, simply titled Musk, is directed by Alex Gibney, who\u2019s known \u2026 [+2696 chars]",
             "ai_score": 5
         },
         {
@@ -846,20 +846,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Valve\u2019s Steam Frame costs $1,059",
-            "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will\u2026",
-            "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-09-14T17:02:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now register your interest to buy Valves new VR headset.\r\nYou can now register your interest to buy Valves new VR headset.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+5302 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Antonio G. Di Benedetto",
             "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
             "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PA\u2026",
@@ -867,6 +853,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0%2C3.342396806572%2C100%2C93.315206386856&w=1200",
             "publishedAt": "2026-09-03T14:54:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPAIR is designed to get your desktop and laptop working together on local AI tasks when not in use.\r\nPAIR is designed to get your desktop and laptop working toge\u2026 [+4060 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Valve\u2019s Steam Frame costs $1,059",
+            "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will\u2026",
+            "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-09-14T17:02:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now register your interest to buy Valves new VR headset.\r\nYou can now register your interest to buy Valves new VR headset.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+5302 chars]",
             "ai_score": 5
         }
     ]
