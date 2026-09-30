@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-29 22:01",
+    "last_updated": "2026-09-30 01:13",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 9
+            "ai_score": 8
         },
         {
             "source": {
@@ -774,6 +774,20 @@
         {
             "source": {
                 "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
+            "title": "Qualcomm's Adreno 'Neural Fusion' GPU will lean on AI to upgrade phone gaming",
+            "description": "Qualcomm's Adreno 'Neural Fusion' GPU could be the exact graphical boom for gaming on phones that I've been waiting for, but let's not get ahead of ourselves.",
+            "url": "https://www.androidcentral.com/phones/qualcomm/qualcomms-adreno-neural-fusion-gpu-will-lean-on-ai-to-make-phone-gaming-better",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PKnRSEhxpU6QUKNXnvz8kJ-2048-80.jpg",
+            "publishedAt": "2026-09-02T17:36:50Z",
+            "content": "What you need to know\r\n<ul><li>Qualcomm continues to tease its next Snapdragon debut with the Adreno Neural Fusion GPU.</li><li>The company says this chip utilizes AI-drive rendering tech, placing st\u2026 [+3528 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CNET"
             },
             "author": "Laura Michelle Davis",
@@ -797,20 +811,6 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
             "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
-            "title": "Qualcomm's Adreno 'Neural Fusion' GPU will lean on AI to upgrade phone gaming",
-            "description": "Qualcomm's Adreno 'Neural Fusion' GPU could be the exact graphical boom for gaming on phones that I've been waiting for, but let's not get ahead of ourselves.",
-            "url": "https://www.androidcentral.com/phones/qualcomm/qualcomms-adreno-neural-fusion-gpu-will-lean-on-ai-to-make-phone-gaming-better",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PKnRSEhxpU6QUKNXnvz8kJ-2048-80.jpg",
-            "publishedAt": "2026-09-02T17:36:50Z",
-            "content": "What you need to know\r\n<ul><li>Qualcomm continues to tease its next Snapdragon debut with the Adreno Neural Fusion GPU.</li><li>The company says this chip utilizes AI-drive rendering tech, placing st\u2026 [+3528 chars]",
             "ai_score": 5
         },
         {
