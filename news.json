@@ -1,18 +1,102 @@
 {
-    "last_updated": "2026-10-02 06:49",
+    "last_updated": "2026-10-02 13:42",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
+            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
+            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-22T20:58:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+            "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video cap\u2026",
+            "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-09-22T16:25:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are two flagship Snapdragon chips this year, but good luck spotting the difference.\r\nThere are two flagship Snapdragon chips this year, but good luck spott\u2026 [+3199 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Alienware\u2019s refurbished 16 Aurora is almost $200 off at Woot",
+            "description": "Gaming laptop deals aren\u2019t what they used to be (stares daggers at RAMageddon), which is why I consider Woot\u2019s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia\u2019s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIE\u2026",
+            "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-04T15:08:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOther deals include a tiny, well-design dishwasher for van/RV life, a great, big Zeppelin speaker, and more.\r\nOther deals include a tiny, well-design dishwasher \u2026 [+4895 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
+            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
+            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
+            "publishedAt": "2026-09-03T11:13:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": null,
                 "name": "CNET"
             },
-            "author": "David Lumb",
-            "title": "2027 Android Phones Could Boost Gaming Graphics and AI Tasks With Arm\u2019s New Chip Tech",
-            "description": "Advancements in AI-based upscaling and frame rate upgrade mobile gaming performance and power efficiency.",
-            "url": "https://www.cnet.com/tech/mobile/2027-android-phones-could-boost-gaming-graphics-and-ai-tasks-with-arms-new-chip-tech/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/7aa31242-0099-484b-be98-39a8b7c24812.jpg",
-            "publishedAt": "2026-09-07T22:04:50Z",
-            "content": "Arm debuted its new CSS for Mobile 2 technology for chipmakers to include on future silicon powering smartphones. The primary upgrade is around the GPU, which has been redesigned to allow AI to upsca\u2026 [+3816 chars]",
+            "author": "Omar Gallaga",
+            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
+            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
+            "publishedAt": "2026-09-16T20:01:25Z",
+            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Valve\u2019s virtual reality plans hit actual reality",
+            "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
+            "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-09-14T19:48:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Bill Simmons\u2019 Cozy Relationship With Tech Companies Is Blowing Up in His Face",
+            "description": "The Podfather got an offer he should have refused.",
+            "url": "https://gizmodo.com/bill-simmons-cozy-relationship-with-tech-companies-is-blowing-up-in-his-face-2000806349",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/bill-simmons-openAI-spotify-1200x675.jpg",
+            "publishedAt": "2026-09-02T19:15:39Z",
+            "content": "Bill Simmons was re-apexing, but he\u2019s now experiencing one of the top seven falloffs of all time. The sports columnist turned media empire empresario has had a hell of a week, catching flak first fro\u2026 [+5282 chars]",
             "ai_score": 8
         },
         {
@@ -27,20 +111,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
-            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
-            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-22T20:58:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
@@ -188,62 +258,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Dominic Preston",
-            "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-            "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video cap\u2026",
-            "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-09-22T16:25:43Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are two flagship Snapdragon chips this year, but good luck spotting the difference.\r\nThere are two flagship Snapdragon chips this year, but good luck spott\u2026 [+3199 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Alienware\u2019s refurbished 16 Aurora is almost $200 off at Woot",
-            "description": "Gaming laptop deals aren\u2019t what they used to be (stares daggers at RAMageddon), which is why I consider Woot\u2019s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia\u2019s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIE\u2026",
-            "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-04T15:08:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOther deals include a tiny, well-design dishwasher for van/RV life, a great, big Zeppelin speaker, and more.\r\nOther deals include a tiny, well-design dishwasher \u2026 [+4895 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
-            "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
-            "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
-            "publishedAt": "2026-09-03T11:13:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
-            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
-            "publishedAt": "2026-09-16T20:01:25Z",
-            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Terrence O\u2019Brien",
             "title": "Apple is reportedly working on iPhone game controllers",
             "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported f\u2026",
@@ -265,6 +279,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0047.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-09-14T17:02:28Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSend me your burning questions about Valves headset!\r\nSend me your burning questions about Valves headset!\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+2363 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "David Lumb",
+            "title": "2027 Android Phones Could Boost Gaming Graphics and AI Tasks With Arm\u2019s New Chip Tech",
+            "description": "Advancements in AI-based upscaling and frame rate upgrade mobile gaming performance and power efficiency.",
+            "url": "https://www.cnet.com/tech/mobile/2027-android-phones-could-boost-gaming-graphics-and-ai-tasks-with-arms-new-chip-tech/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/7aa31242-0099-484b-be98-39a8b7c24812.jpg",
+            "publishedAt": "2026-09-07T22:04:50Z",
+            "content": "Arm debuted its new CSS for Mobile 2 technology for chipmakers to include on future silicon powering smartphones. The primary upgrade is around the GPU, which has been redesigned to allow AI to upsca\u2026 [+3816 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julian Chokkattu",
+            "title": "Exclusive: Neurable\u2019s First Brain-Scanning Headphones Want to Fine-Tune Your Focus",
+            "description": "The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your \u201cbrain battery\u201d needs a recharge.",
+            "url": "https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/",
+            "urlToImage": "https://media.wired.com/photos/6abccc1599edf0dddca3a1a4/191:100/w_1280,c_limit/Neurable%20One%20Lifestyle.jpg",
+            "publishedAt": "2026-10-01T11:00:00Z",
+            "content": "Neurable unveiled its very own pair of brain-scanning headphones on Thursday, the Neurable One. The company claims that wearing them helps you concentrate on whatever youre doingworking, studying, or\u2026 [+1336 chars]",
             "ai_score": 5
         },
         {
@@ -405,34 +447,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Startup-animation-3556b14f2bb0ba04f6ac.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-09-09T16:25:30Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders will also be able to test a new search feature, improved Remote Play quality, and clearer voice chat.\r\nXbox Insiders will also be able to test a ne\u2026 [+2861 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Valve\u2019s virtual reality plans hit actual reality",
-            "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
-            "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-09-14T19:48:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Bill Simmons\u2019 Cozy Relationship With Tech Companies Is Blowing Up in His Face",
-            "description": "The Podfather got an offer he should have refused.",
-            "url": "https://gizmodo.com/bill-simmons-cozy-relationship-with-tech-companies-is-blowing-up-in-his-face-2000806349",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/bill-simmons-openAI-spotify-1200x675.jpg",
-            "publishedAt": "2026-09-02T19:15:39Z",
-            "content": "Bill Simmons was re-apexing, but he\u2019s now experiencing one of the top seven falloffs of all time. The sports columnist turned media empire empresario has had a hell of a week, catching flak first fro\u2026 [+5282 chars]",
             "ai_score": 5
         },
         {
@@ -853,34 +867,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-09-10T19:49:38Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nEducators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny.\r\nEducators were quick to adopt tech-backed coding curricula, bu\u2026 [+7405 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Amazon\u2019s Fire TV Stick 4K is over half off at under $20",
-            "description": "Looking to take full advantage of your 4K television, but your current streaming stick doesn\u2019t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at checkout. \u2026",
-            "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Amazon-Fire-TV-Stick-4K-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-10T16:58:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith bonus deals on Resident Evil Requiem for PC, a two-pack of Ring alarm sensors, and a Lenovo Android tablet.\r\nWith bonus deals on Resident Evil Requiem for P\u2026 [+3200 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Thomas Ricker",
-            "title": "Here\u2019s the first 4K 120Hz UST projector with optical lens shift",
-            "description": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO\u2026",
-            "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Man-Cave.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-09-03T08:31:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNo digital trickery to degrade image quality.\r\nNo digital trickery to degrade image quality.\r\nby\r\nThomas RickerClose\r\nPosts from this author will be added to you\u2026 [+2713 chars]",
             "ai_score": 5
         }
     ]
