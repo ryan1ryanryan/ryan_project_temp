@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-02 19:04",
+    "last_updated": "2026-10-02 23:00",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -853,6 +853,48 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-09-14T17:02:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now register your interest to buy Valves new VR headset.\r\nYou can now register your interest to buy Valves new VR headset.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+5302 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
+            "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason\u2026",
+            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
+            "publishedAt": "2026-10-01T18:52:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to be skeptical.\r\nTheres reason to be skeptical.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+4160 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+            "description": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PA\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0%2C3.342396806572%2C100%2C93.315206386856&w=1200",
+            "publishedAt": "2026-09-03T14:54:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPAIR is designed to get your desktop and laptop working together on local AI tasks when not in use.\r\nPAIR is designed to get your desktop and laptop working toge\u2026 [+4060 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Schools are catching on to Big Tech\u2019s playbook",
+            "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the \u2026",
+            "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-09-10T19:49:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEducators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny.\r\nEducators were quick to adopt tech-backed coding curricula, bu\u2026 [+7405 chars]",
             "ai_score": 5
         }
     ]
