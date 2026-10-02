@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-10-02 00:37",
+    "last_updated": "2026-10-02 06:49",
     "articles": [
         {
             "source": {
                 "id": null,
                 "name": "CNET"
             },
-            "author": "Jason Cockerham",
-            "title": "I\u2019m Honestly Shocked Every Gaming Desk Doesn\u2019t Have This Feature",
-            "description": "The Boulies MagVida has an absolutely unique way to keep your tech and cables tidy.",
-            "url": "https://www.cnet.com/tech/gaming/this-gaming-desk-has-a-game-changing-feature/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/MagVida-black_1.jpeg",
-            "publishedAt": "2026-09-03T01:49:00Z",
-            "content": "Its sadly all too rare these days for me to test a product with a feature that genuinely surprises me with just how useful it is. Recently, though, I came across one in the Boulies MagVida gaming des\u2026 [+4743 chars]",
+            "author": "David Lumb",
+            "title": "2027 Android Phones Could Boost Gaming Graphics and AI Tasks With Arm\u2019s New Chip Tech",
+            "description": "Advancements in AI-based upscaling and frame rate upgrade mobile gaming performance and power efficiency.",
+            "url": "https://www.cnet.com/tech/mobile/2027-android-phones-could-boost-gaming-graphics-and-ai-tasks-with-arms-new-chip-tech/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/7aa31242-0099-484b-be98-39a8b7c24812.jpg",
+            "publishedAt": "2026-09-07T22:04:50Z",
+            "content": "Arm debuted its new CSS for Mobile 2 technology for chipmakers to include on future silicon powering smartphones. The primary upgrade is around the GPU, which has been redesigned to allow AI to upsca\u2026 [+3816 chars]",
             "ai_score": 8
         },
         {
@@ -143,6 +143,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jason Cockerham",
+            "title": "I\u2019m Honestly Shocked Every Gaming Desk Doesn\u2019t Have This Feature",
+            "description": "The Boulies MagVida has an absolutely unique way to keep your tech and cables tidy.",
+            "url": "https://www.cnet.com/tech/gaming/this-gaming-desk-has-a-game-changing-feature/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/MagVida-black_1.jpeg",
+            "publishedAt": "2026-09-03T01:49:00Z",
+            "content": "Its sadly all too rare these days for me to test a product with a feature that genuinely surprises me with just how useful it is. Recently, though, I came across one in the Boulies MagVida gaming des\u2026 [+4743 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -251,20 +265,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0047.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-09-14T17:02:28Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSend me your burning questions about Valves headset!\r\nSend me your burning questions about Valves headset!\r\nby\r\nSean HollisterClose\r\nPosts from this author will \u2026 [+2363 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "David Lumb",
-            "title": "2027 Android Phones Could Boost Gaming Graphics and AI Tasks With Arm\u2019s New Chip Tech",
-            "description": "Advancements in AI-based upscaling and frame rate upgrade mobile gaming performance and power efficiency.",
-            "url": "https://www.cnet.com/tech/mobile/2027-android-phones-could-boost-gaming-graphics-and-ai-tasks-with-arms-new-chip-tech/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/7aa31242-0099-484b-be98-39a8b7c24812.jpg",
-            "publishedAt": "2026-09-07T22:04:50Z",
-            "content": "Arm debuted its new CSS for Mobile 2 technology for chipmakers to include on future silicon powering smartphones. The primary upgrade is around the GPU, which has been redesigned to allow AI to upsca\u2026 [+3816 chars]",
             "ai_score": 5
         },
         {
