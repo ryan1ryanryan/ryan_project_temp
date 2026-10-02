@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-10-01 20:13",
+    "last_updated": "2026-10-02 00:37",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jason Cockerham",
+            "title": "I\u2019m Honestly Shocked Every Gaming Desk Doesn\u2019t Have This Feature",
+            "description": "The Boulies MagVida has an absolutely unique way to keep your tech and cables tidy.",
+            "url": "https://www.cnet.com/tech/gaming/this-gaming-desk-has-a-game-changing-feature/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/MagVida-black_1.jpeg",
+            "publishedAt": "2026-09-03T01:49:00Z",
+            "content": "Its sadly all too rare these days for me to test a product with a feature that genuinely surprises me with just how useful it is. Recently, though, I came across one in the Boulies MagVida gaming des\u2026 [+4743 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
             "publishedAt": "2026-09-02T16:43:50Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 9
+            "ai_score": 5
         },
         {
             "source": {
@@ -125,20 +139,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
             "publishedAt": "2026-09-04T12:55:14Z",
             "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Jason Cockerham",
-            "title": "I\u2019m Honestly Shocked Every Gaming Desk Doesn\u2019t Have This Feature",
-            "description": "The Boulies MagVida has an absolutely unique way to keep your tech and cables tidy.",
-            "url": "https://www.cnet.com/tech/gaming/this-gaming-desk-has-a-game-changing-feature/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/MagVida-black_1.jpeg",
-            "publishedAt": "2026-09-03T01:49:00Z",
-            "content": "Its sadly all too rare these days for me to test a product with a feature that genuinely surprises me with just how useful it is. Recently, though, I came across one in the Boulies MagVida gaming des\u2026 [+4743 chars]",
             "ai_score": 5
         },
         {
