@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-03 13:09",
+    "last_updated": "2026-10-03 17:53",
     "articles": [
         {
             "source": {
@@ -690,6 +690,20 @@
         {
             "source": {
                 "id": null,
+                "name": "CNET"
+            },
+            "author": "David Lumb",
+            "title": "Your Next Mobile Games Will Get AI Graphics Boosts That PCs and Consoles Have Had for Years",
+            "description": "AI upscaling and frame generation are coming in upcoming premium Android phones running the new highest-tier Snapdragon chips.",
+            "url": "https://www.cnet.com/tech/mobile/qualcomm-mobile-games-ai-graphics-boost-adreno-neural-fusion/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Adreno-Neural-Fusion-lede-large.jpg",
+            "publishedAt": "2026-10-02T15:36:25Z",
+            "content": "Gaming on phones has gotten good enough that graphics and gameplay are beginning to approach what players expect on PC and console. Those more established platforms maintain the edge, with massive GP\u2026 [+8471 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Kotaku"
             },
             "author": "John Walker",
@@ -881,20 +895,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0%2C3.342396806572%2C100%2C93.315206386856&w=1200",
             "publishedAt": "2026-09-03T14:54:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPAIR is designed to get your desktop and laptop working together on local AI tasks when not in use.\r\nPAIR is designed to get your desktop and laptop working toge\u2026 [+4060 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "Schools are catching on to Big Tech\u2019s playbook",
-            "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the \u2026",
-            "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-10T19:49:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEducators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny.\r\nEducators were quick to adopt tech-backed coding curricula, bu\u2026 [+7405 chars]",
             "ai_score": 5
         }
     ]
