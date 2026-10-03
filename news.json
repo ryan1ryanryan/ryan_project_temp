@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-10-03 01:50",
+    "last_updated": "2026-10-03 07:45",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "The best tech and gadgets announced at IFA so far",
-            "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best ne\u2026",
-            "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
-            "publishedAt": "2026-09-02T16:43:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-            "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
-            "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
-            "publishedAt": "2026-09-04T11:48:24Z",
-            "content": "Xbox is introducing strict monthly time limits for Game Pass subscribers who stream games online through its cloud gaming service.\r\nThe changes, which come into effect in November, will see a subscri\u2026 [+2117 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-30T16:24:30Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nb\u2026 [+3248 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -69,7 +41,7 @@
             "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
             "publishedAt": "2026-09-30T11:00:00Z",
             "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -83,6 +55,62 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
             "publishedAt": "2026-09-08T14:40:53Z",
             "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
+            "description": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox hi\u2026",
+            "url": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-22T14:01:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nby\r\nTom WarrenClose\r\nPosts from this \u2026 [+3288 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+            "description": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since\u2026",
+            "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-21T15:13:33Z",
+            "content": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depe\u2026 [+4221 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Bill Simmons\u2019 Cozy Relationship With Tech Companies Is Blowing Up in His Face",
+            "description": "The Podfather got an offer he should have refused.",
+            "url": "https://gizmodo.com/bill-simmons-cozy-relationship-with-tech-companies-is-blowing-up-in-his-face-2000806349",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/bill-simmons-openAI-spotify-1200x675.jpg",
+            "publishedAt": "2026-09-02T19:15:39Z",
+            "content": "Bill Simmons was re-apexing, but he\u2019s now experiencing one of the top seven falloffs of all time. The sports columnist turned media empire empresario has had a hell of a week, catching flak first fro\u2026 [+5282 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "The best tech and gadgets announced at IFA so far",
+            "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best ne\u2026",
+            "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
+            "publishedAt": "2026-09-02T16:43:50Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
             "ai_score": 5
         },
         {
@@ -167,20 +195,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268381_Asus_Cetra_Wireless_earbuds_CFaulkner_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-09T13:53:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nOpen-style earbuds with great comfort, solid sound quality, and a USB-C transmitter that allows passthrough charging.\r\nOpen-style earbuds with great comfort, sol\u2026 [+2390 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
-            "description": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox hi\u2026",
-            "url": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-22T14:01:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nby\r\nTom WarrenClose\r\nPosts from this \u2026 [+3288 chars]",
             "ai_score": 5
         },
         {
@@ -325,20 +339,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-            "description": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since\u2026",
-            "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-21T15:13:33Z",
-            "content": "Newegg is hosting a bundle that includes Microsoft\u2019s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depe\u2026 [+4221 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -461,20 +461,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-09-14T19:48:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Bill Simmons\u2019 Cozy Relationship With Tech Companies Is Blowing Up in His Face",
-            "description": "The Podfather got an offer he should have refused.",
-            "url": "https://gizmodo.com/bill-simmons-cozy-relationship-with-tech-companies-is-blowing-up-in-his-face-2000806349",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/bill-simmons-openAI-spotify-1200x675.jpg",
-            "publishedAt": "2026-09-02T19:15:39Z",
-            "content": "Bill Simmons was re-apexing, but he\u2019s now experiencing one of the top seven falloffs of all time. The sports columnist turned media empire empresario has had a hell of a week, catching flak first fro\u2026 [+5282 chars]",
             "ai_score": 5
         },
         {
@@ -615,6 +601,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-08T10:13:24Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWindows and security engineers have had a busy summer.\r\nWindows and security engineers have had a busy summer.\r\nby\r\nTom WarrenClose\r\nPosts from this author will \u2026 [+11363 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+            "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+            "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
+            "publishedAt": "2026-09-04T11:48:24Z",
+            "content": "Xbox is introducing strict monthly time limits for Game Pass subscribers who stream games online through its cloud gaming service.\r\nThe changes, which come into effect in November, will see a subscri\u2026 [+2117 chars]",
             "ai_score": 5
         },
         {
