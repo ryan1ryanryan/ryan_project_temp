@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-10-03 23:36",
+    "last_updated": "2026-10-04 04:41",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
-            "description": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month. The kernel-level protection feature is designed to stop malicious code or drivers running on a Windows 11 machine, but Microsoft previously \u2026",
-            "url": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T08:57:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMemory integrity could get enabled on your device next month, unless youve already disabled it.\r\nMemory integrity could get enabled on your device next month, un\u2026 [+2728 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "The best tech and gadgets announced at IFA so far",
-            "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best ne\u2026",
-            "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
-            "publishedAt": "2026-09-02T16:43:50Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA gaming handheld you can use for work, a robovac that seals itself to floors, and more laptops you can repair yourself.\r\nIf you buy something from a Verge link,\u2026 [+5507 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -41,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -101,20 +73,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Dominic Preston",
-            "title": "Acer\u2019s new concept hardware is a gaming handheld with a keyboard",
-            "description": "For the last few years, PC gamers on the go have had a choice: Buy a gaming laptop, or pick up one of the many Steam Deck-inspired handhelds that are a fraction of the size but a lot less versatile. Acer's latest concept device, Project DualPlay Mini, is an a\u2026",
-            "url": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
-            "publishedAt": "2026-09-02T09:14:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nProject DualPlay Mini has a swiveling screen and a flip-out keyboard.\r\nby\r\nDominic Preston\u2026 [+3556 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -125,20 +83,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
             "publishedAt": "2026-09-04T12:55:14Z",
             "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Jason Cockerham",
-            "title": "I\u2019m Honestly Shocked Every Gaming Desk Doesn\u2019t Have This Feature",
-            "description": "The Boulies MagVida has an absolutely unique way to keep your tech and cables tidy.",
-            "url": "https://www.cnet.com/tech/gaming/this-gaming-desk-has-a-game-changing-feature/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/MagVida-black_1.jpeg",
-            "publishedAt": "2026-09-03T01:49:00Z",
-            "content": "Its sadly all too rare these days for me to test a product with a feature that genuinely surprises me with just how useful it is. Recently, though, I came across one in the Boulies MagVida gaming des\u2026 [+4743 chars]",
             "ai_score": 5
         },
         {
@@ -454,20 +398,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "AJ Dellinger",
-            "title": "Bill Simmons\u2019 Cozy Relationship With Tech Companies Is Blowing Up in His Face",
-            "description": "The Podfather got an offer he should have refused.",
-            "url": "https://gizmodo.com/bill-simmons-cozy-relationship-with-tech-companies-is-blowing-up-in-his-face-2000806349",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/bill-simmons-openAI-spotify-1200x675.jpg",
-            "publishedAt": "2026-09-02T19:15:39Z",
-            "content": "Bill Simmons was re-apexing, but he\u2019s now experiencing one of the top seven falloffs of all time. The sports columnist turned media empire empresario has had a hell of a week, catching flak first fro\u2026 [+5282 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Tom Hawking",
             "title": "Big Tech Destroyed the Bookshop. But Never Fear, Big Tech Is Reinventing the Bookshop!",
             "description": "Shout out my boy Jean Baudrillard!",
@@ -535,20 +465,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Belkin\u2019s kid-friendly wireless headphones are 25 percent off",
-            "description": "Verge readers can get a discount on Belkin\u2019s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a mode that lets them beam audio (wired or wirelessly) to a second pair without extr\u2026",
-            "url": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T14:58:15Z",
-            "content": "The SoundForm Mini 2 come in a variety of colors, and include a carrying case if you\u2019re willing to spend a bit more. | Image: The Verge\r\n\n\nVerge readers can get a discount on Belkin\u2019s SoundForm Mini \u2026 [+4362 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -573,20 +489,6 @@
             "urlToImage": "https://media.wired.com/photos/6ab16f96d7da415dff5145af/191:100/w_1280,c_limit/Politics_The%20UK%20Government%20Is%20Heading%20For%20A%20Reckoning%20Over%20Palantir_v2.jpg",
             "publishedAt": "2026-09-22T10:30:00Z",
             "content": "Another MP known to oppose the company is Clive Lewis, a vocal supporter of Burnhams ascension to Downing Street. By taking on contracts across the NHS, policing, defense, and other public services, \u2026 [+2920 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Acer\u2019s New Aspire Laptop Is Like if the Nintendo 3DS Had a 4K Screen",
-            "description": "And yet the 2D-to-3D stereoscopic display may not even be the most interesting thing about this laptop.",
-            "url": "https://gizmodo.com/acers-new-aspire-laptop-is-like-if-the-nintendo-3ds-had-a-4k-screen-2000806132",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Acer-Aspire-G-3D-16-3-1200x675.jpg",
-            "publishedAt": "2026-09-02T15:20:17Z",
-            "content": "Samsung has been busy these last two years trying to force you to care about stereoscopic 3D displays. As shown at IFA 2026, Acer thinks it can make them more mobile with an Aspire G 3D 16 laptop. Ev\u2026 [+3838 chars]",
             "ai_score": 5
         },
         {
@@ -788,20 +690,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Android Central"
-            },
-            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz) , Nickolas Diaz",
-            "title": "Qualcomm's Adreno 'Neural Fusion' GPU will lean on AI to upgrade phone gaming",
-            "description": "Qualcomm's Adreno 'Neural Fusion' GPU could be the exact graphical boom for gaming on phones that I've been waiting for, but let's not get ahead of ourselves.",
-            "url": "https://www.androidcentral.com/phones/qualcomm/qualcomms-adreno-neural-fusion-gpu-will-lean-on-ai-to-make-phone-gaming-better",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PKnRSEhxpU6QUKNXnvz8kJ-2048-80.jpg",
-            "publishedAt": "2026-09-02T17:36:50Z",
-            "content": "What you need to know\r\n<ul><li>Qualcomm continues to tease its next Snapdragon debut with the Adreno Neural Fusion GPU.</li><li>The company says this chip utilizes AI-drive rendering tech, placing st\u2026 [+3528 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "Laura Michelle Davis",
@@ -895,6 +783,160 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&strip=all&crop=0%2C3.342396806572%2C100%2C93.315206386856&w=1200",
             "publishedAt": "2026-09-03T14:54:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nPAIR is designed to get your desktop and laptop working together on local AI tasks when not in use.\r\nPAIR is designed to get your desktop and laptop working toge\u2026 [+4060 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Schools are catching on to Big Tech\u2019s playbook",
+            "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the \u2026",
+            "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-09-10T19:49:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEducators were quick to adopt tech-backed coding curricula, but AI appears to face more scrutiny.\r\nEducators were quick to adopt tech-backed coding curricula, bu\u2026 [+7405 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Amazon\u2019s Fire TV Stick 4K is over half off at under $20",
+            "description": "Looking to take full advantage of your 4K television, but your current streaming stick doesn\u2019t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at checkout. \u2026",
+            "url": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Amazon-Fire-TV-Stick-4K-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-10T16:58:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith bonus deals on Resident Evil Requiem for PC, a two-pack of Ring alarm sensors, and a Lenovo Android tablet.\r\nWith bonus deals on Resident Evil Requiem for P\u2026 [+3200 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Thomas Ricker",
+            "title": "Here\u2019s the first 4K 120Hz UST projector with optical lens shift",
+            "description": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO\u2026",
+            "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Man-Cave.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-09-03T08:31:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNo digital trickery to degrade image quality.\r\nNo digital trickery to degrade image quality.\r\nby\r\nThomas RickerClose\r\nPosts from this author will be added to you\u2026 [+2713 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Meta is going to let you build games with AI right on your phone",
+            "description": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers \u2026",
+            "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200",
+            "publishedAt": "2026-09-24T17:52:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe next push for Metas Horizon platform involves AI-generated video games.\r\nThe next push for Metas Horizon platform involves AI-generated video games.\r\nby\r\nJay\u2026 [+3593 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Nacon\u2019s new PS5 controller can mix audio from your phone and console",
+            "description": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimited's scre\u2026",
+            "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
+            "publishedAt": "2026-10-02T16:35:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe customizable Revolution 5 Unlimited gamepad features asymmetrical TMR thumbsticks and a built-in settings screen.\r\nThe customizable Revolution 5 Unlimited ga\u2026 [+3324 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Xbox picks up Kojima\u2019s Physint after PlayStation dropped it",
+            "description": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, which pub\u2026",
+            "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/physint-kojima-xbox-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-09-10T08:22:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPhysint is Xboxs second upcoming Kojima Productions games, joining OD.\r\nPhysint is Xboxs second upcoming Kojima Productions games, joining OD.\r\nby\r\nDominic Prest\u2026 [+3632 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Logitech\u2019s new Blue Yeti 2 mic adjusts itself to where you are",
+            "description": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an in\u2026",
+            "url": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Blue-Yeti-2-USB-mic-hero-black.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-23T16:01:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Blue Yetis successor is (hopefully) idiot-proofed for podcasters, YouTubers, and anyone else trying to be heard.\r\nThe Blue Yetis successor is (hopefully) idi\u2026 [+3467 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox is merging its Forza developers into a single studio",
+            "description": "Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators of Forza Motorsport, are merging together to focus on Forza Hor\u2026",
+            "url": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ss_7775b5046e2fcc717f180577f482b2a5e3cbf0dc.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-09-22T14:01:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nPlayground Games and Turn 10 Studios staff will now focus on Forza Horizon and Fable together.\r\nPlayground Games and Turn 10 Studios staff will now focus on Forz\u2026 [+2631 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "What Hollywood thinks about existential AI warnings",
+            "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-18T16:35:19Z",
+            "content": "<ul><li></li><li></li></ul>\r\nWhat Hollywood thinks about existential AI warnings\r\nThe studios have been silent, but Hollywoods biggest labor unions arent buying the AI apocalypse narrative.\r\nby\r\nChar\u2026 [+7674 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Amazon wants to help the Colorado River, but we still don\u2019t know how much water the company uses",
+            "description": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how mu\u2026",
+            "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-21T23:15:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Colorado River faces an unprecedented drought as data centers demand more water.\r\nThe Colorado River faces an unprecedented drought as data centers demand mo\u2026 [+7238 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "These discreet hearing aid glasses now have better voice boosting and battery life",
+            "description": "EssilorLuxottica, the company that Meta partnered with for its Ray-Ban smart glasses, announced a new version of its Nuance Audio glasses that are designed to double as discreet over-the-counter hearing aids. The new Nuance Audio Plus still manages to squeeze\u2026",
+            "url": "https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nuance1.jpg?quality=90&strip=all&crop=0,10.713987188352,100,78.572025623295",
+            "publishedAt": "2026-09-21T17:46:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Nuance Audio Plus introduces new style and color options plus expanded on-device controls.\r\nThe Nuance Audio Plus introduces new style and color options plus\u2026 [+3215 chars]",
             "ai_score": 5
         }
     ]
