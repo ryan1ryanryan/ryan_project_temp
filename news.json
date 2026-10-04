@@ -1,90 +1,6 @@
 {
-    "last_updated": "2026-10-04 11:01",
+    "last_updated": "2026-10-04 15:46",
     "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "AMD Has Its Own RTX Spark PCs (And It Still Won\u2019t Show Them to You)",
-            "description": "HP will make a laptop with AMD\u2019s best APU that can\u2014hopefully\u2014manage AI and gaming all in one.",
-            "url": "https://gizmodo.com/amd-has-its-own-rtx-spark-pcs-and-it-still-wont-show-them-to-you-2000807352",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
-            "publishedAt": "2026-09-04T12:55:14Z",
-            "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Alienware\u2019s refurbished 16 Aurora is almost $200 off at Woot",
-            "description": "Gaming laptop deals aren\u2019t what they used to be (stares daggers at RAMageddon), which is why I consider Woot\u2019s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia\u2019s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIE\u2026",
-            "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-04T15:08:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOther deals include a tiny, well-design dishwasher for van/RV life, a great, big Zeppelin speaker, and more.\r\nOther deals include a tiny, well-design dishwasher \u2026 [+4895 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Sony brings AI graphics upscaling to the regular PS5",
-            "description": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, according to a\u2026",
-            "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072873/110923_new_Playstation_5_Slim_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-01T16:53:39Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys new Quick Spectral Super Resolution AI upscaling is coming first to Marvels Wolverine and Ghost of Ytei.\r\nSonys new Quick Spectral Super Resolution AI upsc\u2026 [+2795 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
-            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
-            "publishedAt": "2026-09-16T20:01:25Z",
-            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "Apple May Pivot the Beats Brand Into a Way of Marketing Less Polished Products, Starting With Gamer Gear",
-            "description": "Bloomberg's Mark Gurman claims that the \"culture and lifestyle around gaming controllers\" makes sense for Beats.",
-            "url": "https://gizmodo.com/apple-may-pivot-the-beats-brand-into-a-way-of-marketing-less-polished-products-starting-with-gamer-gear-2000811050",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Beats-Powerbeats-Pro-2-8-1200x675.jpg",
-            "publishedAt": "2026-09-13T19:44:53Z",
-            "content": "Did you ever drive a Scion? Status-obsessed people may have scoffed at your budget-friendly car, but you probably knew at the time it was just a Toyota with a different nameplate on it. According to \u2026 [+1890 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Js Tan, Clarissa Redwine",
-            "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
-            "description": "Following mass layoffs in 2022 and 2023, many tech workers turned against their employers. When liberal politicians also rallied against Silicon Valley, their backers turned to Donald Trump.",
-            "url": "https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/",
-            "urlToImage": "https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/191:100/w_1280,c_limit/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg",
-            "publishedAt": "2026-09-15T11:00:00Z",
-            "content": "In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home \u2026 [+4074 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -157,6 +73,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "AMD Has Its Own RTX Spark PCs (And It Still Won\u2019t Show Them to You)",
+            "description": "HP will make a laptop with AMD\u2019s best APU that can\u2014hopefully\u2014manage AI and gaming all in one.",
+            "url": "https://gizmodo.com/amd-has-its-own-rtx-spark-pcs-and-it-still-wont-show-them-to-you-2000807352",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Lenovo-ThinkCentre-X-Ultra-1-1200x675.jpg",
+            "publishedAt": "2026-09-04T12:55:14Z",
+            "content": "You would think every major chipmaker would be foaming at the mouth and tripping over each other to craft the first high-end MacBook Pro of PCs. Only recently has AMD indicated that its trying to com\u2026 [+3127 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -202,6 +132,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Cameron Faulkner",
+            "title": "Alienware\u2019s refurbished 16 Aurora is almost $200 off at Woot",
+            "description": "Gaming laptop deals aren\u2019t what they used to be (stares daggers at RAMageddon), which is why I consider Woot\u2019s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia\u2019s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIE\u2026",
+            "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alienware.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-04T15:08:21Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOther deals include a tiny, well-design dishwasher for van/RV life, a great, big Zeppelin speaker, and more.\r\nOther deals include a tiny, well-design dishwasher \u2026 [+4895 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Tom Warren",
             "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
             "description": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two differ\u2026",
@@ -209,6 +153,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
             "publishedAt": "2026-09-03T11:13:02Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias N1X laptop will ship in two different configurations for laptops and mini PCs.\r\nNvidias N1X laptop will ship in two different configurations for laptops \u2026 [+2896 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Sony brings AI graphics upscaling to the regular PS5",
+            "description": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, according to a\u2026",
+            "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072873/110923_new_Playstation_5_Slim_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-01T16:53:39Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys new Quick Spectral Super Resolution AI upscaling is coming first to Marvels Wolverine and Ghost of Ytei.\r\nSonys new Quick Spectral Super Resolution AI upsc\u2026 [+2795 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
+            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
+            "publishedAt": "2026-09-16T20:01:25Z",
+            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
             "ai_score": 5
         },
         {
@@ -297,6 +269,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "Apple May Pivot the Beats Brand Into a Way of Marketing Less Polished Products, Starting With Gamer Gear",
+            "description": "Bloomberg's Mark Gurman claims that the \"culture and lifestyle around gaming controllers\" makes sense for Beats.",
+            "url": "https://gizmodo.com/apple-may-pivot-the-beats-brand-into-a-way-of-marketing-less-polished-products-starting-with-gamer-gear-2000811050",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Beats-Powerbeats-Pro-2-8-1200x675.jpg",
+            "publishedAt": "2026-09-13T19:44:53Z",
+            "content": "Did you ever drive a Scion? Status-obsessed people may have scoffed at your budget-friendly car, but you probably knew at the time it was just a Toyota with a different nameplate on it. According to \u2026 [+1890 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -349,6 +335,20 @@
             "urlToImage": "https://media.wired.com/photos/6aac4dc6e2c208e563f307c2/191:100/w_1280,c_limit/Grunwald_EmmaWaters_06.jpg",
             "publishedAt": "2026-09-23T10:00:00Z",
             "content": "Theres a glaring gap between what Waters professesthat a womans highest calling is the homeand what she does, which is support her family financially while being way more influential and successful t\u2026 [+2877 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Js Tan, Clarissa Redwine",
+            "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
+            "description": "Following mass layoffs in 2022 and 2023, many tech workers turned against their employers. When liberal politicians also rallied against Silicon Valley, their backers turned to Donald Trump.",
+            "url": "https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/",
+            "urlToImage": "https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/191:100/w_1280,c_limit/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg",
+            "publishedAt": "2026-09-15T11:00:00Z",
+            "content": "In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home \u2026 [+4074 chars]",
             "ai_score": 5
         },
         {
