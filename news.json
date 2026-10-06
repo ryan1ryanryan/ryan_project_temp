@@ -1,6 +1,62 @@
 {
-    "last_updated": "2026-10-06 06:06",
+    "last_updated": "2026-10-06 14:02",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
+            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
+            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
+            "publishedAt": "2026-09-08T14:40:53Z",
+            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "Apple May Pivot the Beats Brand Into a Way of Marketing Less Polished Products, Starting With Gamer Gear",
+            "description": "Bloomberg's Mark Gurman claims that the \"culture and lifestyle around gaming controllers\" makes sense for Beats.",
+            "url": "https://gizmodo.com/apple-may-pivot-the-beats-brand-into-a-way-of-marketing-less-polished-products-starting-with-gamer-gear-2000811050",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Beats-Powerbeats-Pro-2-8-1200x675.jpg",
+            "publishedAt": "2026-09-13T19:44:53Z",
+            "content": "Did you ever drive a Scion? Status-obsessed people may have scoffed at your budget-friendly car, but you probably knew at the time it was just a Toyota with a different nameplate on it. According to \u2026 [+1890 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Tom Hawking",
+            "title": "Big Tech Destroyed the Bookshop. But Never Fear, Big Tech Is Reinventing the Bookshop!",
+            "description": "Shout out my boy Jean Baudrillard!",
+            "url": "https://gizmodo.com/big-tech-destroyed-the-bookshop-but-never-fear-big-tech-is-reinventing-the-bookshop-2000809822",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/open-book-1-1200x675.jpg",
+            "publishedAt": "2026-09-11T11:45:08Z",
+            "content": "Gather round, people. Im going to tell you a story. Once upon a time, long, long ago, in the 20th century, there was a magical world called the world. In this world, many people had occupations calle\u2026 [+4294 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "Sweeping EU Child Safety Proposal Would Transform Social Media, Online Gaming and AI Chatbots",
+            "description": "The EU Kids Act would accelerate age verification plans and ban social media use for those under 13.",
+            "url": "https://www.cnet.com/tech/services-and-software/eu-kids-act-child-safety-proposal-social-media-games-ai-chatbots/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/gettyimages-2285284367.jpg",
+            "publishedAt": "2026-09-18T19:32:13Z",
+            "content": "A new proposal this week from the European Commission, if enacted, would set some of the tightest restrictions yet on technology products, from social media to games to AI chatbots.\r\nThe EU Kids Act \u2026 [+4792 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +69,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -41,20 +97,6 @@
             "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
             "publishedAt": "2026-09-30T11:00:00Z",
             "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
-            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
-            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
-            "publishedAt": "2026-09-08T14:40:53Z",
-            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
             "ai_score": 5
         },
         {
@@ -213,20 +255,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "Apple May Pivot the Beats Brand Into a Way of Marketing Less Polished Products, Starting With Gamer Gear",
-            "description": "Bloomberg's Mark Gurman claims that the \"culture and lifestyle around gaming controllers\" makes sense for Beats.",
-            "url": "https://gizmodo.com/apple-may-pivot-the-beats-brand-into-a-way-of-marketing-less-polished-products-starting-with-gamer-gear-2000811050",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Beats-Powerbeats-Pro-2-8-1200x675.jpg",
-            "publishedAt": "2026-09-13T19:44:53Z",
-            "content": "Did you ever drive a Scion? Status-obsessed people may have scoffed at your budget-friendly car, but you probably knew at the time it was just a Toyota with a different nameplate on it. According to \u2026 [+1890 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -342,34 +370,6 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
-            "author": "Tom Hawking",
-            "title": "Big Tech Destroyed the Bookshop. But Never Fear, Big Tech Is Reinventing the Bookshop!",
-            "description": "Shout out my boy Jean Baudrillard!",
-            "url": "https://gizmodo.com/big-tech-destroyed-the-bookshop-but-never-fear-big-tech-is-reinventing-the-bookshop-2000809822",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/open-book-1-1200x675.jpg",
-            "publishedAt": "2026-09-11T11:45:08Z",
-            "content": "Gather round, people. Im going to tell you a story. Once upon a time, long, long ago, in the 20th century, there was a magical world called the world. In this world, many people had occupations calle\u2026 [+4294 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "Sweeping EU Child Safety Proposal Would Transform Social Media, Online Gaming and AI Chatbots",
-            "description": "The EU Kids Act would accelerate age verification plans and ban social media use for those under 13.",
-            "url": "https://www.cnet.com/tech/services-and-software/eu-kids-act-child-safety-proposal-social-media-games-ai-chatbots/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/gettyimages-2285284367.jpg",
-            "publishedAt": "2026-09-18T19:32:13Z",
-            "content": "A new proposal this week from the European Commission, if enacted, would set some of the tightest restrictions yet on technology products, from social media to games to AI chatbots.\r\nThe EU Kids Act \u2026 [+4792 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
             "author": "Matt Novak",
             "title": "Watch the New Trailer for the Explosive Documentary on Elon Musk",
             "description": "The tech oligarch has threatened legal action against the filmmakers.",
@@ -377,6 +377,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/musk-official-trailer-1200x675.jpeg",
             "publishedAt": "2026-09-24T17:25:44Z",
             "content": "The first full trailer for the new documentary about billionaire Elon Musk is here. And it\u2019s clearly going to be quite a doozy.\r\nThe film, simply titled Musk, is directed by Alex Gibney, who\u2019s known \u2026 [+2696 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Lenovo Legion 5i (2026) Review: A Gaming Laptop That Epitomizes the PC Pricing Paradox",
+            "description": "Mid-range laptops like the Lenovo Legion 5i now cost well over $2,000 or even $3,000. Good thing this one has a nice screen.",
+            "url": "https://gizmodo.com/lenovo-legion-5i-2026-review-2000820869",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Lenovo-Legion-5i-2026-review-03-1200x675.jpg",
+            "publishedAt": "2026-10-05T13:50:10Z",
+            "content": "The 11th-gen Lenovo Legion 5i feels like a lower-end gaming laptop and looks like a more premium device. It also costs what would have seemed exorbitant a little more than a year ago. How can a lapto\u2026 [+14698 chars]",
             "ai_score": 5
         },
         {
