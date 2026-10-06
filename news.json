@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-10-06 19:27",
+    "last_updated": "2026-10-06 23:40",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Dominic Preston",
-            "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-            "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video cap\u2026",
-            "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-09-22T16:25:43Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are two flagship Snapdragon chips this year, but good luck spotting the difference.\r\nThere are two flagship Snapdragon chips this year, but good luck spott\u2026 [+3199 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -73,6 +59,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The First \u2018Wireless GPU\u2019 Uses Wi-Fi to Headbutt All Those AI Subscriptions",
+            "description": "Just don't imagine the WiCi eGPU will be all that useful for turning your laptop into a gaming powerhouse.",
+            "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg",
+            "publishedAt": "2026-10-05T20:30:00Z",
+            "content": "Many big tech firms are trying to convince you that cloud-based AI needs all that GPU horsepower more than your home PC. At the same time, Ive grown more curious of a few small companies who want to \u2026 [+5157 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -97,6 +97,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T14:01:16Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nDeals to sell off Ninja Theory fell through over the summer.\r\nby\r\nTom WarrenClose\r\nPosts from this \u2026 [+3288 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+            "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video cap\u2026",
+            "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+            "publishedAt": "2026-09-22T16:25:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThere are two flagship Snapdragon chips this year, but good luck spotting the difference.\r\nThere are two flagship Snapdragon chips this year, but good luck spott\u2026 [+3199 chars]",
             "ai_score": 5
         },
         {
@@ -258,20 +272,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Brad Bourque",
-            "title": "Save $30 or more on a refurbished Apple TV 4K",
-            "description": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selli\u2026",
-            "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-TV-4K-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-17T17:14:07Z",
-            "content": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge\r\n\n\nMost hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully\u2026 [+3641 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Nilay Patel",
             "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
             "description": "Today, I\u2019m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology \u2014 it\u2019s all there. I really wanted to ask him about ho\u2026",
@@ -279,6 +279,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-05T14:05:42Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nCongress missed its chance on social media. Can it act on AI?\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your hom\u2026 [+52580 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Save $30 or more on a refurbished Apple TV 4K",
+            "description": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selli\u2026",
+            "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-TV-4K-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-17T17:14:07Z",
+            "content": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge\r\n\n\nMost hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully\u2026 [+3641 chars]",
             "ai_score": 5
         },
         {
@@ -328,20 +342,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Xbox is bringing back startup animations from its console history",
-            "description": "Microsoft is starting to test some new Xbox console features with Insiders. Testers will be able to try out custom Xbox boot animations from the past, more personalization options for badges, a new local search feature, improved Remote Play quality, the abili\u2026",
-            "url": "https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Startup-animation-3556b14f2bb0ba04f6ac.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-09-09T16:25:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders will also be able to test a new search feature, improved Remote Play quality, and clearer voice chat.\r\nXbox Insiders will also be able to test a ne\u2026 [+2861 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sean Hollister",
             "title": "Valve\u2019s virtual reality plans hit actual reality",
             "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
@@ -349,6 +349,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
             "publishedAt": "2026-09-14T19:48:06Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox is bringing back startup animations from its console history",
+            "description": "Microsoft is starting to test some new Xbox console features with Insiders. Testers will be able to try out custom Xbox boot animations from the past, more personalization options for badges, a new local search feature, improved Remote Play quality, the abili\u2026",
+            "url": "https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Startup-animation-3556b14f2bb0ba04f6ac.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-09-09T16:25:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders will also be able to test a new search feature, improved Remote Play quality, and clearer voice chat.\r\nXbox Insiders will also be able to test a ne\u2026 [+2861 chars]",
             "ai_score": 5
         },
         {
@@ -489,6 +503,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-29T14:09:26Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Verge Staff",
+            "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+            "description": "It\u2019s a wild time for retro gaming.\u00a0Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the ori\u2026",
+            "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-05T21:17:45Z",
+            "content": "Its a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to \u2026 [+1574 chars]",
             "ai_score": 5
         },
         {
@@ -937,34 +965,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-15T23:34:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\n61 percent of likely voters surveyed said they oppose the construction of AI data centers.\r\n61 percent of likely voters surveyed said they oppose the constructio\u2026 [+3074 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Meta\u2019s Muse AI sent a YouTuber\u2019s address to a stranger",
-            "description": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launch\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-29T14:08:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Marketplace.\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Mar\u2026 [+4105 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Phelan",
-            "title": "This Gene-Tech Is More Impressive Than the Extinct Dire Wolves It Created. Here\u2019s Why",
-            "description": "Colossal Biosciences brought back 20 key segments of extinct dire wolf DNA into living, breathing, wolf pups\u2014and the tech used to do it could change conservation and paleontology for good.",
-            "url": "https://gizmodo.com/this-gene-tech-is-more-impressive-than-the-extinct-dire-wolves-it-created-heres-why-2000811099",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Colossal-Dire-Wolves-Romulus-Remus-2025-1-1200x675.jpg",
-            "publishedAt": "2026-09-29T11:03:04Z",
-            "content": "Researchers with Colossal Biosciences, the private biotechnology and genetic engineering firm, are winners of the 2026 Gizmodo Science Fair for developing an integrated pipeline capable of robust gen\u2026 [+17302 chars]",
             "ai_score": 5
         }
     ]
