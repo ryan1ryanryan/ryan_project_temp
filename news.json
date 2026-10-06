@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-06 00:02",
+    "last_updated": "2026-10-06 06:06",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -597,10 +597,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
+            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
             "ai_score": 5
         },
         {
@@ -611,10 +611,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
+            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
             "ai_score": 5
         },
         {
@@ -776,6 +776,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Charles Pulliam-Moore",
+            "title": "What Hollywood thinks about existential AI warnings",
+            "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-18T16:35:19Z",
+            "content": "<ul><li></li><li></li></ul>\r\nWhat Hollywood thinks about existential AI warnings\r\nThe studios have been silent, but Hollywoods biggest labor unions arent buying the AI apocalypse narrative.\r\nby\r\nChar\u2026 [+7674 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Justine Calma",
             "title": "Amazon wants to help the Colorado River, but we still don\u2019t know how much water the company uses",
             "description": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how mu\u2026",
@@ -811,20 +825,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-pro-max-pair.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-23T12:04:45Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAn international launch is coming later this year.\r\nAn international launch is coming later this year.\r\nby\r\nDominic PrestonClose\r\nPosts from this author will be \u2026 [+3791 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Charles Pulliam-Moore",
-            "title": "What Hollywood thinks about existential AI warnings",
-            "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-18T16:35:19Z",
-            "content": "<ul><li></li><li></li></ul>\r\nWhat Hollywood thinks about existential AI warnings\r\nThe studios have been silent, but Hollywoods biggest labor unions arent buying the AI apocalypse narrative.\r\nby\r\nChar\u2026 [+7674 chars]",
             "ai_score": 5
         },
         {
