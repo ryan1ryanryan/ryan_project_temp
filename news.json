@@ -1,33 +1,19 @@
 {
-    "last_updated": "2026-10-08 11:54",
+    "last_updated": "2026-10-08 18:35",
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Kyle Barr",
-            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
-            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
-            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
-            "publishedAt": "2026-09-08T14:40:53Z",
-            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
-            "ai_score": 9
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Simon Hill",
-            "title": "16 Best Prime Day Tech and Gadget Deals (October 2026)",
-            "description": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-            "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
-            "urlToImage": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-            "publishedAt": "2026-10-06T08:37:23Z",
-            "content": "Combining a white noise machine, sunrise alarm light, and clock into a single device designed to help lull you to sleep and wake you gently, Hatch's third generation Restore is an all-in-one way to e\u2026 [+794 chars]",
-            "ai_score": 9
+            "author": "Tom Warren",
+            "title": "\u2018Xbox is not for sale\u2019 says Microsoft\u2019s gaming chief",
+            "description": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox, and then reported earlier this mont\u2026",
+            "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-30T16:24:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nb\u2026 [+3248 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -55,62 +41,20 @@
             "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
             "publishedAt": "2026-09-30T11:00:00Z",
             "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Luke Larsen",
-            "title": "Best Prime Day Laptop Deals: Save Up to $500 (2026)",
-            "description": "My favorite MacBook, gaming PC, and budget laptop are all on sale, some at the lowest prices I\u2019ve seen in months. Shop the best Prime Day laptop deals.",
-            "url": "https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/",
-            "urlToImage": "https://media.wired.com/photos/6ac423007ace8575e34e40b8/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Laptops%20(2)%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-            "publishedAt": "2026-10-07T09:21:57Z",
-            "content": "Laptop prices have risen significantly over the past six months. The memory shortage wreaked havoc on prices, even causing Apple to hike them up in June. That makes deals on big shopping events like \u2026 [+2088 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Gizmodo.com"
             },
-            "author": "Omar Gallaga",
-            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
-            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
-            "publishedAt": "2026-09-16T20:01:25Z",
-            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
-            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-08T20:39:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "\u2018Xbox is not for sale\u2019 says Microsoft\u2019s gaming chief",
-            "description": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox, and then reported earlier this mont\u2026",
-            "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-30T16:24:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nb\u2026 [+3248 chars]",
+            "author": "Kyle Barr",
+            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
+            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
+            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
+            "publishedAt": "2026-09-08T14:40:53Z",
+            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
             "ai_score": 5
         },
         {
@@ -181,6 +125,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072873/110923_new_Playstation_5_Slim_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-01T16:53:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys new Quick Spectral Super Resolution AI upscaling is coming first to Marvels Wolverine and Ghost of Ytei.\r\nSonys new Quick Spectral Super Resolution AI upsc\u2026 [+2795 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "Best Prime Day Laptop Deals: Save Up to $500 (2026)",
+            "description": "My favorite MacBook, gaming PC, and budget laptop are all on sale, some at the lowest prices I\u2019ve seen in months. Shop the best Prime Day laptop deals.",
+            "url": "https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/",
+            "urlToImage": "https://media.wired.com/photos/6ac423007ace8575e34e40b8/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Laptops%20(2)%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+            "publishedAt": "2026-10-07T09:21:57Z",
+            "content": "Laptop prices have risen significantly over the past six months. The memory shortage wreaked havoc on prices, even causing Apple to hike them up in June. That makes deals on big shopping events like \u2026 [+2088 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
+            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
+            "publishedAt": "2026-09-16T20:01:25Z",
+            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
             "ai_score": 5
         },
         {
@@ -269,6 +241,20 @@
         },
         {
             "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Simon Hill",
+            "title": "16 Best Prime Day Tech and Gadget Deals (October 2026)",
+            "description": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+            "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+            "urlToImage": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+            "publishedAt": "2026-10-06T08:37:23Z",
+            "content": "Combining a white noise machine, sunrise alarm light, and clock into a single device designed to help lull you to sleep and wake you gently, Hatch's third generation Restore is an all-in-one way to e\u2026 [+794 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -293,6 +279,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-24T16:00:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother round of cuts leaves big questions over the future of Game Pass and the Xbox platform.\r\nAnother round of cuts leaves big questions over the future of Gam\u2026 [+9925 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
+            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-08T20:39:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
             "ai_score": 5
         },
         {
@@ -563,16 +563,16 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Cameron Faulkner",
-            "title": "JBL\u2019s soundbar with detachable rear speakers is over $300 off",
-            "description": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular \u2026",
-            "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jbllead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-08T15:03:07Z",
-            "content": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of t\u2026 [+3730 chars]",
+            "author": "Bruce Gil",
+            "title": "Google\u2019s New Playground Aims to Make It Easy to Vibe Code a Game Right in Your Browser",
+            "description": "The tech giant just launched Playground, a new site that lets people create games using AI prompts.",
+            "url": "https://gizmodo.com/googles-new-playground-aims-to-make-it-easy-to-vibe-code-a-game-right-in-your-browser-2000822955",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/12/160ae6839c8d0c77f4850f5eb9203cb6.jpg",
+            "publishedAt": "2026-10-07T17:10:41Z",
+            "content": "AI coding agents have made it easier than ever to vibe code software. Now Google wants to make it just as easy for anyone to create games with AI prompts, no previous coding experience required.\r\nThe\u2026 [+2890 chars]",
             "ai_score": 5
         },
         {
@@ -587,6 +587,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-15T00:13:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nDont expect a Steam Deck sequel soon.\r\nDont expect a Steam Deck sequel soon.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email d\u2026 [+3509 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "JBL\u2019s soundbar with detachable rear speakers is over $300 off",
+            "description": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular \u2026",
+            "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jbllead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-08T15:03:07Z",
+            "content": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of t\u2026 [+3730 chars]",
             "ai_score": 5
         },
         {
@@ -832,6 +846,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Tom Warren, Sean Hollister",
+            "title": "Windows and Surface live blog: On the ground at Microsoft\u2019s event",
+            "description": "We're in San Francisco today to hear what's next for Windows and Surface. Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pavan Davuluri will all be holding a \"conversation on how local AI will shape the next chapter of the\u2026",
+            "url": "https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowsevent.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-07T16:31:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWindows and Surface live blog: On the ground at Microsofts event\r\nIts RTX Spark time.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added to your daily em\u2026 [+2933 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Tom Warren",
             "title": "Xbox is merging its Forza developers into a single studio",
             "description": "Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators of Forza Motorsport, are merging together to focus on Forza Hor\u2026",
@@ -951,34 +979,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-09T18:38:40Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWeve tried the first ever foldable iPhone at Apples launch event.\r\nWeve tried the first ever foldable iPhone at Apples launch event.\r\nby\r\nAllison JohnsonClose\r\nP\u2026 [+3847 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "Voters mostly don\u2019t like AI and data centers, but neither party seems to have an edge",
-            "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data cent\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-15T23:34:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\n61 percent of likely voters surveyed said they oppose the construction of AI data centers.\r\n61 percent of likely voters surveyed said they oppose the constructio\u2026 [+3074 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Meta\u2019s Muse AI sent a YouTuber\u2019s address to a stranger",
-            "description": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launch\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-29T14:08:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Marketplace.\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Mar\u2026 [+4105 chars]",
             "ai_score": 5
         }
     ]
