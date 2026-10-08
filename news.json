@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-10-08 04:52",
+    "last_updated": "2026-10-08 11:54",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
+            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
+            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
+            "publishedAt": "2026-09-08T14:40:53Z",
+            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
+            "ai_score": 9
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Simon Hill",
+            "title": "16 Best Prime Day Tech and Gadget Deals (October 2026)",
+            "description": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+            "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+            "urlToImage": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+            "publishedAt": "2026-10-06T08:37:23Z",
+            "content": "Combining a white noise machine, sunrise alarm light, and clock into a single device designed to help lull you to sleep and wake you gently, Hatch's third generation Restore is an all-in-one way to e\u2026 [+794 chars]",
+            "ai_score": 9
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,21 +41,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "\u2018Xbox is not for sale\u2019 says Microsoft\u2019s gaming chief",
-            "description": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox, and then reported earlier this mont\u2026",
-            "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-30T16:24:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nb\u2026 [+3248 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -41,20 +55,62 @@
             "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
             "publishedAt": "2026-09-30T11:00:00Z",
             "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Luke Larsen",
+            "title": "Best Prime Day Laptop Deals: Save Up to $500 (2026)",
+            "description": "My favorite MacBook, gaming PC, and budget laptop are all on sale, some at the lowest prices I\u2019ve seen in months. Shop the best Prime Day laptop deals.",
+            "url": "https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/",
+            "urlToImage": "https://media.wired.com/photos/6ac423007ace8575e34e40b8/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Laptops%20(2)%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+            "publishedAt": "2026-10-07T09:21:57Z",
+            "content": "Laptop prices have risen significantly over the past six months. The memory shortage wreaked havoc on prices, even causing Apple to hike them up in June. That makes deals on big shopping events like \u2026 [+2088 chars]",
+            "ai_score": 8
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "CNET"
             },
-            "author": "Kyle Barr",
-            "title": "ARM\u2019s Next-Gen Phone Chips Are So Much Better for Gaming. Does it Matter?",
-            "description": "What we really want to know is what this means for midrange phones suffering from RAM prices.",
-            "url": "https://gizmodo.com/arms-next-gen-phone-chips-are-so-much-better-for-gaming-does-it-matter-2000808539",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
-            "publishedAt": "2026-09-08T14:40:53Z",
-            "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
+            "author": "Omar Gallaga",
+            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
+            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
+            "publishedAt": "2026-09-16T20:01:25Z",
+            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
+            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-08T20:39:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "\u2018Xbox is not for sale\u2019 says Microsoft\u2019s gaming chief",
+            "description": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox, and then reported earlier this mont\u2026",
+            "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-30T16:24:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nb\u2026 [+3248 chars]",
             "ai_score": 5
         },
         {
@@ -125,20 +181,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072873/110923_new_Playstation_5_Slim_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-01T16:53:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nSonys new Quick Spectral Super Resolution AI upscaling is coming first to Marvels Wolverine and Ghost of Ytei.\r\nSonys new Quick Spectral Super Resolution AI upsc\u2026 [+2795 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
-            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
-            "publishedAt": "2026-09-16T20:01:25Z",
-            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
             "ai_score": 5
         },
         {
@@ -227,20 +269,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Simon Hill",
-            "title": "16 Best Prime Day Tech and Gadget Deals (October 2026)",
-            "description": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-            "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
-            "urlToImage": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-            "publishedAt": "2026-10-06T08:37:23Z",
-            "content": "Combining a white noise machine, sunrise alarm light, and clock into a single device designed to help lull you to sleep and wake you gently, Hatch's third generation Restore is an all-in-one way to e\u2026 [+794 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -265,20 +293,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-24T16:00:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother round of cuts leaves big questions over the future of Game Pass and the Xbox platform.\r\nAnother round of cuts leaves big questions over the future of Gam\u2026 [+9925 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
-            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-08T20:39:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
             "ai_score": 5
         },
         {
@@ -965,20 +979,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-09-29T14:08:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Marketplace.\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Mar\u2026 [+4105 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Geoffrey Morrison",
-            "title": "This Gorgeous UST Projector Has a High-Tech Secret",
-            "description": "The LuxVision from AWOL has a gorgeous design, impressive specs and an eyebrow-raising refresh rate.",
-            "url": "https://www.cnet.com/tech/home-entertainment/awol-luxvision-ultra-short-throw-projector-lens-shift-120hz/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/AWOL-LuxVision-1-of-5.jpg",
-            "publishedAt": "2026-09-07T15:29:18Z",
-            "content": "The LuxVision is the new flagship ultrashort-throw projector from AWOL Vision. Not surprisingly, the specs are impressive. A stated 6,000 lumens is certainly possible, given how bright the company\u2019s \u2026 [+3000 chars]",
             "ai_score": 5
         }
     ]
