@@ -1,34 +1,6 @@
 {
-    "last_updated": "2026-10-09 04:55",
+    "last_updated": "2026-10-09 11:47",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
-            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
-            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-22T20:58:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "\u2018Xbox is not for sale\u2019 says Microsoft\u2019s gaming chief",
-            "description": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox, and then reported earlier this mont\u2026",
-            "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-30T16:24:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nb\u2026 [+3248 chars]",
-            "ai_score": 5
-        },
         {
             "source": {
                 "id": "wired",
@@ -41,7 +13,7 @@
             "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
             "publishedAt": "2026-09-30T11:00:00Z",
             "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,6 +27,118 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Xiaomi-18-Fold-1200x675.jpg",
             "publishedAt": "2026-09-08T14:40:53Z",
             "content": "The company that\u2019s made the microarchitecture powering practically every phone available today now imagines the next generation of mobile is going to be really, really good for gaming. ARMs new GPU m\u2026 [+3505 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
+            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
+            "publishedAt": "2026-09-16T20:01:25Z",
+            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Apple is reportedly working on iPhone game controllers",
+            "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported f\u2026",
+            "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+            "publishedAt": "2026-09-13T18:30:16Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe accessories would likely be sold under the Beats brand.\r\nThe accessories would likely be sold under the Beats brand.\r\nby\r\nTerrence O'BrienClose\r\nPosts from t\u2026 [+2486 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Simon Hill",
+            "title": "16 Best Prime Day Tech and Gadget Deals (October 2026)",
+            "description": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+            "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+            "urlToImage": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+            "publishedAt": "2026-10-06T08:37:23Z",
+            "content": "Combining a white noise machine, sunrise alarm light, and clock into a single device designed to help lull you to sleep and wake you gently, Hatch's third generation Restore is an all-in-one way to e\u2026 [+794 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
+            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-08T20:39:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+            "description": "Today, I\u2019m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology \u2014 it\u2019s all there. I really wanted to ask him about ho\u2026",
+            "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-05T14:05:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCongress missed its chance on social media. Can it act on AI?\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your hom\u2026 [+52580 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Kotzer",
+            "title": "UK\u2019s Largest Tabletop Convention Bans AI With Few Exceptions",
+            "description": "As AI generated material consumes much of the gaming and entertainment world, major tabletop players like UKGE refuse to roll the dice with the unpopular tech",
+            "url": "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg",
+            "publishedAt": "2026-09-26T20:30:50Z",
+            "content": "This week, UK Games Expo, the largest tabletop convention in the United Kingdom, unveiled a new set of policies regarding AI-made games at the event. Following backlash in previous years from the exp\u2026 [+1843 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
+            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
+            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-22T20:58:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "\u2018Xbox is not for sale\u2019 says Microsoft\u2019s gaming chief",
+            "description": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox, and then reported earlier this mont\u2026",
+            "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-30T16:24:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nb\u2026 [+3248 chars]",
             "ai_score": 5
         },
         {
@@ -143,34 +227,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
-            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
-            "publishedAt": "2026-09-16T20:01:25Z",
-            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Apple is reportedly working on iPhone game controllers",
-            "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported f\u2026",
-            "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
-            "publishedAt": "2026-09-13T18:30:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe accessories would likely be sold under the Beats brand.\r\nThe accessories would likely be sold under the Beats brand.\r\nby\r\nTerrence O'BrienClose\r\nPosts from t\u2026 [+2486 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -227,20 +283,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Simon Hill",
-            "title": "16 Best Prime Day Tech and Gadget Deals (October 2026)",
-            "description": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-            "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
-            "urlToImage": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-            "publishedAt": "2026-10-06T08:37:23Z",
-            "content": "Combining a white noise machine, sunrise alarm light, and clock into a single device designed to help lull you to sleep and wake you gently, Hatch's third generation Restore is an all-in-one way to e\u2026 [+794 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -265,34 +307,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-24T16:00:58Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother round of cuts leaves big questions over the future of Game Pass and the Xbox platform.\r\nAnother round of cuts leaves big questions over the future of Gam\u2026 [+9925 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "Razer\u2019s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-            "description": "It\u2019s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we\u2019re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version\u2026",
-            "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-08T20:39:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe BlackShark V3 Pro gaming headset features a clear microphone, ANC, and crisp spatial audio.\r\nThe BlackShark V3 Pro gaming headset features a clear microphone\u2026 [+2306 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-            "description": "Today, I\u2019m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology \u2014 it\u2019s all there. I really wanted to ask him about ho\u2026",
-            "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-05T14:05:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nCongress missed its chance on social media. Can it act on AI?\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your hom\u2026 [+52580 chars]",
             "ai_score": 5
         },
         {
@@ -335,20 +349,6 @@
             "urlToImage": "https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/191:100/w_1280,c_limit/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg",
             "publishedAt": "2026-09-15T11:00:00Z",
             "content": "In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home \u2026 [+4074 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Kotzer",
-            "title": "UK\u2019s Largest Tabletop Convention Bans AI With Few Exceptions",
-            "description": "As AI generated material consumes much of the gaming and entertainment world, major tabletop players like UKGE refuse to roll the dice with the unpopular tech",
-            "url": "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg",
-            "publishedAt": "2026-09-26T20:30:50Z",
-            "content": "This week, UK Games Expo, the largest tabletop convention in the United Kingdom, unveiled a new set of policies regarding AI-made games at the event. Following backlash in previous years from the exp\u2026 [+1843 chars]",
             "ai_score": 5
         },
         {
@@ -510,20 +510,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "SteelSeries\u2019 new mice are super light, with ultra-wideband and swappable batteries",
-            "description": "The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and th\u2026",
-            "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-29T14:09:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Verge Staff",
             "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
             "description": "It\u2019s a wild time for retro gaming.\u00a0Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the ori\u2026",
@@ -531,6 +517,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-05T21:17:45Z",
             "content": "Its a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to \u2026 [+1574 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "SteelSeries\u2019 new mice are super light, with ultra-wideband and swappable batteries",
+            "description": "The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and th\u2026",
+            "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-29T14:09:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
             "ai_score": 5
         },
         {
@@ -566,20 +566,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "JBL\u2019s soundbar with detachable rear speakers is over $300 off",
-            "description": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular \u2026",
-            "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jbllead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-08T15:03:07Z",
-            "content": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of t\u2026 [+3730 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Sean Hollister",
             "title": "Valve is still figuring out \u2018how and when\u2019 to do Steam Deck 2",
             "description": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when \u2026",
@@ -587,6 +573,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-15T00:13:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nDont expect a Steam Deck sequel soon.\r\nDont expect a Steam Deck sequel soon.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email d\u2026 [+3509 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "JBL\u2019s soundbar with detachable rear speakers is over $300 off",
+            "description": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular \u2026",
+            "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jbllead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-08T15:03:07Z",
+            "content": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL\u2019s Bar 700 Mark 2 system is one of t\u2026 [+3730 chars]",
             "ai_score": 5
         },
         {
@@ -695,10 +695,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
+            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
             "ai_score": 5
         },
         {
@@ -709,10 +709,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
+            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
             "ai_score": 5
         },
         {
@@ -916,20 +916,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Charles Pulliam-Moore",
-            "title": "What Hollywood thinks about existential AI warnings",
-            "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-18T16:35:19Z",
-            "content": "<ul><li></li><li></li></ul>\r\nWhat Hollywood thinks about existential AI warnings\r\nThe studios have been silent, but Hollywoods biggest labor unions arent buying the AI apocalypse narrative.\r\nby\r\nChar\u2026 [+7674 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Elizabeth Lopatto",
             "title": "Breaking up (with Elon Musk) is hard to do",
             "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what\u2026",
@@ -937,6 +923,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-02T17:37:36Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThings went just great for Henry VIIIs wives, too\r\nThings went just great for Henry VIIIs wives, too\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be \u2026 [+5443 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "What Hollywood thinks about existential AI warnings",
+            "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-18T16:35:19Z",
+            "content": "<ul><li></li><li></li></ul>\r\nWhat Hollywood thinks about existential AI warnings\r\nThe studios have been silent, but Hollywoods biggest labor unions arent buying the AI apocalypse narrative.\r\nby\r\nChar\u2026 [+7674 chars]",
             "ai_score": 5
         },
         {
