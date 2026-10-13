@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-13 02:30",
+    "last_updated": "2026-10-13 10:15",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -27,21 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-30T16:24:30Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nb\u2026 [+3248 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
-            "description": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. But AMD consumer chip boss Jack H\u2026",
-            "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-08T21:01:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBut will existing handhelds get the tech?\r\nBut will existing handhelds get the tech?\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily\u2026 [+3029 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -55,6 +41,62 @@
             "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
             "publishedAt": "2026-09-30T11:00:00Z",
             "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Valve\u2019s virtual reality plans hit actual reality",
+            "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
+            "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-09-14T19:48:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+            "description": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're \u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-11T04:53:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLearning to use local AI is exciting, overwhelming, and frustrating\r\nIts like using cloud-based AI tools, but the privacy makes it more appealing.\r\nby\r\nAntonio G\u2026 [+8553 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Ben Gartside",
+            "title": "The UK Government Faces a Reckoning Over Palantir",
+            "description": "Andy Burnham once kept Palantir out of Greater Manchester. His first test as prime minister is whether to cut the company\u2019s \u00a3330 million NHS contract\u2014and risk a rupture with Big Tech and Washington.",
+            "url": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
+            "urlToImage": "https://media.wired.com/photos/6ab16f96d7da415dff5145af/191:100/w_1280,c_limit/Politics_The%20UK%20Government%20Is%20Heading%20For%20A%20Reckoning%20Over%20Palantir_v2.jpg",
+            "publishedAt": "2026-09-22T10:30:00Z",
+            "content": "Another MP known to oppose the company is Clive Lewis, a vocal supporter of Burnhams ascension to Downing Street. By taking on contracts across the NHS, policing, defense, and other public services, \u2026 [+2920 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+            "description": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. But AMD consumer chip boss Jack H\u2026",
+            "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-08T21:01:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBut will existing handhelds get the tech?\r\nBut will existing handhelds get the tech?\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily\u2026 [+3029 chars]",
             "ai_score": 5
         },
         {
@@ -339,34 +381,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Valve\u2019s virtual reality plans hit actual reality",
-            "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
-            "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-09-14T19:48:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-            "description": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-11T04:53:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLearning to use local AI is exciting, overwhelming, and frustrating\r\nIts like using cloud-based AI tools, but the privacy makes it more appealing.\r\nby\r\nAntonio G\u2026 [+8553 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "CNET"
             },
@@ -454,20 +468,6 @@
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Ben Gartside",
-            "title": "The UK Government Faces a Reckoning Over Palantir",
-            "description": "Andy Burnham once kept Palantir out of Greater Manchester. His first test as prime minister is whether to cut the company\u2019s \u00a3330 million NHS contract\u2014and risk a rupture with Big Tech and Washington.",
-            "url": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
-            "urlToImage": "https://media.wired.com/photos/6ab16f96d7da415dff5145af/191:100/w_1280,c_limit/Politics_The%20UK%20Government%20Is%20Heading%20For%20A%20Reckoning%20Over%20Palantir_v2.jpg",
-            "publishedAt": "2026-09-22T10:30:00Z",
-            "content": "Another MP known to oppose the company is Clive Lewis, a vocal supporter of Burnhams ascension to Downing Street. By taking on contracts across the NHS, policing, defense, and other public services, \u2026 [+2920 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
             "author": "Yulia Almazova",
             "title": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
             "description": "Castelion\u2014a next-generation defense tech company\u2014is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities.",
@@ -493,6 +493,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "The humble Playdate has become one of gaming\u2019s best deals",
+            "description": "The Playdate, Panic's tiny yellow handheld that launched in 2022, has slowly but surely become a great deal - which is a good thing, because everything else in gaming has only gotten more expensive. Despite being a weird device with a black-and-white screen a\u2026",
+            "url": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23396642/vpavic_220415_5149_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-09T12:19:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe handhelds new season 3 makes an excellent library of games even better.\r\nThe handhelds new season 3 makes an excellent library of games even better.\r\nby\r\nAnd\u2026 [+5151 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -510,13 +524,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Webster",
-            "title": "The humble Playdate has become one of gaming\u2019s best deals",
-            "description": "The Playdate, Panic's tiny yellow handheld that launched in 2022, has slowly but surely become a great deal - which is a good thing, because everything else in gaming has only gotten more expensive. Despite being a weird device with a black-and-white screen a\u2026",
-            "url": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23396642/vpavic_220415_5149_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-09T12:19:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe handhelds new season 3 makes an excellent library of games even better.\r\nThe handhelds new season 3 makes an excellent library of games even better.\r\nby\r\nAnd\u2026 [+5151 chars]",
+            "author": "Cameron Faulkner",
+            "title": "SteelSeries\u2019 new mice are super light, with ultra-wideband and swappable batteries",
+            "description": "The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and th\u2026",
+            "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-29T14:09:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
             "ai_score": 5
         },
         {
@@ -531,20 +545,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-05T21:17:45Z",
             "content": "Its a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to \u2026 [+1574 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "SteelSeries\u2019 new mice are super light, with ultra-wideband and swappable batteries",
-            "description": "The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and th\u2026",
-            "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-29T14:09:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
             "ai_score": 5
         },
         {
@@ -709,10 +709,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
+            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
             "ai_score": 5
         },
         {
@@ -723,38 +723,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Valve\u2019s Steam Frame costs $1,059",
-            "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will\u2026",
-            "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-09-14T17:02:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now register your interest to buy Valves new VR headset.\r\nYou can now register your interest to buy Valves new VR headset.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+5302 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
-            "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason\u2026",
-            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
-            "publishedAt": "2026-10-01T18:52:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to be skeptical.\r\nTheres reason to be skeptical.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+4160 chars]",
+            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
             "ai_score": 5
         },
         {
@@ -783,6 +755,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-09T21:50:00Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is bringing back DDR4, with new Intel and AMD CPUs for older RAM, sockets, and chipsets.\r\nThe RAM shortage is bringing back DDR4, with new Intel\u2026 [+3700 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Valve\u2019s Steam Frame costs $1,059",
+            "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will\u2026",
+            "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-09-14T17:02:46Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now register your interest to buy Valves new VR headset.\r\nYou can now register your interest to buy Valves new VR headset.\r\nby\r\nJay PetersClose\r\nPosts fr\u2026 [+5302 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
+            "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason\u2026",
+            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
+            "publishedAt": "2026-10-01T18:52:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to be skeptical.\r\nTheres reason to be skeptical.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+4160 chars]",
             "ai_score": 5
         },
         {
@@ -930,20 +930,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Elizabeth Lopatto",
-            "title": "Breaking up (with Elon Musk) is hard to do",
-            "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what\u2026",
-            "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-02T17:37:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThings went just great for Henry VIIIs wives, too\r\nThings went just great for Henry VIIIs wives, too\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be \u2026 [+5443 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Charles Pulliam-Moore",
             "title": "What Hollywood thinks about existential AI warnings",
             "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
@@ -951,6 +937,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-18T16:35:19Z",
             "content": "<ul><li></li><li></li></ul>\r\nWhat Hollywood thinks about existential AI warnings\r\nThe studios have been silent, but Hollywoods biggest labor unions arent buying the AI apocalypse narrative.\r\nby\r\nChar\u2026 [+7674 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Elizabeth Lopatto",
+            "title": "Breaking up (with Elon Musk) is hard to do",
+            "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what\u2026",
+            "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-02T17:37:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThings went just great for Henry VIIIs wives, too\r\nThings went just great for Henry VIIIs wives, too\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be \u2026 [+5443 chars]",
             "ai_score": 5
         },
         {
