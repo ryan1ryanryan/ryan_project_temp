@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-12 20:12",
+    "last_updated": "2026-10-13 02:30",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -619,20 +619,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "John Walker",
-            "title": "Xbox\u2019s Experiments With Cloud Gaming Seem To Be Collapsing",
-            "description": "An awful lot of things no longer appear to be an Xbox",
-            "url": "https://kotaku.com/xbox-cloud-gaming-controller-microsoft-asha-sharma-interview-samsung-2000738661",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/09/xbox-cloud-1200x675.jpg",
-            "publishedAt": "2026-09-30T17:16:27Z",
-            "content": "A couple of years back, Xbox looked like it was all-in on cloud gaming. Everything was, we were assured, an Xbox. In 2024 the streaming-based tech was looking promising, if perhaps not at the level o\u2026 [+3842 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -643,6 +629,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3172660_Cupertino_S1_10030b.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-07T21:39:40Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Social Reckoning has been outsmarted by a new CBS procedural.\r\nThe Social Reckoning has been outsmarted by a new CBS procedural.\r\nby\r\nMeredith HaggertyClose\r\u2026 [+6758 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "John Walker",
+            "title": "Xbox\u2019s Experiments With Cloud Gaming Seem To Be Collapsing",
+            "description": "An awful lot of things no longer appear to be an Xbox",
+            "url": "https://kotaku.com/xbox-cloud-gaming-controller-microsoft-asha-sharma-interview-samsung-2000738661",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/09/xbox-cloud-1200x675.jpg",
+            "publishedAt": "2026-09-30T17:16:27Z",
+            "content": "A couple of years back, Xbox looked like it was all-in on cloud gaming. Everything was, we were assured, an Xbox. In 2024 the streaming-based tech was looking promising, if perhaps not at the level o\u2026 [+3842 chars]",
             "ai_score": 5
         },
         {
@@ -734,34 +734,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Valve has ported Half-Life: Alyx to ARM, and it\u2019s free with Steam Frame",
-            "description": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every\u2026",
-            "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23079447/half_life_alyx_vr_004.0.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-09-14T16:19:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nby\r\nS\u2026 [+4221 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Decade-old RAM is making a comeback",
-            "description": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of mem\u2026",
-            "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-09T21:50:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is bringing back DDR4, with new Intel and AMD CPUs for older RAM, sockets, and chipsets.\r\nThe RAM shortage is bringing back DDR4, with new Intel\u2026 [+3700 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Valve\u2019s Steam Frame costs $1,059",
             "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will\u2026",
@@ -790,6 +762,34 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Sean Hollister",
+            "title": "Valve has ported Half-Life: Alyx to ARM, and it\u2019s free with Steam Frame",
+            "description": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every\u2026",
+            "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23079447/half_life_alyx_vr_004.0.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2026-09-14T16:19:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nOne of the best PC VR games now runs natively on a Qualcomm Snapdragon chip.\r\nby\r\nS\u2026 [+4221 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Decade-old RAM is making a comeback",
+            "description": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of mem\u2026",
+            "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-09T21:50:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is bringing back DDR4, with new Intel and AMD CPUs for older RAM, sockets, and chipsets.\r\nThe RAM shortage is bringing back DDR4, with new Intel\u2026 [+3700 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Cameron Faulkner",
             "title": "Mechanism\u2019s first Switch 2 case is as awesome as I hoped it would be",
             "description": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineu\u2026",
@@ -797,6 +797,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-08T20:14:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA $49 case that protects your console and offers customization via modularity.\r\nA $49 case that protects your console and offers customization via modularity.\r\nb\u2026 [+4751 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Trump administration says Microsoft \u2018abused\u2019 worker visa program and is cutting off access",
+            "description": "The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. In a press conference, Vice President JD Van\u2026",
+            "url": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-10-08T16:57:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nVice President JD Vance claims an immigration program used by tech companies has become rife with fraud.\r\nVice President JD Vance claims an immigration program u\u2026 [+2373 chars]",
             "ai_score": 5
         },
         {
@@ -825,20 +839,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
             "publishedAt": "2026-10-02T16:35:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe customizable Revolution 5 Unlimited gamepad features asymmetrical TMR thumbsticks and a built-in settings screen.\r\nThe customizable Revolution 5 Unlimited ga\u2026 [+3324 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Trump administration says Microsoft \u2018abused\u2019 worker visa program and is cutting off access",
-            "description": "The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. In a press conference, Vice President JD Van\u2026",
-            "url": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-10-08T16:57:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nVice President JD Vance claims an immigration program used by tech companies has become rife with fraud.\r\nVice President JD Vance claims an immigration program u\u2026 [+2373 chars]",
             "ai_score": 5
         },
         {
