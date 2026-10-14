@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-10-14 07:14",
+    "last_updated": "2026-10-14 13:25",
     "articles": [
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Trump and Xi toast new chapter in friendship at White House state dinner",
-            "description": "The lavish state dinner included tech billionaires, red tablecloths, bok choy and festive toasts.",
-            "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fea/live/5081d7b0-b8a4-11f1-8257-a79ccb54f692.jpg",
-            "publishedAt": "2026-09-25T05:42:45Z",
-            "content": "When the BBC entered the dining hall for the dinner, SpaceX CEO Elon Musk was standing over a table and appeared to be telling an entertaining story that had two others nearby barreled over with laug\u2026 [+1386 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 5
+            "ai_score": 8
         },
         {
             "source": {
@@ -685,6 +671,20 @@
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0ca/live/4a526d50-b8ea-11f1-ba42-19e1456ae537.jpg",
             "publishedAt": "2026-09-26T22:02:18Z",
             "content": "In Sinapore, Xiang spoke of the recognition young people seek in today's China, where they often look to systems for approval - from competitive exams to secure jobs - and how that approval becomes a\u2026 [+1355 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Trump and Xi toast new chapter in friendship at White House state dinner",
+            "description": "The lavish state dinner included tech billionaires, red tablecloths, bok choy and festive toasts.",
+            "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fea/live/5081d7b0-b8a4-11f1-8257-a79ccb54f692.jpg",
+            "publishedAt": "2026-09-25T05:42:45Z",
+            "content": "When the BBC entered the dining hall for the dinner, SpaceX CEO Elon Musk was standing over a table and appeared to be telling an entertaining story that had two others nearby barreled over with laug\u2026 [+1386 chars]",
             "ai_score": 5
         },
         {
