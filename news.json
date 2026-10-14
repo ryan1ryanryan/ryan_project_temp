@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-10-13 22:32",
+    "last_updated": "2026-10-14 01:41",
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The First \u2018Wireless GPU\u2019 Uses Wi-Fi to Headbutt All Those AI Subscriptions",
+            "description": "Just don't imagine the WiCi eGPU will be all that useful for turning your laptop into a gaming powerhouse.",
+            "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg",
+            "publishedAt": "2026-10-05T20:30:00Z",
+            "content": "Many big tech firms are trying to convince you that cloud-based AI needs all that GPU horsepower more than your home PC. At the same time, Ive grown more curious of a few small companies who want to \u2026 [+5157 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -55,20 +69,6 @@
             "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
             "publishedAt": "2026-09-30T11:00:00Z",
             "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The First \u2018Wireless GPU\u2019 Uses Wi-Fi to Headbutt All Those AI Subscriptions",
-            "description": "Just don't imagine the WiCi eGPU will be all that useful for turning your laptop into a gaming powerhouse.",
-            "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg",
-            "publishedAt": "2026-10-05T20:30:00Z",
-            "content": "Many big tech firms are trying to convince you that cloud-based AI needs all that GPU horsepower more than your home PC. At the same time, Ive grown more curious of a few small companies who want to \u2026 [+5157 chars]",
             "ai_score": 5
         },
         {
@@ -510,20 +510,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "SteelSeries\u2019 new mice are super light, with ultra-wideband and swappable batteries",
-            "description": "The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and th\u2026",
-            "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-29T14:09:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Verge Staff",
             "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
             "description": "It\u2019s a wild time for retro gaming.\u00a0Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the ori\u2026",
@@ -531,6 +517,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-05T21:17:45Z",
             "content": "Its a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to \u2026 [+1574 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "SteelSeries\u2019 new mice are super light, with ultra-wideband and swappable batteries",
+            "description": "The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and th\u2026",
+            "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-29T14:09:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
             "ai_score": 5
         },
         {
@@ -695,10 +695,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
+            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
             "ai_score": 5
         },
         {
@@ -709,10 +709,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
+            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
             "ai_score": 5
         },
         {
@@ -916,20 +916,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Charles Pulliam-Moore",
-            "title": "What Hollywood thinks about existential AI warnings",
-            "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-18T16:35:19Z",
-            "content": "<ul><li></li><li></li></ul>\r\nWhat Hollywood thinks about existential AI warnings\r\nThe studios have been silent, but Hollywoods biggest labor unions arent buying the AI apocalypse narrative.\r\nby\r\nChar\u2026 [+7674 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Elizabeth Lopatto",
             "title": "Breaking up (with Elon Musk) is hard to do",
             "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what\u2026",
@@ -937,6 +923,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-02T17:37:36Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThings went just great for Henry VIIIs wives, too\r\nThings went just great for Henry VIIIs wives, too\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be \u2026 [+5443 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "What Hollywood thinks about existential AI warnings",
+            "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-18T16:35:19Z",
+            "content": "<ul><li></li><li></li></ul>\r\nWhat Hollywood thinks about existential AI warnings\r\nThe studios have been silent, but Hollywoods biggest labor unions arent buying the AI apocalypse narrative.\r\nby\r\nChar\u2026 [+7674 chars]",
             "ai_score": 5
         },
         {
@@ -993,20 +993,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/telo_lifestyle_07.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-07T17:24:41Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Telo MT1 is a big truck trapped in a tiny trucks body\r\nTiny pickup trucks might just become a thing in the US if the California-based startup Telo has its wa\u2026 [+13980 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "Voters mostly don\u2019t like AI and data centers, but neither party seems to have an edge",
-            "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data cent\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-15T23:34:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\n61 percent of likely voters surveyed said they oppose the construction of AI data centers.\r\n61 percent of likely voters surveyed said they oppose the constructio\u2026 [+3074 chars]",
             "ai_score": 5
         }
     ]
