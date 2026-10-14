@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-14 13:25",
+    "last_updated": "2026-10-14 18:23",
     "articles": [
         {
             "source": {
@@ -13,7 +13,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -195,6 +195,20 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
             "publishedAt": "2026-09-16T20:01:25Z",
             "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Monica Chin",
+            "title": "OnePlus Just Dropped a Monstrous 9,000mAh Phone\u2014And You Probably Can\u2019t Buy It",
+            "description": "Here's your latest reminder of the various wacky tech that you're missing out on if you live in the West.",
+            "url": "https://gizmodo.com/oneplus-16-battery-specs-2000825209",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/images-display-pad-title-bg-8e3a73-1200x675.jpg",
+            "publishedAt": "2026-10-13T18:00:30Z",
+            "content": "Today in \u201cthings that aren\u2019t bigAppleannouncements,\u201d we\u2019ve got a smartphone release that\u2019s both intriguing and infuriating. As legions of U.S. phone reporters descend on Cupertino to swim in infinity\u2026 [+4624 chars]",
             "ai_score": 5
         },
         {
@@ -958,41 +972,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "The AI Superintelligence Slowdown",
-            "description": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-17T19:29:51Z",
-            "content": "Remember when tech leaders would tell their employees to move fast and break things? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researcher\u2026 [+9670 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
-            "description": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream. But the mo\u2026",
-            "url": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Vintage_Violence_03.jpg?quality=90&strip=all&crop=2.5832502492523%2C0%2C94.833499501495%2C100&w=1200",
-            "publishedAt": "2026-09-15T15:57:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nReviews from TIFF 2026: Vintage Violence, Ken Russells The Devils in 4K, and Gentle Monster.\r\nReviews from TIFF 2026: Vintage Violence, Ken Russells The Devils i\u2026 [+5215 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Abigail Bassett",
-            "title": "The Telo MT1 is a big truck trapped in a tiny truck\u2019s body",
-            "description": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for \"mini truck\") unquestionably turns heads because it looks so remarkably differe\u2026",
-            "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/telo_lifestyle_07.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-07T17:24:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Telo MT1 is a big truck trapped in a tiny trucks body\r\nTiny pickup trucks might just become a thing in the US if the California-based startup Telo has its wa\u2026 [+13980 chars]",
+            "author": "Cameron Faulkner",
+            "title": "Apple\u2019s HomeView display is now available to preorder",
+            "description": "Apple is getting into smart displays with its new HomeView. It has a seven-inch squircle design, looking similar to a gargantuan Apple Watch mounted to a speaker base. The $299 HomeView is meant to be the centerpiece for Apple's big push into the home, as it'\u2026",
+            "url": "https://www.theverge.com/gadgets/1010054/apple-homeview-display-preorder-buy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-at-9.06.28-AM.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-10-13T14:29:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the centerpiece for Apples new push into the home, and it also seems like a great smart display.\r\nIts the centerpiece for Apples new push into the home, and \u2026 [+2340 chars]",
             "ai_score": 5
         }
     ]
