@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-10-14 01:41",
+    "last_updated": "2026-10-14 07:14",
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "id": "bbc-news",
+                "name": "BBC News"
             },
-            "author": "Kyle Barr",
-            "title": "The First \u2018Wireless GPU\u2019 Uses Wi-Fi to Headbutt All Those AI Subscriptions",
-            "description": "Just don't imagine the WiCi eGPU will be all that useful for turning your laptop into a gaming powerhouse.",
-            "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg",
-            "publishedAt": "2026-10-05T20:30:00Z",
-            "content": "Many big tech firms are trying to convince you that cloud-based AI needs all that GPU horsepower more than your home PC. At the same time, Ive grown more curious of a few small companies who want to \u2026 [+5157 chars]",
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Trump and Xi toast new chapter in friendship at White House state dinner",
+            "description": "The lavish state dinner included tech billionaires, red tablecloths, bok choy and festive toasts.",
+            "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fea/live/5081d7b0-b8a4-11f1-8257-a79ccb54f692.jpg",
+            "publishedAt": "2026-09-25T05:42:45Z",
+            "content": "When the BBC entered the dining hall for the dinner, SpaceX CEO Elon Musk was standing over a table and appeared to be telling an entertaining story that had two others nearby barreled over with laug\u2026 [+1386 chars]",
             "ai_score": 8
         },
         {
@@ -69,6 +69,20 @@
             "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
             "publishedAt": "2026-09-30T11:00:00Z",
             "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The First \u2018Wireless GPU\u2019 Uses Wi-Fi to Headbutt All Those AI Subscriptions",
+            "description": "Just don't imagine the WiCi eGPU will be all that useful for turning your laptop into a gaming powerhouse.",
+            "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg",
+            "publishedAt": "2026-10-05T20:30:00Z",
+            "content": "Many big tech firms are trying to convince you that cloud-based AI needs all that GPU horsepower more than your home PC. At the same time, Ive grown more curious of a few small companies who want to \u2026 [+5157 chars]",
             "ai_score": 5
         },
         {
@@ -671,20 +685,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0ca/live/4a526d50-b8ea-11f1-ba42-19e1456ae537.jpg",
             "publishedAt": "2026-09-26T22:02:18Z",
             "content": "In Sinapore, Xiang spoke of the recognition young people seek in today's China, where they often look to systems for approval - from competitive exams to secure jobs - and how that approval becomes a\u2026 [+1355 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Trump and Xi toast new chapter in friendship at White House state dinner",
-            "description": "The lavish state dinner included tech billionaires, red tablecloths, bok choy and festive toasts.",
-            "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fea/live/5081d7b0-b8a4-11f1-8257-a79ccb54f692.jpg",
-            "publishedAt": "2026-09-25T05:42:45Z",
-            "content": "When the BBC entered the dining hall for the dinner, SpaceX CEO Elon Musk was standing over a table and appeared to be telling an entertaining story that had two others nearby barreled over with laug\u2026 [+1386 chars]",
             "ai_score": 5
         },
         {
