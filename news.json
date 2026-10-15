@@ -1,6 +1,34 @@
 {
-    "last_updated": "2026-10-15 01:18",
+    "last_updated": "2026-10-15 07:07",
     "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Julian Chokkattu",
+            "title": "Exclusive: Neurable\u2019s First Brain-Scanning Headphones Want to Fine-Tune Your Focus",
+            "description": "The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your \u201cbrain battery\u201d needs a recharge.",
+            "url": "https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/",
+            "urlToImage": "https://media.wired.com/photos/6abccc1599edf0dddca3a1a4/191:100/w_1280,c_limit/Neurable%20One%20Lifestyle.jpg",
+            "publishedAt": "2026-10-01T11:00:00Z",
+            "content": "Neurable unveiled its very own pair of brain-scanning headphones on Thursday, the Neurable One. The company claims that wearing them helps you concentrate on whatever youre doingworking, studying, or\u2026 [+1336 chars]",
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Valve\u2019s virtual reality plans hit actual reality",
+            "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
+            "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-09-14T19:48:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
+            "ai_score": 8
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -199,20 +227,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Julian Chokkattu",
-            "title": "Exclusive: Neurable\u2019s First Brain-Scanning Headphones Want to Fine-Tune Your Focus",
-            "description": "The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your \u201cbrain battery\u201d needs a recharge.",
-            "url": "https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/",
-            "urlToImage": "https://media.wired.com/photos/6abccc1599edf0dddca3a1a4/191:100/w_1280,c_limit/Neurable%20One%20Lifestyle.jpg",
-            "publishedAt": "2026-10-01T11:00:00Z",
-            "content": "Neurable unveiled its very own pair of brain-scanning headphones on Thursday, the Neurable One. The company claims that wearing them helps you concentrate on whatever youre doingworking, studying, or\u2026 [+1336 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -321,20 +335,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg",
             "publishedAt": "2026-09-26T20:30:50Z",
             "content": "This week, UK Games Expo, the largest tabletop convention in the United Kingdom, unveiled a new set of policies regarding AI-made games at the event. Following backlash in previous years from the exp\u2026 [+1843 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Valve\u2019s virtual reality plans hit actual reality",
-            "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the s\u2026",
-            "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0028.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-09-14T19:48:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nValve says the Steam Frame was supposed to cost less.\r\nValve says the Steam Frame was supposed to cost less.\r\nby\r\nSean HollisterClose\r\nPosts from this author wil\u2026 [+2918 chars]",
             "ai_score": 5
         },
         {
@@ -496,20 +496,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Verge Staff",
-            "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
-            "description": "It\u2019s a wild time for retro gaming.\u00a0Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the ori\u2026",
-            "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-05T21:17:45Z",
-            "content": "Its a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to \u2026 [+1574 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Cameron Faulkner",
             "title": "SteelSeries\u2019 new mice are super light, with ultra-wideband and swappable batteries",
             "description": "The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and th\u2026",
@@ -517,6 +503,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-29T14:09:26Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Verge Staff",
+            "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+            "description": "It\u2019s a wild time for retro gaming.\u00a0Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the ori\u2026",
+            "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-05T21:17:45Z",
+            "content": "Its a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to \u2026 [+1574 chars]",
             "ai_score": 5
         },
         {
@@ -695,10 +695,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
+            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
             "ai_score": 5
         },
         {
@@ -709,10 +709,10 @@
             "author": "Laura Michelle Davis",
             "title": "Interest Rates Just Went Up. Here\u2019s Why Consumer Tech Might Cost Even More",
             "description": "The Federal Reserve hiked interest rates. Now, if you want to finance a tech upgrade, you\u2019ll pay more in interest.",
-            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more/",
+            "url": "https://www.cnet.com/tech/services-and-software/interest-rates-went-up-consumer-tech-might-cost-more-2/",
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2206461124.jpg",
             "publishedAt": "2026-09-16T23:03:14Z",
-            "content": "The Federal Reserve just raised interest rates for the first time since 2023. For the average US household, that means borrowing money whether through a loan, mortgage or credit card is about to get \u2026 [+3129 chars]",
+            "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred\u2026 [+3156 chars]",
             "ai_score": 5
         },
         {
@@ -916,20 +916,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Elizabeth Lopatto",
-            "title": "Breaking up (with Elon Musk) is hard to do",
-            "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what\u2026",
-            "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-02T17:37:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThings went just great for Henry VIIIs wives, too\r\nThings went just great for Henry VIIIs wives, too\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be \u2026 [+5443 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Charles Pulliam-Moore",
             "title": "What Hollywood thinks about existential AI warnings",
             "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
@@ -944,13 +930,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "California is trying to shut down robot vs. human cage matches",
-            "description": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna,\u2026",
-            "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-08T20:06:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe state says Rek, the humanoid robot fighting league, cant host fights involving any human in California without permission.\r\nThe state says Rek, the humanoid \u2026 [+2213 chars]",
+            "author": "Elizabeth Lopatto",
+            "title": "Breaking up (with Elon Musk) is hard to do",
+            "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what\u2026",
+            "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-02T17:37:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThings went just great for Henry VIIIs wives, too\r\nThings went just great for Henry VIIIs wives, too\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be \u2026 [+5443 chars]",
             "ai_score": 5
         },
         {
@@ -965,6 +951,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-at-9.06.28-AM.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-10-13T14:29:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the centerpiece for Apples new push into the home, and it also seems like a great smart display.\r\nIts the centerpiece for Apples new push into the home, and \u2026 [+2340 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "California is trying to shut down robot vs. human cage matches",
+            "description": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna,\u2026",
+            "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-08T20:06:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe state says Rek, the humanoid robot fighting league, cant host fights involving any human in California without permission.\r\nThe state says Rek, the humanoid \u2026 [+2213 chars]",
             "ai_score": 5
         },
         {
