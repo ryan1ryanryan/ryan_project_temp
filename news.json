@@ -1,20 +1,6 @@
 {
-    "last_updated": "2026-10-17 15:08",
+    "last_updated": "2026-10-17 18:17",
     "articles": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nilay Patel",
-            "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-            "description": "Today, I\u2019m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology \u2014 it\u2019s all there. I really wanted to ask him about ho\u2026",
-            "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-05T14:05:42Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nCongress missed its chance on social media. Can it act on AI?\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your hom\u2026 [+52580 chars]",
-            "ai_score": 8
-        },
         {
             "source": {
                 "id": "the-verge",
@@ -27,7 +13,21 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-22T20:58:17Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
-            "ai_score": 5
+            "ai_score": 8
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Simon Hill",
+            "title": "The Best Gaming Routers (2026): Tested By a Family of Gamers",
+            "description": "Gaming online can seriously strain your internet connection, but the best gaming routers could give you the edge.",
+            "url": "https://www.wired.com/story/best-gaming-routers/",
+            "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
+            "publishedAt": "2026-09-30T11:00:00Z",
+            "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
+            "ai_score": 8
         },
         {
             "source": {
@@ -69,20 +69,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-08T21:01:18Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nBut will existing handhelds get the tech?\r\nBut will existing handhelds get the tech?\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily\u2026 [+3029 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Simon Hill",
-            "title": "The Best Gaming Routers (2026): Tested By a Family of Gamers",
-            "description": "Gaming online can seriously strain your internet connection, but the best gaming routers could give you the edge.",
-            "url": "https://www.wired.com/story/best-gaming-routers/",
-            "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
-            "publishedAt": "2026-09-30T11:00:00Z",
-            "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
             "ai_score": 5
         },
         {
@@ -293,6 +279,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-TV-4K-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-17T17:14:07Z",
             "content": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge\r\n\n\nMost hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully\u2026 [+3641 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+            "description": "Today, I\u2019m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology \u2014 it\u2019s all there. I really wanted to ask him about ho\u2026",
+            "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-05T14:05:42Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCongress missed its chance on social media. Can it act on AI?\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your hom\u2026 [+52580 chars]",
             "ai_score": 5
         },
         {
@@ -944,6 +944,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Dominic Preston",
+            "title": "Apple\u2019s HomeView is just the latest threat to online recipe writers",
+            "description": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display \u2026",
+            "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&strip=all&crop=0%2C17.277486910995%2C100%2C65.44502617801&w=1200",
+            "publishedAt": "2026-10-16T16:15:47Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts simplified, hands-free instructions strip out much of whats essential to online recipes.\r\nIts simplified, hands-free instructions strip out much of whats ess\u2026 [+9252 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Sean Hollister",
             "title": "The AI Superintelligence Slowdown",
             "description": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US\u2026",
@@ -993,20 +1007,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-09-29T14:08:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Marketplace.\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Mar\u2026 [+4105 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Phelan",
-            "title": "This Gene-Tech Is More Impressive Than the Extinct Dire Wolves It Created. Here\u2019s Why",
-            "description": "Colossal Biosciences brought back 20 key segments of extinct dire wolf DNA into living, breathing, wolf pups\u2014and the tech used to do it could change conservation and paleontology for good.",
-            "url": "https://gizmodo.com/this-gene-tech-is-more-impressive-than-the-extinct-dire-wolves-it-created-heres-why-2000811099",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Colossal-Dire-Wolves-Romulus-Remus-2025-1-1200x675.jpg",
-            "publishedAt": "2026-09-29T11:03:04Z",
-            "content": "Researchers with Colossal Biosciences, the private biotechnology and genetic engineering firm, are winners of the 2026 Gizmodo Science Fair for developing an integrated pipeline capable of robust gen\u2026 [+17302 chars]",
             "ai_score": 5
         }
     ]
