@@ -1,6 +1,20 @@
 {
-    "last_updated": "2026-10-17 21:20",
+    "last_updated": "2026-10-17 23:52",
     "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
+            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
+            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-22T20:58:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
+            "ai_score": 5
+        },
         {
             "source": {
                 "id": "the-verge",
@@ -13,7 +27,7 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-09-30T16:24:30Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nXbox CEO Asha Sharma is taking a long-term view of Microsofts gaming division.\r\nb\u2026 [+3248 chars]",
-            "ai_score": 8
+            "ai_score": 5
         },
         {
             "source": {
@@ -27,48 +41,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alienware-aw3426dw-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-15T17:11:20Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAlso, save on Belkins screen protectors with hidden designs, open-ear earbuds, and a modular Corsair PSU.\r\nAlso, save on Belkins screen protectors with hidden de\u2026 [+3284 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Horror is big business",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback\u2026",
-            "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-5.20.30-PM.png?quality=90&strip=all&crop=0,2.3269726161753,100,77.364064465179",
-            "publishedAt": "2026-10-08T21:36:59Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHorror is big business\r\nThe genre has become a tentpole across gaming, film, and television.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from th\u2026 [+9455 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
-            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
-            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
-            "publishedAt": "2026-09-16T20:01:25Z",
-            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
-            "ai_score": 8
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
-            "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click ca\u2026",
-            "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-22T20:58:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBetter battery life and a more responsive sensor are the highlights in Logitechs X3 Superstrike.\r\nBetter battery life and a more responsive sensor are the highli\u2026 [+3086 chars]",
             "ai_score": 5
         },
         {
@@ -132,6 +104,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Andrew Webster",
+            "title": "Horror is big business",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback\u2026",
+            "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-5.20.30-PM.png?quality=90&strip=all&crop=0,2.3269726161753,100,77.364064465179",
+            "publishedAt": "2026-10-08T21:36:59Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHorror is big business\r\nThe genre has become a tentpole across gaming, film, and television.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment editor\r\nPosts from th\u2026 [+9455 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Tom Warren",
             "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
             "description": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox hi\u2026",
@@ -181,6 +167,20 @@
             "urlToImage": "https://media.wired.com/photos/6ac423007ace8575e34e40b8/191:100/w_1280,c_limit/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Laptops%20(2)%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
             "publishedAt": "2026-10-07T09:21:57Z",
             "content": "Laptop prices have risen significantly over the past six months. The memory shortage wreaked havoc on prices, even causing Apple to hike them up in June. That makes deals on big shopping events like \u2026 [+2088 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Omar Gallaga",
+            "title": "AI\u2019s Rising Costs Cast Doubts on Cloud Gaming\u2019s Future",
+            "description": "Cloud gaming services are facing the same kinds of cost increases as other parts of the tech industry amid more demand for data center services.",
+            "url": "https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/9fc02ec3-fa46-415b-a4ff-f8a467820b06.png",
+            "publishedAt": "2026-09-16T20:01:25Z",
+            "content": "Despite never gaining the same traction as major gaming consoles or premium gaming PCs, cloud gaming services have steadily persisted since their rise in the 2010s. Cloud gaming services let people p\u2026 [+6374 chars]",
             "ai_score": 5
         },
         {
