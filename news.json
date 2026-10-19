@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-19 19:07",
+    "last_updated": "2026-10-19 23:25",
     "articles": [
         {
             "source": {
@@ -340,20 +340,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNET"
-            },
-            "author": "Omar Gallaga",
-            "title": "Sweeping EU Child Safety Proposal Would Transform Social Media, Online Gaming and AI Chatbots",
-            "description": "The EU Kids Act would accelerate age verification plans and ban social media use for those under 13.",
-            "url": "https://www.cnet.com/tech/services-and-software/eu-kids-act-child-safety-proposal-social-media-games-ai-chatbots/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/gettyimages-2285284367.jpg",
-            "publishedAt": "2026-09-18T19:32:13Z",
-            "content": "A new proposal this week from the European Commission, if enacted, would set some of the tightest restrictions yet on technology products, from social media to games to AI chatbots.\r\nThe EU Kids Act \u2026 [+4792 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Matt Novak",
@@ -536,20 +522,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shaq Says He\u2019d Play Basketball Against an AI Robot",
-            "description": "The basketball legend and tech investor talked to Gizmodo about cybersecurity, AI, and robots that can dunk.",
-            "url": "https://gizmodo.com/shaq-says-hed-play-basketball-against-an-ai-robot-2000823268",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Shaq-AI-Robot-1200x675.jpg",
-            "publishedAt": "2026-10-08T16:00:06Z",
-            "content": "You\u2019ve probably seen videos of those AI-powered robots taking on the world of sports. Some of them, such as those at the second annual World Humanoid Robot Games in Beijing, can beat Usain Bolt\u2019s 9.5\u2026 [+3848 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "David Lumb",
@@ -559,6 +531,20 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Adreno-Neural-Fusion-lede-large.jpg",
             "publishedAt": "2026-10-02T15:36:25Z",
             "content": "Gaming on phones has gotten good enough that graphics and gameplay are beginning to approach what players expect on PC and console. Those more established platforms maintain the edge, with massive GP\u2026 [+8471 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Shaq Says He\u2019d Play Basketball Against an AI Robot",
+            "description": "The basketball legend and tech investor talked to Gizmodo about cybersecurity, AI, and robots that can dunk.",
+            "url": "https://gizmodo.com/shaq-says-hed-play-basketball-against-an-ai-robot-2000823268",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Shaq-AI-Robot-1200x675.jpg",
+            "publishedAt": "2026-10-08T16:00:06Z",
+            "content": "You\u2019ve probably seen videos of those AI-powered robots taking on the world of sports. Some of them, such as those at the second annual World Humanoid Robot Games in Beijing, can beat Usain Bolt\u2019s 9.5\u2026 [+3848 chars]",
             "ai_score": 5
         },
         {
@@ -748,34 +734,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Meta is going to let you build games with AI right on your phone",
-            "description": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers \u2026",
-            "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200",
-            "publishedAt": "2026-09-24T17:52:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe next push for Metas Horizon platform involves AI-generated video games.\r\nThe next push for Metas Horizon platform involves AI-generated video games.\r\nby\r\nJay\u2026 [+3593 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "Nacon\u2019s new PS5 controller can mix audio from your phone and console",
-            "description": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimited's scre\u2026",
-            "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
-            "publishedAt": "2026-10-02T16:35:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe customizable Revolution 5 Unlimited gamepad features asymmetrical TMR thumbsticks and a built-in settings screen.\r\nThe customizable Revolution 5 Unlimited ga\u2026 [+3324 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jess Weatherbed",
             "title": "Logitech\u2019s new Blue Yeti 2 mic adjusts itself to where you are",
             "description": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an in\u2026",
@@ -797,6 +755,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowsevent.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-07T16:31:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWindows and Surface live blog: On the ground at Microsofts event\r\nIts RTX Spark time.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added to your daily em\u2026 [+2933 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Meta is going to let you build games with AI right on your phone",
+            "description": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers \u2026",
+            "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200",
+            "publishedAt": "2026-09-24T17:52:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe next push for Metas Horizon platform involves AI-generated video games.\r\nThe next push for Metas Horizon platform involves AI-generated video games.\r\nby\r\nJay\u2026 [+3593 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Liszewski",
+            "title": "Nacon\u2019s new PS5 controller can mix audio from your phone and console",
+            "description": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimited's scre\u2026",
+            "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
+            "publishedAt": "2026-10-02T16:35:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe customizable Revolution 5 Unlimited gamepad features asymmetrical TMR thumbsticks and a built-in settings screen.\r\nThe customizable Revolution 5 Unlimited ga\u2026 [+3324 chars]",
             "ai_score": 5
         },
         {
@@ -874,13 +860,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Charles Pulliam-Moore",
-            "title": "What Hollywood thinks about existential AI warnings",
-            "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-18T16:35:19Z",
-            "content": "<ul><li></li><li></li></ul>\r\nWhat Hollywood thinks about existential AI warnings\r\nThe studios have been silent, but Hollywoods biggest labor unions arent buying the AI apocalypse narrative.\r\nby\r\nChar\u2026 [+7674 chars]",
+            "author": "Jay Peters",
+            "title": "California is trying to shut down robot vs. human cage matches",
+            "description": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna,\u2026",
+            "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-08T20:06:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe state says Rek, the humanoid robot fighting league, cant host fights involving any human in California without permission.\r\nThe state says Rek, the humanoid \u2026 [+2213 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Hawkins",
+            "title": "Cities want to put the boot on robotaxis",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Step\u2026",
+            "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-10-16T19:07:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCities want to put the boot on robotaxis\r\nFrustrated by federal gridlock, cities and states across the political spectrum are taking matters into their own hands\u2026 [+8343 chars]",
             "ai_score": 5
         },
         {
@@ -916,20 +916,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "California is trying to shut down robot vs. human cage matches",
-            "description": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna,\u2026",
-            "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-08T20:06:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe state says Rek, the humanoid robot fighting league, cant host fights involving any human in California without permission.\r\nThe state says Rek, the humanoid \u2026 [+2213 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Dominic Preston",
             "title": "Apple\u2019s HomeView is just the latest threat to online recipe writers",
             "description": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display \u2026",
@@ -937,34 +923,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&strip=all&crop=0%2C17.277486910995%2C100%2C65.44502617801&w=1200",
             "publishedAt": "2026-10-16T16:15:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts simplified, hands-free instructions strip out much of whats essential to online recipes.\r\nIts simplified, hands-free instructions strip out much of whats ess\u2026 [+9252 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Hawkins",
-            "title": "Cities want to put the boot on robotaxis",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Step\u2026",
-            "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-10-16T19:07:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nCities want to put the boot on robotaxis\r\nFrustrated by federal gridlock, cities and states across the political spectrum are taking matters into their own hands\u2026 [+8343 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "The AI Superintelligence Slowdown",
-            "description": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-17T19:29:51Z",
-            "content": "Remember when tech leaders would tell their employees to move fast and break things? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researcher\u2026 [+9670 chars]",
             "ai_score": 5
         },
         {
@@ -1007,6 +965,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-09-29T14:08:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Marketplace.\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Mar\u2026 [+4105 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The Ocarina of Time remake feels remarkably modern \u2014 and surprisingly terrifying",
+            "description": "With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploratio\u2026",
+            "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-112314.png?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200",
+            "publishedAt": "2026-10-14T13:01:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew tech and gameplay improvements make it easier to get into Nintendos defining title.\r\nNew tech and gameplay improvements make it easier to get into Nintendos \u2026 [+4482 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matthew Phelan",
+            "title": "This Gene-Tech Is More Impressive Than the Extinct Dire Wolves It Created. Here\u2019s Why",
+            "description": "Colossal Biosciences brought back 20 key segments of extinct dire wolf DNA into living, breathing, wolf pups\u2014and the tech used to do it could change conservation and paleontology for good.",
+            "url": "https://gizmodo.com/this-gene-tech-is-more-impressive-than-the-extinct-dire-wolves-it-created-heres-why-2000811099",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Colossal-Dire-Wolves-Romulus-Remus-2025-1-1200x675.jpg",
+            "publishedAt": "2026-09-29T11:03:04Z",
+            "content": "Researchers with Colossal Biosciences, the private biotechnology and genetic engineering firm, are winners of the 2026 Gizmodo Science Fair for developing an integrated pipeline capable of robust gen\u2026 [+17302 chars]",
             "ai_score": 5
         }
     ]
