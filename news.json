@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-20 19:01",
+    "last_updated": "2026-10-20 22:15",
     "articles": [
         {
             "source": {
@@ -241,6 +241,20 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Monica Chin",
+            "title": "Chinese Phone Batteries Are Just Getting Out of Hand",
+            "description": "I'll go further: Chinese phones are getting out of hand.",
+            "url": "https://gizmodo.com/xiaomi-redmi-k100-2000827692",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Redmi-K100-1200x675.jpg",
+            "publishedAt": "2026-10-19T20:20:47Z",
+            "content": "Just a week after OnePlus made the (frankly, very frustrating) announcement of a new Android flagship with a monstrous 9,000mAh battery, Beijing-based rival Xiaomi is already clapping back. The large\u2026 [+3760 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -454,20 +468,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "SteelSeries\u2019 new mice are super light, with ultra-wideband and swappable batteries",
-            "description": "The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and th\u2026",
-            "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-29T14:09:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Verge Staff",
             "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
             "description": "It\u2019s a wild time for retro gaming.\u00a0Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the ori\u2026",
@@ -475,6 +475,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-05T21:17:45Z",
             "content": "Its a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to \u2026 [+1574 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "SteelSeries\u2019 new mice are super light, with ultra-wideband and swappable batteries",
+            "description": "The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to hold (53 grams each in black, one gram more in white), and th\u2026",
+            "url": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rival_pro_white_context_hero_4k_wide.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-29T14:09:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) launch October 13th for $179.99 each.\r\nThe Rival Pro and Sensei Pro (and their mini counterparts) laun\u2026 [+3822 chars]",
             "ai_score": 5
         },
         {
@@ -664,20 +678,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Epic\u2019s new games launcher is \u2018vibe coded\u2019",
-            "description": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the \u2026",
-            "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-10-14T13:55:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEpic is making a big push into AI-assisted development, and that approach includes its work on the new, faster launcher.\r\nEpic is making a big push into AI-assis\u2026 [+4195 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Stevie Bonifield",
             "title": "Decade-old RAM is making a comeback",
             "description": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of mem\u2026",
@@ -685,6 +685,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-09T21:50:00Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is bringing back DDR4, with new Intel and AMD CPUs for older RAM, sockets, and chipsets.\r\nThe RAM shortage is bringing back DDR4, with new Intel\u2026 [+3700 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Epic\u2019s new games launcher is \u2018vibe coded\u2019",
+            "description": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the \u2026",
+            "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-10-14T13:55:02Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEpic is making a big push into AI-assisted development, and that approach includes its work on the new, faster launcher.\r\nEpic is making a big push into AI-assis\u2026 [+4195 chars]",
             "ai_score": 5
         },
         {
@@ -860,34 +874,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "California is trying to shut down robot vs. human cage matches",
-            "description": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna,\u2026",
-            "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-08T20:06:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe state says Rek, the humanoid robot fighting league, cant host fights involving any human in California without permission.\r\nThe state says Rek, the humanoid \u2026 [+2213 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Hawkins",
-            "title": "Cities want to put the boot on robotaxis",
-            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Step\u2026",
-            "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "publishedAt": "2026-10-16T19:07:30Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nCities want to put the boot on robotaxis\r\nFrustrated by federal gridlock, cities and states across the political spectrum are taking matters into their own hands\u2026 [+8343 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Elizabeth Lopatto",
             "title": "Breaking up (with Elon Musk) is hard to do",
             "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what\u2026",
@@ -895,6 +881,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-02T17:37:36Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThings went just great for Henry VIIIs wives, too\r\nThings went just great for Henry VIIIs wives, too\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author will be \u2026 [+5443 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "California is trying to shut down robot vs. human cage matches",
+            "description": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna,\u2026",
+            "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-08T20:06:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe state says Rek, the humanoid robot fighting league, cant host fights involving any human in California without permission.\r\nThe state says Rek, the humanoid \u2026 [+2213 chars]",
             "ai_score": 5
         },
         {
@@ -923,6 +923,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&strip=all&crop=0%2C17.277486910995%2C100%2C65.44502617801&w=1200",
             "publishedAt": "2026-10-16T16:15:47Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nIts simplified, hands-free instructions strip out much of whats essential to online recipes.\r\nIts simplified, hands-free instructions strip out much of whats ess\u2026 [+9252 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Hawkins",
+            "title": "Cities want to put the boot on robotaxis",
+            "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Step\u2026",
+            "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-10-16T19:07:30Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nCities want to put the boot on robotaxis\r\nFrustrated by federal gridlock, cities and states across the political spectrum are taking matters into their own hands\u2026 [+8343 chars]",
             "ai_score": 5
         },
         {
@@ -979,20 +993,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-09-29T14:08:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Marketplace.\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Mar\u2026 [+4105 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The Ocarina of Time remake feels remarkably modern \u2014 and surprisingly terrifying",
-            "description": "With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploratio\u2026",
-            "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-112314.png?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200",
-            "publishedAt": "2026-10-14T13:01:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew tech and gameplay improvements make it easier to get into Nintendos defining title.\r\nNew tech and gameplay improvements make it easier to get into Nintendos \u2026 [+4482 chars]",
             "ai_score": 5
         }
     ]
