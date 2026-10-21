@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21 18:30",
+    "last_updated": "2026-10-21 22:12",
     "articles": [
         {
             "source": {
@@ -521,20 +521,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Google\u2019s New Playground Aims to Make It Easy to Vibe Code a Game Right in Your Browser",
-            "description": "The tech giant just launched Playground, a new site that lets people create games using AI prompts.",
-            "url": "https://gizmodo.com/googles-new-playground-aims-to-make-it-easy-to-vibe-code-a-game-right-in-your-browser-2000822955",
-            "urlToImage": "https://gizmodo.com/app/uploads/2022/12/160ae6839c8d0c77f4850f5eb9203cb6.jpg",
-            "publishedAt": "2026-10-07T17:10:41Z",
-            "content": "AI coding agents have made it easier than ever to vibe code software. Now Google wants to make it just as easy for anyone to create games with AI prompts, no previous coding experience required.\r\nThe\u2026 [+2890 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -545,6 +531,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/BigWalk-GameplayOverview-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
             "publishedAt": "2026-10-15T10:05:07Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nWeve made this decision with the belief that meaningful change can be made in the world.\r\nWeve made this decision with the belief that meaningful change can be m\u2026 [+2875 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Google\u2019s New Playground Aims to Make It Easy to Vibe Code a Game Right in Your Browser",
+            "description": "The tech giant just launched Playground, a new site that lets people create games using AI prompts.",
+            "url": "https://gizmodo.com/googles-new-playground-aims-to-make-it-easy-to-vibe-code-a-game-right-in-your-browser-2000822955",
+            "urlToImage": "https://gizmodo.com/app/uploads/2022/12/160ae6839c8d0c77f4850f5eb9203cb6.jpg",
+            "publishedAt": "2026-10-07T17:10:41Z",
+            "content": "AI coding agents have made it easier than ever to vibe code software. Now Google wants to make it just as easy for anyone to create games with AI prompts, no previous coding experience required.\r\nThe\u2026 [+2890 chars]",
             "ai_score": 5
         },
         {
@@ -1021,20 +1021,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Colossal-Dire-Wolves-Romulus-Remus-2025-1-1200x675.jpg",
             "publishedAt": "2026-09-29T11:03:04Z",
             "content": "Researchers with Colossal Biosciences, the private biotechnology and genetic engineering firm, are winners of the 2026 Gizmodo Science Fair for developing an integrated pipeline capable of robust gen\u2026 [+17302 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The Ocarina of Time remake feels remarkably modern \u2014 and surprisingly terrifying",
-            "description": "With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploratio\u2026",
-            "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-112314.png?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200",
-            "publishedAt": "2026-10-14T13:01:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew tech and gameplay improvements make it easier to get into Nintendos defining title.\r\nNew tech and gameplay improvements make it easier to get into Nintendos \u2026 [+4482 chars]",
             "ai_score": 5
         }
     ]
