@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21 07:12",
+    "last_updated": "2026-10-21 13:33",
     "articles": [
         {
             "source": {
@@ -536,20 +536,6 @@
         {
             "source": {
                 "id": null,
-                "name": "CNET"
-            },
-            "author": "David Lumb",
-            "title": "Your Next Mobile Games Will Get AI Graphics Boosts That PCs and Consoles Have Had for Years",
-            "description": "AI upscaling and frame generation are coming in upcoming premium Android phones running the new highest-tier Snapdragon chips.",
-            "url": "https://www.cnet.com/tech/mobile/qualcomm-mobile-games-ai-graphics-boost-adreno-neural-fusion/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Adreno-Neural-Fusion-lede-large.jpg",
-            "publishedAt": "2026-10-02T15:36:25Z",
-            "content": "Gaming on phones has gotten good enough that graphics and gameplay are beginning to approach what players expect on PC and console. Those more established platforms maintain the edge, with massive GP\u2026 [+8471 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Ece Yildirim",
@@ -559,6 +545,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Shaq-AI-Robot-1200x675.jpg",
             "publishedAt": "2026-10-08T16:00:06Z",
             "content": "You\u2019ve probably seen videos of those AI-powered robots taking on the world of sports. Some of them, such as those at the second annual World Humanoid Robot Games in Beijing, can beat Usain Bolt\u2019s 9.5\u2026 [+3848 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "David Lumb",
+            "title": "Your Next Mobile Games Will Get AI Graphics Boosts That PCs and Consoles Have Had for Years",
+            "description": "AI upscaling and frame generation are coming in upcoming premium Android phones running the new highest-tier Snapdragon chips.",
+            "url": "https://www.cnet.com/tech/mobile/qualcomm-mobile-games-ai-graphics-boost-adreno-neural-fusion/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Adreno-Neural-Fusion-lede-large.jpg",
+            "publishedAt": "2026-10-02T15:36:25Z",
+            "content": "Gaming on phones has gotten good enough that graphics and gameplay are beginning to approach what players expect on PC and console. Those more established platforms maintain the edge, with massive GP\u2026 [+8471 chars]",
             "ai_score": 5
         },
         {
@@ -748,34 +748,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jess Weatherbed",
-            "title": "Logitech\u2019s new Blue Yeti 2 mic adjusts itself to where you are",
-            "description": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an in\u2026",
-            "url": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Blue-Yeti-2-USB-mic-hero-black.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-23T16:01:45Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Blue Yetis successor is (hopefully) idiot-proofed for podcasters, YouTubers, and anyone else trying to be heard.\r\nThe Blue Yetis successor is (hopefully) idi\u2026 [+3467 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren, Sean Hollister",
-            "title": "Windows and Surface live blog: On the ground at Microsoft\u2019s event",
-            "description": "We're in San Francisco today to hear what's next for Windows and Surface. Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pavan Davuluri will all be holding a \"conversation on how local AI will shape the next chapter of the\u2026",
-            "url": "https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowsevent.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-07T16:31:13Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWindows and Surface live blog: On the ground at Microsofts event\r\nIts RTX Spark time.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added to your daily em\u2026 [+2933 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Meta is going to let you build games with AI right on your phone",
             "description": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers \u2026",
@@ -797,6 +769,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
             "publishedAt": "2026-10-02T16:35:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe customizable Revolution 5 Unlimited gamepad features asymmetrical TMR thumbsticks and a built-in settings screen.\r\nThe customizable Revolution 5 Unlimited ga\u2026 [+3324 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Logitech\u2019s new Blue Yeti 2 mic adjusts itself to where you are",
+            "description": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an in\u2026",
+            "url": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Blue-Yeti-2-USB-mic-hero-black.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-23T16:01:45Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Blue Yetis successor is (hopefully) idiot-proofed for podcasters, YouTubers, and anyone else trying to be heard.\r\nThe Blue Yetis successor is (hopefully) idi\u2026 [+3467 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren, Sean Hollister",
+            "title": "Windows and Surface live blog: On the ground at Microsoft\u2019s event",
+            "description": "We're in San Francisco today to hear what's next for Windows and Surface. Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pavan Davuluri will all be holding a \"conversation on how local AI will shape the next chapter of the\u2026",
+            "url": "https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowsevent.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-07T16:31:13Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWindows and Surface live blog: On the ground at Microsofts event\r\nIts RTX Spark time.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added to your daily em\u2026 [+2933 chars]",
             "ai_score": 5
         },
         {
@@ -997,20 +997,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The Ocarina of Time remake feels remarkably modern \u2014 and surprisingly terrifying",
-            "description": "With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploratio\u2026",
-            "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-112314.png?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200",
-            "publishedAt": "2026-10-14T13:01:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew tech and gameplay improvements make it easier to get into Nintendos defining title.\r\nNew tech and gameplay improvements make it easier to get into Nintendos \u2026 [+4482 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -1021,6 +1007,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Colossal-Dire-Wolves-Romulus-Remus-2025-1-1200x675.jpg",
             "publishedAt": "2026-09-29T11:03:04Z",
             "content": "Researchers with Colossal Biosciences, the private biotechnology and genetic engineering firm, are winners of the 2026 Gizmodo Science Fair for developing an integrated pipeline capable of robust gen\u2026 [+17302 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The Ocarina of Time remake feels remarkably modern \u2014 and surprisingly terrifying",
+            "description": "With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploratio\u2026",
+            "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-112314.png?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200",
+            "publishedAt": "2026-10-14T13:01:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew tech and gameplay improvements make it easier to get into Nintendos defining title.\r\nNew tech and gameplay improvements make it easier to get into Nintendos \u2026 [+4482 chars]",
             "ai_score": 5
         },
         {
