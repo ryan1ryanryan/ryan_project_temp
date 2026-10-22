@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-22 18:24",
+    "last_updated": "2026-10-22 22:13",
     "articles": [
         {
             "source": {
@@ -592,20 +592,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shaq Says He\u2019d Play Basketball Against an AI Robot",
-            "description": "The basketball legend and tech investor talked to Gizmodo about cybersecurity, AI, and robots that can dunk.",
-            "url": "https://gizmodo.com/shaq-says-hed-play-basketball-against-an-ai-robot-2000823268",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Shaq-AI-Robot-1200x675.jpg",
-            "publishedAt": "2026-10-08T16:00:06Z",
-            "content": "You\u2019ve probably seen videos of those AI-powered robots taking on the world of sports. Some of them, such as those at the second annual World Humanoid Robot Games in Beijing, can beat Usain Bolt\u2019s 9.5\u2026 [+3848 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "CNET"
             },
             "author": "David Lumb",
@@ -615,6 +601,20 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Adreno-Neural-Fusion-lede-large.jpg",
             "publishedAt": "2026-10-02T15:36:25Z",
             "content": "Gaming on phones has gotten good enough that graphics and gameplay are beginning to approach what players expect on PC and console. Those more established platforms maintain the edge, with massive GP\u2026 [+8471 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Shaq Says He\u2019d Play Basketball Against an AI Robot",
+            "description": "The basketball legend and tech investor talked to Gizmodo about cybersecurity, AI, and robots that can dunk.",
+            "url": "https://gizmodo.com/shaq-says-hed-play-basketball-against-an-ai-robot-2000823268",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Shaq-AI-Robot-1200x675.jpg",
+            "publishedAt": "2026-10-08T16:00:06Z",
+            "content": "You\u2019ve probably seen videos of those AI-powered robots taking on the world of sports. Some of them, such as those at the second annual World Humanoid Robot Games in Beijing, can beat Usain Bolt\u2019s 9.5\u2026 [+3848 chars]",
             "ai_score": 5
         },
         {
