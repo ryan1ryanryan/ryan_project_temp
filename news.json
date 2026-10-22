@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-22 07:15",
+    "last_updated": "2026-10-22 13:35",
     "articles": [
         {
             "source": {
@@ -356,6 +356,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+            "description": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Micro\u2026",
+            "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-21T13:09:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias drivers.\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias dri\u2026 [+2891 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Antonio G. Di Benedetto",
             "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
             "description": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're \u2026",
@@ -678,20 +692,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
-            "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason\u2026",
-            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
-            "publishedAt": "2026-10-01T18:52:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to be skeptical.\r\nTheres reason to be skeptical.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+4160 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Jay Peters",
             "title": "Epic\u2019s new games launcher is \u2018vibe coded\u2019",
             "description": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the \u2026",
@@ -713,6 +713,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-09T21:50:00Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is bringing back DDR4, with new Intel and AMD CPUs for older RAM, sockets, and chipsets.\r\nThe RAM shortage is bringing back DDR4, with new Intel\u2026 [+3700 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
+            "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason\u2026",
+            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
+            "publishedAt": "2026-10-01T18:52:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to be skeptical.\r\nTheres reason to be skeptical.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+4160 chars]",
             "ai_score": 5
         },
         {
@@ -1021,20 +1035,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Colossal-Dire-Wolves-Romulus-Remus-2025-1-1200x675.jpg",
             "publishedAt": "2026-09-29T11:03:04Z",
             "content": "Researchers with Colossal Biosciences, the private biotechnology and genetic engineering firm, are winners of the 2026 Gizmodo Science Fair for developing an integrated pipeline capable of robust gen\u2026 [+17302 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The Ocarina of Time remake feels remarkably modern \u2014 and surprisingly terrifying",
-            "description": "With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploratio\u2026",
-            "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-112314.png?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200",
-            "publishedAt": "2026-10-14T13:01:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew tech and gameplay improvements make it easier to get into Nintendos defining title.\r\nNew tech and gameplay improvements make it easier to get into Nintendos \u2026 [+4482 chars]",
             "ai_score": 5
         }
     ]
