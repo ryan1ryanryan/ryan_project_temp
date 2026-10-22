@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-22 13:35",
+    "last_updated": "2026-10-22 18:24",
     "articles": [
         {
             "source": {
@@ -69,6 +69,20 @@
             "urlToImage": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/191:100/w_1280,c_limit/The-Best-Gaming-Routers.jpg",
             "publishedAt": "2026-09-30T11:00:00Z",
             "content": "Few things are more frustrating than packet loss or high ping causing in-game lag. It always seems to happen at the worst possible moment, when youre about to snipe an unsuspecting opponent or screec\u2026 [+5722 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox Cloud Gaming\u2019s pay-as-you-go option starts at $3.99 for 10 hours",
+            "description": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now Microsoft is revealing t\u2026",
+            "url": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-21T18:03:29Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is opening up Xbox Cloud Gaming to anyone in November.\r\nMicrosoft is opening up Xbox Cloud Gaming to anyone in November.\r\nby\r\nTom WarrenClose\r\nPosts fr\u2026 [+2748 chars]",
             "ai_score": 5
         },
         {
@@ -307,6 +321,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-05T14:05:42Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nCongress missed its chance on social media. Can it act on AI?\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your hom\u2026 [+52580 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+            "description": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was\u2026",
+            "url": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-97616875.jpg?quality=90&strip=all&crop=0%2C11.59705065349%2C100%2C76.80589869302&w=1200",
+            "publishedAt": "2026-10-21T17:51:47Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nGeneral Motors is cutting development times in half, introducing a 40x more powerful central compute unit, and rolling out autonomous driving to its highest-volu\u2026 [+8679 chars]",
             "ai_score": 5
         },
         {
@@ -692,6 +720,20 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
+            "author": "Sean Hollister",
+            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
+            "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason\u2026",
+            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
+            "publishedAt": "2026-10-01T18:52:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to be skeptical.\r\nTheres reason to be skeptical.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+4160 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
             "author": "Jay Peters",
             "title": "Epic\u2019s new games launcher is \u2018vibe coded\u2019",
             "description": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the \u2026",
@@ -720,13 +762,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
-            "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason\u2026",
-            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
-            "publishedAt": "2026-10-01T18:52:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to be skeptical.\r\nTheres reason to be skeptical.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+4160 chars]",
+            "author": "Cameron Faulkner",
+            "title": "Mechanism\u2019s first Switch 2 case is as awesome as I hoped it would be",
+            "description": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineu\u2026",
+            "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-08T20:14:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA $49 case that protects your console and offers customization via modularity.\r\nA $49 case that protects your console and offers customization via modularity.\r\nb\u2026 [+4751 chars]",
             "ai_score": 5
         },
         {
@@ -741,20 +783,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&strip=all&crop=0%2C10.746068936881%2C100%2C78.507862126237&w=1200",
             "publishedAt": "2026-10-18T16:27:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Power To The Players Act would guarantee buying a game means you own it, not license it.\r\nThe Power To The Players Act would guarantee buying a game means yo\u2026 [+2613 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Mechanism\u2019s first Switch 2 case is as awesome as I hoped it would be",
-            "description": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineu\u2026",
-            "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-08T20:14:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA $49 case that protects your console and offers customization via modularity.\r\nA $49 case that protects your console and offers customization via modularity.\r\nb\u2026 [+4751 chars]",
             "ai_score": 5
         },
         {
@@ -1021,20 +1049,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-09-29T14:08:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Marketplace.\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Mar\u2026 [+4105 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Phelan",
-            "title": "This Gene-Tech Is More Impressive Than the Extinct Dire Wolves It Created. Here\u2019s Why",
-            "description": "Colossal Biosciences brought back 20 key segments of extinct dire wolf DNA into living, breathing, wolf pups\u2014and the tech used to do it could change conservation and paleontology for good.",
-            "url": "https://gizmodo.com/this-gene-tech-is-more-impressive-than-the-extinct-dire-wolves-it-created-heres-why-2000811099",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Colossal-Dire-Wolves-Romulus-Remus-2025-1-1200x675.jpg",
-            "publishedAt": "2026-09-29T11:03:04Z",
-            "content": "Researchers with Colossal Biosciences, the private biotechnology and genetic engineering firm, are winners of the 2026 Gizmodo Science Fair for developing an integrated pipeline capable of robust gen\u2026 [+17302 chars]",
             "ai_score": 5
         }
     ]
