@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-25 18:15",
+    "last_updated": "2026-10-25 21:33",
     "articles": [
         {
             "source": {
@@ -311,20 +311,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "The Xbox reset gets ugly",
-            "description": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises around, and continued its Xbox \"reset.\" L\u2026",
-            "url": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-24T16:00:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother round of cuts leaves big questions over the future of Game Pass and the Xbox platform.\r\nAnother round of cuts leaves big questions over the future of Gam\u2026 [+9925 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -433,20 +419,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-11T04:53:46Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nLearning to use local AI is exciting, overwhelming, and frustrating\r\nIts like using cloud-based AI tools, but the privacy makes it more appealing.\r\nby\r\nAntonio G\u2026 [+8553 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Watch the New Trailer for the Explosive Documentary on Elon Musk",
-            "description": "The tech oligarch has threatened legal action against the filmmakers.",
-            "url": "https://gizmodo.com/elon-musk-documentary-movie-trailer-2000816878",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/musk-official-trailer-1200x675.jpeg",
-            "publishedAt": "2026-09-24T17:25:44Z",
-            "content": "The first full trailer for the new documentary about billionaire Elon Musk is here. And it\u2019s clearly going to be quite a doozy.\r\nThe film, simply titled Musk, is directed by Alex Gibney, who\u2019s known \u2026 [+2696 chars]",
             "ai_score": 5
         },
         {
@@ -846,20 +818,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Meta is going to let you build games with AI right on your phone",
-            "description": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers \u2026",
-            "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200",
-            "publishedAt": "2026-09-24T17:52:29Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe next push for Metas Horizon platform involves AI-generated video games.\r\nThe next push for Metas Horizon platform involves AI-generated video games.\r\nby\r\nJay\u2026 [+3593 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Andrew Liszewski",
             "title": "Nacon\u2019s new PS5 controller can mix audio from your phone and console",
             "description": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimited's scre\u2026",
@@ -1049,6 +1007,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-09-29T14:08:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Marketplace.\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Mar\u2026 [+4105 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The Ocarina of Time remake feels remarkably modern \u2014 and surprisingly terrifying",
+            "description": "With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploratio\u2026",
+            "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-112314.png?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200",
+            "publishedAt": "2026-10-14T13:01:40Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew tech and gameplay improvements make it easier to get into Nintendos defining title.\r\nNew tech and gameplay improvements make it easier to get into Nintendos \u2026 [+4482 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matthew Phelan",
+            "title": "This Gene-Tech Is More Impressive Than the Extinct Dire Wolves It Created. Here\u2019s Why",
+            "description": "Colossal Biosciences brought back 20 key segments of extinct dire wolf DNA into living, breathing, wolf pups\u2014and the tech used to do it could change conservation and paleontology for good.",
+            "url": "https://gizmodo.com/this-gene-tech-is-more-impressive-than-the-extinct-dire-wolves-it-created-heres-why-2000811099",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Colossal-Dire-Wolves-Romulus-Remus-2025-1-1200x675.jpg",
+            "publishedAt": "2026-09-29T11:03:04Z",
+            "content": "Researchers with Colossal Biosciences, the private biotechnology and genetic engineering firm, are winners of the 2026 Gizmodo Science Fair for developing an integrated pipeline capable of robust gen\u2026 [+17302 chars]",
             "ai_score": 5
         }
     ]
