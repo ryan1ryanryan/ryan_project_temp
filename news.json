@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-26 09:51",
+    "last_updated": "2026-10-26 16:37",
     "articles": [
         {
             "source": {
@@ -475,6 +475,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2023/11/0fe8ed665e5b472bd046577909cb5c58.jpg",
             "publishedAt": "2026-10-13T18:45:32Z",
             "content": "Bumble is breaking up with the Nasdaq. According to a report from Reuters, the floundering dating app has accepted a $1.3 billion bid from Ithaca Holdings to go private, taking the company off the ma\u2026 [+2454 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Torpey",
+            "title": "Microsoft, McDonald\u2019s, Verizon, and Others Tell Crypto Platform Not to Tokenize Their Stocks",
+            "description": "Crypto companies using \u201cpermissionless\u201d tech still need permission when interacting with the real world.",
+            "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/mcdonalds-sign-monopoly-1200x675.jpg",
+            "publishedAt": "2026-10-25T14:56:24Z",
+            "content": "Both crypto startups and more traditional financial institutions have spent the past year promoting tokenized stocks as the next major use case of blockchain technology. But many publicly traded comp\u2026 [+6010 chars]",
             "ai_score": 5
         },
         {
@@ -1007,20 +1021,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
             "publishedAt": "2026-09-29T14:08:21Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Marketplace.\r\nHeres what led to the viral post about AI mismanaging deals on Facebook Mar\u2026 [+4105 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "The Ocarina of Time remake feels remarkably modern \u2014 and surprisingly terrifying",
-            "description": "With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploratio\u2026",
-            "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-112314.png?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200",
-            "publishedAt": "2026-10-14T13:01:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNew tech and gameplay improvements make it easier to get into Nintendos defining title.\r\nNew tech and gameplay improvements make it easier to get into Nintendos \u2026 [+4482 chars]",
             "ai_score": 5
         }
     ]
