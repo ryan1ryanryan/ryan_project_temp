@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-28 17:11",
+    "last_updated": "2026-10-28 22:20",
     "articles": [
         {
             "source": {
@@ -692,6 +692,20 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
+            "author": "Webb Wright",
+            "title": "Research Sheds New Light On DeepSeek\u2019s Safety Risks",
+            "description": "Some prominent tech leaders point to open-weight AI as the future. But the technology is far from perfect, and new dangers are being discovered all the time.",
+            "url": "https://gizmodo.com/research-sheds-new-light-on-deepseeks-safety-risks-2000831270",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/DeepSeek-2-1200x675.jpg",
+            "publishedAt": "2026-10-27T17:45:20Z",
+            "content": "Theres a chasm running through the heart of the global tech industry. \r\nOn the one hand there are companies like OpenAI, Anthropic, and Google building proprietary (or closed) AI modelssystems whose \u2026 [+5172 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
             "author": "Tom McKay",
             "title": "Trump Admin Suspends Microsoft From Sponsoring H-1B Visa Holders for Green Cards",
             "description": "Vice President JD Vance announced that Microsoft and several other tech firms can no longer participate in a program to provide legal residency to skilled foreign workers.",
@@ -762,20 +776,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Sean Hollister",
-            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
-            "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason\u2026",
-            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
-            "publishedAt": "2026-10-01T18:52:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to be skeptical.\r\nTheres reason to be skeptical.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+4160 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Cameron Faulkner",
             "title": "Mechanism\u2019s first Switch 2 case is as awesome as I hoped it would be",
             "description": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineu\u2026",
@@ -783,6 +783,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-08T20:14:25Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nA $49 case that protects your console and offers customization via modularity.\r\nA $49 case that protects your console and offers customization via modularity.\r\nb\u2026 [+4751 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
+            "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason\u2026",
+            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
+            "publishedAt": "2026-10-01T18:52:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres reason to be skeptical.\r\nTheres reason to be skeptical.\r\nby\r\nSean HollisterClose\r\nPosts from this author will be added to your daily email digest and your\u2026 [+4160 chars]",
             "ai_score": 5
         },
         {
@@ -993,20 +1007,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-19T14:19:51Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Illinois governor on AI, data centers, privacy, and Trump.\r\nIf you buy something from a link, The Verge may earn a commission. See our ethics statement.\r\nby\r\u2026 [+52377 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "An Israeli firm is sending spyware through online ads, researchers say",
-            "description": "An Israeli ad tech firm worked with spyware companies to infect devices, including at Al Jazeera, by simply showing users an online ad, according to a joint investigation by security researchers at Citizen Lab and Confiant. It's the first time researchers hav\u2026",
-            "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318436/akrales_220309_4977_0258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-15T14:11:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the first time researchers found evidence of a zero-click attack delivered through targeted advertising.\r\nIts the first time researchers found evidence of a \u2026 [+2870 chars]",
             "ai_score": 5
         }
     ]
