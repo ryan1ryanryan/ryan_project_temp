@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-02 17:56",
+    "last_updated": "2026-11-03 00:40",
     "articles": [
         {
             "source": {
@@ -87,20 +87,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The First \u2018Wireless GPU\u2019 Uses Wi-Fi to Headbutt All Those AI Subscriptions",
-            "description": "Just don't imagine the WiCi eGPU will be all that useful for turning your laptop into a gaming powerhouse.",
-            "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg",
-            "publishedAt": "2026-10-05T20:30:00Z",
-            "content": "Many big tech firms are trying to convince you that cloud-based AI needs all that GPU horsepower more than your home PC. At the same time, Ive grown more curious of a few small companies who want to \u2026 [+5157 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -111,6 +97,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/atari.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-10-08T14:16:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 800XL is a faithful recreation of the 8-bit PC with a full keyboard you can use for gaming or coding in BASIC.\r\nThe 800XL is a faithful recreation of the 8-b\u2026 [+2426 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "The First \u2018Wireless GPU\u2019 Uses Wi-Fi to Headbutt All Those AI Subscriptions",
+            "description": "Just don't imagine the WiCi eGPU will be all that useful for turning your laptop into a gaming powerhouse.",
+            "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg",
+            "publishedAt": "2026-10-05T20:30:00Z",
+            "content": "Many big tech firms are trying to convince you that cloud-based AI needs all that GPU horsepower more than your home PC. At the same time, Ive grown more curious of a few small companies who want to \u2026 [+5157 chars]",
             "ai_score": 5
         },
         {
@@ -909,20 +909,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
             "publishedAt": "2026-10-02T16:35:13Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe customizable Revolution 5 Unlimited gamepad features asymmetrical TMR thumbsticks and a built-in settings screen.\r\nThe customizable Revolution 5 Unlimited ga\u2026 [+3324 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox\u2019s first chief operating officer is out after just a few months",
-            "description": "Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the \u2026",
-            "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:39:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHelen Chiang is leaving Microsoft after 21 years.\r\nHelen Chiang is leaving Microsoft after 21 years.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added t\u2026 [+3041 chars]",
             "ai_score": 5
         }
     ]
