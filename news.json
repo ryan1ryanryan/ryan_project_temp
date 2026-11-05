@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-05 11:58",
+    "last_updated": "2026-11-05 19:38",
     "articles": [
         {
             "source": {
@@ -139,6 +139,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/atari.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
             "publishedAt": "2026-10-08T14:16:37Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 800XL is a faithful recreation of the 8-bit PC with a full keyboard you can use for gaming or coding in BASIC.\r\nThe 800XL is a faithful recreation of the 8-b\u2026 [+2426 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox previews two new ways to control cloud games",
+            "description": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well\u2026",
+            "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-11-04T19:01:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is getting a phone controller and new direct Wi-Fi connectivity for the Xbox Nano.\r\nXbox Cloud Gaming is getting a phone controller and new dir\u2026 [+2550 chars]",
             "ai_score": 5
         },
         {
@@ -311,6 +325,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Adi Robertson",
+            "title": "The fight for tech accountability starts now",
+            "description": "When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund to ensure his favor in a new era of gangster tech regulatio\u2026",
+            "url": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-04T15:02:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTrump is still in office, but the era of gangster tech regulation needs to end.\r\nTrump is still in office, but the era of gangster tech regulation needs to end.\r\u2026 [+7859 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -426,13 +454,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
-            "description": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Micro\u2026",
-            "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-21T13:09:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias drivers.\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias dri\u2026 [+2891 chars]",
+            "author": "Jay Peters",
+            "title": "Epic is bringing Fortnite to Linux",
+            "description": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available there just yet, Epic wants to make that a reality. So far, part \u2026",
+            "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-10-14T13:54:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres no timeline on when, but Epic is rebuilding its anti-cheat software so that Fortnite will be playable on Linux.\r\nTheres no timeline on when, but Epic is r\u2026 [+3177 chars]",
             "ai_score": 5
         },
         {
@@ -454,13 +482,27 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Epic is bringing Fortnite to Linux",
-            "description": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available there just yet, Epic wants to make that a reality. So far, part \u2026",
-            "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-10-14T13:54:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres no timeline on when, but Epic is rebuilding its anti-cheat software so that Fortnite will be playable on Linux.\r\nTheres no timeline on when, but Epic is r\u2026 [+3177 chars]",
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+            "description": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Micro\u2026",
+            "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-21T13:09:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias drivers.\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias dri\u2026 [+2891 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield, Jay Peters",
+            "title": "Nintendo is losing a Switch cartridge supplier",
+            "description": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data c\u2026",
+            "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-04T17:03:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNintendo ROM supplier Macronix is leaving the business as demand for its data center memory booms.\r\nNintendo ROM supplier Macronix is leaving the business as dem\u2026 [+2971 chars]",
             "ai_score": 5
         },
         {
@@ -525,12 +567,12 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
-            "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next \u2026",
-            "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-04T01:17:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMD thinks over 80 percent of its revenue will eventually come from its data center business alone.\r\nAMD thinks over 80 percent of its revenue will eventually co\u2026 [+3035 chars]",
+            "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+            "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
+            "publishedAt": "2026-10-30T20:48:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its CEO explains why he needs so much.\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its\u2026 [+2544 chars]",
             "ai_score": 5
         },
         {
@@ -539,12 +581,12 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
-            "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
-            "publishedAt": "2026-10-30T20:48:43Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its CEO explains why he needs so much.\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its\u2026 [+2544 chars]",
+            "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
+            "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next \u2026",
+            "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-04T01:17:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMD thinks over 80 percent of its revenue will eventually come from its data center business alone.\r\nAMD thinks over 80 percent of its revenue will eventually co\u2026 [+3035 chars]",
             "ai_score": 5
         },
         {
@@ -692,20 +734,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Andrew Webster",
-            "title": "Halo\u2019s co-creator wrote a novel about AI taking over the world",
-            "description": "Back in 2019, author Margaret Stohl was handed a manuscript written by Jason Jones, who's best known as the co-creator of sci-fi gaming series Halo and Destiny. The two had worked together at Bungie, and Jones wanted Stohl's opinion on a book he was writing a\u2026",
-            "url": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&crop=0,3.1759359873555,100,93.648128025289",
-            "publishedAt": "2026-10-13T21:20:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHalos co-creator wrote a novel about AI taking over the world\r\nRead a chapter from Jason Jones An Oral History of Humanitys Final Invention, one part of an ambit\u2026 [+21799 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Verge Staff",
             "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
             "description": "It\u2019s a wild time for retro gaming.\u00a0Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the ori\u2026",
@@ -713,6 +741,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25403266/STK465_VIDEO_GAMES_EMULATOR__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-05T21:17:45Z",
             "content": "Its a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to \u2026 [+1574 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Halo\u2019s co-creator wrote a novel about AI taking over the world",
+            "description": "Back in 2019, author Margaret Stohl was handed a manuscript written by Jason Jones, who's best known as the co-creator of sci-fi gaming series Halo and Destiny. The two had worked together at Bungie, and Jones wanted Stohl's opinion on a book he was writing a\u2026",
+            "url": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&crop=0,3.1759359873555,100,93.648128025289",
+            "publishedAt": "2026-10-13T21:20:51Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHalos co-creator wrote a novel about AI taking over the world\r\nRead a chapter from Jason Jones An Oral History of Humanitys Final Invention, one part of an ambit\u2026 [+21799 chars]",
             "ai_score": 5
         },
         {
@@ -755,6 +797,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Shaq-AI-Robot-1200x675.jpg",
             "publishedAt": "2026-10-08T16:00:06Z",
             "content": "You\u2019ve probably seen videos of those AI-powered robots taking on the world of sports. Some of them, such as those at the second annual World Humanoid Robot Games in Beijing, can beat Usain Bolt\u2019s 9.5\u2026 [+3848 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Kate Taylor",
+            "title": "The Lawyer Holding Big Tech Accountable by \u2018Beating the Tar Out of Them\u2019 in Court",
+            "description": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It\u2019s just the beginning.",
+            "url": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
+            "urlToImage": "https://media.wired.com/photos/6aeb6123782bdb7fdf8be849/191:100/w_1280,c_limit/WWF-Placeholder-Mark-Lanier.jpg",
+            "publishedAt": "2026-11-04T18:21:26Z",
+            "content": "As social media giants face allegations that they fail to protect users, attorney Mark Lanier is grappling with the question: What would it actually take to hold companies accountable?\r\n\"I think it j\u2026 [+1773 chars]",
             "ai_score": 5
         },
         {
@@ -832,6 +888,20 @@
                 "id": null,
                 "name": "CNET"
             },
+            "author": "Aashna Gheewalla",
+            "title": "Amazon Deals of the Day: Forget the iPhone Duo, Samsung\u2019s Galaxy Z Fold 8 Is $300 Off",
+            "description": "Plus, score more record-low prices on smart home tech like an indoor security cam and a robot vacuum.",
+            "url": "https://www.cnet.com/home/kitchen-and-household/amazon-deals-of-the-day-2026-11-04/",
+            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/amazon-dod-11_4-1.png",
+            "publishedAt": "2026-11-04T16:41:37Z",
+            "content": "There are tons of items marked down to super-low prices on Amazon right now, especially as we get closer to Black Friday. Score deals on items from tech to home and everything in between. Today, you \u2026 [+2909 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
             "author": "David Lumb",
             "title": "Voicemod\u2019s New Phone Gadget Changes Your \u2018Sonic Identity\u2019 for Mobile Games and Streaming",
             "description": "Clip it to the back of your phone, and it\u2019ll convert your voice on the fly for fun, privacy and accessibility.",
@@ -839,62 +909,6 @@
             "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/VMKey-Pocket-2.jpg",
             "publishedAt": "2026-10-18T09:00:09Z",
             "content": "For years, Voicemod has given people a way to change their voices online, which they\u2019ve done for any number of benign reasons \u2014 for game players with feminine-pitched voices to avoid harassment, for \u2026 [+10193 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "Mechanism\u2019s first Switch 2 case is as awesome as I hoped it would be",
-            "description": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineu\u2026",
-            "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-08T20:14:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA $49 case that protects your console and offers customization via modularity.\r\nA $49 case that protects your console and offers customization via modularity.\r\nb\u2026 [+4751 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Epic\u2019s new games launcher is \u2018vibe coded\u2019",
-            "description": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the \u2026",
-            "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-10-14T13:55:02Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nEpic is making a big push into AI-assisted development, and that approach includes its work on the new, faster launcher.\r\nEpic is making a big push into AI-assis\u2026 [+4195 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Decade-old RAM is making a comeback",
-            "description": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of mem\u2026",
-            "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-09T21:50:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe RAM shortage is bringing back DDR4, with new Intel and AMD CPUs for older RAM, sockets, and chipsets.\r\nThe RAM shortage is bringing back DDR4, with new Intel\u2026 [+3700 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Cameron Faulkner",
-            "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
-            "description": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the origina\u2026",
-            "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T20:56:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nCrkds $99.99 Nitro Deck 2 has some improvements, with Switch and Switch 2 compatibility, but its far from essential.\r\nCrkds $99.99 Nitro Deck 2 has some improvem\u2026 [+4398 chars]",
             "ai_score": 5
         }
     ]
