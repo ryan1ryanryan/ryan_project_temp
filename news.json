@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-04 22:30",
+    "last_updated": "2026-11-05 03:17",
     "articles": [
         {
             "source": {
@@ -339,6 +339,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "The biggest modding site in PC gaming is taking a stance on AI",
+            "description": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generate\u2026",
+            "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-04T00:42:54Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNexus Mods says that authors of newly uploaded mods will have to declare whether AI was used in their work.\r\nNexus Mods says that authors of newly uploaded mods \u2026 [+3652 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -517,6 +531,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
             "publishedAt": "2026-10-30T20:48:43Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its CEO explains why he needs so much.\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its\u2026 [+2544 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
+            "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next \u2026",
+            "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-04T01:17:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMD thinks over 80 percent of its revenue will eventually come from its data center business alone.\r\nAMD thinks over 80 percent of its revenue will eventually co\u2026 [+3035 chars]",
             "ai_score": 5
         },
         {
@@ -867,48 +895,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-23T20:56:36Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nCrkds $99.99 Nitro Deck 2 has some improvements, with Switch and Switch 2 compatibility, but its far from essential.\r\nCrkds $99.99 Nitro Deck 2 has some improvem\u2026 [+4398 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Video game ownership bill introduced in Congress",
-            "description": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game w\u2026",
-            "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&strip=all&crop=0%2C10.746068936881%2C100%2C78.507862126237&w=1200",
-            "publishedAt": "2026-10-18T16:27:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Power To The Players Act would guarantee buying a game means you own it, not license it.\r\nThe Power To The Players Act would guarantee buying a game means yo\u2026 [+2613 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Trump administration says Microsoft \u2018abused\u2019 worker visa program and is cutting off access",
-            "description": "The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. In a press conference, Vice President JD Van\u2026",
-            "url": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-10-08T16:57:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nVice President JD Vance claims an immigration program used by tech companies has become rife with fraud.\r\nVice President JD Vance claims an immigration program u\u2026 [+2373 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox\u2019s first chief operating officer is out after just a few months",
-            "description": "Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the \u2026",
-            "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:39:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHelen Chiang is leaving Microsoft after 21 years.\r\nHelen Chiang is leaving Microsoft after 21 years.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added t\u2026 [+3041 chars]",
             "ai_score": 5
         }
     ]
