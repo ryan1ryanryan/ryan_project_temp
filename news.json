@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-05 19:38",
+    "last_updated": "2026-11-06 00:51",
     "articles": [
         {
             "source": {
@@ -437,20 +437,6 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Louryn Strampe",
-            "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
-            "description": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
-            "url": "https://www.wired.com/review/keurig-alta-brewer/",
-            "urlToImage": "https://media.wired.com/photos/6ae379a84c0c94a306d058dd/191:100/w_1280,c_limit/Keurig%20Alta%20Review%20102026%20top%20art%20SOURCE%20Keurig.jpg",
-            "publishedAt": "2026-10-31T09:35:00Z",
-            "content": "The machine then recommends different drink types (more on that in a second.) When spent, the pucks are collected in a waste bin and can be popped into your home compost or simply tossed in the garba\u2026 [+3134 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -503,6 +489,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-11-04T17:03:32Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNintendo ROM supplier Macronix is leaving the business as demand for its data center memory booms.\r\nNintendo ROM supplier Macronix is leaving the business as dem\u2026 [+2971 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Louryn Strampe",
+            "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+            "description": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
+            "url": "https://www.wired.com/review/keurig-alta-brewer/",
+            "urlToImage": "https://media.wired.com/photos/6ae379a84c0c94a306d058dd/191:100/w_1280,c_limit/Keurig%20Alta%20Review%20102026%20top%20art%20SOURCE%20Keurig.jpg",
+            "publishedAt": "2026-10-31T09:35:00Z",
+            "content": "The machine then recommends different drink types (more on that in a second.) When spent, the pucks are collected in a waste bin and can be popped into your home compost or simply tossed in the garba\u2026 [+3134 chars]",
             "ai_score": 5
         },
         {
@@ -860,6 +860,20 @@
                 "id": null,
                 "name": "Gizmodo.com"
             },
+            "author": "Matt Novak",
+            "title": "MAGA Tech VCs Whine Like Babies After Democratic Sweep",
+            "description": "Folks like Elon Musk moved to Texas when it was Republican controlled. It's now a blue state.",
+            "url": "https://gizmodo.com/maga-tech-vcs-whine-like-babies-after-democratic-sweep-2000834927",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/clean-house-white-house-1200x675.jpg",
+            "publishedAt": "2026-11-04T20:05:14Z",
+            "content": "Democrats across the country won decisively on Tuesday in a midterm election for the history books. Deep red South Carolina, North Carolina, Iowa, Ohio, and Kansas all saw shocking wins for Democrats\u2026 [+7031 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
             "author": "Tom McKay",
             "title": "Trump Admin Suspends Microsoft From Sponsoring H-1B Visa Holders for Green Cards",
             "description": "Vice President JD Vance announced that Microsoft and several other tech firms can no longer participate in a program to provide legal residency to skilled foreign workers.",
@@ -881,34 +895,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/10/DeepSeek-2-1200x675.jpg",
             "publishedAt": "2026-10-27T17:45:20Z",
             "content": "Theres a chasm running through the heart of the global tech industry. \r\nOn the one hand there are companies like OpenAI, Anthropic, and Google building proprietary (or closed) AI modelssystems whose \u2026 [+5172 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Aashna Gheewalla",
-            "title": "Amazon Deals of the Day: Forget the iPhone Duo, Samsung\u2019s Galaxy Z Fold 8 Is $300 Off",
-            "description": "Plus, score more record-low prices on smart home tech like an indoor security cam and a robot vacuum.",
-            "url": "https://www.cnet.com/home/kitchen-and-household/amazon-deals-of-the-day-2026-11-04/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/amazon-dod-11_4-1.png",
-            "publishedAt": "2026-11-04T16:41:37Z",
-            "content": "There are tons of items marked down to super-low prices on Amazon right now, especially as we get closer to Black Friday. Score deals on items from tech to home and everything in between. Today, you \u2026 [+2909 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "David Lumb",
-            "title": "Voicemod\u2019s New Phone Gadget Changes Your \u2018Sonic Identity\u2019 for Mobile Games and Streaming",
-            "description": "Clip it to the back of your phone, and it\u2019ll convert your voice on the fly for fun, privacy and accessibility.",
-            "url": "https://www.cnet.com/tech/mobile/voicemod-phone-gadget-changes-sonic-identity-streaming-mobile-games/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/VMKey-Pocket-2.jpg",
-            "publishedAt": "2026-10-18T09:00:09Z",
-            "content": "For years, Voicemod has given people a way to change their voices online, which they\u2019ve done for any number of benign reasons \u2014 for game players with feminine-pitched voices to avoid harassment, for \u2026 [+10193 chars]",
             "ai_score": 5
         }
     ]
