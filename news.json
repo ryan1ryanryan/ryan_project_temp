@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-11 01:05",
+    "last_updated": "2026-11-11 08:58",
     "articles": [
         {
             "source": {
@@ -703,6 +703,20 @@
         },
         {
             "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Meghan makes first public appearance since father's arrest",
+            "description": "The Duchess of Sussex has pulled out of giving a speech with Prince Harry at the event promoting children's online safety.",
+            "url": "https://www.bbc.co.uk/news/articles/cq3989418n78o",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c45a/live/4ac4fbf0-dcde-11f1-93e1-3b657b665bcf.jpg",
+            "publishedAt": "2026-11-10T08:01:48Z",
+            "content": "At the European Parliament in Brussels on Tuesday, Harry and Meghan will unveil the Lost Screen Memorial which has moved to Europe after being launched in New York last year.\r\nSupported by their Arch\u2026 [+1766 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": "wired",
                 "name": "Wired"
             },
@@ -797,20 +811,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/10/DeepSeek-2-1200x675.jpg",
             "publishedAt": "2026-10-27T17:45:20Z",
             "content": "Theres a chasm running through the heart of the global tech industry. \r\nOn the one hand there are companies like OpenAI, Anthropic, and Google building proprietary (or closed) AI modelssystems whose \u2026 [+5172 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Aashna Gheewalla",
-            "title": "Amazon Deals of the Day: Forget the iPhone Duo, Samsung\u2019s Galaxy Z Fold 8 Is $300 Off",
-            "description": "Plus, score more record-low prices on smart home tech like an indoor security cam and a robot vacuum.",
-            "url": "https://www.cnet.com/home/kitchen-and-household/amazon-deals-of-the-day-2026-11-04/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/amazon-dod-11_4-1.png",
-            "publishedAt": "2026-11-04T16:41:37Z",
-            "content": "There are tons of items marked down to super-low prices on Amazon right now, especially as we get closer to Black Friday. Score deals on items from tech to home and everything in between. Today, you \u2026 [+2909 chars]",
             "ai_score": 5
         }
     ]
