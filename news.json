@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-11 08:58",
+    "last_updated": "2026-11-11 16:58",
     "articles": [
         {
             "source": {
@@ -83,6 +83,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/11/RedMagic-Pro-12-1200x675.jpg",
             "publishedAt": "2026-11-03T16:10:27Z",
             "content": "I enjoy a good gamer basement as much as the next guy. I\u2019m quite sympathetic to the benefits of RGB in a gaming setup: your space, your games, your color scheme. I don\u2019t mind reviewing the occasional\u2026 [+3280 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+            "description": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on PCs, the web, Xbox consoles, and even TVs, it appears to be\u2026",
+            "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gta6.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-11-10T14:37:09Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nRockstar Games confirms GTA VI will run at 30fps across all consoles.\r\nRockstar Games confirms GTA VI will run at 30fps across all consoles.\r\nby\r\nTom WarrenClose\u2026 [+3420 chars]",
             "ai_score": 5
         },
         {
@@ -797,20 +811,6 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/11/clean-house-white-house-1200x675.jpg",
             "publishedAt": "2026-11-04T20:05:14Z",
             "content": "Democrats across the country won decisively on Tuesday in a midterm election for the history books. Deep red South Carolina, North Carolina, Iowa, Ohio, and Kansas all saw shocking wins for Democrats\u2026 [+7031 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "Research Sheds New Light On DeepSeek\u2019s Safety Risks",
-            "description": "Some prominent tech leaders point to open-weight AI as the future. But the technology is far from perfect, and new dangers are being discovered all the time.",
-            "url": "https://gizmodo.com/research-sheds-new-light-on-deepseeks-safety-risks-2000831270",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/DeepSeek-2-1200x675.jpg",
-            "publishedAt": "2026-10-27T17:45:20Z",
-            "content": "Theres a chasm running through the heart of the global tech industry. \r\nOn the one hand there are companies like OpenAI, Anthropic, and Google building proprietary (or closed) AI modelssystems whose \u2026 [+5172 chars]",
             "ai_score": 5
         }
     ]
