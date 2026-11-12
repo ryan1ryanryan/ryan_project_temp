@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-12 15:04",
+    "last_updated": "2026-11-12 21:52",
     "articles": [
         {
             "source": {
@@ -535,20 +535,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "Tech is about to get hammered in Congress",
-            "description": "Tech CEO hearings. Tougher AI and data center guardrails. Investigations of Elon Musk's DOGE cuts. The gates are open for Democrats once they regain control of committee gavels come January after a historic win of majorities in both the House and Senate on Tu\u2026",
-            "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-05T14:11:27Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDemocrats have promised to drag CEOs to testify under oath and investigate corporate influence.\r\nDemocrats have promised to drag CEOs to testify under oath and i\u2026 [+10631 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -559,6 +545,20 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Gizmodo_BestGadgets_OCT2026-1-1200x675.jpg",
             "publishedAt": "2026-10-31T11:00:23Z",
             "content": "Just when we thought the busiest tech announcement time of the year was drawing to a close, pretty much every major tech company decided to spend October adding even more to the market. Is the parade\u2026 [+6161 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Tech is about to get hammered in Congress",
+            "description": "Tech CEO hearings. Tougher AI and data center guardrails. Investigations of Elon Musk's DOGE cuts. The gates are open for Democrats once they regain control of committee gavels come January after a historic win of majorities in both the House and Senate on Tu\u2026",
+            "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-05T14:11:27Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDemocrats have promised to drag CEOs to testify under oath and investigate corporate influence.\r\nDemocrats have promised to drag CEOs to testify under oath and i\u2026 [+10631 chars]",
             "ai_score": 5
         },
         {
