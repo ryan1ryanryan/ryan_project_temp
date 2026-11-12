@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-11 23:23",
+    "last_updated": "2026-11-12 06:02",
     "articles": [
         {
             "source": {
@@ -251,6 +251,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Delta-2.0-lineup-update.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-22T18:21:36Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nDelta 2.0 adds support for the iPhone Duo, Sega Genesis games, and more.\r\nDelta 2.0 adds support for the iPhone Duo, Sega Genesis games, and more.\r\nby\r\nJess Weat\u2026 [+4162 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Sony\u2019s latest Pulse wireless headset packs planar magnetic drivers at a good price",
+            "description": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Puls\u2026",
+            "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-10T23:43:37Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA comfortable, minimalist option that supports concurrent low-latency audio and Bluetooth.\r\nA comfortable, minimalist option that supports concurrent low-latency\u2026 [+4244 chars]",
             "ai_score": 5
         },
         {
@@ -783,20 +797,6 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-10-15T16:39:04Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe system will be similar to Teslas Full Self-Driving in that it will enable hands-free, point-to-point partially automated driving on local roads.\r\nThe system \u2026 [+4967 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean Hollister",
-            "title": "Foreign gadget bans: all the news about the FCC\u2019s clampdown on Chinese tech",
-            "description": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They\u2019re the first consumer gadgets that are facing de facto import bans because of the US government\u2019s xenophobic stance \u2014 and they mi\u2026",
-            "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-            "publishedAt": "2026-10-28T19:37:31Z",
-            "content": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. Theyre the first consumer gadgets that are facing de facto import bans bec\u2026 [+11923 chars]",
             "ai_score": 5
         }
     ]
