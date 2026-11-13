@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-12 21:52",
+    "last_updated": "2026-11-13 02:29",
     "articles": [
         {
             "source": {
@@ -521,20 +521,6 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-            "description": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-11T04:53:46Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLearning to use local AI is exciting, overwhelming, and frustrating\r\nIts like using cloud-based AI tools, but the privacy makes it more appealing.\r\nby\r\nAntonio G\u2026 [+8553 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -797,6 +783,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
             "publishedAt": "2026-10-28T19:37:31Z",
             "content": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. Theyre the first consumer gadgets that are facing de facto import bans bec\u2026 [+11923 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Volvo will use Nvidia\u2019s tech for hands-free, point-to-point driving",
+            "description": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving s\u2026",
+            "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-15T16:39:04Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe system will be similar to Teslas Full Self-Driving in that it will enable hands-free, point-to-point partially automated driving on local roads.\r\nThe system \u2026 [+4967 chars]",
             "ai_score": 5
         }
     ]
