@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-13 18:28",
+    "last_updated": "2026-11-14 00:16",
     "articles": [
         {
             "source": {
@@ -353,6 +353,20 @@
         },
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Apple should have made the MacBook logo RGB",
+            "description": "When Apple CEO John Ternus announced the first touchscreen Mac last month, the biggest reaction in the room wasn't for the PROLED MacBook Pro's OLED touchscreen or the thinner and lighter chassis; it was for the illuminated lid logo. It's a throwback to the l\u2026",
+            "url": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268868_Apple_added_LEDs_to_its_logo_on_the_MacBook_Pro_and_now_I_want_RGB_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-12T23:21:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nApple should have made the MacBook logo RGB\r\nThe PROLED MacBook Pros logo is lit with boring white LEDs. Missed opportunity.\r\nby\r\nAntonio G. Di BenedettoClose\r\nP\u2026 [+4563 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -440,13 +454,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
-            "description": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Micro\u2026",
-            "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-21T13:09:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias drivers.\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias dri\u2026 [+2891 chars]",
+            "author": "Jay Peters",
+            "title": "Epic is bringing Fortnite to Linux",
+            "description": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available there just yet, Epic wants to make that a reality. So far, part \u2026",
+            "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-10-14T13:54:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres no timeline on when, but Epic is rebuilding its anti-cheat software so that Fortnite will be playable on Linux.\r\nTheres no timeline on when, but Epic is r\u2026 [+3177 chars]",
             "ai_score": 5
         },
         {
@@ -468,13 +482,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Epic is bringing Fortnite to Linux",
-            "description": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available there just yet, Epic wants to make that a reality. So far, part \u2026",
-            "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-10-14T13:54:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres no timeline on when, but Epic is rebuilding its anti-cheat software so that Fortnite will be playable on Linux.\r\nTheres no timeline on when, but Epic is r\u2026 [+3177 chars]",
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+            "description": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Micro\u2026",
+            "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-21T13:09:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias drivers.\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias dri\u2026 [+2891 chars]",
             "ai_score": 5
         },
         {
@@ -489,6 +503,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-11-04T17:03:32Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nNintendo ROM supplier Macronix is leaving the business as demand for its data center memory booms.\r\nNintendo ROM supplier Macronix is leaving the business as dem\u2026 [+2971 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "Silicon Valley Is Still Defending Jensen Huang",
+            "description": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+            "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+            "urlToImage": "https://media.wired.com/photos/6af5104da36e580e1eb299b6/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Waiting-for-Jensen-Scandal-to-Blow-Over-Business.jpg",
+            "publishedAt": "2026-11-12T22:29:43Z",
+            "content": "News of Jensen Huangs affair with an alleged asset of Chinas Ministry of State Security was first met with a muted response in Silicon Valleyincluding inside Nvidia itself. Huangs resignation, after \u2026 [+2311 chars]",
             "ai_score": 5
         },
         {
@@ -595,12 +623,12 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
-            "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next \u2026",
-            "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-04T01:17:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMD thinks over 80 percent of its revenue will eventually come from its data center business alone.\r\nAMD thinks over 80 percent of its revenue will eventually co\u2026 [+3035 chars]",
+            "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+            "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
+            "publishedAt": "2026-10-30T20:48:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its CEO explains why he needs so much.\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its\u2026 [+2544 chars]",
             "ai_score": 5
         },
         {
@@ -609,12 +637,12 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
-            "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
-            "publishedAt": "2026-10-30T20:48:43Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its CEO explains why he needs so much.\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its\u2026 [+2544 chars]",
+            "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
+            "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next \u2026",
+            "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-04T01:17:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMD thinks over 80 percent of its revenue will eventually come from its data center business alone.\r\nAMD thinks over 80 percent of its revenue will eventually co\u2026 [+3035 chars]",
             "ai_score": 5
         },
         {
@@ -629,6 +657,34 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/playstation.jpg?quality=90&strip=all&crop=0%2C10.716643462687%2C100%2C78.566713074625&w=1200",
             "publishedAt": "2026-10-28T15:32:39Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Prism Collection will be available for preorder starting in November.\r\nThe new Prism Collection will be available for preorder starting in November.\r\nby\r\u2026 [+2512 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox announces Wolfenstein 3",
+            "description": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that t\u2026",
+            "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-11-13T00:11:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with a brief tease.\r\nXbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with\u2026 [+2265 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+            "description": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"\u2026",
+            "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/4.-Guide-right.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-11-12T22:07:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders get to test the new features today.\r\nXbox Insiders get to test the new features today.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added t\u2026 [+2236 chars]",
             "ai_score": 5
         },
         {
@@ -769,34 +825,6 @@
             "urlToImage": "https://media.wired.com/photos/6aeb6123782bdb7fdf8be849/191:100/w_1280,c_limit/WWF-Placeholder-Mark-Lanier.jpg",
             "publishedAt": "2026-11-04T18:21:26Z",
             "content": "As social media giants face allegations that they fail to protect users, attorney Mark Lanier is grappling with the question: What would it actually take to hold companies accountable?\r\n\"I think it j\u2026 [+1773 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Brad Bourque",
-            "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-            "description": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of\u2026",
-            "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xbox-game-pass-ultimate-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-09T18:35:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also spotted discounts on a capable Ryzen 7 CPU, the Lego Pok\u00e9mon Pikachu set, and a Bose soundbar.\r\nWe also spotted discounts on a capable Ryzen 7 CPU, the L\u2026 [+4125 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Where is Windows 12?",
-            "description": "While I wasn't expecting Microsoft to announce Windows 12 during its RTX Spark launch event last month, more than a few people were hoping to see something truly new. Between the growing frustration with Windows 11 and the muted response to Copilot Plus PCs, \u2026",
-            "url": "https://www.theverge.com/tech/1027621/where-is-windows-12-notepad",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Windows-FY27-CONS-C2-Wallpaper-EverydayProductivity.png?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200",
-            "publishedAt": "2026-11-05T16:29:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft seems happy to stick with Windows 11, for now.\r\nMicrosoft seems happy to stick with Windows 11, for now.\r\nby\r\nTom WarrenClose\r\nPosts from this author w\u2026 [+12884 chars]",
             "ai_score": 5
         }
     ]
