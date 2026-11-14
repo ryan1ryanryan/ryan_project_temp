@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-14 07:27",
+    "last_updated": "2026-11-14 14:51",
     "articles": [
         {
             "source": {
@@ -384,20 +384,6 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "The biggest modding site in PC gaming is taking a stance on AI",
-            "description": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generate\u2026",
-            "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-04T00:42:54Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNexus Mods says that authors of newly uploaded mods will have to declare whether AI was used in their work.\r\nNexus Mods says that authors of newly uploaded mods \u2026 [+3652 chars]",
-            "ai_score": 5
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
             "author": "Brad Bourque",
             "title": "MSI\u2019s refurbished QD-OLED gaming monitor is on sale for under $300",
             "description": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI\u2019s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper\u2026",
@@ -405,6 +391,20 @@
             "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/msi-mag-272qp-x24-product.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-11-09T21:43:41Z",
             "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 1440p, 240Hz panel offers a potentially sizable upgrade from older IPS panels.\r\nThe 1440p, 240Hz panel offers a potentially sizable upgrade from older IPS pa\u2026 [+2074 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "The biggest modding site in PC gaming is taking a stance on AI",
+            "description": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generate\u2026",
+            "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-04T00:42:54Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNexus Mods says that authors of newly uploaded mods will have to declare whether AI was used in their work.\r\nNexus Mods says that authors of newly uploaded mods \u2026 [+3652 chars]",
             "ai_score": 5
         },
         {
@@ -454,13 +454,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Jay Peters",
-            "title": "Epic is bringing Fortnite to Linux",
-            "description": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available there just yet, Epic wants to make that a reality. So far, part \u2026",
-            "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-10-14T13:54:58Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres no timeline on when, but Epic is rebuilding its anti-cheat software so that Fortnite will be playable on Linux.\r\nTheres no timeline on when, but Epic is r\u2026 [+3177 chars]",
+            "author": "Tom Warren",
+            "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+            "description": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Micro\u2026",
+            "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-21T13:09:26Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias drivers.\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias dri\u2026 [+2891 chars]",
             "ai_score": 5
         },
         {
@@ -482,13 +482,13 @@
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Tom Warren",
-            "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
-            "description": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Micro\u2026",
-            "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-21T13:09:26Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias drivers.\r\nMicrosofts new Advanced Shader Delivery technology is now part of Nvidias dri\u2026 [+2891 chars]",
+            "author": "Jay Peters",
+            "title": "Epic is bringing Fortnite to Linux",
+            "description": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available there just yet, Epic wants to make that a reality. So far, part \u2026",
+            "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-10-14T13:54:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres no timeline on when, but Epic is rebuilding its anti-cheat software so that Fortnite will be playable on Linux.\r\nTheres no timeline on when, but Epic is r\u2026 [+3177 chars]",
             "ai_score": 5
         },
         {
@@ -531,6 +531,20 @@
             "urlToImage": "https://media.wired.com/photos/6ae379a84c0c94a306d058dd/191:100/w_1280,c_limit/Keurig%20Alta%20Review%20102026%20top%20art%20SOURCE%20Keurig.jpg",
             "publishedAt": "2026-10-31T09:35:00Z",
             "content": "The machine then recommends different drink types (more on that in a second.) When spent, the pucks are collected in a waste bin and can be popped into your home compost or simply tossed in the garba\u2026 [+3134 chars]",
+            "ai_score": 5
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ben Shimkus",
+            "title": "GTA 6 has Logitech telling its 7,000+ employees to log off and game for a day",
+            "description": "The tech company is handing its employees an extra paid day off as \"Grand Theft Auto 6\" comes out. It argues that video games makes workers better.",
+            "url": "https://www.businessinsider.com/gta-6-logitech-employee-gamers-pto-2026-11#article",
+            "urlToImage": "https://i.insider.com/6af5f332cbe2120470734cdb?width=1200&format=jpeg",
+            "publishedAt": "2026-11-13T10:03:01Z",
+            "content": "Logitech is offering employees a day off to play \"GTA 6.\" Or \"The Legend of Zelda.\" Or \"World of Warcraft.\"Smith Collection/Gado/Getty Images, Rockstar Games\r\n<ul><li>A lot of big video games are com\u2026 [+3005 chars]",
             "ai_score": 5
         },
         {
@@ -623,12 +637,12 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
-            "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
-            "publishedAt": "2026-10-30T20:48:43Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its CEO explains why he needs so much.\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its\u2026 [+2544 chars]",
+            "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
+            "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next \u2026",
+            "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-04T01:17:17Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMD thinks over 80 percent of its revenue will eventually come from its data center business alone.\r\nAMD thinks over 80 percent of its revenue will eventually co\u2026 [+3035 chars]",
             "ai_score": 5
         },
         {
@@ -637,12 +651,12 @@
                 "name": "The Verge"
             },
             "author": "Stevie Bonifield",
-            "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
-            "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next \u2026",
-            "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-04T01:17:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAMD thinks over 80 percent of its revenue will eventually come from its data center business alone.\r\nAMD thinks over 80 percent of its revenue will eventually co\u2026 [+3035 chars]",
+            "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+            "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented o\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
+            "publishedAt": "2026-10-30T20:48:43Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its CEO explains why he needs so much.\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its\u2026 [+2544 chars]",
             "ai_score": 5
         },
         {
@@ -665,12 +679,12 @@
                 "name": "The Verge"
             },
             "author": "Tom Warren",
-            "title": "Xbox announces Wolfenstein 3",
-            "description": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that t\u2026",
-            "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-13T00:11:44Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with a brief tease.\r\nXbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with\u2026 [+2265 chars]",
+            "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+            "description": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"\u2026",
+            "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/4.-Guide-right.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-11-12T22:07:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders get to test the new features today.\r\nXbox Insiders get to test the new features today.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added t\u2026 [+2236 chars]",
             "ai_score": 5
         },
         {
@@ -679,12 +693,12 @@
                 "name": "The Verge"
             },
             "author": "Tom Warren",
-            "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-            "description": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"\u2026",
-            "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/4.-Guide-right.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-12T22:07:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders get to test the new features today.\r\nXbox Insiders get to test the new features today.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be added t\u2026 [+2236 chars]",
+            "title": "Xbox announces Wolfenstein 3",
+            "description": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that t\u2026",
+            "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-11-13T00:11:44Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with a brief tease.\r\nXbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with\u2026 [+2265 chars]",
             "ai_score": 5
         },
         {
